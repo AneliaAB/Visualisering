@@ -1,0 +1,177 @@
+,id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at,season_id
+0,78,1,462,480,male,Brighton & Hove Albion,BHA,https://cdn.sportmonks.com/images/soccer/teams/14/78.png,1901,domestic,False,2024-10-06 15:30:00,19734
+1,11,1,462,485,male,Fulham,FUL,https://cdn.sportmonks.com/images/soccer/teams/11/11.png,1879,domestic,False,2024-10-05 14:00:00,19734
+2,8,1,462,230,male,Liverpool,LIV,https://cdn.sportmonks.com/images/soccer/teams/8/8.png,1892,domestic,False,2024-10-05 11:30:00,19734
+3,19,1,462,204,male,Arsenal,ARS,https://cdn.sportmonks.com/images/soccer/teams/19/19.png,1886,domestic,False,2024-10-05 14:00:00,19734
+4,42,1,462,117,male,Leicester City,LEI,https://cdn.sportmonks.com/images/soccer/teams/10/42.png,1884,domestic,False,2024-10-05 14:00:00,19734
+5,29,1,462,492,male,Wolverhampton Wanderers,WOL,https://cdn.sportmonks.com/images/soccer/teams/29/29.png,1877,domestic,False,2024-10-05 14:00:00,19734
+6,71,1,462,488,male,Leeds United,LEE,https://cdn.sportmonks.com/images/soccer/teams/7/71.png,1919,domestic,False,2024-10-04 19:00:00,19734
+7,51,1,462,201,male,Crystal Palace,CRY,https://cdn.sportmonks.com/images/soccer/teams/19/51.png,1905,domestic,False,2024-10-05 11:30:00,19734
+8,14,1,462,206,male,Manchester United,MUN,https://cdn.sportmonks.com/images/soccer/teams/14/14.png,1878,domestic,False,2024-10-06 13:00:00,19734
+9,236,1,462,338817,male,Brentford,BRE,https://cdn.sportmonks.com/images/soccer/teams/12/236.png,1889,domestic,False,2024-10-05 14:00:00,19734
+10,52,1,462,146,male,AFC Bournemouth,BOU,https://cdn.sportmonks.com/images/soccer/teams/20/52.png,1899,domestic,False,2024-10-05 14:00:00,19734
+11,20,1,462,449,male,Newcastle United,NEW,https://cdn.sportmonks.com/images/soccer/teams/20/20.png,1892,domestic,False,2024-10-05 16:30:00,19734
+12,63,1,462,542,male,Nottingham Forest,NFO,https://cdn.sportmonks.com/images/soccer/teams/31/63.png,1865,domestic,False,2024-10-06 13:00:00,19734
+13,13,1,462,12,male,Everton,EVE,https://cdn.sportmonks.com/images/soccer/teams/13/13.png,1878,domestic,False,2024-10-05 16:30:00,19734
+14,9,1,462,151,male,Manchester City,MCI,https://cdn.sportmonks.com/images/soccer/teams/9/9.png,1880,domestic,False,2024-10-05 14:00:00,19734
+15,1,1,462,214,male,West Ham United,WHU,https://cdn.sportmonks.com/images/soccer/teams/1/1.png,1895,domestic,False,2024-10-05 14:00:00,19734
+16,65,1,462,167,male,Southampton,SOU,https://cdn.sportmonks.com/images/soccer/teams/1/65.png,1885,domestic,False,2024-10-05 14:00:00,19734
+17,18,1,462,321614,male,Chelsea,CHE,https://cdn.sportmonks.com/images/soccer/teams/18/18.png,1905,domestic,False,2024-10-06 13:00:00,19734
+18,15,1,462,5,male,Aston Villa,AVL,https://cdn.sportmonks.com/images/soccer/teams/15/15.png,1874,domestic,False,2024-10-06 13:00:00,19734
+19,6,1,462,281313,male,Tottenham Hotspur,TOT,https://cdn.sportmonks.com/images/soccer/teams/6/6.png,1882,domestic,False,2024-10-06 15:30:00,19734
+20,3317,1,11,1944,male,Hertha BSC,BCS,https://cdn.sportmonks.com/images/soccer/teams/21/3317.png,1892,domestic,False,2024-10-05 18:30:00,19744
+21,1079,1,11,420,male,FC Union Berlin,FCU,https://cdn.sportmonks.com/images/soccer/teams/23/1079.png,1966,domestic,False,2024-10-05 13:30:00,19744
+22,510,1,11,80,male,VfL Wolfsburg,WOB,https://cdn.sportmonks.com/images/soccer/teams/30/510.png,1945,domestic,False,2024-10-05 13:30:00,19744
+23,3321,1,11,1947,male,Bayer 04 Leverkusen,B04,https://cdn.sportmonks.com/images/soccer/teams/25/3321.png,1904,domestic,False,2024-10-05 13:30:00,19744
+24,3543,1,11,2063,male,SC Freiburg,SCF,https://cdn.sportmonks.com/images/soccer/teams/23/3543.png,1904,domestic,False,2024-10-05 13:30:00,19744
+25,68,1,11,2166,male,Borussia Dortmund,BVB,https://cdn.sportmonks.com/images/soccer/teams/4/68.png,1909,domestic,False,2024-10-05 13:30:00,19744
+26,82,1,11,2172,male,Werder Bremen,SVW,https://cdn.sportmonks.com/images/soccer/teams/18/82.png,1899,domestic,False,2024-10-05 13:30:00,19744
+27,3320,1,11,1946,male,FC Köln,KOE,https://cdn.sportmonks.com/images/soccer/teams/24/3320.png,1948,domestic,False,2024-10-05 11:00:00,19744
+28,67,1,11,2138,male,Schalke 04,S04,https://cdn.sportmonks.com/images/soccer/teams/3/67.png,1904,domestic,False,2024-10-05 18:30:00,19744
+29,277,1,11,2171,male,RB Leipzig,RBL,https://cdn.sportmonks.com/images/soccer/teams/21/277.png,2009,domestic,False,2024-10-06 13:30:00,19744
+30,90,1,11,2165,male,FC Augsburg,FCA,https://cdn.sportmonks.com/images/soccer/teams/26/90.png,1907,domestic,False,2024-10-04 18:30:00,19744
+31,683,1,11,180,male,Borussia Mönchengladbach,BMG,https://cdn.sportmonks.com/images/soccer/teams/11/683.png,1900,domestic,False,2024-10-04 18:30:00,19744
+32,3319,1,11,1945,male,VfB Stuttgart,VFB,https://cdn.sportmonks.com/images/soccer/teams/23/3319.png,1893,domestic,False,2024-10-06 17:30:00,19744
+33,999,1,11,378,male,VfL Bochum 1848,BOC,https://cdn.sportmonks.com/images/soccer/teams/7/999.png,1848,domestic,False,2024-10-05 13:30:00,19744
+34,2726,1,11,1618,male,TSG Hoffenheim,TSG,https://cdn.sportmonks.com/images/soccer/teams/6/2726.png,1899,domestic,False,2024-10-06 17:30:00,19744
+35,366,1,11,2169,male,Eintracht Frankfurt,SGE,https://cdn.sportmonks.com/images/soccer/teams/14/366.png,1899,domestic,False,2024-10-06 15:30:00,19744
+36,794,1,11,2103,male,FSV Mainz 05,M05,https://cdn.sportmonks.com/images/soccer/teams/26/794.png,1905,domestic,False,2024-10-05 16:30:00,19744
+37,503,1,11,53,male,FC Bayern München,FCB,https://cdn.sportmonks.com/images/soccer/teams/23/503.png,1900,domestic,False,2024-10-06 15:30:00,19744
+38,3477,1,32,2028,male,Villarreal,VIL,https://cdn.sportmonks.com/images/soccer/teams/21/3477.png,1923,domestic,False,2024-10-05 19:00:00,19799
+39,3468,1,32,2020,male,Real Madrid,RMA,https://cdn.sportmonks.com/images/soccer/teams/12/3468.png,1902,domestic,False,2024-10-05 19:00:00,19799
+40,485,1,32,68,male,Real Betis,BET,https://cdn.sportmonks.com/images/soccer/teams/5/485.png,1907,domestic,False,2024-10-06 16:30:00,19799
+41,36,1,32,9239,male,Celta de Vigo,CEL,https://cdn.sportmonks.com/images/soccer/teams/4/36.png,1923,domestic,False,2024-10-05 16:30:00,19799
+42,1099,1,32,430,male,Elche,ELC,https://cdn.sportmonks.com/images/soccer/teams/11/1099.png,1923,domestic,False,2024-10-05 12:00:00,19799
+43,361,1,32,9323,male,Real Valladolid,REV,https://cdn.sportmonks.com/images/soccer/teams/9/361.png,1928,domestic,False,2024-10-05 16:30:00,19799
+44,6827,1,32,4473,male,Cádiz,CAD,https://cdn.sportmonks.com/images/soccer/teams/11/6827.png,1910,domestic,False,2024-10-12 16:30:00,19799
+45,645,1,32,343495,male,Mallorca,MLL,https://cdn.sportmonks.com/images/soccer/teams/5/645.png,1916,domestic,False,2024-10-05 12:00:00,19799
+46,231,1,32,9345,male,Girona,GIR,https://cdn.sportmonks.com/images/soccer/teams/7/231.png,1930,domestic,False,2024-10-06 12:00:00,19799
+47,676,1,32,177,male,Sevilla,SEV,https://cdn.sportmonks.com/images/soccer/teams/4/676.png,1890,domestic,False,2024-10-06 16:30:00,19799
+48,83,1,32,300228,male,FC Barcelona,BAR,https://cdn.sportmonks.com/images/soccer/teams/19/83.png,1899,domestic,False,2024-10-06 14:15:00,19799
+49,594,1,32,133,male,Real Sociedad,RSO,https://cdn.sportmonks.com/images/soccer/teams/18/594.png,1909,domestic,False,2024-10-06 19:00:00,19799
+50,214,1,32,9240,male,Valencia,VAL,https://cdn.sportmonks.com/images/soccer/teams/22/214.png,1919,domestic,False,2024-10-04 19:00:00,19799
+51,7980,1,32,140808,male,Atlético Madrid,ATM,https://cdn.sportmonks.com/images/soccer/teams/12/7980.png,1903,domestic,False,2024-10-06 19:00:00,19799
+52,618,1,32,9180,male,Almería,ALM,https://cdn.sportmonks.com/images/soccer/teams/10/618.png,1989,domestic,False,2024-10-05 16:30:00,19799
+53,106,1,32,9351,male,Getafe,GET,https://cdn.sportmonks.com/images/soccer/teams/10/106.png,1983,domestic,False,2024-10-05 14:15:00,19799
+54,13258,1,32,9162,male,Athletic Club,ATH,https://cdn.sportmonks.com/images/soccer/teams/10/13258.png,1898,domestic,False,2024-10-06 12:00:00,19799
+55,528,1,32,89,male,Espanyol,ESY,https://cdn.sportmonks.com/images/soccer/teams/16/528.png,1900,domestic,False,2024-10-05 12:00:00,19799
+56,459,1,32,56,male,Osasuna,OSA,https://cdn.sportmonks.com/images/soccer/teams/11/459.png,1920,domestic,False,2024-10-05 14:15:00,19799
+57,377,1,32,304396,male,Rayo Vallecano,RAY,https://cdn.sportmonks.com/images/soccer/teams/25/377.png,1924,domestic,False,2024-10-05 16:30:00,19799
+58,10722,1,251,7129,male,Cremonese,USC,https://cdn.sportmonks.com/images/soccer/teams/2/10722.png,1903,domestic,False,2024-10-06 13:00:00,19806
+59,2930,1,251,1721,male,Inter,INT,https://cdn.sportmonks.com/images/soccer/teams/18/2930.png,1908,domestic,False,2024-10-05 18:45:00,19806
+60,397,1,251,7220,male,Empoli,EMP,https://cdn.sportmonks.com/images/soccer/teams/13/397.png,1920,domestic,False,2024-10-06 13:00:00,19806
+61,522,1,251,86,male,Sampdoria,SAM,https://cdn.sportmonks.com/images/soccer/teams/10/522.png,1946,domestic,False,2024-10-04 18:30:00,19806
+62,1123,1,251,443,male,Hellas Verona,VER,https://cdn.sportmonks.com/images/soccer/teams/3/1123.png,1903,domestic,False,2024-10-04 18:45:00,19806
+63,625,1,251,118500,male,Juventus,JUV,https://cdn.sportmonks.com/images/soccer/teams/17/625.png,1897,domestic,False,2024-10-06 10:30:00,19806
+64,345,1,251,7305,male,Spezia,SPE,https://cdn.sportmonks.com/images/soccer/teams/25/345.png,1906,domestic,False,2024-10-05 13:00:00,19806
+65,1628,1,251,787,male,Monza,MON,https://cdn.sportmonks.com/images/soccer/teams/28/1628.png,1912,domestic,False,2024-10-06 16:00:00,19806
+66,708,1,251,193,male,Atalanta,ATA,https://cdn.sportmonks.com/images/soccer/teams/4/708.png,1907,domestic,False,2024-10-05 16:00:00,19806
+67,346,1,251,7224,male,Udinese,UDI,https://cdn.sportmonks.com/images/soccer/teams/26/346.png,1896,domestic,False,2024-10-05 13:00:00,19806
+68,7743,1,251,5026,male,Salernitana,SAL,https://cdn.sportmonks.com/images/soccer/teams/31/7743.png,2011,domestic,False,2024-10-06 13:00:00,19806
+69,113,1,251,1721,male,Milan,MIL,https://cdn.sportmonks.com/images/soccer/teams/17/113.png,1899,domestic,False,2024-10-06 18:45:00,19806
+70,109,1,251,7223,male,Fiorentina,FIO,https://cdn.sportmonks.com/images/soccer/teams/13/109.png,1926,domestic,False,2024-10-06 18:45:00,19806
+71,43,1,251,7189,male,Lazio,LAZ,https://cdn.sportmonks.com/images/soccer/teams/11/43.png,1900,domestic,False,2024-10-06 13:00:00,19806
+72,37,1,251,7189,male,Roma,ROM,https://cdn.sportmonks.com/images/soccer/teams/5/37.png,1927,domestic,False,2024-10-06 16:00:00,19806
+73,613,1,251,142,male,Torino,TOR,https://cdn.sportmonks.com/images/soccer/teams/5/613.png,1906,domestic,False,2024-10-05 18:45:00,19806
+74,7790,1,251,5047,male,Lecce,LEC,https://cdn.sportmonks.com/images/soccer/teams/14/7790.png,1908,domestic,False,2024-10-05 13:00:00,19806
+75,8513,1,251,5515,male,Bologna,BOL,https://cdn.sportmonks.com/images/soccer/teams/1/8513.png,1909,domestic,False,2024-10-06 13:00:00,19806
+76,2714,1,251,1613,male,Sassuolo,SAS,https://cdn.sportmonks.com/images/soccer/teams/26/2714.png,1922,domestic,False,2024-10-05 13:00:00,19806
+77,597,1,251,134,male,Napoli,NAP,https://cdn.sportmonks.com/images/soccer/teams/21/597.png,1926,domestic,False,2024-10-04 16:30:00,19806
+78,3371,1,5,1972,male,Cruzeiro,CRZ,https://cdn.sportmonks.com/images/soccer/teams/11/3371.png,1921,domestic,False,2024-10-04 00:30:00,21207
+79,6325,1,5,1999,male,América Mineiro,,https://cdn.sportmonks.com/images/soccer/teams/21/6325.png,1912,domestic,False,2024-10-12 00:00:00,21207
+80,2696,1,5,1604,male,Internacional,INL,https://cdn.sportmonks.com/images/soccer/teams/8/2696.png,1909,domestic,False,2024-10-05 22:00:00,21207
+81,6285,1,5,4072,male,Coritiba,,https://cdn.sportmonks.com/images/soccer/teams/13/6285.png,1909,domestic,False,2024-10-04 22:00:00,21207
+82,3432,1,5,338833,male,Athletico PR,APR,https://cdn.sportmonks.com/images/soccer/teams/8/3432.png,1924,domestic,False,2024-10-05 19:30:00,21207
+83,692,1,5,185,male,Bahia,BAH,https://cdn.sportmonks.com/images/soccer/teams/20/692.png,1931,domestic,False,2024-10-05 22:00:00,21207
+84,3496,1,5,2035,male,São Paulo,SAO,https://cdn.sportmonks.com/images/soccer/teams/8/3496.png,1930,domestic,False,2024-10-05 22:00:00,21207
+85,303,1,5,10494,male,Corinthians,CTH,https://cdn.sportmonks.com/images/soccer/teams/15/303.png,1910,domestic,False,2024-10-05 22:00:00,21207
+86,2864,1,5,10562,male,Botafogo,BOT,https://cdn.sportmonks.com/images/soccer/teams/16/2864.png,1904,domestic,False,2024-10-05 19:30:00,21207
+87,1024,1,5,392,male,Flamengo,FLA,https://cdn.sportmonks.com/images/soccer/teams/0/1024.png,1895,domestic,False,2024-10-05 22:00:00,21207
+88,696,1,5,187,male,Vasco da Gama,VAG,https://cdn.sportmonks.com/images/soccer/teams/24/696.png,1898,domestic,False,2024-10-06 00:00:00,21207
+89,3684,1,5,2156,male,Santos,STS,https://cdn.sportmonks.com/images/soccer/teams/4/3684.png,1912,domestic,False,2024-10-08 00:00:00,21207
+90,3621,1,5,8332,male,Fortaleza,FOR,https://cdn.sportmonks.com/images/soccer/teams/5/3621.png,1918,domestic,False,2024-10-05 00:30:00,21207
+91,7808,1,5,5057,male,Bragantino,BRA,https://cdn.sportmonks.com/images/soccer/teams/0/7808.png,1928,domestic,False,2024-10-05 19:30:00,21207
+92,2925,1,5,1718,male,Grêmio,GRE,https://cdn.sportmonks.com/images/soccer/teams/13/2925.png,1903,domestic,False,2024-10-09 22:30:00,21207
+93,5463,1,5,10495,male,Cuiabá,CUI,https://cdn.sportmonks.com/images/soccer/teams/23/5463.png,2001,domestic,False,2024-10-05 22:00:00,21207
+94,3427,1,5,343454,male,Atlético Mineiro,AMN,https://cdn.sportmonks.com/images/soccer/teams/3/3427.png,1908,domestic,False,2024-10-09 22:30:00,21207
+95,1095,1,5,392,male,Fluminense,FLU,https://cdn.sportmonks.com/images/soccer/teams/7/1095.png,1902,domestic,False,2024-10-04 00:30:00,21207
+96,3422,1,5,1998,male,Palmeiras,PAL,https://cdn.sportmonks.com/images/soccer/teams/30/3422.png,1914,domestic,False,2024-10-05 19:30:00,21207
+97,9323,1,5,6073,male,Goiás,,https://cdn.sportmonks.com/images/soccer/teams/11/9323.png,1943,domestic,False,2024-10-08 00:00:00,21207
+98,78,1,462,480,male,Brighton & Hove Albion,BHA,https://cdn.sportmonks.com/images/soccer/teams/14/78.png,1901,domestic,False,2024-10-06 15:30:00,21646
+99,11,1,462,485,male,Fulham,FUL,https://cdn.sportmonks.com/images/soccer/teams/11/11.png,1879,domestic,False,2024-10-05 14:00:00,21646
+100,8,1,462,230,male,Liverpool,LIV,https://cdn.sportmonks.com/images/soccer/teams/8/8.png,1892,domestic,False,2024-10-05 11:30:00,21646
+101,19,1,462,204,male,Arsenal,ARS,https://cdn.sportmonks.com/images/soccer/teams/19/19.png,1886,domestic,False,2024-10-05 14:00:00,21646
+102,29,1,462,492,male,Wolverhampton Wanderers,WOL,https://cdn.sportmonks.com/images/soccer/teams/29/29.png,1877,domestic,False,2024-10-05 14:00:00,21646
+103,115,1,462,837,male,Luton Town,LUT,https://cdn.sportmonks.com/images/soccer/teams/19/115.png,1885,domestic,False,2024-10-05 14:00:00,21646
+104,51,1,462,201,male,Crystal Palace,CRY,https://cdn.sportmonks.com/images/soccer/teams/19/51.png,1905,domestic,False,2024-10-05 11:30:00,21646
+105,21,1,462,2,male,Sheffield United,SHU,https://cdn.sportmonks.com/images/soccer/teams/21/21.png,1889,domestic,False,2024-10-05 14:00:00,21646
+106,14,1,462,206,male,Manchester United,MUN,https://cdn.sportmonks.com/images/soccer/teams/14/14.png,1878,domestic,False,2024-10-06 13:00:00,21646
+107,236,1,462,338817,male,Brentford,BRE,https://cdn.sportmonks.com/images/soccer/teams/12/236.png,1889,domestic,False,2024-10-05 14:00:00,21646
+108,52,1,462,146,male,AFC Bournemouth,BOU,https://cdn.sportmonks.com/images/soccer/teams/20/52.png,1899,domestic,False,2024-10-05 14:00:00,21646
+109,20,1,462,449,male,Newcastle United,NEW,https://cdn.sportmonks.com/images/soccer/teams/20/20.png,1892,domestic,False,2024-10-05 16:30:00,21646
+110,63,1,462,542,male,Nottingham Forest,NFO,https://cdn.sportmonks.com/images/soccer/teams/31/63.png,1865,domestic,False,2024-10-06 13:00:00,21646
+111,13,1,462,12,male,Everton,EVE,https://cdn.sportmonks.com/images/soccer/teams/13/13.png,1878,domestic,False,2024-10-05 16:30:00,21646
+112,9,1,462,151,male,Manchester City,MCI,https://cdn.sportmonks.com/images/soccer/teams/9/9.png,1880,domestic,False,2024-10-05 14:00:00,21646
+113,1,1,462,214,male,West Ham United,WHU,https://cdn.sportmonks.com/images/soccer/teams/1/1.png,1895,domestic,False,2024-10-05 14:00:00,21646
+114,18,1,462,321614,male,Chelsea,CHE,https://cdn.sportmonks.com/images/soccer/teams/18/18.png,1905,domestic,False,2024-10-06 13:00:00,21646
+115,15,1,462,5,male,Aston Villa,AVL,https://cdn.sportmonks.com/images/soccer/teams/15/15.png,1874,domestic,False,2024-10-06 13:00:00,21646
+116,6,1,462,281313,male,Tottenham Hotspur,TOT,https://cdn.sportmonks.com/images/soccer/teams/6/6.png,1882,domestic,False,2024-10-06 15:30:00,21646
+117,27,1,462,200,male,Burnley,BUR,https://cdn.sportmonks.com/images/soccer/teams/27/27.png,1882,domestic,False,2024-10-05 11:30:00,21646
+118,377,1,32,304396,male,Rayo Vallecano,RAY,https://cdn.sportmonks.com/images/soccer/teams/25/377.png,1924,domestic,False,2024-10-05 16:30:00,21694
+119,3477,1,32,2028,male,Villarreal,VIL,https://cdn.sportmonks.com/images/soccer/teams/21/3477.png,1923,domestic,False,2024-10-05 19:00:00,21694
+120,3468,1,32,2020,male,Real Madrid,RMA,https://cdn.sportmonks.com/images/soccer/teams/12/3468.png,1902,domestic,False,2024-10-05 19:00:00,21694
+121,103,1,32,9237,male,Granada,GRA,https://cdn.sportmonks.com/images/soccer/teams/7/103.png,1931,domestic,False,2024-10-05 14:15:00,21694
+122,485,1,32,68,male,Real Betis,BET,https://cdn.sportmonks.com/images/soccer/teams/5/485.png,1907,domestic,False,2024-10-06 16:30:00,21694
+123,2921,1,32,1716,male,Las Palmas,LPA,https://cdn.sportmonks.com/images/soccer/teams/9/2921.png,1949,domestic,False,2024-10-05 16:30:00,21694
+124,36,1,32,9239,male,Celta de Vigo,CEL,https://cdn.sportmonks.com/images/soccer/teams/4/36.png,1923,domestic,False,2024-10-05 16:30:00,21694
+125,6827,1,32,4473,male,Cádiz,CAD,https://cdn.sportmonks.com/images/soccer/teams/11/6827.png,1910,domestic,False,2024-10-12 16:30:00,21694
+126,645,1,32,343495,male,Mallorca,MLL,https://cdn.sportmonks.com/images/soccer/teams/5/645.png,1916,domestic,False,2024-10-05 12:00:00,21694
+127,231,1,32,9345,male,Girona,GIR,https://cdn.sportmonks.com/images/soccer/teams/7/231.png,1930,domestic,False,2024-10-06 12:00:00,21694
+128,676,1,32,177,male,Sevilla,SEV,https://cdn.sportmonks.com/images/soccer/teams/4/676.png,1890,domestic,False,2024-10-06 16:30:00,21694
+129,83,1,32,300228,male,FC Barcelona,BAR,https://cdn.sportmonks.com/images/soccer/teams/19/83.png,1899,domestic,False,2024-10-06 14:15:00,21694
+130,2975,1,32,1747,male,Deportivo Alavés,ALA,https://cdn.sportmonks.com/images/soccer/teams/31/2975.png,1921,domestic,False,2024-10-06 14:15:00,21694
+131,594,1,32,133,male,Real Sociedad,RSO,https://cdn.sportmonks.com/images/soccer/teams/18/594.png,1909,domestic,False,2024-10-06 19:00:00,21694
+132,214,1,32,9240,male,Valencia,VAL,https://cdn.sportmonks.com/images/soccer/teams/22/214.png,1919,domestic,False,2024-10-04 19:00:00,21694
+133,7980,1,32,140808,male,Atlético Madrid,ATM,https://cdn.sportmonks.com/images/soccer/teams/12/7980.png,1903,domestic,False,2024-10-06 19:00:00,21694
+134,618,1,32,9180,male,Almería,ALM,https://cdn.sportmonks.com/images/soccer/teams/10/618.png,1989,domestic,False,2024-10-05 16:30:00,21694
+135,106,1,32,9351,male,Getafe,GET,https://cdn.sportmonks.com/images/soccer/teams/10/106.png,1983,domestic,False,2024-10-05 14:15:00,21694
+136,13258,1,32,9162,male,Athletic Club,ATH,https://cdn.sportmonks.com/images/soccer/teams/10/13258.png,1898,domestic,False,2024-10-06 12:00:00,21694
+137,459,1,32,56,male,Osasuna,OSA,https://cdn.sportmonks.com/images/soccer/teams/11/459.png,1920,domestic,False,2024-10-05 14:15:00,21694
+138,1079,1,11,420,male,FC Union Berlin,FCU,https://cdn.sportmonks.com/images/soccer/teams/23/1079.png,1966,domestic,False,2024-10-05 13:30:00,21795
+139,510,1,11,80,male,VfL Wolfsburg,WOB,https://cdn.sportmonks.com/images/soccer/teams/30/510.png,1945,domestic,False,2024-10-05 13:30:00,21795
+140,3321,1,11,1947,male,Bayer 04 Leverkusen,B04,https://cdn.sportmonks.com/images/soccer/teams/25/3321.png,1904,domestic,False,2024-10-05 13:30:00,21795
+141,3543,1,11,2063,male,SC Freiburg,SCF,https://cdn.sportmonks.com/images/soccer/teams/23/3543.png,1904,domestic,False,2024-10-05 13:30:00,21795
+142,68,1,11,2166,male,Borussia Dortmund,BVB,https://cdn.sportmonks.com/images/soccer/teams/4/68.png,1909,domestic,False,2024-10-05 13:30:00,21795
+143,82,1,11,2172,male,Werder Bremen,SVW,https://cdn.sportmonks.com/images/soccer/teams/18/82.png,1899,domestic,False,2024-10-05 13:30:00,21795
+144,3320,1,11,1946,male,FC Köln,KOE,https://cdn.sportmonks.com/images/soccer/teams/24/3320.png,1948,domestic,False,2024-10-05 11:00:00,21795
+145,277,1,11,2171,male,RB Leipzig,RBL,https://cdn.sportmonks.com/images/soccer/teams/21/277.png,2009,domestic,False,2024-10-06 13:30:00,21795
+146,90,1,11,2165,male,FC Augsburg,FCA,https://cdn.sportmonks.com/images/soccer/teams/26/90.png,1907,domestic,False,2024-10-04 18:30:00,21795
+147,683,1,11,180,male,Borussia Mönchengladbach,BMG,https://cdn.sportmonks.com/images/soccer/teams/11/683.png,1900,domestic,False,2024-10-04 18:30:00,21795
+148,3319,1,11,1945,male,VfB Stuttgart,VFB,https://cdn.sportmonks.com/images/soccer/teams/23/3319.png,1893,domestic,False,2024-10-06 17:30:00,21795
+149,2831,1,11,1670,male,Heidenheim,HDH,https://cdn.sportmonks.com/images/soccer/teams/15/2831.png,1946,domestic,False,2024-10-06 13:30:00,21795
+150,999,1,11,378,male,VfL Bochum 1848,BOC,https://cdn.sportmonks.com/images/soccer/teams/7/999.png,1848,domestic,False,2024-10-05 13:30:00,21795
+151,2726,1,11,1618,male,TSG Hoffenheim,TSG,https://cdn.sportmonks.com/images/soccer/teams/6/2726.png,1899,domestic,False,2024-10-06 17:30:00,21795
+152,482,1,11,2167,male,Darmstadt 98,SVD,https://cdn.sportmonks.com/images/soccer/teams/2/482.png,1898,domestic,False,2024-10-04 16:30:00,21795
+153,366,1,11,2169,male,Eintracht Frankfurt,SGE,https://cdn.sportmonks.com/images/soccer/teams/14/366.png,1899,domestic,False,2024-10-06 15:30:00,21795
+154,794,1,11,2103,male,FSV Mainz 05,M05,https://cdn.sportmonks.com/images/soccer/teams/26/794.png,1905,domestic,False,2024-10-05 16:30:00,21795
+155,503,1,11,53,male,FC Bayern München,FCB,https://cdn.sportmonks.com/images/soccer/teams/23/503.png,1900,domestic,False,2024-10-06 15:30:00,21795
+156,1628,1,251,787,male,Monza,MON,https://cdn.sportmonks.com/images/soccer/teams/28/1628.png,1912,domestic,False,2024-10-06 16:00:00,21818
+157,708,1,251,193,male,Atalanta,ATA,https://cdn.sportmonks.com/images/soccer/teams/4/708.png,1907,domestic,False,2024-10-05 16:00:00,21818
+158,346,1,251,7224,male,Udinese,UDI,https://cdn.sportmonks.com/images/soccer/teams/26/346.png,1896,domestic,False,2024-10-05 13:00:00,21818
+159,7743,1,251,5026,male,Salernitana,SAL,https://cdn.sportmonks.com/images/soccer/teams/31/7743.png,2011,domestic,False,2024-10-06 13:00:00,21818
+160,113,1,251,1721,male,Milan,MIL,https://cdn.sportmonks.com/images/soccer/teams/17/113.png,1899,domestic,False,2024-10-06 18:45:00,21818
+161,102,1,251,86,male,Genoa,GEN,https://cdn.sportmonks.com/images/soccer/teams/6/102.png,1893,domestic,False,2024-10-05 16:00:00,21818
+162,109,1,251,7223,male,Fiorentina,FIO,https://cdn.sportmonks.com/images/soccer/teams/13/109.png,1926,domestic,False,2024-10-06 18:45:00,21818
+163,43,1,251,7189,male,Lazio,LAZ,https://cdn.sportmonks.com/images/soccer/teams/11/43.png,1900,domestic,False,2024-10-06 13:00:00,21818
+164,37,1,251,7189,male,Roma,ROM,https://cdn.sportmonks.com/images/soccer/teams/5/37.png,1927,domestic,False,2024-10-06 16:00:00,21818
+165,4070,1,251,145449,male,Frosinone,FRO,https://cdn.sportmonks.com/images/soccer/teams/6/4070.png,1928,domestic,False,2024-10-05 13:00:00,21818
+166,613,1,251,142,male,Torino,TOR,https://cdn.sportmonks.com/images/soccer/teams/5/613.png,1906,domestic,False,2024-10-05 18:45:00,21818
+167,7790,1,251,5047,male,Lecce,LEC,https://cdn.sportmonks.com/images/soccer/teams/14/7790.png,1908,domestic,False,2024-10-05 13:00:00,21818
+168,8513,1,251,5515,male,Bologna,BOL,https://cdn.sportmonks.com/images/soccer/teams/1/8513.png,1909,domestic,False,2024-10-06 13:00:00,21818
+169,2714,1,251,1613,male,Sassuolo,SAS,https://cdn.sportmonks.com/images/soccer/teams/26/2714.png,1922,domestic,False,2024-10-05 13:00:00,21818
+170,597,1,251,134,male,Napoli,NAP,https://cdn.sportmonks.com/images/soccer/teams/21/597.png,1926,domestic,False,2024-10-04 16:30:00,21818
+171,2930,1,251,1721,male,Inter,INT,https://cdn.sportmonks.com/images/soccer/teams/18/2930.png,1908,domestic,False,2024-10-05 18:45:00,21818
+172,397,1,251,7220,male,Empoli,EMP,https://cdn.sportmonks.com/images/soccer/teams/13/397.png,1920,domestic,False,2024-10-06 13:00:00,21818
+173,1123,1,251,443,male,Hellas Verona,VER,https://cdn.sportmonks.com/images/soccer/teams/3/1123.png,1903,domestic,False,2024-10-04 18:45:00,21818
+174,625,1,251,118500,male,Juventus,JUV,https://cdn.sportmonks.com/images/soccer/teams/17/625.png,1897,domestic,False,2024-10-06 10:30:00,21818
+175,585,1,251,160319,male,Cagliari,CAG,https://cdn.sportmonks.com/images/soccer/teams/9/585.png,1920,domestic,False,2024-10-06 10:30:00,21818
