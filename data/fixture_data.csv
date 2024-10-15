@@ -1,0 +1,333 @@
+,id,sport_id,league_id,season_id,stage_id,group_id,aggregate_id,round_id,state_id,venue_id,name,starting_at,result_info,leg,details,length,placeholder,has_odds,has_premium_odds,starting_at_timestamp
+0,18535073,1,8,19734,77457864,,,274673,5,480,Brighton & Hove Albion vs Leicester City,2022-09-04 13:00:00,Brighton & Hove Albion won after full-time.,1/1,,90,False,True,False,1662296400
+1,18535097,1,8,19734,77457864,,,274676,5,230,Liverpool vs Brighton & Hove Albion,2022-10-01 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1664632800
+2,18535079,1,8,19734,77457864,,,274673,5,281313,Tottenham Hotspur vs Fulham,2022-09-03 14:00:00,Tottenham Hotspur won after full-time.,1/1,,90,False,True,False,1662213600
+3,18535268,1,8,19734,77457864,,,274675,5,542,Nottingham Forest vs Fulham,2022-09-16 19:00:00,Fulham won after full-time.,1/1,,90,False,True,False,1663354800
+4,18535094,1,8,19734,77457864,,,274676,5,485,Fulham vs Newcastle United,2022-10-01 14:00:00,Newcastle United won after full-time.,1/1,,90,False,True,False,1664632800
+5,18535075,1,8,19734,77457864,,,274673,5,12,Everton vs Liverpool,2022-09-03 11:30:00,Game ended in draw.,1/1,,90,False,True,False,1662204600
+6,18535097,1,8,19734,77457864,,,274676,5,230,Liverpool vs Brighton & Hove Albion,2022-10-01 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1664632800
+7,18535076,1,8,19734,77457864,,,274673,5,206,Manchester United vs Arsenal,2022-09-04 15:30:00,Manchester United won after full-time.,1/1,,90,False,True,False,1662305400
+8,18535262,1,8,19734,77457864,,,274675,5,338817,Brentford vs Arsenal,2022-09-18 11:00:00,Arsenal won after full-time.,1/1,,90,False,True,False,1663498800
+9,18535092,1,8,19734,77457864,,,274676,5,204,Arsenal vs Tottenham Hotspur,2022-10-01 11:30:00,Arsenal won after full-time.,1/1,,90,False,True,False,1664623800
+10,18535065,1,8,19734,77457864,,,274672,5,117,Leicester City vs Manchester United,2022-09-01 19:00:00,Manchester United won after full-time.,1/1,,90,False,True,False,1662058800
+11,18535073,1,8,19734,77457864,,,274673,5,480,Brighton & Hove Albion vs Leicester City,2022-09-04 13:00:00,Brighton & Hove Albion won after full-time.,1/1,,90,False,True,False,1662296400
+12,18535269,1,8,19734,77457864,,,274675,5,281313,Tottenham Hotspur vs Leicester City,2022-09-17 16:30:00,Tottenham Hotspur won after full-time.,1/1,,90,False,True,False,1663432200
+13,18535080,1,8,19734,77457864,,,274673,5,492,Wolverhampton Wanderers vs Southampton,2022-09-03 14:00:00,Wolverhampton Wanderers won after full-time.,1/1,,90,False,True,False,1662213600
+14,18535270,1,8,19734,77457864,,,274675,5,492,Wolverhampton Wanderers vs Manchester City,2022-09-17 11:30:00,Manchester City won after full-time.,1/1,,90,False,True,False,1663414200
+15,18535100,1,8,19734,77457864,,,274676,5,214,West Ham United vs Wolverhampton Wanderers,2022-10-01 16:30:00,West Ham United won after full-time.,1/1,,90,False,True,False,1664641800
+16,18535072,1,8,19734,77457864,,,274673,5,338817,Brentford vs Leeds United,2022-09-03 14:00:00,Brentford won after full-time.,1/1,,90,False,True,False,1662213600
+17,18535077,1,8,19734,77457864,,,274673,5,449,Newcastle United vs Crystal Palace,2022-09-03 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1662213600
+18,18535093,1,8,19734,77457864,,,274676,5,201,Crystal Palace vs Chelsea,2022-10-01 14:00:00,Chelsea won after full-time.,1/1,,90,False,True,False,1664632800
+19,18535065,1,8,19734,77457864,,,274672,5,117,Leicester City vs Manchester United,2022-09-01 19:00:00,Manchester United won after full-time.,1/1,,90,False,True,False,1662058800
+20,18535076,1,8,19734,77457864,,,274673,5,206,Manchester United vs Arsenal,2022-09-04 15:30:00,Manchester United won after full-time.,1/1,,90,False,True,False,1662305400
+21,18535072,1,8,19734,77457864,,,274673,5,338817,Brentford vs Leeds United,2022-09-03 14:00:00,Brentford won after full-time.,1/1,,90,False,True,False,1662213600
+22,18535262,1,8,19734,77457864,,,274675,5,338817,Brentford vs Arsenal,2022-09-18 11:00:00,Arsenal won after full-time.,1/1,,90,False,True,False,1663498800
+23,18535091,1,8,19734,77457864,,,274676,5,146,AFC Bournemouth vs Brentford,2022-10-01 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1664632800
+24,18535078,1,8,19734,77457864,,,274673,5,542,Nottingham Forest vs AFC Bournemouth,2022-09-03 14:00:00,AFC Bournemouth won after full-time.,1/1,,90,False,True,False,1662213600
+25,18535267,1,8,19734,77457864,,,274675,5,449,Newcastle United vs AFC Bournemouth,2022-09-17 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1663423200
+26,18535091,1,8,19734,77457864,,,274676,5,146,AFC Bournemouth vs Brentford,2022-10-01 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1664632800
+27,18535077,1,8,19734,77457864,,,274673,5,449,Newcastle United vs Crystal Palace,2022-09-03 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1662213600
+28,18535267,1,8,19734,77457864,,,274675,5,449,Newcastle United vs AFC Bournemouth,2022-09-17 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1663423200
+29,18535094,1,8,19734,77457864,,,274676,5,485,Fulham vs Newcastle United,2022-10-01 14:00:00,Newcastle United won after full-time.,1/1,,90,False,True,False,1664632800
+30,18535078,1,8,19734,77457864,,,274673,5,542,Nottingham Forest vs AFC Bournemouth,2022-09-03 14:00:00,AFC Bournemouth won after full-time.,1/1,,90,False,True,False,1662213600
+31,18535268,1,8,19734,77457864,,,274675,5,542,Nottingham Forest vs Fulham,2022-09-16 19:00:00,Fulham won after full-time.,1/1,,90,False,True,False,1663354800
+32,18535075,1,8,19734,77457864,,,274673,5,12,Everton vs Liverpool,2022-09-03 11:30:00,Game ended in draw.,1/1,,90,False,True,False,1662204600
+33,18535265,1,8,19734,77457864,,,274675,5,12,Everton vs West Ham United,2022-09-18 13:15:00,Everton won after full-time.,1/1,,90,False,True,False,1663506900
+34,18535099,1,8,19734,77457864,,,274676,5,167,Southampton vs Everton,2022-10-01 14:00:00,Everton won after full-time.,1/1,,90,False,True,False,1664632800
+35,18535071,1,8,19734,77457864,,,274673,5,5,Aston Villa vs Manchester City,2022-09-03 16:30:00,Game ended in draw.,1/1,,90,False,True,False,1662222600
+36,18535270,1,8,19734,77457864,,,274675,5,492,Wolverhampton Wanderers vs Manchester City,2022-09-17 11:30:00,Manchester City won after full-time.,1/1,,90,False,True,False,1663414200
+37,18535074,1,8,19734,77457864,,,274673,5,321614,Chelsea vs West Ham United,2022-09-03 14:00:00,Chelsea won after full-time.,1/1,,90,False,True,False,1662213600
+38,18535265,1,8,19734,77457864,,,274675,5,12,Everton vs West Ham United,2022-09-18 13:15:00,Everton won after full-time.,1/1,,90,False,True,False,1663506900
+39,18535100,1,8,19734,77457864,,,274676,5,214,West Ham United vs Wolverhampton Wanderers,2022-10-01 16:30:00,West Ham United won after full-time.,1/1,,90,False,True,False,1664641800
+40,18535080,1,8,19734,77457864,,,274673,5,492,Wolverhampton Wanderers vs Southampton,2022-09-03 14:00:00,Wolverhampton Wanderers won after full-time.,1/1,,90,False,True,False,1662213600
+41,18535261,1,8,19734,77457864,,,274675,5,5,Aston Villa vs Southampton,2022-09-16 19:00:00,Aston Villa won after full-time.,1/1,,90,False,True,False,1663354800
+42,18535099,1,8,19734,77457864,,,274676,5,167,Southampton vs Everton,2022-10-01 14:00:00,Everton won after full-time.,1/1,,90,False,True,False,1664632800
+43,18535074,1,8,19734,77457864,,,274673,5,321614,Chelsea vs West Ham United,2022-09-03 14:00:00,Chelsea won after full-time.,1/1,,90,False,True,False,1662213600
+44,18535093,1,8,19734,77457864,,,274676,5,201,Crystal Palace vs Chelsea,2022-10-01 14:00:00,Chelsea won after full-time.,1/1,,90,False,True,False,1664632800
+45,18535071,1,8,19734,77457864,,,274673,5,5,Aston Villa vs Manchester City,2022-09-03 16:30:00,Game ended in draw.,1/1,,90,False,True,False,1662222600
+46,18535261,1,8,19734,77457864,,,274675,5,5,Aston Villa vs Southampton,2022-09-16 19:00:00,Aston Villa won after full-time.,1/1,,90,False,True,False,1663354800
+47,18535079,1,8,19734,77457864,,,274673,5,281313,Tottenham Hotspur vs Fulham,2022-09-03 14:00:00,Tottenham Hotspur won after full-time.,1/1,,90,False,True,False,1662213600
+48,18535269,1,8,19734,77457864,,,274675,5,281313,Tottenham Hotspur vs Leicester City,2022-09-17 16:30:00,Tottenham Hotspur won after full-time.,1/1,,90,False,True,False,1663432200
+49,18535092,1,8,19734,77457864,,,274676,5,204,Arsenal vs Tottenham Hotspur,2022-10-01 11:30:00,Arsenal won after full-time.,1/1,,90,False,True,False,1664623800
+50,18536698,1,82,19744,77457883,,,274909,5,2165,FC Augsburg vs Hertha BSC,2022-09-04 13:30:00,Hertha BSC won after full-time.,1/1,,90,False,True,False,1662298200
+51,18536706,1,82,19744,77457883,,,274910,5,1944,Hertha BSC vs Bayer 04 Leverkusen,2022-09-10 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1662816600
+52,18536713,1,82,19744,77457883,,,274911,5,2103,FSV Mainz 05 vs Hertha BSC,2022-09-16 18:30:00,Game ended in draw.,1/1,,90,False,True,False,1663353000
+53,18536693,1,82,19744,77457883,,,274909,5,420,FC Union Berlin vs FC Bayern München,2022-09-03 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1662211800
+54,18536703,1,82,19744,77457883,,,274910,5,1946,FC Köln vs FC Union Berlin,2022-09-11 13:30:00,FC Union Berlin won after full-time.,1/1,,90,False,True,False,1662903000
+55,18536712,1,82,19744,77457883,,,274911,5,420,FC Union Berlin vs VfL Wolfsburg,2022-09-18 13:30:00,FC Union Berlin won after full-time.,1/1,,90,False,True,False,1663507800
+56,18536722,1,82,19744,77457883,,,274912,5,2169,Eintracht Frankfurt vs FC Union Berlin,2022-10-01 13:30:00,Eintracht Frankfurt won after full-time.,1/1,,90,False,True,False,1664631000
+57,18536696,1,82,19744,77457883,,,274909,5,80,VfL Wolfsburg vs FC Köln,2022-09-03 13:30:00,FC Köln won after full-time.,1/1,,90,False,True,False,1662211800
+58,18536705,1,82,19744,77457883,,,274910,5,2169,Eintracht Frankfurt vs VfL Wolfsburg,2022-09-10 13:30:00,VfL Wolfsburg won after full-time.,1/1,,90,False,True,False,1662816600
+59,18536712,1,82,19744,77457883,,,274911,5,420,FC Union Berlin vs VfL Wolfsburg,2022-09-18 13:30:00,FC Union Berlin won after full-time.,1/1,,90,False,True,False,1663507800
+60,18536723,1,82,19744,77457883,,,274912,5,80,VfL Wolfsburg vs VfB Stuttgart,2022-10-01 13:30:00,VfL Wolfsburg won after full-time.,1/1,,90,False,True,False,1664631000
+61,18536692,1,82,19744,77457883,,,274909,5,1947,Bayer 04 Leverkusen vs SC Freiburg,2022-09-03 13:30:00,SC Freiburg won after full-time.,1/1,,90,False,True,False,1662211800
+62,18536706,1,82,19744,77457883,,,274910,5,1944,Hertha BSC vs Bayer 04 Leverkusen,2022-09-10 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1662816600
+63,18536711,1,82,19744,77457883,,,274911,5,1947,Bayer 04 Leverkusen vs Werder Bremen,2022-09-17 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1663421400
+64,18536718,1,82,19744,77457883,,,274912,5,53,FC Bayern München vs Bayer 04 Leverkusen,2022-09-30 18:30:00,FC Bayern München won after full-time.,1/1,,90,False,True,False,1664562600
+65,18536692,1,82,19744,77457883,,,274909,5,1947,Bayer 04 Leverkusen vs SC Freiburg,2022-09-03 13:30:00,SC Freiburg won after full-time.,1/1,,90,False,True,False,1662211800
+66,18536702,1,82,19744,77457883,,,274910,5,2063,SC Freiburg vs Borussia Mönchengladbach,2022-09-11 15:30:00,Game ended in draw.,1/1,,90,False,True,False,1662910200
+67,18536715,1,82,19744,77457883,,,274911,5,1618,TSG Hoffenheim vs SC Freiburg,2022-09-18 17:30:00,Game ended in draw.,1/1,,90,False,True,False,1663522200
+68,18536720,1,82,19744,77457883,,,274912,5,2063,SC Freiburg vs FSV Mainz 05,2022-10-01 13:30:00,SC Freiburg won after full-time.,1/1,,90,False,True,False,1664631000
+69,18536691,1,82,19744,77457883,,,274909,5,2166,Borussia Dortmund vs TSG Hoffenheim,2022-09-02 18:30:00,Borussia Dortmund won after full-time.,1/1,,90,False,True,False,1662143400
+70,18536701,1,82,19744,77457883,,,274910,5,2171,RB Leipzig vs Borussia Dortmund,2022-09-10 13:30:00,RB Leipzig won after full-time.,1/1,,90,False,True,False,1662816600
+71,18536717,1,82,19744,77457883,,,274911,5,2166,Borussia Dortmund vs Schalke 04,2022-09-17 13:30:00,Borussia Dortmund won after full-time.,1/1,,90,False,True,False,1663421400
+72,18536721,1,82,19744,77457883,,,274912,5,1946,FC Köln vs Borussia Dortmund,2022-10-01 13:30:00,FC Köln won after full-time.,1/1,,90,False,True,False,1664631000
+73,18536697,1,82,19744,77457883,,,274909,5,378,VfL Bochum 1848 vs Werder Bremen,2022-09-03 13:30:00,Werder Bremen won after full-time.,1/1,,90,False,True,False,1662211800
+74,18536708,1,82,19744,77457883,,,274910,5,339831,Werder Bremen vs FC Augsburg,2022-09-09 18:30:00,FC Augsburg won after full-time.,1/1,,90,False,True,False,1662748200
+75,18536711,1,82,19744,77457883,,,274911,5,1947,Bayer 04 Leverkusen vs Werder Bremen,2022-09-17 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1663421400
+76,18536726,1,82,19744,77457883,,,274912,5,339831,Werder Bremen vs Borussia Mönchengladbach,2022-10-01 16:30:00,Werder Bremen won after full-time.,1/1,,90,False,True,False,1664641800
+77,18536696,1,82,19744,77457883,,,274909,5,80,VfL Wolfsburg vs FC Köln,2022-09-03 13:30:00,FC Köln won after full-time.,1/1,,90,False,True,False,1662211800
+78,18536703,1,82,19744,77457883,,,274910,5,1946,FC Köln vs FC Union Berlin,2022-09-11 13:30:00,FC Union Berlin won after full-time.,1/1,,90,False,True,False,1662903000
+79,18536714,1,82,19744,77457883,,,274911,5,378,VfL Bochum 1848 vs FC Köln,2022-09-18 15:30:00,Game ended in draw.,1/1,,90,False,True,False,1663515000
+80,18536721,1,82,19744,77457883,,,274912,5,1946,FC Köln vs Borussia Dortmund,2022-10-01 13:30:00,FC Köln won after full-time.,1/1,,90,False,True,False,1664631000
+81,18536699,1,82,19744,77457883,,,274909,5,1945,VfB Stuttgart vs Schalke 04,2022-09-03 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1662211800
+82,18536707,1,82,19744,77457883,,,274910,5,2138,Schalke 04 vs VfL Bochum 1848,2022-09-10 16:30:00,Schalke 04 won after full-time.,1/1,,90,False,True,False,1662827400
+83,18536717,1,82,19744,77457883,,,274911,5,2166,Borussia Dortmund vs Schalke 04,2022-09-17 13:30:00,Borussia Dortmund won after full-time.,1/1,,90,False,True,False,1663421400
+84,18536695,1,82,19744,77457883,,,274909,5,2169,Eintracht Frankfurt vs RB Leipzig,2022-09-03 16:30:00,Eintracht Frankfurt won after full-time.,1/1,,90,False,True,False,1662222600
+85,18536701,1,82,19744,77457883,,,274910,5,2171,RB Leipzig vs Borussia Dortmund,2022-09-10 13:30:00,RB Leipzig won after full-time.,1/1,,90,False,True,False,1662816600
+86,18536710,1,82,19744,77457883,,,274911,5,180,Borussia Mönchengladbach vs RB Leipzig,2022-09-17 16:30:00,Borussia Mönchengladbach won after full-time.,1/1,,90,False,True,False,1663432200
+87,18536719,1,82,19744,77457883,,,274912,5,2171,RB Leipzig vs VfL Bochum 1848,2022-10-01 13:30:00,RB Leipzig won after full-time.,1/1,,90,False,True,False,1664631000
+88,18536698,1,82,19744,77457883,,,274909,5,2165,FC Augsburg vs Hertha BSC,2022-09-04 13:30:00,Hertha BSC won after full-time.,1/1,,90,False,True,False,1662298200
+89,18536708,1,82,19744,77457883,,,274910,5,339831,Werder Bremen vs FC Augsburg,2022-09-09 18:30:00,FC Augsburg won after full-time.,1/1,,90,False,True,False,1662748200
+90,18536709,1,82,19744,77457883,,,274911,5,2165,FC Augsburg vs FC Bayern München,2022-09-17 13:30:00,FC Augsburg won after full-time.,1/1,,90,False,True,False,1663421400
+91,18536694,1,82,19744,77457883,,,274909,5,180,Borussia Mönchengladbach vs FSV Mainz 05,2022-09-04 15:30:00,FSV Mainz 05 won after full-time.,1/1,,90,False,True,False,1662305400
+92,18536702,1,82,19744,77457883,,,274910,5,2063,SC Freiburg vs Borussia Mönchengladbach,2022-09-11 15:30:00,Game ended in draw.,1/1,,90,False,True,False,1662910200
+93,18536710,1,82,19744,77457883,,,274911,5,180,Borussia Mönchengladbach vs RB Leipzig,2022-09-17 16:30:00,Borussia Mönchengladbach won after full-time.,1/1,,90,False,True,False,1663432200
+94,18536726,1,82,19744,77457883,,,274912,5,339831,Werder Bremen vs Borussia Mönchengladbach,2022-10-01 16:30:00,Werder Bremen won after full-time.,1/1,,90,False,True,False,1664641800
+95,18536699,1,82,19744,77457883,,,274909,5,1945,VfB Stuttgart vs Schalke 04,2022-09-03 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1662211800
+96,18536700,1,82,19744,77457883,,,274910,5,53,FC Bayern München vs VfB Stuttgart,2022-09-10 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1662816600
+97,18536716,1,82,19744,77457883,,,274911,5,1945,VfB Stuttgart vs Eintracht Frankfurt,2022-09-17 13:30:00,Eintracht Frankfurt won after full-time.,1/1,,90,False,True,False,1663421400
+98,18536723,1,82,19744,77457883,,,274912,5,80,VfL Wolfsburg vs VfB Stuttgart,2022-10-01 13:30:00,VfL Wolfsburg won after full-time.,1/1,,90,False,True,False,1664631000
+99,18536697,1,82,19744,77457883,,,274909,5,378,VfL Bochum 1848 vs Werder Bremen,2022-09-03 13:30:00,Werder Bremen won after full-time.,1/1,,90,False,True,False,1662211800
+100,18536707,1,82,19744,77457883,,,274910,5,2138,Schalke 04 vs VfL Bochum 1848,2022-09-10 16:30:00,Schalke 04 won after full-time.,1/1,,90,False,True,False,1662827400
+101,18536714,1,82,19744,77457883,,,274911,5,378,VfL Bochum 1848 vs FC Köln,2022-09-18 15:30:00,Game ended in draw.,1/1,,90,False,True,False,1663515000
+102,18536719,1,82,19744,77457883,,,274912,5,2171,RB Leipzig vs VfL Bochum 1848,2022-10-01 13:30:00,RB Leipzig won after full-time.,1/1,,90,False,True,False,1664631000
+103,18536691,1,82,19744,77457883,,,274909,5,2166,Borussia Dortmund vs TSG Hoffenheim,2022-09-02 18:30:00,Borussia Dortmund won after full-time.,1/1,,90,False,True,False,1662143400
+104,18536704,1,82,19744,77457883,,,274910,5,1618,TSG Hoffenheim vs FSV Mainz 05,2022-09-10 13:30:00,TSG Hoffenheim won after full-time.,1/1,,90,False,True,False,1662816600
+105,18536715,1,82,19744,77457883,,,274911,5,1618,TSG Hoffenheim vs SC Freiburg,2022-09-18 17:30:00,Game ended in draw.,1/1,,90,False,True,False,1663522200
+106,18536695,1,82,19744,77457883,,,274909,5,2169,Eintracht Frankfurt vs RB Leipzig,2022-09-03 16:30:00,Eintracht Frankfurt won after full-time.,1/1,,90,False,True,False,1662222600
+107,18536705,1,82,19744,77457883,,,274910,5,2169,Eintracht Frankfurt vs VfL Wolfsburg,2022-09-10 13:30:00,VfL Wolfsburg won after full-time.,1/1,,90,False,True,False,1662816600
+108,18536716,1,82,19744,77457883,,,274911,5,1945,VfB Stuttgart vs Eintracht Frankfurt,2022-09-17 13:30:00,Eintracht Frankfurt won after full-time.,1/1,,90,False,True,False,1663421400
+109,18536722,1,82,19744,77457883,,,274912,5,2169,Eintracht Frankfurt vs FC Union Berlin,2022-10-01 13:30:00,Eintracht Frankfurt won after full-time.,1/1,,90,False,True,False,1664631000
+110,18536694,1,82,19744,77457883,,,274909,5,180,Borussia Mönchengladbach vs FSV Mainz 05,2022-09-04 15:30:00,FSV Mainz 05 won after full-time.,1/1,,90,False,True,False,1662305400
+111,18536704,1,82,19744,77457883,,,274910,5,1618,TSG Hoffenheim vs FSV Mainz 05,2022-09-10 13:30:00,TSG Hoffenheim won after full-time.,1/1,,90,False,True,False,1662816600
+112,18536713,1,82,19744,77457883,,,274911,5,2103,FSV Mainz 05 vs Hertha BSC,2022-09-16 18:30:00,Game ended in draw.,1/1,,90,False,True,False,1663353000
+113,18536720,1,82,19744,77457883,,,274912,5,2063,SC Freiburg vs FSV Mainz 05,2022-10-01 13:30:00,SC Freiburg won after full-time.,1/1,,90,False,True,False,1664631000
+114,18536693,1,82,19744,77457883,,,274909,5,420,FC Union Berlin vs FC Bayern München,2022-09-03 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1662211800
+115,18536700,1,82,19744,77457883,,,274910,5,53,FC Bayern München vs VfB Stuttgart,2022-09-10 13:30:00,Game ended in draw.,1/1,,90,False,True,False,1662816600
+116,18536709,1,82,19744,77457883,,,274911,5,2165,FC Augsburg vs FC Bayern München,2022-09-17 13:30:00,FC Augsburg won after full-time.,1/1,,90,False,True,False,1663421400
+117,18536718,1,82,19744,77457883,,,274912,5,53,FC Bayern München vs Bayer 04 Leverkusen,2022-09-30 18:30:00,FC Bayern München won after full-time.,1/1,,90,False,True,False,1664562600
+118,18545124,1,564,19799,77458033,,,275886,5,2028,Villarreal vs Elche,2022-09-04 16:30:00,Villarreal won after full-time.,1/1,,90,False,True,False,1662309000
+119,18545130,1,564,19799,77458033,,,275887,5,68,Real Betis vs Villarreal,2022-09-11 19:00:00,Real Betis won after full-time.,1/1,,90,False,True,False,1662922800
+120,18545147,1,564,19799,77458033,,,275888,5,2028,Villarreal vs Sevilla,2022-09-18 14:15:00,Game ended in draw.,1/1,,90,False,True,False,1663510500
+121,18545150,1,564,19799,77458033,,,275889,5,4473,Cádiz vs Villarreal,2022-10-01 12:00:00,Game ended in draw.,1/1,,90,False,True,False,1664625600
+122,18545123,1,564,19799,77458033,,,275886,5,2020,Real Madrid vs Real Betis,2022-09-03 14:15:00,Real Madrid won after full-time.,1/1,,90,False,True,False,1662214500
+123,18545138,1,564,19799,77458033,,,275887,5,2020,Real Madrid vs Mallorca,2022-09-11 12:00:00,Real Madrid won after full-time.,1/1,,90,False,True,False,1662897600
+124,18545140,1,564,19799,77458033,,,275888,5,140808,Atlético Madrid vs Real Madrid,2022-09-18 19:00:00,Real Madrid won after full-time.,1/1,,90,False,True,False,1663527600
+125,18545123,1,564,19799,77458033,,,275886,5,2020,Real Madrid vs Real Betis,2022-09-03 14:15:00,Real Madrid won after full-time.,1/1,,90,False,True,False,1662214500
+126,18545130,1,564,19799,77458033,,,275887,5,68,Real Betis vs Villarreal,2022-09-11 19:00:00,Real Betis won after full-time.,1/1,,90,False,True,False,1662922800
+127,18545142,1,564,19799,77458033,,,275888,5,68,Real Betis vs Girona,2022-09-18 16:30:00,Real Betis won after full-time.,1/1,,90,False,True,False,1663518600
+128,18545126,1,564,19799,77458033,,,275886,5,9239,Celta de Vigo vs Cádiz,2022-09-02 19:00:00,Celta de Vigo won after full-time.,1/1,,90,False,True,False,1662145200
+129,18545129,1,564,19799,77458033,,,275887,5,140808,Atlético Madrid vs Celta de Vigo,2022-09-10 19:00:00,Atlético Madrid won after full-time.,1/1,,90,False,True,False,1662836400
+130,18545143,1,564,19799,77458033,,,275888,5,9240,Valencia vs Celta de Vigo,2022-09-17 16:30:00,Valencia won after full-time.,1/1,,90,False,True,False,1663432200
+131,18545124,1,564,19799,77458033,,,275886,5,2028,Villarreal vs Elche,2022-09-04 16:30:00,Villarreal won after full-time.,1/1,,90,False,True,False,1662309000
+132,18545136,1,564,19799,77458033,,,275887,5,430,Elche vs Athletic Club,2022-09-11 14:15:00,Athletic Club won after full-time.,1/1,,90,False,True,False,1662905700
+133,18545141,1,564,19799,77458033,,,275888,5,300228,FC Barcelona vs Elche,2022-09-17 14:15:00,FC Barcelona won after full-time.,1/1,,90,False,True,False,1663424100
+134,18545127,1,564,19799,77458033,,,275886,5,9323,Real Valladolid vs Almería,2022-09-05 19:00:00,Real Valladolid won after full-time.,1/1,,90,False,True,False,1662404400
+135,18545135,1,564,19799,77458033,,,275887,5,9345,Girona vs Real Valladolid,2022-09-09 19:00:00,Girona won after full-time.,1/1,,90,False,True,False,1662750000
+136,18545145,1,564,19799,77458033,,,275888,5,9323,Real Valladolid vs Cádiz,2022-09-16 19:00:00,Cádiz won after full-time.,1/1,,90,False,True,False,1663354800
+137,18545149,1,564,19799,77458033,,,275889,5,9351,Getafe vs Real Valladolid,2022-10-01 14:15:00,Real Valladolid won after full-time.,1/1,,90,False,True,False,1664633700
+138,18545126,1,564,19799,77458033,,,275886,5,9239,Celta de Vigo vs Cádiz,2022-09-02 19:00:00,Celta de Vigo won after full-time.,1/1,,90,False,True,False,1662145200
+139,18545137,1,564,19799,77458033,,,275887,5,4473,Cádiz vs FC Barcelona,2022-09-10 16:30:00,FC Barcelona won after full-time.,1/1,,90,False,True,False,1662827400
+140,18545145,1,564,19799,77458033,,,275888,5,9323,Real Valladolid vs Cádiz,2022-09-16 19:00:00,Cádiz won after full-time.,1/1,,90,False,True,False,1663354800
+141,18545150,1,564,19799,77458033,,,275889,5,4473,Cádiz vs Villarreal,2022-10-01 12:00:00,Game ended in draw.,1/1,,90,False,True,False,1664625600
+142,18545128,1,564,19799,77458033,,,275886,5,1128,Mallorca vs Girona,2022-09-03 12:00:00,Game ended in draw.,1/1,,90,False,True,False,1662206400
+143,18545138,1,564,19799,77458033,,,275887,5,2020,Real Madrid vs Mallorca,2022-09-11 12:00:00,Real Madrid won after full-time.,1/1,,90,False,True,False,1662897600
+144,18545148,1,564,19799,77458033,,,275888,5,1128,Mallorca vs Almería,2022-09-17 12:00:00,Mallorca won after full-time.,1/1,,90,False,True,False,1663416000
+145,18545154,1,564,19799,77458033,,,275889,5,1128,Mallorca vs FC Barcelona,2022-10-01 19:00:00,FC Barcelona won after full-time.,1/1,,90,False,True,False,1664650800
+146,18545128,1,564,19799,77458033,,,275886,5,1128,Mallorca vs Girona,2022-09-03 12:00:00,Game ended in draw.,1/1,,90,False,True,False,1662206400
+147,18545135,1,564,19799,77458033,,,275887,5,9345,Girona vs Real Valladolid,2022-09-09 19:00:00,Girona won after full-time.,1/1,,90,False,True,False,1662750000
+148,18545142,1,564,19799,77458033,,,275888,5,68,Real Betis vs Girona,2022-09-18 16:30:00,Real Betis won after full-time.,1/1,,90,False,True,False,1663518600
+149,18545122,1,564,19799,77458033,,,275886,5,177,Sevilla vs FC Barcelona,2022-09-03 19:00:00,FC Barcelona won after full-time.,1/1,,90,False,True,False,1662231600
+150,18545132,1,564,19799,77458033,,,275887,5,89,Espanyol vs Sevilla,2022-09-10 14:15:00,Sevilla won after full-time.,1/1,,90,False,True,False,1662819300
+151,18545147,1,564,19799,77458033,,,275888,5,2028,Villarreal vs Sevilla,2022-09-18 14:15:00,Game ended in draw.,1/1,,90,False,True,False,1663510500
+152,18545153,1,564,19799,77458033,,,275889,5,177,Sevilla vs Atlético Madrid,2022-10-01 16:30:00,Atlético Madrid won after full-time.,1/1,,90,False,True,False,1664641800
+153,18545122,1,564,19799,77458033,,,275886,5,177,Sevilla vs FC Barcelona,2022-09-03 19:00:00,FC Barcelona won after full-time.,1/1,,90,False,True,False,1662231600
+154,18545137,1,564,19799,77458033,,,275887,5,4473,Cádiz vs FC Barcelona,2022-09-10 16:30:00,FC Barcelona won after full-time.,1/1,,90,False,True,False,1662827400
+155,18545141,1,564,19799,77458033,,,275888,5,300228,FC Barcelona vs Elche,2022-09-17 14:15:00,FC Barcelona won after full-time.,1/1,,90,False,True,False,1663424100
+156,18545154,1,564,19799,77458033,,,275889,5,1128,Mallorca vs FC Barcelona,2022-10-01 19:00:00,FC Barcelona won after full-time.,1/1,,90,False,True,False,1664650800
+157,18545121,1,564,19799,77458033,,,275886,5,133,Real Sociedad vs Atlético Madrid,2022-09-03 16:30:00,Game ended in draw.,1/1,,90,False,True,False,1662222600
+158,18545131,1,564,19799,77458033,,,275887,5,9351,Getafe vs Real Sociedad,2022-09-11 16:30:00,Getafe won after full-time.,1/1,,90,False,True,False,1662913800
+159,18545146,1,564,19799,77458033,,,275888,5,133,Real Sociedad vs Espanyol,2022-09-18 16:30:00,Real Sociedad won after full-time.,1/1,,90,False,True,False,1663518600
+160,18545125,1,564,19799,77458033,,,275886,5,9240,Valencia vs Getafe,2022-09-04 19:00:00,Valencia won after full-time.,1/1,,90,False,True,False,1662318000
+161,18545133,1,564,19799,77458033,,,275887,5,304396,Rayo Vallecano vs Valencia,2022-09-10 12:00:00,Rayo Vallecano won after full-time.,1/1,,90,False,True,False,1662811200
+162,18545143,1,564,19799,77458033,,,275888,5,9240,Valencia vs Celta de Vigo,2022-09-17 16:30:00,Valencia won after full-time.,1/1,,90,False,True,False,1663432200
+163,18545121,1,564,19799,77458033,,,275886,5,133,Real Sociedad vs Atlético Madrid,2022-09-03 16:30:00,Game ended in draw.,1/1,,90,False,True,False,1662222600
+164,18545129,1,564,19799,77458033,,,275887,5,140808,Atlético Madrid vs Celta de Vigo,2022-09-10 19:00:00,Atlético Madrid won after full-time.,1/1,,90,False,True,False,1662836400
+165,18545140,1,564,19799,77458033,,,275888,5,140808,Atlético Madrid vs Real Madrid,2022-09-18 19:00:00,Real Madrid won after full-time.,1/1,,90,False,True,False,1663527600
+166,18545153,1,564,19799,77458033,,,275889,5,177,Sevilla vs Atlético Madrid,2022-10-01 16:30:00,Atlético Madrid won after full-time.,1/1,,90,False,True,False,1664641800
+167,18545127,1,564,19799,77458033,,,275886,5,9323,Real Valladolid vs Almería,2022-09-05 19:00:00,Real Valladolid won after full-time.,1/1,,90,False,True,False,1662404400
+168,18545134,1,564,19799,77458033,,,275887,5,9180,Almería vs Osasuna,2022-09-12 19:00:00,Osasuna won after full-time.,1/1,,90,False,True,False,1663009200
+169,18545148,1,564,19799,77458033,,,275888,5,1128,Mallorca vs Almería,2022-09-17 12:00:00,Mallorca won after full-time.,1/1,,90,False,True,False,1663416000
+170,18545158,1,564,19799,77458033,,,275889,5,9162,Athletic Club vs Almería,2022-09-30 19:00:00,Athletic Club won after full-time.,1/1,,90,False,True,False,1664564400
+171,18545125,1,564,19799,77458033,,,275886,5,9240,Valencia vs Getafe,2022-09-04 19:00:00,Valencia won after full-time.,1/1,,90,False,True,False,1662318000
+172,18545131,1,564,19799,77458033,,,275887,5,9351,Getafe vs Real Sociedad,2022-09-11 16:30:00,Getafe won after full-time.,1/1,,90,False,True,False,1662913800
+173,18545144,1,564,19799,77458033,,,275888,5,56,Osasuna vs Getafe,2022-09-18 12:00:00,Getafe won after full-time.,1/1,,90,False,True,False,1663502400
+174,18545149,1,564,19799,77458033,,,275889,5,9351,Getafe vs Real Valladolid,2022-10-01 14:15:00,Real Valladolid won after full-time.,1/1,,90,False,True,False,1664633700
+175,18545119,1,564,19799,77458033,,,275886,5,9162,Athletic Club vs Espanyol,2022-09-04 14:15:00,Espanyol won after full-time.,1/1,,90,False,True,False,1662300900
+176,18545136,1,564,19799,77458033,,,275887,5,430,Elche vs Athletic Club,2022-09-11 14:15:00,Athletic Club won after full-time.,1/1,,90,False,True,False,1662905700
+177,18545139,1,564,19799,77458033,,,275888,5,9162,Athletic Club vs Rayo Vallecano,2022-09-17 19:00:00,Athletic Club won after full-time.,1/1,,90,False,True,False,1663441200
+178,18545158,1,564,19799,77458033,,,275889,5,9162,Athletic Club vs Almería,2022-09-30 19:00:00,Athletic Club won after full-time.,1/1,,90,False,True,False,1664564400
+179,18545119,1,564,19799,77458033,,,275886,5,9162,Athletic Club vs Espanyol,2022-09-04 14:15:00,Espanyol won after full-time.,1/1,,90,False,True,False,1662300900
+180,18545132,1,564,19799,77458033,,,275887,5,89,Espanyol vs Sevilla,2022-09-10 14:15:00,Sevilla won after full-time.,1/1,,90,False,True,False,1662819300
+181,18545146,1,564,19799,77458033,,,275888,5,133,Real Sociedad vs Espanyol,2022-09-18 16:30:00,Real Sociedad won after full-time.,1/1,,90,False,True,False,1663518600
+182,18545120,1,564,19799,77458033,,,275886,5,56,Osasuna vs Rayo Vallecano,2022-09-04 12:00:00,Osasuna won after full-time.,1/1,,90,False,True,False,1662292800
+183,18545134,1,564,19799,77458033,,,275887,5,9180,Almería vs Osasuna,2022-09-12 19:00:00,Osasuna won after full-time.,1/1,,90,False,True,False,1663009200
+184,18545144,1,564,19799,77458033,,,275888,5,56,Osasuna vs Getafe,2022-09-18 12:00:00,Getafe won after full-time.,1/1,,90,False,True,False,1663502400
+185,18545120,1,564,19799,77458033,,,275886,5,56,Osasuna vs Rayo Vallecano,2022-09-04 12:00:00,Osasuna won after full-time.,1/1,,90,False,True,False,1662292800
+186,18545133,1,564,19799,77458033,,,275887,5,304396,Rayo Vallecano vs Valencia,2022-09-10 12:00:00,Rayo Vallecano won after full-time.,1/1,,90,False,True,False,1662811200
+187,18545139,1,564,19799,77458033,,,275888,5,9162,Athletic Club vs Rayo Vallecano,2022-09-17 19:00:00,Athletic Club won after full-time.,1/1,,90,False,True,False,1663441200
+188,18546184,1,384,19806,77458057,,,276002,5,7129,Cremonese vs Sassuolo,2022-09-04 10:30:00,Game ended in draw.,1/1,,90,False,True,False,1662287400
+189,18546194,1,384,19806,77458057,,,276003,5,193,Atalanta vs Cremonese,2022-09-11 10:30:00,Game ended in draw.,1/1,,90,False,True,False,1662892200
+190,18546205,1,384,19806,77458057,,,276004,5,7129,Cremonese vs Lazio,2022-09-18 13:00:00,Lazio won after full-time.,1/1,,90,False,True,False,1663506000
+191,18546188,1,384,19806,77458057,,,276002,5,19085,Milan vs Inter,2022-09-03 16:00:00,Milan won after full-time.,1/1,,90,False,True,False,1662220800
+192,18546197,1,384,19806,77458057,,,276003,5,19085,Inter vs Torino,2022-09-10 16:00:00,Inter won after full-time.,1/1,,90,False,True,False,1662825600
+193,18546213,1,384,19806,77458057,,,276004,5,7224,Udinese vs Inter,2022-09-18 10:30:00,Udinese won after full-time.,1/1,,90,False,True,False,1663497000
+194,18546217,1,384,19806,77458057,,,276005,5,19085,Inter vs Roma,2022-10-01 16:00:00,Roma won after full-time.,1/1,,90,False,True,False,1664640000
+195,18546190,1,384,19806,77458057,,,276002,5,5026,Salernitana vs Empoli,2022-09-05 16:30:00,Game ended in draw.,1/1,,90,False,True,False,1662395400
+196,18546196,1,384,19806,77458057,,,276003,5,7220,Empoli vs Roma,2022-09-12 18:45:00,Roma won after full-time.,1/1,,90,False,True,False,1663008300
+197,18546204,1,384,19806,77458057,,,276004,5,5515,Bologna vs Empoli,2022-09-17 13:00:00,Empoli won after full-time.,1/1,,90,False,True,False,1663419600
+198,18546215,1,384,19806,77458057,,,276005,5,7220,Empoli vs Milan,2022-10-01 18:45:00,Milan won after full-time.,1/1,,90,False,True,False,1664649900
+199,18546186,1,384,19806,77458057,,,276002,5,443,Hellas Verona vs Sampdoria,2022-09-04 16:00:00,Hellas Verona won after full-time.,1/1,,90,False,True,False,1662307200
+200,18546202,1,384,19806,77458057,,,276003,5,142,Sampdoria vs Milan,2022-09-10 18:45:00,Milan won after full-time.,1/1,,90,False,True,False,1662835500
+201,18546211,1,384,19806,77458057,,,276004,5,7305,Spezia vs Sampdoria,2022-09-17 16:00:00,Spezia won after full-time.,1/1,,90,False,True,False,1663430400
+202,18546186,1,384,19806,77458057,,,276002,5,443,Hellas Verona vs Sampdoria,2022-09-04 16:00:00,Hellas Verona won after full-time.,1/1,,90,False,True,False,1662307200
+203,18546199,1,384,19806,77458057,,,276003,5,7189,Lazio vs Hellas Verona,2022-09-11 16:00:00,Lazio won after full-time.,1/1,,90,False,True,False,1662912000
+204,18546206,1,384,19806,77458057,,,276004,5,7223,Fiorentina vs Hellas Verona,2022-09-18 13:00:00,Fiorentina won after full-time.,1/1,,90,False,True,False,1663506000
+205,18546185,1,384,19806,77458057,,,276002,5,7223,Fiorentina vs Juventus,2022-09-03 13:00:00,Game ended in draw.,1/1,,90,False,True,False,1662210000
+206,18546198,1,384,19806,77458057,,,276003,5,118500,Juventus vs Salernitana,2022-09-11 18:45:00,Game ended in draw.,1/1,,90,False,True,False,1662921900
+207,18546208,1,384,19806,77458057,,,276004,5,787,Monza vs Juventus,2022-09-18 13:00:00,Monza won after full-time.,1/1,,90,False,True,False,1663506000
+208,18546191,1,384,19806,77458057,,,276002,5,7305,Spezia vs Bologna,2022-09-04 13:00:00,Game ended in draw.,1/1,,90,False,True,False,1662296400
+209,18546201,1,384,19806,77458057,,,276003,5,134,Napoli vs Spezia,2022-09-10 13:00:00,Napoli won after full-time.,1/1,,90,False,True,False,1662814800
+210,18546211,1,384,19806,77458057,,,276004,5,7305,Spezia vs Sampdoria,2022-09-17 16:00:00,Spezia won after full-time.,1/1,,90,False,True,False,1663430400
+211,18546189,1,384,19806,77458057,,,276002,5,787,Monza vs Atalanta,2022-09-05 16:30:00,Atalanta won after full-time.,1/1,,90,False,True,False,1662395400
+212,18546200,1,384,19806,77458057,,,276003,5,5047,Lecce vs Monza,2022-09-11 13:00:00,Game ended in draw.,1/1,,90,False,True,False,1662901200
+213,18546208,1,384,19806,77458057,,,276004,5,787,Monza vs Juventus,2022-09-18 13:00:00,Monza won after full-time.,1/1,,90,False,True,False,1663506000
+214,18546174,1,384,19806,77458057,,,276001,5,193,Atalanta vs Torino,2022-09-01 18:45:00,Atalanta won after full-time.,1/1,,90,False,True,False,1662057900
+215,18546189,1,384,19806,77458057,,,276002,5,787,Monza vs Atalanta,2022-09-05 16:30:00,Atalanta won after full-time.,1/1,,90,False,True,False,1662395400
+216,18546194,1,384,19806,77458057,,,276003,5,193,Atalanta vs Cremonese,2022-09-11 10:30:00,Game ended in draw.,1/1,,90,False,True,False,1662892200
+217,18546209,1,384,19806,77458057,,,276004,5,7189,Roma vs Atalanta,2022-09-18 16:00:00,Atalanta won after full-time.,1/1,,90,False,True,False,1663516800
+218,18546193,1,384,19806,77458057,,,276002,5,7224,Udinese vs Roma,2022-09-04 18:45:00,Udinese won after full-time.,1/1,,90,False,True,False,1662317100
+219,18546203,1,384,19806,77458057,,,276003,5,1613,Sassuolo vs Udinese,2022-09-11 13:00:00,Udinese won after full-time.,1/1,,90,False,True,False,1662901200
+220,18546213,1,384,19806,77458057,,,276004,5,7224,Udinese vs Inter,2022-09-18 10:30:00,Udinese won after full-time.,1/1,,90,False,True,False,1663497000
+221,18546175,1,384,19806,77458057,,,276001,5,5515,Bologna vs Salernitana,2022-09-01 18:45:00,Game ended in draw.,1/1,,90,False,True,False,1662057900
+222,18546190,1,384,19806,77458057,,,276002,5,5026,Salernitana vs Empoli,2022-09-05 16:30:00,Game ended in draw.,1/1,,90,False,True,False,1662395400
+223,18546198,1,384,19806,77458057,,,276003,5,118500,Juventus vs Salernitana,2022-09-11 18:45:00,Game ended in draw.,1/1,,90,False,True,False,1662921900
+224,18546210,1,384,19806,77458057,,,276004,5,5026,Salernitana vs Lecce,2022-09-16 18:45:00,Lecce won after full-time.,1/1,,90,False,True,False,1663353900
+225,18546188,1,384,19806,77458057,,,276002,5,19085,Milan vs Inter,2022-09-03 16:00:00,Milan won after full-time.,1/1,,90,False,True,False,1662220800
+226,18546202,1,384,19806,77458057,,,276003,5,142,Sampdoria vs Milan,2022-09-10 18:45:00,Milan won after full-time.,1/1,,90,False,True,False,1662835500
+227,18546207,1,384,19806,77458057,,,276004,5,19085,Milan vs Napoli,2022-09-18 18:45:00,Napoli won after full-time.,1/1,,90,False,True,False,1663526700
+228,18546215,1,384,19806,77458057,,,276005,5,7220,Empoli vs Milan,2022-10-01 18:45:00,Milan won after full-time.,1/1,,90,False,True,False,1664649900
+229,18546185,1,384,19806,77458057,,,276002,5,7223,Fiorentina vs Juventus,2022-09-03 13:00:00,Game ended in draw.,1/1,,90,False,True,False,1662210000
+230,18546195,1,384,19806,77458057,,,276003,5,5515,Bologna vs Fiorentina,2022-09-11 13:00:00,Bologna won after full-time.,1/1,,90,False,True,False,1662901200
+231,18546206,1,384,19806,77458057,,,276004,5,7223,Fiorentina vs Hellas Verona,2022-09-18 13:00:00,Fiorentina won after full-time.,1/1,,90,False,True,False,1663506000
+232,18546187,1,384,19806,77458057,,,276002,5,7189,Lazio vs Napoli,2022-09-03 18:45:00,Napoli won after full-time.,1/1,,90,False,True,False,1662230700
+233,18546199,1,384,19806,77458057,,,276003,5,7189,Lazio vs Hellas Verona,2022-09-11 16:00:00,Lazio won after full-time.,1/1,,90,False,True,False,1662912000
+234,18546205,1,384,19806,77458057,,,276004,5,7129,Cremonese vs Lazio,2022-09-18 13:00:00,Lazio won after full-time.,1/1,,90,False,True,False,1663506000
+235,18546193,1,384,19806,77458057,,,276002,5,7224,Udinese vs Roma,2022-09-04 18:45:00,Udinese won after full-time.,1/1,,90,False,True,False,1662317100
+236,18546196,1,384,19806,77458057,,,276003,5,7220,Empoli vs Roma,2022-09-12 18:45:00,Roma won after full-time.,1/1,,90,False,True,False,1663008300
+237,18546209,1,384,19806,77458057,,,276004,5,7189,Roma vs Atalanta,2022-09-18 16:00:00,Atalanta won after full-time.,1/1,,90,False,True,False,1663516800
+238,18546217,1,384,19806,77458057,,,276005,5,19085,Inter vs Roma,2022-10-01 16:00:00,Roma won after full-time.,1/1,,90,False,True,False,1664640000
+239,18546174,1,384,19806,77458057,,,276001,5,193,Atalanta vs Torino,2022-09-01 18:45:00,Atalanta won after full-time.,1/1,,90,False,True,False,1662057900
+240,18546192,1,384,19806,77458057,,,276002,5,142,Torino vs Lecce,2022-09-05 18:45:00,Torino won after full-time.,1/1,,90,False,True,False,1662403500
+241,18546197,1,384,19806,77458057,,,276003,5,19085,Inter vs Torino,2022-09-10 16:00:00,Inter won after full-time.,1/1,,90,False,True,False,1662825600
+242,18546212,1,384,19806,77458057,,,276004,5,142,Torino vs Sassuolo,2022-09-17 18:45:00,Sassuolo won after full-time.,1/1,,90,False,True,False,1663440300
+243,18546221,1,384,19806,77458057,,,276005,5,134,Napoli vs Torino,2022-10-01 13:00:00,Napoli won after full-time.,1/1,,90,False,True,False,1664629200
+244,18546192,1,384,19806,77458057,,,276002,5,142,Torino vs Lecce,2022-09-05 18:45:00,Torino won after full-time.,1/1,,90,False,True,False,1662403500
+245,18546200,1,384,19806,77458057,,,276003,5,5047,Lecce vs Monza,2022-09-11 13:00:00,Game ended in draw.,1/1,,90,False,True,False,1662901200
+246,18546210,1,384,19806,77458057,,,276004,5,5026,Salernitana vs Lecce,2022-09-16 18:45:00,Lecce won after full-time.,1/1,,90,False,True,False,1663353900
+247,18546175,1,384,19806,77458057,,,276001,5,5515,Bologna vs Salernitana,2022-09-01 18:45:00,Game ended in draw.,1/1,,90,False,True,False,1662057900
+248,18546191,1,384,19806,77458057,,,276002,5,7305,Spezia vs Bologna,2022-09-04 13:00:00,Game ended in draw.,1/1,,90,False,True,False,1662296400
+249,18546195,1,384,19806,77458057,,,276003,5,5515,Bologna vs Fiorentina,2022-09-11 13:00:00,Bologna won after full-time.,1/1,,90,False,True,False,1662901200
+250,18546204,1,384,19806,77458057,,,276004,5,5515,Bologna vs Empoli,2022-09-17 13:00:00,Empoli won after full-time.,1/1,,90,False,True,False,1663419600
+251,18546184,1,384,19806,77458057,,,276002,5,7129,Cremonese vs Sassuolo,2022-09-04 10:30:00,Game ended in draw.,1/1,,90,False,True,False,1662287400
+252,18546203,1,384,19806,77458057,,,276003,5,1613,Sassuolo vs Udinese,2022-09-11 13:00:00,Udinese won after full-time.,1/1,,90,False,True,False,1662901200
+253,18546212,1,384,19806,77458057,,,276004,5,142,Torino vs Sassuolo,2022-09-17 18:45:00,Sassuolo won after full-time.,1/1,,90,False,True,False,1663440300
+254,18546187,1,384,19806,77458057,,,276002,5,7189,Lazio vs Napoli,2022-09-03 18:45:00,Napoli won after full-time.,1/1,,90,False,True,False,1662230700
+255,18546201,1,384,19806,77458057,,,276003,5,134,Napoli vs Spezia,2022-09-10 13:00:00,Napoli won after full-time.,1/1,,90,False,True,False,1662814800
+256,18546207,1,384,19806,77458057,,,276004,5,19085,Milan vs Napoli,2022-09-18 18:45:00,Napoli won after full-time.,1/1,,90,False,True,False,1663526700
+257,18546221,1,384,19806,77458057,,,276005,5,134,Napoli vs Torino,2022-10-01 13:00:00,Napoli won after full-time.,1/1,,90,False,True,False,1664629200
+258,18489633,1,648,19434,77456834,,,268729,5,340831,América Mineiro vs Coritiba,2022-09-03 23:30:00,América Mineiro won after full-time.,1/1,,90,False,True,False,1662247800
+259,18489647,1,648,19434,77456834,,,268730,5,10562,Botafogo vs América Mineiro,2022-09-11 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1662904800
+260,18489653,1,648,19434,77456834,,,268731,5,340831,América Mineiro vs Corinthians,2022-09-18 21:00:00,América Mineiro won after full-time.,1/1,,90,False,True,False,1663534800
+261,18489671,1,648,19434,77456834,,,268732,5,10495,Cuiabá vs América Mineiro,2022-09-29 00:00:00,Cuiabá won after full-time.,1/1,,90,False,True,False,1664409600
+262,18489679,1,648,19434,77456834,,,268733,5,8283,Ceará vs América Mineiro,2022-10-01 18:00:00,América Mineiro won after full-time.,1/1,,90,False,True,False,1664647200
+263,18489636,1,648,19434,77456834,,,268729,5,10494,Corinthians vs Internacional,2022-09-04 19:00:00,Game ended in draw.,1/1,,90,False,True,False,1662318000
+264,18489648,1,648,19434,77456834,,,268730,5,1604,Internacional vs Cuiabá,2022-09-10 19:30:00,Internacional won after full-time.,1/1,,90,False,True,False,1662838200
+265,18489660,1,648,19434,77456834,,,268731,5,290225,Atlético GO vs Internacional,2022-09-19 23:00:00,Internacional won after full-time.,1/1,,90,False,True,False,1663628400
+266,18489668,1,648,19434,77456834,,,268732,5,1604,Internacional vs Bragantino,2022-09-29 00:45:00,Game ended in draw.,1/1,,90,False,True,False,1664412300
+267,18489678,1,648,19434,77456834,,,268733,5,1604,Internacional vs Santos,2022-10-01 18:00:00,Internacional won after full-time.,1/1,,90,False,True,False,1664647200
+268,18489633,1,648,19434,77456834,,,268729,5,340831,América Mineiro vs Coritiba,2022-09-03 23:30:00,América Mineiro won after full-time.,1/1,,90,False,True,False,1662247800
+269,18489652,1,648,19434,77456834,,,268730,5,4072,Coritiba vs Atlético GO,2022-09-11 19:00:00,Coritiba won after full-time.,1/1,,90,False,True,False,1662922800
+270,18489657,1,648,19434,77456834,,,268731,5,10562,Botafogo vs Coritiba,2022-09-17 22:00:00,Botafogo won after full-time.,1/1,,90,False,True,False,1663452000
+271,18489672,1,648,19434,77456834,,,268732,5,4072,Coritiba vs Ceará,2022-09-28 22:00:00,Coritiba won after full-time.,1/1,,90,False,True,False,1664402400
+272,18489642,1,648,19434,77456834,,,268729,5,338833,Athletico PR vs Fluminense,2022-09-03 22:00:00,Athletico PR won after full-time.,1/1,,90,False,True,False,1662242400
+273,18489651,1,648,19434,77456834,,,268730,5,4190,Avaí vs Athletico PR,2022-09-11 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1662904800
+274,18489662,1,648,19434,77456834,,,268731,5,338833,Athletico PR vs Cuiabá,2022-09-18 22:00:00,Game ended in draw.,1/1,,90,False,True,False,1663538400
+275,18489667,1,648,19434,77456834,,,268732,5,2156,Santos vs Athletico PR,2022-09-28 00:00:00,Santos won after full-time.,1/1,,90,False,True,False,1664323200
+276,18489682,1,648,19434,77456834,,,268733,5,338833,Athletico PR vs Juventude,2022-10-01 22:00:00,Athletico PR won after full-time.,1/1,,90,False,True,False,1664661600
+277,18489641,1,648,19434,77456834,,,268729,5,10495,Cuiabá vs São Paulo,2022-09-04 22:00:00,Game ended in draw.,1/1,,90,False,True,False,1662328800
+278,18489645,1,648,19434,77456834,,,268730,5,2035,São Paulo vs Corinthians,2022-09-11 19:00:00,Game ended in draw.,1/1,,90,False,True,False,1662922800
+279,18489659,1,648,19434,77456834,,,268731,5,8332,Ceará vs São Paulo,2022-09-18 19:00:00,São Paulo won after full-time.,1/1,,90,False,True,False,1663527600
+280,18489665,1,648,19434,77456834,,,268732,5,340188,São Paulo vs Avaí,2022-09-25 23:00:00,São Paulo won after full-time.,1/1,,90,False,True,False,1664146800
+281,18489636,1,648,19434,77456834,,,268729,5,10494,Corinthians vs Internacional,2022-09-04 19:00:00,Game ended in draw.,1/1,,90,False,True,False,1662318000
+282,18489645,1,648,19434,77456834,,,268730,5,2035,São Paulo vs Corinthians,2022-09-11 19:00:00,Game ended in draw.,1/1,,90,False,True,False,1662922800
+283,18489653,1,648,19434,77456834,,,268731,5,340831,América Mineiro vs Corinthians,2022-09-18 21:00:00,América Mineiro won after full-time.,1/1,,90,False,True,False,1663534800
+284,18489666,1,648,19434,77456834,,,268732,5,10494,Corinthians vs Atlético GO,2022-09-28 22:00:00,Corinthians won after full-time.,1/1,,90,False,True,False,1664402400
+285,18489639,1,648,19434,77456834,,,268729,5,8332,Fortaleza vs Botafogo,2022-09-04 19:00:00,Botafogo won after full-time.,1/1,,90,False,True,False,1662318000
+286,18489647,1,648,19434,77456834,,,268730,5,10562,Botafogo vs América Mineiro,2022-09-11 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1662904800
+287,18489657,1,648,19434,77456834,,,268731,5,10562,Botafogo vs Coritiba,2022-09-17 22:00:00,Botafogo won after full-time.,1/1,,90,False,True,False,1663452000
+288,18489670,1,648,19434,77456834,,,268732,5,6073,Goiás vs Botafogo,2022-09-29 00:45:00,Botafogo won after full-time.,1/1,,90,False,True,False,1664412300
+289,18489634,1,648,19434,77456834,,,268729,5,392,Flamengo vs Ceará,2022-09-04 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1662300000
+290,18489650,1,648,19434,77456834,,,268730,5,6073,Goiás vs Flamengo,2022-09-11 22:00:00,Game ended in draw.,1/1,,90,False,True,False,1662933600
+291,18489654,1,648,19434,77456834,,,268731,5,392,Flamengo vs Fluminense,2022-09-18 19:00:00,Fluminense won after full-time.,1/1,,90,False,True,False,1663527600
+292,18489669,1,648,19434,77456834,,,268732,5,8283,Fortaleza vs Flamengo,2022-09-28 22:00:00,Fortaleza won after full-time.,1/1,,90,False,True,False,1664402400
+293,18489674,1,648,19434,77456834,,,268733,5,392,Flamengo vs Bragantino,2022-10-01 22:00:00,Flamengo won after full-time.,1/1,,90,False,True,False,1664661600
+294,18489637,1,648,19434,77456834,,,268729,5,2156,Santos vs Goiás,2022-09-05 23:00:00,Goiás won after full-time.,1/1,,90,False,True,False,1662418800
+295,18489649,1,648,19434,77456834,,,268730,5,8332,Ceará vs Santos,2022-09-10 19:30:00,Ceará won after full-time.,1/1,,90,False,True,False,1662838200
+296,18489656,1,648,19434,77456834,,,268731,5,1998,Palmeiras vs Santos,2022-09-18 21:30:00,Palmeiras won after full-time.,1/1,,90,False,True,False,1663536600
+297,18489667,1,648,19434,77456834,,,268732,5,2156,Santos vs Athletico PR,2022-09-28 00:00:00,Santos won after full-time.,1/1,,90,False,True,False,1664323200
+298,18489678,1,648,19434,77456834,,,268733,5,1604,Internacional vs Santos,2022-10-01 18:00:00,Internacional won after full-time.,1/1,,90,False,True,False,1664647200
+299,18489639,1,648,19434,77456834,,,268729,5,8332,Fortaleza vs Botafogo,2022-09-04 19:00:00,Botafogo won after full-time.,1/1,,90,False,True,False,1662318000
+300,18489644,1,648,19434,77456834,,,268730,5,392,Fluminense vs Fortaleza,2022-09-10 22:00:00,Fluminense won after full-time.,1/1,,90,False,True,False,1662847200
+301,18489658,1,648,19434,77456834,,,268731,5,10477,Juventude vs Fortaleza,2022-09-18 21:00:00,Game ended in draw.,1/1,,90,False,True,False,1663534800
+302,18489669,1,648,19434,77456834,,,268732,5,8283,Fortaleza vs Flamengo,2022-09-28 22:00:00,Fortaleza won after full-time.,1/1,,90,False,True,False,1664402400
+303,18489680,1,648,19434,77456834,,,268733,5,6073,Goiás vs Fortaleza,2022-10-01 22:00:00,Fortaleza won after full-time.,1/1,,90,False,True,False,1664661600
+304,18489635,1,648,19434,77456834,,,268729,5,5057,Bragantino vs Palmeiras,2022-09-03 22:00:00,Game ended in draw.,1/1,,90,False,True,False,1662242400
+305,18489643,1,648,19434,77456834,,,268730,5,1972,Atlético Mineiro vs Bragantino,2022-09-07 20:00:00,Game ended in draw.,1/1,,90,False,True,False,1662580800
+306,18489655,1,648,19434,77456834,,,268731,5,5057,Bragantino vs Goiás,2022-09-18 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1663509600
+307,18489668,1,648,19434,77456834,,,268732,5,1604,Internacional vs Bragantino,2022-09-29 00:45:00,Game ended in draw.,1/1,,90,False,True,False,1664412300
+308,18489674,1,648,19434,77456834,,,268733,5,392,Flamengo vs Bragantino,2022-10-01 22:00:00,Flamengo won after full-time.,1/1,,90,False,True,False,1664661600
+309,18489641,1,648,19434,77456834,,,268729,5,10495,Cuiabá vs São Paulo,2022-09-04 22:00:00,Game ended in draw.,1/1,,90,False,True,False,1662328800
+310,18489648,1,648,19434,77456834,,,268730,5,1604,Internacional vs Cuiabá,2022-09-10 19:30:00,Internacional won after full-time.,1/1,,90,False,True,False,1662838200
+311,18489662,1,648,19434,77456834,,,268731,5,338833,Athletico PR vs Cuiabá,2022-09-18 22:00:00,Game ended in draw.,1/1,,90,False,True,False,1663538400
+312,18489671,1,648,19434,77456834,,,268732,5,10495,Cuiabá vs América Mineiro,2022-09-29 00:00:00,Cuiabá won after full-time.,1/1,,90,False,True,False,1664409600
+313,18489640,1,648,19434,77456834,,,268729,5,290225,Atlético GO vs Atlético Mineiro,2022-09-04 21:00:00,Atlético Mineiro won after full-time.,1/1,,90,False,True,False,1662325200
+314,18489643,1,648,19434,77456834,,,268730,5,1972,Atlético Mineiro vs Bragantino,2022-09-07 20:00:00,Game ended in draw.,1/1,,90,False,True,False,1662580800
+315,18489661,1,648,19434,77456834,,,268731,5,4190,Avaí vs Atlético Mineiro,2022-09-17 19:30:00,Avaí won after full-time.,1/1,,90,False,True,False,1663443000
+316,18489663,1,648,19434,77456834,,,268732,5,1972,Atlético Mineiro vs Palmeiras,2022-09-29 00:45:00,Palmeiras won after full-time.,1/1,,90,False,True,False,1664412300
+317,18489673,1,648,19434,77456834,,,268733,5,1972,Atlético Mineiro vs Fluminense,2022-10-01 18:00:00,Atlético Mineiro won after full-time.,1/1,,90,False,True,False,1664647200
+318,18489642,1,648,19434,77456834,,,268729,5,338833,Athletico PR vs Fluminense,2022-09-03 22:00:00,Athletico PR won after full-time.,1/1,,90,False,True,False,1662242400
+319,18489644,1,648,19434,77456834,,,268730,5,392,Fluminense vs Fortaleza,2022-09-10 22:00:00,Fluminense won after full-time.,1/1,,90,False,True,False,1662847200
+320,18489654,1,648,19434,77456834,,,268731,5,392,Flamengo vs Fluminense,2022-09-18 19:00:00,Fluminense won after full-time.,1/1,,90,False,True,False,1663527600
+321,18489664,1,648,19434,77456834,,,268732,5,392,Fluminense vs Juventude,2022-09-28 22:00:00,Fluminense won after full-time.,1/1,,90,False,True,False,1664402400
+322,18489673,1,648,19434,77456834,,,268733,5,1972,Atlético Mineiro vs Fluminense,2022-10-01 18:00:00,Atlético Mineiro won after full-time.,1/1,,90,False,True,False,1664647200
+323,18489635,1,648,19434,77456834,,,268729,5,5057,Bragantino vs Palmeiras,2022-09-03 22:00:00,Game ended in draw.,1/1,,90,False,True,False,1662242400
+324,18489646,1,648,19434,77456834,,,268730,5,1998,Palmeiras vs Juventude,2022-09-11 00:00:00,Palmeiras won after full-time.,1/1,,90,False,True,False,1662854400
+325,18489656,1,648,19434,77456834,,,268731,5,1998,Palmeiras vs Santos,2022-09-18 21:30:00,Palmeiras won after full-time.,1/1,,90,False,True,False,1663536600
+326,18489663,1,648,19434,77456834,,,268732,5,1972,Atlético Mineiro vs Palmeiras,2022-09-29 00:45:00,Palmeiras won after full-time.,1/1,,90,False,True,False,1664412300
+327,18489637,1,648,19434,77456834,,,268729,5,2156,Santos vs Goiás,2022-09-05 23:00:00,Goiás won after full-time.,1/1,,90,False,True,False,1662418800
+328,18489650,1,648,19434,77456834,,,268730,5,6073,Goiás vs Flamengo,2022-09-11 22:00:00,Game ended in draw.,1/1,,90,False,True,False,1662933600
+329,18489655,1,648,19434,77456834,,,268731,5,5057,Bragantino vs Goiás,2022-09-18 14:00:00,Game ended in draw.,1/1,,90,False,True,False,1663509600
+330,18489670,1,648,19434,77456834,,,268732,5,6073,Goiás vs Botafogo,2022-09-29 00:45:00,Botafogo won after full-time.,1/1,,90,False,True,False,1664412300
+331,18489680,1,648,19434,77456834,,,268733,5,6073,Goiás vs Fortaleza,2022-10-01 22:00:00,Fortaleza won after full-time.,1/1,,90,False,True,False,1664661600
