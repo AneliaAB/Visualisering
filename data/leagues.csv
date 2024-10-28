@@ -1,6 +1,5 @@
-,id,country_id,name,image_path
-0,8,462,Premier League,https://cdn.sportmonks.com/images/soccer/leagues/8/8.png
-1,82,11,Bundesliga,https://cdn.sportmonks.com/images/soccer/leagues/18/82.png
-2,384,251,Serie A,https://cdn.sportmonks.com/images/soccer/leagues/0/384.png
-3,486,227,Premier League,https://cdn.sportmonks.com/images/soccer/leagues/6/486.png
-4,564,32,La Liga,https://cdn.sportmonks.com/images/soccer/leagues/20/564.png
+,index,id,country_id,name,image_path
+0,0,8,462,Premier League,https://cdn.sportmonks.com/images/soccer/leagues/8/8.png
+1,1,82,11,Bundesliga,https://cdn.sportmonks.com/images/soccer/leagues/18/82.png
+2,2,384,251,Serie A,https://cdn.sportmonks.com/images/soccer/leagues/0/384.png
+3,4,564,32,La Liga,https://cdn.sportmonks.com/images/soccer/leagues/20/564.png
