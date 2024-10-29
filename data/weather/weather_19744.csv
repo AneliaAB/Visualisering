@@ -1,0 +1,190 @@
+,fixture_id,pitch,weatherDescription,current
+0,18536657,GOOD,few clouds,
+1,18536670,GOOD,broken clouds,
+2,18536676,GOOD,light rain,
+3,18536688,GOOD,moderate rain,
+4,18536698,GOOD,sky is clear,
+5,18536706,GOOD,moderate rain,
+6,18536713,GOOD,NaN,NaN
+7,18536724,GOOD,light rain,
+8,18536735,GOOD,sky is clear,
+9,18536737,GOOD,NaN,NaN
+10,18536753,GOOD,light rain,
+11,18536762,GOOD,broken clouds,
+12,18536770,GOOD,light rain,
+13,18536779,GOOD,overcast clouds,
+14,18536787,GOOD,overcast clouds,
+15,18536797,GOOD,few clouds,"{'temp': 0.63, 'wind': 0.45, 'humidity': '77%', 'pressure': 1027, 'direction': 350, 'feels_like': 0.63, 'description': 'overcast clouds'}"
+16,18536805,GOOD,few clouds,"{'temp': 1.15, 'wind': 2.06, 'humidity': '85%', 'pressure': 1038, 'direction': 50, 'feels_like': -1.19, 'description': 'overcast clouds'}"
+17,18536814,GOOD,sky is clear,"{'temp': 1.56, 'wind': 2.57, 'humidity': '70%', 'pressure': 1026, 'direction': 280, 'feels_like': -1.24, 'description': 'overcast clouds'}"
+18,18536821,GOOD,broken clouds,"{'temp': 8.91, 'wind': 1.54, 'humidity': '63%', 'pressure': 1036, 'direction': 120, 'feels_like': 8.36, 'description': 'broken clouds'}"
+19,18536832,GOOD,overcast clouds,"{'temp': 8.72, 'wind': 3.6, 'humidity': '85%', 'pressure': 1036, 'direction': 300, 'feels_like': 6.63, 'description': 'broken clouds'}"
+20,18536835,GOOD,light rain,"{'temp': 7.92, 'wind': 1.54, 'humidity': '88%', 'pressure': 1024, 'direction': 240, 'feels_like': 7.23, 'description': 'light intensity drizzle'}"
+22,18536668,GOOD,NaN,NaN
+23,18536675,GOOD,moderate rain,
+24,18536689,GOOD,light rain,
+25,18536693,GOOD,sky is clear,
+26,18536703,GOOD,light rain,
+27,18536712,GOOD,light rain,
+28,18536722,GOOD,moderate rain,
+29,18536734,GOOD,few clouds,
+30,18536738,GOOD,light rain,
+31,18536751,GOOD,moderate rain,
+32,18536756,GOOD,overcast clouds,
+33,18536764,GOOD,light rain,
+34,18536774,GOOD,overcast clouds,
+35,18536782,GOOD,sky is clear,
+37,18536792,GOOD,snow,"{'temp': 3.37, 'wind': 9.26, 'humidity': '74%', 'pressure': 1023, 'direction': 10, 'feels_like': -2.35, 'description': 'light rain'}"
+38,18536807,GOOD,sky is clear,"{'temp': -1.77, 'wind': 3.09, 'humidity': '94%', 'pressure': 1027, 'direction': 220, 'feels_like': -5.71, 'description': 'overcast clouds'}"
+40,18536818,GOOD,scattered clouds,"{'temp': 3.86, 'wind': 5.66, 'humidity': '67%', 'pressure': 1037, 'direction': 340, 'feels_like': -0.4, 'description': 'broken clouds'}"
+41,18536827,GOOD,overcast clouds,"{'temp': 6.58, 'wind': 6.71, 'humidity': '83%', 'pressure': 1030, 'direction': 270, 'feels_like': 2.64, 'description': 'overcast clouds'}"
+42,18536837,GOOD,rain and snow,"{'temp': 6.72, 'wind': 6.17, 'humidity': '60%', 'pressure': 1019, 'direction': 320, 'feels_like': 3.01, 'description': 'scattered clouds'}"
+43,18536660,GOOD,broken clouds,
+44,18536664,GOOD,sky is clear,
+45,18536678,GOOD,moderate rain,
+46,18536683,GOOD,light rain,
+47,18536696,GOOD,few clouds,
+48,18536705,GOOD,light rain,
+50,18536723,GOOD,moderate rain,
+51,18536733,GOOD,light rain,
+52,18536741,GOOD,light rain,
+53,18536746,GOOD,light rain,
+54,18536759,GOOD,overcast clouds,
+55,18536766,GOOD,NaN,NaN
+56,18536777,GOOD,broken clouds,
+57,18536784,GOOD,overcast clouds,
+58,18536796,GOOD,light snow,"{'temp': 2.11, 'wind': 4.92, 'humidity': '82%', 'pressure': 1029, 'direction': 13, 'feels_like': -2.23, 'description': 'overcast clouds'}"
+60,18536816,GOOD,broken clouds,"{'temp': 3.15, 'wind': 3.6, 'humidity': '75%', 'pressure': 1028, 'direction': 260, 'feels_like': -0.15, 'description': 'clear sky'}"
+61,18536822,GOOD,light snow,"{'temp': 2.06, 'wind': 2.23, 'humidity': '77%', 'pressure': 1037, 'direction': 102, 'feels_like': -0.31, 'description': 'broken clouds'}"
+62,18536833,GOOD,overcast clouds,"{'temp': 6.31, 'wind': 2.68, 'humidity': '74%', 'pressure': 1032, 'direction': 226, 'feels_like': 4.31, 'description': 'broken clouds'}"
+63,18536840,GOOD,moderate rain,"{'temp': 9.81, 'wind': 9.59, 'humidity': '96%', 'pressure': 1012, 'direction': 276, 'feels_like': 6.05, 'description': 'overcast clouds'}"
+64,18536656,GOOD,broken clouds,
+65,18536665,GOOD,sky is clear,
+66,18536674,GOOD,moderate rain,
+67,18536686,GOOD,NaN,NaN
+68,18536692,GOOD,moderate rain,
+70,18536711,GOOD,moderate rain,
+71,18536718,GOOD,light rain,
+72,18536728,GOOD,moderate rain,
+73,18536740,GOOD,moderate rain,
+75,18536755,GOOD,NaN,NaN
+77,18536775,GOOD,light rain,
+78,18536781,GOOD,broken clouds,
+79,18536794,GOOD,light snow,"{'temp': 0.89, 'wind': 3.09, 'humidity': '90%', 'pressure': 1032, 'direction': 350, 'feels_like': -2.51, 'description': 'overcast clouds'}"
+80,18536800,GOOD,sky is clear,"{'temp': -0.15, 'wind': 1.65, 'humidity': '85%', 'pressure': 1028, 'direction': 283, 'feels_like': -2.16, 'description': 'broken clouds'}"
+81,18536809,GOOD,overcast clouds,"{'temp': 2.44, 'wind': 2.92, 'humidity': '74%', 'pressure': 1025, 'direction': 218, 'feels_like': -0.5, 'description': 'overcast clouds'}"
+82,18536824,GOOD,light rain,"{'temp': 5.3, 'wind': 9.77, 'humidity': '83%', 'pressure': 1025, 'direction': 260, 'feels_like': 0.05, 'description': 'light rain'}"
+83,18536831,GOOD,broken clouds,"{'temp': 7.73, 'wind': 2.1, 'humidity': '75%', 'pressure': 1036, 'direction': 251, 'feels_like': 6.46, 'description': 'overcast clouds'}"
+84,18536836,GOOD,light rain,"{'temp': 8.68, 'wind': 4.49, 'humidity': '80%', 'pressure': 1027, 'direction': 281, 'feels_like': 6.15, 'description': 'overcast clouds'}"
+85,18536662,GOOD,moderate rain,
+86,18536667,GOOD,sky is clear,
+87,18536681,GOOD,moderate rain,
+88,18536684,GOOD,light rain,
+90,18536702,GOOD,few clouds,
+91,18536715,GOOD,moderate rain,
+92,18536720,GOOD,moderate rain,
+94,18536736,GOOD,scattered clouds,
+95,18536747,GOOD,heavy intensity rain,
+96,18536761,GOOD,overcast clouds,
+97,18536765,GOOD,overcast clouds,
+98,18536773,GOOD,light rain,
+102,18536801,GOOD,broken clouds,"{'temp': 1.03, 'wind': 0.89, 'humidity': '92%', 'pressure': 1024, 'direction': 336, 'feels_like': 1.03, 'description': 'broken clouds'}"
+103,18536811,GOOD,broken clouds,"{'temp': 2.45, 'wind': 1.79, 'humidity': '72%', 'pressure': 1023, 'direction': 23, 'feels_like': 0.65, 'description': 'broken clouds'}"
+104,18536817,GOOD,overcast clouds,"{'temp': 7.98, 'wind': 2.57, 'humidity': '81%', 'pressure': 1036, 'direction': 50, 'feels_like': 6.38, 'description': 'broken clouds'}"
+105,18536828,GOOD,broken clouds,"{'temp': 7.8, 'wind': 3.13, 'humidity': '57%', 'pressure': 1034, 'direction': 360, 'feels_like': 5.79, 'description': 'broken clouds'}"
+106,18536841,GOOD,light rain,"{'temp': 9.16, 'wind': 2.68, 'humidity': '93%', 'pressure': 1015, 'direction': 270, 'feels_like': 7.71, 'description': 'overcast clouds'}"
+109,18536673,GOOD,moderate rain,
+111,18536691,GOOD,sky is clear,
+112,18536701,GOOD,light rain,
+113,18536717,GOOD,moderate rain,
+114,18536721,GOOD,moderate rain,
+115,18536727,GOOD,light rain,
+117,18536745,GOOD,overcast clouds,
+118,18536758,GOOD,overcast clouds,
+119,18536763,GOOD,few clouds,
+121,18536785,GOOD,overcast clouds,
+122,18536790,GOOD,snow,"{'temp': 0.96, 'wind': 2.57, 'humidity': '87%', 'pressure': 1030, 'direction': 30, 'feels_like': -1.95, 'description': 'overcast clouds'}"
+123,18536802,GOOD,NaN,NaN
+126,18536834,GOOD,overcast clouds,"{'temp': 8.63, 'wind': 7.2, 'humidity': '92%', 'pressure': 1031, 'direction': 280, 'feels_like': 5.12, 'description': 'overcast clouds'}"
+129,18536672,GOOD,sky is clear,
+131,18536690,GOOD,sky is clear,
+132,18536697,GOOD,light rain,
+133,18536708,GOOD,light rain,
+135,18536726,GOOD,moderate rain,
+136,18536730,GOOD,overcast clouds,
+137,18536744,GOOD,light rain,
+140,18536771,GOOD,sky is clear,
+141,18536772,GOOD,broken clouds,
+142,18536789,GOOD,scattered clouds,
+143,18536793,GOOD,sky is clear,"{'temp': 0.73, 'wind': 1.54, 'humidity': '76%', 'pressure': 1035, 'direction': 320, 'feels_like': -0.98, 'description': 'broken clouds'}"
+146,18536825,GOOD,rain and snow,"{'temp': 3.86, 'wind': 1.54, 'humidity': '92%', 'pressure': 1033, 'direction': 30, 'feels_like': 2.59, 'description': 'light rain'}"
+148,18536839,GOOD,light rain,"{'temp': 11.22, 'wind': 7.72, 'humidity': '75%', 'pressure': 1021, 'direction': 230, 'feels_like': 10.36, 'description': 'broken clouds'}"
+149,18536658,GOOD,scattered clouds,
+150,18536666,GOOD,light rain,
+151,18536677,GOOD,sky is clear,
+152,18536685,GOOD,broken clouds,
+155,18536714,GOOD,moderate rain,
+157,18536731,GOOD,sky is clear,
+158,18536739,GOOD,light rain,
+159,18536748,GOOD,NaN,NaN
+160,18536757,GOOD,overcast clouds,
+165,18536799,GOOD,overcast clouds,"{'temp': 1.13, 'wind': 2.06, 'humidity': '95%', 'pressure': 996, 'direction': 40, 'feels_like': -1.21, 'description': 'overcast clouds'}"
+166,18536815,GOOD,overcast clouds,"{'temp': 1.29, 'wind': 3.13, 'humidity': '77%', 'pressure': 1022, 'direction': 193, 'feels_like': -2.06, 'description': 'overcast clouds'}"
+167,18536819,GOOD,overcast clouds,"{'temp': 9.79, 'wind': 1.03, 'humidity': '67%', 'pressure': 1040, 'direction': 310, 'feels_like': 9.79, 'description': 'broken clouds'}"
+168,18536829,GOOD,overcast clouds,"{'temp': 10.1, 'wind': 0.86, 'humidity': '75%', 'pressure': 1042, 'direction': 64, 'feels_like': 9.12, 'description': 'scattered clouds'}"
+169,18536843,GOOD,overcast clouds,"{'temp': 14.61, 'wind': 8.23, 'humidity': '62%', 'pressure': 1022, 'direction': 240, 'feels_like': 13.75, 'description': 'overcast clouds'}"
+171,18536671,GOOD,sky is clear,
+174,18536699,GOOD,moderate rain,
+175,18536707,GOOD,moderate rain,
+177,18536725,GOOD,light rain,
+179,18536743,GOOD,light rain,
+183,18536780,GOOD,light rain,
+184,18536788,GOOD,broken clouds,
+185,18536795,GOOD,light snow,"{'temp': 0.63, 'wind': 7.72, 'humidity': '78%', 'pressure': 1027, 'direction': 20, 'feels_like': -5.4, 'description': 'scattered clouds'}"
+186,18536806,GOOD,sky is clear,"{'temp': 1.77, 'wind': 1.34, 'humidity': '77%', 'pressure': 1035, 'direction': 228, 'feels_like': 0.51, 'description': 'clear sky'}"
+188,18536820,GOOD,overcast clouds,"{'temp': 7.65, 'wind': 0, 'humidity': '82%', 'pressure': 1037, 'direction': 0, 'feels_like': 7.65, 'description': 'overcast clouds'}"
+191,18536663,GOOD,sky is clear,
+195,18536695,GOOD,light rain,
+197,18536710,GOOD,light rain,
+198,18536719,GOOD,NaN,NaN
+199,18536729,GOOD,NaN,NaN
+201,18536752,GOOD,moderate rain,
+203,18536767,GOOD,light rain,
+206,18536791,GOOD,overcast clouds,"{'temp': -2, 'wind': 2.24, 'humidity': '89%', 'pressure': 1019, 'direction': 0, 'feels_like': -5.09, 'description': 'clear sky'}"
+208,18536810,GOOD,light snow,"{'temp': 2.16, 'wind': 5.81, 'humidity': '97%', 'pressure': 1024, 'direction': 20, 'feels_like': -2.62, 'description': 'light intensity drizzle'}"
+214,18536680,GOOD,moderate rain,
+215,18536687,GOOD,light rain,
+218,18536709,GOOD,light rain,
+223,18536760,GOOD,broken clouds,
+224,18536769,GOOD,light rain,
+226,18536786,GOOD,overcast clouds,
+228,18536804,GOOD,overcast clouds,"{'temp': -0.71, 'wind': 2.57, 'humidity': '95%', 'pressure': 1024, 'direction': 70, 'feels_like': -3.94, 'description': 'overcast clouds'}"
+231,18536830,GOOD,NaN,NaN
+232,18536842,GOOD,light rain,"{'temp': 10.44, 'wind': 7.72, 'humidity': '75%', 'pressure': 1025, 'direction': 240, 'feels_like': 9.5, 'description': 'clear sky'}"
+233,18536659,GOOD,broken clouds,
+236,18536682,GOOD,moderate rain,
+237,18536694,GOOD,light rain,
+243,18536750,GOOD,light rain,
+245,18536768,GOOD,light rain,
+246,18536778,GOOD,overcast clouds,
+250,18536813,GOOD,overcast clouds,"{'temp': 2.46, 'wind': 3.42, 'humidity': '68%', 'pressure': 1028, 'direction': 37, 'feels_like': -0.87, 'description': 'overcast clouds'}"
+253,18536838,GOOD,light rain,"{'temp': 9.8, 'wind': 4.63, 'humidity': '93%', 'pressure': 1020, 'direction': 240, 'feels_like': 7.48, 'description': 'overcast clouds'}"
+259,18536700,GOOD,light rain,
+260,18536716,GOOD,light rain,
+263,18536742,GOOD,moderate rain,
+269,18536798,GOOD,light snow,"{'temp': -0.37, 'wind': 6.17, 'humidity': '88%', 'pressure': 1025, 'direction': 360, 'feels_like': -6, 'description': 'light snow'}"
+270,18536803,GOOD,overcast clouds,"{'temp': 2.35, 'wind': 2.98, 'humidity': '90%', 'pressure': 1036, 'direction': 47, 'feels_like': -0.66, 'description': 'overcast clouds'}"
+275,18536661,GOOD,broken clouds,
+276,18536669,GOOD,sky is clear,
+277,18536679,GOOD,few clouds,
+283,18536732,GOOD,light rain,
+292,18536812,GOOD,NaN,NaN
+293,18536823,GOOD,overcast clouds,"{'temp': 8.41, 'wind': 0.45, 'humidity': '79%', 'pressure': 1030, 'direction': 3, 'feels_like': 8.41, 'description': 'scattered clouds'}"
+294,18536826,GOOD,overcast clouds,"{'temp': 7.16, 'wind': 4.12, 'humidity': '50%', 'pressure': 1034, 'direction': 270, 'feels_like': 4.45, 'description': 'clear sky'}"
+301,18536704,GOOD,light rain,
+306,18536749,GOOD,light rain,
+309,18536776,GOOD,moderate rain,
+317,18536655,GOOD,overcast clouds,
+331,18536783,GOOD,NaN,NaN
+335,18536808,GOOD,broken clouds,"{'temp': -0.22, 'wind': 1.03, 'humidity': '91%', 'pressure': 1025, 'direction': 0, 'feels_like': -0.22, 'description': 'overcast clouds'}"
+350,18536754,GOOD,broken clouds,
