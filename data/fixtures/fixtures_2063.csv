@@ -1,0 +1,341 @@
+,fixture_id,name,league_id,season_id,venue_id,formation_away,formation_home,referee
+0,401380,Rayo Vallecano vs Valencia,564,2063,304396.0,4-3-3,4-4-2,1661054
+1,401466,Celta de Vigo vs Rayo Vallecano,564,2063,9239.0,4-2-3-1,4-3-3,2524116
+2,401618,Rayo Vallecano vs Deportivo La Coruña,564,2063,304396.0,4-5-1,4-2-3-1,4857045
+3,402165,Las Palmas vs Rayo Vallecano,564,2063,1716.0,4-2-3-1,5-3-2,1661209
+4,403152,Rayo Vallecano vs Sporting Gijón,564,2063,304396.0,4-4-2,4-2-3-1,1661367
+5,403226,Sevilla vs Rayo Vallecano,564,2063,177.0,4-2-3-1,4-2-3-1,"[{'id': 5285690, 'fixture_id': 403226, 'referee_id': 12829, 'type_id': 7}, {'id': 5285694, 'fixture_id': 403226, 'referee_id': 20411, 'type_id': 9}]"
+6,403349,Rayo Vallecano vs Real Betis,564,2063,304396.0,4-4-2,4-2-3-1,1661468
+7,403408,FC Barcelona vs Rayo Vallecano,564,2063,,4-2-3-1,4-3-3,"[{'id': 1661656, 'fixture_id': 403408, 'referee_id': 15309, 'type_id': 7}, {'id': 2765204, 'fixture_id': 403408, 'referee_id': 15908, 'type_id': 8}]"
+8,403485,Rayo Vallecano vs Espanyol,564,2063,304396.0,4-2-3-1,4-2-3-1,1236484
+9,403633,SD Eibar vs Rayo Vallecano,564,2063,9242.0,4-2-3-1,4-2-3-1,1236641
+10,403709,Rayo Vallecano vs Granada,564,2063,304396.0,4-2-3-1,4-2-3-1,"[{'id': 1236721, 'fixture_id': 403709, 'referee_id': 20892, 'type_id': 8}, {'id': 3930832, 'fixture_id': 403709, 'referee_id': 12810, 'type_id': 7}]"
+11,403847,Getafe vs Rayo Vallecano,564,2063,9351.0,4-2-3-1,4-2-3-1,4857273
+12,403931,Rayo Vallecano vs Athletic Club,564,2063,304396.0,4-2-3-1,4-2-3-1,"[{'id': 1661627, 'fixture_id': 403931, 'referee_id': 19662, 'type_id': 9}, {'id': 4852358, 'fixture_id': 403931, 'referee_id': 11712, 'type_id': 8}]"
+14,1096139,Rayo Vallecano vs Getafe,570,5683,304396.0,NaN,NaN,2881832
+15,404004,Villarreal vs Rayo Vallecano,564,2063,9185.0,4-2-3-1,4-4-2,1661805
+16,404096,Rayo Vallecano vs Málaga,564,2063,304396.0,4-2-3-1,4-2-3-1,1661759
+17,1096149,Getafe vs Rayo Vallecano,570,5683,9351.0,4-2-3-1,4-2-3-1,2863762
+18,404174,Real Madrid vs Rayo Vallecano,564,2063,2020.0,4-2-3-1,4-3-3,1661646
+19,404261,Rayo Vallecano vs Atlético Madrid,564,2063,304396.0,4-3-3,3-1-4-2,"[{'id': 1662641, 'fixture_id': 404261, 'referee_id': 12849, 'type_id': 7}, {'id': 3838721, 'fixture_id': 404261, 'referee_id': 12812, 'type_id': 8}]"
+20,404475,Rayo Vallecano vs Real Sociedad,564,2063,304396.0,4-2-3-1,4-2-3-1,2814208
+21,1095929,Rayo Vallecano vs Atlético Madrid,570,5683,304396.0,4-2-3-1,4-4-2,2863828
+22,404660,Levante vs Rayo Vallecano,564,2063,2015.0,4-4-2,4-3-3,2765063
+23,1095939,Atlético Madrid vs Rayo Vallecano,570,5683,5188.0,4-4-2,4-2-3-1,2863825
+24,404754,Valencia vs Rayo Vallecano,564,2063,9240.0,4-2-3-1,4-1-4-1,1662415
+25,404853,Rayo Vallecano vs Celta de Vigo,564,2063,304396.0,4-2-3-1,4-2-3-1,1662461
+26,404996,Deportivo La Coruña vs Rayo Vallecano,564,2063,39.0,4-2-3-1,4-2-3-1,1663702
+27,405025,Rayo Vallecano vs Las Palmas,564,2063,304396.0,4-4-1-1,4-2-3-1,1663316
+28,405101,Sporting Gijón vs Rayo Vallecano,564,2063,9224.0,4-2-3-1,4-2-3-1,1663705
+29,405242,Rayo Vallecano vs Sevilla,564,2063,304396.0,4-2-3-1,4-2-3-1,1663446
+30,405326,Real Betis vs Rayo Vallecano,564,2063,68.0,4-2-3-1,4-4-2,2814173
+31,405468,Rayo Vallecano vs FC Barcelona,564,2063,304396.0,4-3-3,4-2-3-1,1663846
+32,405564,Espanyol vs Rayo Vallecano,564,2063,9220.0,4-2-3-1,4-3-3,1663677
+33,401346,Málaga vs Sevilla,564,2063,9233.0,4-2-3-1,4-4-2,1661085
+34,401457,FC Barcelona vs Málaga,564,2063,,4-4-2,4-3-3,1661171
+35,5008050,Málaga vs SD Eibar,564,2063,9233.0,4-2-3-1,4-2-3-1,1740788
+36,401629,Getafe vs Málaga,564,2063,9351.0,4-2-3-1,4-2-3-1,4857617
+37,403179,Málaga vs Villarreal,564,2063,9233.0,4-4-2,4-2-3-1,"[{'id': 1661144, 'fixture_id': 403179, 'referee_id': 12158, 'type_id': 7}, {'id': 2765242, 'fixture_id': 403179, 'referee_id': 14894, 'type_id': 9}, {'id': 5285646, 'fixture_id': 403179, 'referee_id': 12024, 'type_id': 8}]"
+38,403219,Real Madrid vs Málaga,564,2063,2020.0,4-4-2,4-3-3,1661196
+39,403339,Málaga vs Real Sociedad,564,2063,9233.0,4-2-3-1,4-4-2,2446627
+40,403417,Valencia vs Málaga,564,2063,9240.0,4-2-3-1,4-3-3,5334254
+41,403523,Málaga vs Deportivo La Coruña,564,2063,9233.0,4-4-2,4-2-3-1,1236519
+42,403653,Sporting Gijón vs Málaga,564,2063,9224.0,4-2-3-1,4-2-3-1,2814245
+43,403718,Málaga vs Real Betis,564,2063,9233.0,4-2-3-1,4-2-3-1,1236723
+44,403782,Espanyol vs Málaga,564,2063,9220.0,4-4-2,4-2-3-1,2503377
+45,403884,Málaga vs Granada,564,2063,9233.0,4-2-3-1,4-2-3-1,1661605
+46,1096280,Mirandés vs Málaga,570,5683,4550.0,NaN,NaN,3384062
+47,404022,Athletic Club vs Málaga,564,2063,9162.0,4-4-2,4-2-3-1,1661799
+49,1096292,Málaga vs Mirandés,570,5683,9233.0,NaN,NaN,2973347
+50,404214,Málaga vs Atlético Madrid,564,2063,9233.0,4-1-4-1,4-4-2,2814216
+51,404243,Levante vs Málaga,564,2063,2015.0,4-4-2,4-3-3,"[{'id': 1661792, 'fixture_id': 404243, 'referee_id': 20892, 'type_id': 8}, {'id': 3937521, 'fixture_id': 404243, 'referee_id': 13604, 'type_id': 9}, {'id': 3954940, 'fixture_id': 404243, 'referee_id': 12810, 'type_id': 7}]"
+52,404365,Málaga vs Celta de Vigo,564,2063,9233.0,4-2-3-1,4-4-2,1661830
+53,404698,Las Palmas vs Málaga,564,2063,1716.0,4-4-2,4-2-3-1,1662177
+54,404717,Sevilla vs Málaga,564,2063,177.0,4-4-2,4-2-3-1,1662609
+55,404822,Málaga vs FC Barcelona,564,2063,9233.0,4-3-3,4-4-2,1662350
+56,404919,SD Eibar vs Málaga,564,2063,9242.0,4-4-2,4-4-2,2814189
+57,405005,Málaga vs Getafe,564,2063,9233.0,4-2-3-1,4-4-2,2524397
+58,405120,Villarreal vs Málaga,564,2063,9185.0,4-4-2,4-4-2,1663850
+59,405251,Málaga vs Real Madrid,564,2063,9233.0,4-3-3,4-4-2,1663355
+60,405337,Real Sociedad vs Málaga,564,2063,133.0,4-4-2,4-2-3-1,1663333
+61,405421,Málaga vs Valencia,564,2063,9233.0,4-3-3,4-4-2,1663525
+62,405507,Deportivo La Coruña vs Málaga,564,2063,39.0,4-4-2,4-3-3,1663869
+63,401419,Real Betis vs Villarreal,564,2063,68.0,4-4-2,4-4-2,1661274
+64,401439,Villarreal vs Espanyol,564,2063,9185.0,4-4-2,4-4-2,1661093
+65,401580,Granada vs Villarreal,564,2063,9237.0,4-4-2,4-2-3-1,"[{'id': 1661079, 'fixture_id': 401580, 'referee_id': 20892, 'type_id': 8}, {'id': 3837908, 'fixture_id': 401580, 'referee_id': 13604, 'type_id': 9}, {'id': 3837688, 'fixture_id': 401580, 'referee_id': 12810, 'type_id': 7}]"
+66,401695,Villarreal vs Athletic Club,564,2063,9185.0,4-2-3-1,4-4-2,1661344
+68,403237,Villarreal vs Atlético Madrid,564,2063,9185.0,4-4-2,4-4-2,1661213
+69,403369,Levante vs Villarreal,564,2063,2015.0,4-4-2,5-3-2,1661300
+70,403437,Villarreal vs Celta de Vigo,564,2063,9185.0,4-3-3,4-4-2,1661767
+71,403541,Las Palmas vs Villarreal,564,2063,1716.0,4-4-2,4-4-1-1,1236537
+72,403596,Villarreal vs Sevilla,564,2063,9185.0,4-2-3-1,4-4-2,3931764
+73,403736,FC Barcelona vs Villarreal,564,2063,,4-5-1,4-3-3,1236744
+74,403819,Villarreal vs SD Eibar,564,2063,9185.0,4-4-2,4-4-2,1236832
+75,403913,Getafe vs Villarreal,564,2063,9351.0,4-3-3,4-4-2,1662105
+77,1096300,Huesca vs Villarreal,570,5683,9342.0,4-4-2,4-2-3-1,2863670
+79,404124,Villarreal vs Real Madrid,564,2063,9185.0,4-3-3,4-4-2,1661796
+80,1096311,Villarreal vs Huesca,570,5683,9185.0,NaN,NaN,"[{'id': 3126505, 'fixture_id': 1096311, 'referee_id': 12158, 'type_id': 7}, {'id': 3126503, 'fixture_id': 1096311, 'referee_id': 15714, 'type_id': 9}, {'id': 4775230, 'fixture_id': 1096311, 'referee_id': 12024, 'type_id': 8}]"
+81,404185,Real Sociedad vs Villarreal,564,2063,133.0,4-4-2,4-3-3,2446645
+82,404337,Villarreal vs Valencia,564,2063,9185.0,5-3-2,4-4-2,1662653
+83,404583,Deportivo La Coruña vs Villarreal,564,2063,39.0,4-4-2,4-2-3-1,1662104
+84,1095584,Athletic Club vs Villarreal,570,5683,9162.0,4-2-3-1,4-2-3-1,2863933
+85,404669,Villarreal vs Sporting Gijón,564,2063,9185.0,4-2-3-1,4-4-2,"[{'id': 2483253, 'fixture_id': 404669, 'referee_id': 20542, 'type_id': 9}, {'id': 3158254, 'fixture_id': 404669, 'referee_id': 12225, 'type_id': 8}, {'id': 4856143, 'fixture_id': 404669, 'referee_id': 12810, 'type_id': 7}]"
+86,1095593,Villarreal vs Athletic Club,570,5683,9185.0,4-2-3-1,4-4-2,2864006
+87,404737,Villarreal vs Real Betis,564,2063,9185.0,4-2-3-1,4-4-2,1662007
+88,404830,Espanyol vs Villarreal,564,2063,9220.0,4-4-2,4-2-3-1,"[{'id': 1662670, 'fixture_id': 404830, 'referee_id': 15309, 'type_id': 7}]"
+89,404937,Villarreal vs Granada,564,2063,9185.0,4-2-3-1,4-4-2,2446579
+90,405034,Athletic Club vs Villarreal,564,2063,9162.0,4-4-2,4-2-3-1,2764991
+92,405280,Atlético Madrid vs Villarreal,564,2063,5188.0,4-4-2,4-4-2,1663250
+93,405346,Villarreal vs Levante,564,2063,9185.0,4-4-2,4-4-2,5106465
+94,405412,Celta de Vigo vs Villarreal,564,2063,9239.0,4-4-2,4-2-3-1,1663754
+95,405488,Villarreal vs Las Palmas,564,2063,9185.0,4-2-3-1,4-4-2,1663347
+96,401401,Sporting Gijón vs Real Madrid,564,2063,9224.0,4-2-3-1,4-4-2,1661057
+97,401474,Real Madrid vs Real Betis,564,2063,2020.0,4-4-2,4-2-3-1,"[{'id': 1661006, 'fixture_id': 401474, 'referee_id': 13608, 'type_id': 9}, {'id': 3837741, 'fixture_id': 401474, 'referee_id': 12829, 'type_id': 7}]"
+98,401541,Espanyol vs Real Madrid,564,2063,9220.0,4-2-3-1,4-4-2,1661219
+99,401638,Real Madrid vs Granada,564,2063,2020.0,4-2-3-1,4-2-3-1,2524119
+100,403161,Athletic Club vs Real Madrid,564,2063,9162.0,4-2-3-1,4-2-3-1,2814265
+102,403379,Atlético Madrid vs Real Madrid,564,2063,5188.0,4-3-3,4-4-2,1661353
+103,403389,Real Madrid vs Levante,564,2063,2020.0,5-3-2,4-3-3,3837534
+104,403494,Celta de Vigo vs Real Madrid,564,2063,9239.0,4-3-3,4-3-3,1236500
+105,403587,Real Madrid vs Las Palmas,564,2063,2020.0,4-1-4-1,4-3-3,1236575
+106,403755,Sevilla vs Real Madrid,564,2063,177.0,4-3-3,4-2-3-1,1236754
+107,403774,Real Madrid vs FC Barcelona,564,2063,2020.0,4-3-3,4-2-3-1,1236781
+108,403922,SD Eibar vs Real Madrid,564,2063,9242.0,4-4-2,4-3-3,"[{'id': 1661693, 'fixture_id': 403922, 'referee_id': 20892, 'type_id': 8}, {'id': 3837483, 'fixture_id': 403922, 'referee_id': 12810, 'type_id': 7}, {'id': 5285228, 'fixture_id': 403922, 'referee_id': 14897, 'type_id': 9}]"
+110,1096210,Cádiz vs Real Madrid,570,5683,4473.0,4-3-3,4-2-3-1,5000776
+111,403950,Real Madrid vs Getafe,564,2063,2020.0,4-1-4-1,4-3-3,2814231
+113,1096218,Real Madrid vs Cádiz,570,5683,,NaN,NaN,[]
+115,404232,Real Madrid vs Real Sociedad,564,2063,2020.0,4-2-3-1,4-3-3,1661677
+116,404602,Valencia vs Real Madrid,564,2063,9240.0,4-3-3,4-3-3,3837256
+117,404650,Real Madrid vs Deportivo La Coruña,564,2063,2020.0,4-2-3-1,4-2-3-1,"[{'id': 1662980, 'fixture_id': 404650, 'referee_id': 15309, 'type_id': 7}, {'id': 1662817, 'fixture_id': 404650, 'referee_id': 15310, 'type_id': 9}]"
+118,404764,Real Madrid vs Sporting Gijón,564,2063,2020.0,4-2-3-1,4-3-3,1662598
+119,404891,Real Betis vs Real Madrid,564,2063,68.0,4-3-3,4-2-3-1,2524349
+120,404986,Real Madrid vs Espanyol,564,2063,2020.0,4-2-3-1,4-3-3,4852027
+121,405082,Granada vs Real Madrid,564,2063,9237.0,4-3-3,4-2-3-1,"[{'id': 1663327, 'fixture_id': 405082, 'referee_id': 20892, 'type_id': 8}, {'id': 4081741, 'fixture_id': 405082, 'referee_id': 12810, 'type_id': 7}]"
+122,405111,Real Madrid vs Athletic Club,564,2063,2020.0,4-2-3-1,4-3-3,1663776
+124,405299,Real Madrid vs Atlético Madrid,564,2063,2020.0,4-4-2,4-3-3,1663552
+125,405441,Levante vs Real Madrid,564,2063,2015.0,4-2-3-1,4-4-2,4858124
+126,405479,Real Madrid vs Celta de Vigo,564,2063,2020.0,4-2-3-1,4-3-3,"[{'id': 1662917, 'fixture_id': 405479, 'referee_id': 50860, 'type_id': 9}, {'id': 1663006, 'fixture_id': 405479, 'referee_id': 20892, 'type_id': 8}, {'id': 4851785, 'fixture_id': 405479, 'referee_id': 12810, 'type_id': 7}]"
+127,401428,Granada vs SD Eibar,564,2063,9237.0,4-2-3-1,4-2-3-1,1661290
+128,401520,Getafe vs Granada,564,2063,9351.0,4-2-3-1,4-2-3-1,1661370
+131,403123,Granada vs Real Sociedad,564,2063,9237.0,4-2-3-1,4-2-3-1,1661324
+132,403198,Valencia vs Granada,564,2063,9240.0,4-2-3-1,4-4-2,1661252
+133,403309,Granada vs Deportivo La Coruña,564,2063,9237.0,4-4-2,4-2-3-1,1662026
+134,403475,Sporting Gijón vs Granada,564,2063,9224.0,4-3-3,4-2-3-1,1236462
+135,403503,Granada vs Real Betis,564,2063,9237.0,4-4-2,4-3-3,2814249
+136,403642,Espanyol vs Granada,564,2063,9220.0,4-2-3-1,4-2-3-1,4857758
+138,403828,Granada vs Athletic Club,564,2063,9237.0,4-2-3-1,4-2-3-1,2446558
+140,1096020,Leganés vs Granada,570,5683,293.0,4-2-3-1,4-2-3-1,2863801
+141,403959,Granada vs Atlético Madrid,564,2063,9237.0,4-3-3,4-3-3,1661975
+142,404068,Levante vs Granada,564,2063,2015.0,4-2-3-1,4-3-3,1661999
+143,1096030,Granada vs Leganés,570,5683,9237.0,NaN,NaN,3126717
+144,404195,Granada vs Celta de Vigo,564,2063,9237.0,4-2-3-1,4-3-3,2524217
+145,404327,Las Palmas vs Granada,564,2063,1716.0,4-1-4-1,4-2-3-1,1662528
+146,404574,Granada vs Sevilla,564,2063,9237.0,4-4-2,3-4-1-2,1662553
+147,1095621,Valencia vs Granada,570,5683,9240.0,5-2-3,4-3-3,"[{'id': 2863915, 'fixture_id': 1095621, 'referee_id': 20892, 'type_id': 8}, {'id': 2863918, 'fixture_id': 1095621, 'referee_id': 43045, 'type_id': 9}, {'id': 3383799, 'fixture_id': 1095621, 'referee_id': 12810, 'type_id': 7}]"
+148,404622,FC Barcelona vs Granada,564,2063,,5-3-2,4-3-3,1662376
+149,1095629,Granada vs Valencia,570,5683,9237.0,4-2-3-1,3-4-1-2,2863904
+150,404801,SD Eibar vs Granada,564,2063,9242.0,4-3-3,4-4-2,5334270
+151,404841,Granada vs Getafe,564,2063,9237.0,4-2-3-1,4-2-3-1,5137214
+154,405148,Real Sociedad vs Granada,564,2063,133.0,4-2-3-1,4-2-3-1,1663550
+155,405270,Granada vs Valencia,564,2063,9237.0,4-2-3-1,4-2-3-1,1663511
+156,405365,Deportivo La Coruña vs Granada,564,2063,39.0,4-4-2,4-3-3,2524500
+157,405450,Granada vs Sporting Gijón,564,2063,9237.0,4-4-2,4-4-2,1663193
+158,405517,Real Betis vs Granada,564,2063,68.0,4-4-2,4-2-3-1,1663553
+161,401571,Real Betis vs Real Sociedad,564,2063,68.0,4-2-3-1,4-4-2,1661207
+162,401648,Valencia vs Real Betis,564,2063,9240.0,4-4-2,4-3-3,1661021
+163,403189,Real Betis vs Deportivo La Coruña,564,2063,68.0,4-2-3-1,4-4-2,"[{'id': 1661684, 'fixture_id': 403189, 'referee_id': 20892, 'type_id': 8}, {'id': 3837900, 'fixture_id': 403189, 'referee_id': 12810, 'type_id': 7}, {'id': 5137818, 'fixture_id': 403189, 'referee_id': 20636, 'type_id': 9}]"
+164,403256,Sporting Gijón vs Real Betis,564,2063,9224.0,4-1-4-1,4-4-2,2524149
+166,403426,Real Betis vs Espanyol,564,2063,68.0,4-2-3-1,4-2-3-1,5334265
+168,403661,Real Betis vs Athletic Club,564,2063,68.0,4-2-3-1,4-4-2,1236652
+170,403838,Real Betis vs Atlético Madrid,564,2063,68.0,4-3-3,4-2-3-1,1236850
+171,403856,Levante vs Real Betis,564,2063,2015.0,4-2-3-1,4-3-3,5333670
+172,1096107,Real Betis vs Sporting Gijón,570,5683,68.0,NaN,NaN,2881830
+173,403985,Real Betis vs Celta de Vigo,564,2063,68.0,4-2-3-1,4-2-3-1,4852377
+174,404088,Las Palmas vs Real Betis,564,2063,1716.0,4-4-2,4-4-1-1,"[{'id': 1661710, 'fixture_id': 404088, 'referee_id': 20892, 'type_id': 8}, {'id': 1661632, 'fixture_id': 404088, 'referee_id': 21643, 'type_id': 9}, {'id': 4852319, 'fixture_id': 404088, 'referee_id': 12810, 'type_id': 7}]"
+175,1096116,Sporting Gijón vs Real Betis,570,5683,9224.0,4-2-3-1,4-2-3-1,2863755
+176,404156,Real Betis vs Sevilla,564,2063,68.0,4-2-3-1,4-2-3-1,1661667
+177,404307,FC Barcelona vs Real Betis,564,2063,,4-4-2,4-3-3,1661980
+178,404564,Real Betis vs SD Eibar,564,2063,68.0,4-2-3-1,4-2-3-1,1662664
+179,1095889,Real Betis vs Sevilla,570,5683,68.0,4-2-3-1,4-3-3,2863871
+180,404632,Getafe vs Real Betis,564,2063,9351.0,4-4-2,4-2-3-1,1662441
+181,1095900,Sevilla vs Real Betis,570,5683,177.0,4-2-3-1,4-2-3-1,2863868
+184,404946,Real Sociedad vs Real Betis,564,2063,133.0,4-2-3-1,4-2-3-1,1663285
+185,405064,Real Betis vs Valencia,564,2063,68.0,4-2-3-1,4-4-2,3836913
+186,405138,Deportivo La Coruña vs Real Betis,564,2063,39.0,4-4-2,4-2-3-1,1663606
+187,405223,Real Betis vs Sporting Gijón,564,2063,68.0,4-2-3-1,4-4-2,1663571
+189,405459,Espanyol vs Real Betis,564,2063,9220.0,4-2-3-1,4-4-2,3836605
+192,401448,Real Sociedad vs Sporting Gijón,564,2063,133.0,4-4-2,4-2-3-1,4857398
+193,401551,Sporting Gijón vs Valencia,564,2063,9224.0,4-3-3,4-4-2,2446613
+194,401686,Deportivo La Coruña vs Sporting Gijón,564,2063,39.0,4-4-2,4-2-3-1,1661400
+197,403320,Espanyol vs Sporting Gijón,564,2063,9220.0,4-2-3-1,4-2-3-1,1661438
+199,403568,Athletic Club vs Sporting Gijón,564,2063,9162.0,4-3-3,4-2-3-1,1236574
+201,403746,Atlético Madrid vs Sporting Gijón,564,2063,5188.0,4-2-3-1,4-4-2,1236749
+202,403810,Sporting Gijón vs Levante,564,2063,9224.0,4-1-4-1,4-2-3-1,2765161
+203,403904,Celta de Vigo vs Sporting Gijón,564,2063,9239.0,4-2-3-1,4-3-3,1661836
+205,404013,Sporting Gijón vs Las Palmas,564,2063,9224.0,4-2-3-1,4-2-3-1,1661826
+206,404079,Sevilla vs Sporting Gijón,564,2063,177.0,4-2-3-1,4-2-3-1,2446596
+208,404270,SD Eibar vs Sporting Gijón,564,2063,9242.0,4-2-3-1,4-2-3-1,1662618
+209,404613,Sporting Gijón vs Getafe,564,2063,9224.0,4-2-3-1,4-4-2,1662955
+212,404812,Sporting Gijón vs Real Sociedad,564,2063,9224.0,4-3-3,4-2-3-1,1663296
+213,404966,Valencia vs Sporting Gijón,564,2063,9240.0,4-2-3-1,4-3-3,1662530
+214,405043,Sporting Gijón vs Deportivo La Coruña,564,2063,9224.0,4-2-3-1,4-2-3-1,"[{'id': 1662921, 'fixture_id': 405043, 'referee_id': 16543, 'type_id': 9}, {'id': 3836940, 'fixture_id': 405043, 'referee_id': 12829, 'type_id': 7}, {'id': 4852469, 'fixture_id': 405043, 'referee_id': 11712, 'type_id': 8}]"
+216,404221,Sporting Gijón vs FC Barcelona,564,2063,9224.0,4-3-3,4-2-3-1,4855719
+218,405317,Sporting Gijón vs Espanyol,564,2063,9224.0,4-3-3,4-4-2,1663527
+220,405545,Sporting Gijón vs Athletic Club,564,2063,9224.0,4-2-3-1,4-2-3-1,2446681
+221,401364,Deportivo La Coruña vs Real Sociedad,564,2063,39.0,4-4-2,4-2-3-1,2814282
+222,401504,Valencia vs Deportivo La Coruña,564,2063,9240.0,4-2-3-1,4-3-3,1661270
+226,403267,Deportivo La Coruña vs Espanyol,564,2063,39.0,4-4-2,4-4-2,3910970
+228,403465,Deportivo La Coruña vs Athletic Club,564,2063,39.0,4-2-3-1,4-2-3-1,1236477
+230,403578,Deportivo La Coruña vs Atlético Madrid,564,2063,39.0,4-4-2,4-2-3-1,"[{'id': 1236564, 'fixture_id': 403578, 'referee_id': 15309, 'type_id': 7}, {'id': 1236567, 'fixture_id': 403578, 'referee_id': 15310, 'type_id': 9}]"
+231,403689,Levante vs Deportivo La Coruña,564,2063,2015.0,4-2-3-1,4-3-3,2446553
+232,403801,Deportivo La Coruña vs Celta de Vigo,564,2063,39.0,4-2-3-1,4-2-3-1,1236805
+233,403895,Las Palmas vs Deportivo La Coruña,564,2063,1716.0,4-4-2,4-4-1-1,1661730
+234,1096039,Llagostera-Costa Brava vs Deportivo La Coruña,570,5683,1725.0,NaN,NaN,3126647
+235,403975,Deportivo La Coruña vs Sevilla,564,2063,39.0,4-2-3-1,4-4-2,4857755
+236,404050,FC Barcelona vs Deportivo La Coruña,564,2063,,4-3-1-2,4-3-3,3837435
+237,1096048,Deportivo La Coruña vs Llagostera-Costa Brava,570,5683,39.0,NaN,NaN,3126651
+238,404165,Deportivo La Coruña vs SD Eibar,564,2063,39.0,4-4-2,4-4-2,1661731
+239,404289,Getafe vs Deportivo La Coruña,564,2063,9351.0,4-2-3-1,4-2-3-1,1662256
+241,1095602,Mirandés vs Deportivo La Coruña,570,5683,4550.0,4-4-2,3-4-3,2863965
+243,1095612,Deportivo La Coruña vs Mirandés,570,5683,39.0,4-2-3-1,4-3-3,"[{'id': 2863908, 'fixture_id': 1095612, 'referee_id': 19917, 'type_id': 9}, {'id': 3383728, 'fixture_id': 1095612, 'referee_id': 12829, 'type_id': 7}]"
+244,404745,Real Sociedad vs Deportivo La Coruña,564,2063,133.0,4-2-3-1,4-2-3-1,2524313
+245,404882,Deportivo La Coruña vs Valencia,564,2063,39.0,4-2-3-1,4-2-3-1,2765011
+249,405213,Espanyol vs Deportivo La Coruña,564,2063,9220.0,4-3-3,4-2-3-1,"[{'id': 1663220, 'fixture_id': 405213, 'referee_id': 12158, 'type_id': 7}, {'id': 3836967, 'fixture_id': 405213, 'referee_id': 19666, 'type_id': 9}]"
+251,405430,Athletic Club vs Deportivo La Coruña,564,2063,9162.0,4-4-2,4-2-3-1,2814168
+253,401371,Atlético Madrid vs Las Palmas,564,2063,5188.0,5-4-1,4-4-2,1661263
+254,401512,Las Palmas vs Levante,564,2063,1716.0,5-3-2,5-3-2,"[{'id': 1661017, 'fixture_id': 401512, 'referee_id': 20205, 'type_id': 9}, {'id': 1661114, 'fixture_id': 401512, 'referee_id': 15309, 'type_id': 7}]"
+255,401600,Celta de Vigo vs Las Palmas,564,2063,9239.0,4-4-2,4-3-3,1661229
+257,403172,Las Palmas vs Sevilla,564,2063,1716.0,4-4-2,5-3-2,2446624
+258,403209,FC Barcelona vs Las Palmas,564,2063,,5-3-2,4-3-3,"[{'id': 1661040, 'fixture_id': 403209, 'referee_id': 12158, 'type_id': 7}, {'id': 1661156, 'fixture_id': 403209, 'referee_id': 55202, 'type_id': 9}]"
+259,403330,Las Palmas vs SD Eibar,564,2063,1716.0,4-2-3-1,5-3-2,2814259
+260,403456,Getafe vs Las Palmas,564,2063,9351.0,4-2-3-1,4-2-3-1,1661737
+263,403671,Las Palmas vs Real Sociedad,564,2063,1716.0,4-2-3-1,4-4-2,1236661
+264,403790,Valencia vs Las Palmas,564,2063,9240.0,4-2-3-1,4-3-3,"[{'id': 1236787, 'fixture_id': 403790, 'referee_id': 15309, 'type_id': 7}, {'id': 1236790, 'fixture_id': 403790, 'referee_id': 20205, 'type_id': 9}]"
+266,1096322,Las Palmas vs Real Sociedad,570,5683,1716.0,4-3-3,4-2-3-1,2863688
+269,1096331,Real Sociedad vs Las Palmas,570,5683,133.0,4-2-3-1,4-2-3-1,2863658
+270,404143,Espanyol vs Las Palmas,564,2063,9220.0,4-2-3-1,4-2-3-1,2765120
+272,404592,Athletic Club vs Las Palmas,564,2063,9162.0,4-2-3-1,4-2-3-1,2446554
+273,1095968,SD Eibar vs Las Palmas,570,5683,9242.0,4-2-3-1,4-2-3-1,2863844
+275,1095977,Las Palmas vs SD Eibar,570,5683,1716.0,4-2-3-1,4-2-3-1,"[{'id': 2863804, 'fixture_id': 1095977, 'referee_id': 15309, 'type_id': 7}]"
+276,404775,Las Palmas vs Atlético Madrid,564,2063,1716.0,4-2-3-1,4-2-3-1,1662087
+277,1095473,Valencia vs Las Palmas,570,5683,9240.0,4-2-3-1,4-3-3,2863949
+278,404900,Levante vs Las Palmas,564,2063,2015.0,4-2-3-1,4-3-3,1663145
+279,1095498,Las Palmas vs Valencia,570,5683,1716.0,4-3-3,4-2-3-1,2864002
+280,404975,Las Palmas vs Celta de Vigo,564,2063,1716.0,4-2-3-1,4-2-3-1,3836993
+282,405157,Sevilla vs Las Palmas,564,2063,177.0,4-1-4-1,4-2-3-1,1663346
+283,405204,Las Palmas vs FC Barcelona,564,2063,1716.0,4-3-3,4-1-4-1,2446671
+284,405289,SD Eibar vs Las Palmas,564,2063,9242.0,4-1-4-1,4-4-2,"[{'id': 1662780, 'fixture_id': 405289, 'referee_id': 20895, 'type_id': 9}, {'id': 1662936, 'fixture_id': 405289, 'referee_id': 15309, 'type_id': 7}]"
+285,405394,Las Palmas vs Getafe,564,2063,1716.0,4-2-3-1,4-1-4-1,2764916
+287,401409,Levante vs Celta de Vigo,564,2063,2015.0,4-3-3,5-3-2,"[{'id': 1997897, 'fixture_id': 401409, 'referee_id': 15931, 'type_id': 9}, {'id': 1661153, 'fixture_id': 401409, 'referee_id': 12158, 'type_id': 7}]"
+290,401676,Sevilla vs Celta de Vigo,564,2063,177.0,4-2-3-1,4-2-3-1,1661082
+291,403133,Celta de Vigo vs FC Barcelona,564,2063,9239.0,4-3-3,4-4-2,1661381
+292,403246,SD Eibar vs Celta de Vigo,564,2063,9242.0,4-3-3,4-4-2,"[{'id': 1661161, 'fixture_id': 403246, 'referee_id': 19065, 'type_id': 9}, {'id': 1661222, 'fixture_id': 403246, 'referee_id': 15309, 'type_id': 7}]"
+293,403293,Celta de Vigo vs Getafe,564,2063,9239.0,4-2-3-1,4-3-3,1661522
+296,403624,Real Sociedad vs Celta de Vigo,564,2063,133.0,4-3-3,4-2-3-1,1236624
+297,403680,Celta de Vigo vs Valencia,564,2063,9239.0,4-1-4-1,4-3-3,1236685
+300,1096178,Almería vs Celta de Vigo,570,5683,9180.0,4-3-3,4-4-2,"[{'id': 2863733, 'fixture_id': 1096178, 'referee_id': 15714, 'type_id': 9}, {'id': 2863729, 'fixture_id': 1096178, 'referee_id': 20892, 'type_id': 8}, {'id': 3384286, 'fixture_id': 1096178, 'referee_id': 12810, 'type_id': 7}]"
+302,404059,Celta de Vigo vs Espanyol,564,2063,9239.0,4-4-2,4-2-3-1,1662009
+303,1096193,Celta de Vigo vs Almería,570,5683,9239.0,4-2-3-1,4-3-3,2863722
+305,404317,Celta de Vigo vs Athletic Club,564,2063,9239.0,4-2-3-1,4-3-3,"[{'id': 1662029, 'fixture_id': 404317, 'referee_id': 15309, 'type_id': 7}]"
+307,1095949,Cádiz vs Celta de Vigo,570,5683,4473.0,4-3-3,4-4-2,2863824
+308,404708,Celta de Vigo vs Atlético Madrid,564,2063,9239.0,4-4-2,4-2-3-1,4856135
+309,1095959,Celta de Vigo vs Cádiz,570,5683,9239.0,4-2-3-1,4-3-3,3383682
+310,404726,Celta de Vigo vs Levante,564,2063,9239.0,4-1-4-1,4-2-3-1,2446551
+311,1095429,Celta de Vigo vs Atlético Madrid,570,5683,9239.0,4-4-2,4-3-3,2881892
+313,1095439,Atlético Madrid vs Celta de Vigo,570,5683,5188.0,4-2-3-1,4-4-2,2864043
+315,1095411,Sevilla vs Celta de Vigo,570,5683,177.0,4-3-3,4-2-3-1,2864117
+316,405073,Celta de Vigo vs Sevilla,564,2063,9239.0,4-2-3-1,4-2-3-1,1662257
+317,1095420,Celta de Vigo vs Sevilla,570,5683,9239.0,4-2-3-1,4-3-3,2863980
+318,405185,FC Barcelona vs Celta de Vigo,564,2063,,4-3-3,4-3-3,4851862
+319,405233,Celta de Vigo vs SD Eibar,564,2063,9239.0,4-2-3-1,4-3-3,2764951
+320,405308,Getafe vs Celta de Vigo,564,2063,9351.0,4-2-3-1,4-2-3-1,1663747
+325,401531,Levante vs Sevilla,564,2063,2015.0,4-4-2,5-3-2,1661162
+326,402635,FC Barcelona vs Levante,564,2063,,5-3-2,4-2-3-1,1661280
+327,403142,Levante vs SD Eibar,564,2063,2015.0,4-2-3-1,5-3-2,1661395
+328,403275,Getafe vs Levante,564,2063,9351.0,5-3-2,4-2-3-1,1661613
+331,403532,Levante vs Real Sociedad,564,2063,2015.0,4-2-3-1,5-3-2,1236539
+332,403605,Valencia vs Levante,564,2063,9240.0,4-3-3,4-3-3,5334220
+336,1096235,Levante vs Espanyol,570,5683,2015.0,NaN,NaN,2881814
+337,404032,Espanyol vs Levante,564,2063,9220.0,4-3-3,4-2-3-1,1661858
+339,1096244,Espanyol vs Levante,570,5683,9220.0,4-2-3-1,4-2-3-1,2863695
+340,404205,Athletic Club vs Levante,564,2063,9162.0,4-1-4-1,4-2-3-1,5338495
+342,404356,Atlético Madrid vs Levante,564,2063,5188.0,4-1-4-1,4-3-3,1662611
+346,404958,Sevilla vs Levante,564,2063,177.0,4-3-3,4-2-3-1,1662212
+347,405054,Levante vs FC Barcelona,564,2063,2015.0,4-3-3,4-3-3,"[{'id': 1662629, 'fixture_id': 405054, 'referee_id': 15309, 'type_id': 7}]"
+348,405166,SD Eibar vs Levante,564,2063,9242.0,4-4-2,4-2-3-1,1663821
+349,405195,Levante vs Getafe,564,2063,2015.0,4-2-3-1,4-4-2,1663279
+352,405535,Real Sociedad vs Levante,564,2063,133.0,4-4-2,4-3-3,"[{'id': 1663174, 'fixture_id': 405535, 'referee_id': 15309, 'type_id': 7}, {'id': 1663081, 'fixture_id': 405535, 'referee_id': 14027, 'type_id': 9}]"
+354,401486,SD Eibar vs Athletic Club,564,2063,9242.0,4-2-3-1,4-2-3-1,1661333
+356,401656,SD Eibar vs Atlético Madrid,564,2063,9242.0,4-3-3,4-2-3-1,4857395
+360,403398,SD Eibar vs Sevilla,564,2063,9242.0,4-2-3-1,4-2-3-1,2524165
+361,403550,FC Barcelona vs SD Eibar,564,2063,,4-2-3-1,4-3-3,2446651
+363,403699,SD Eibar vs Getafe,564,2063,9242.0,4-2-3-1,4-4-2,1236692
+367,1096263,Ponferradina vs SD Eibar,570,5683,5025.0,NaN,NaN,3126514
+368,403994,Real Sociedad vs SD Eibar,564,2063,133.0,4-4-2,4-2-3-1,2765135
+369,404105,SD Eibar vs Valencia,564,2063,9242.0,4-3-3,4-4-2,1661691
+370,1096271,SD Eibar vs Ponferradina,570,5683,9242.0,NaN,NaN,3126531
+375,404688,SD Eibar vs Espanyol,564,2063,9242.0,4-2-3-1,4-4-2,1661943
+378,404861,Athletic Club vs SD Eibar,564,2063,9162.0,4-4-2,4-2-3-1,"[{'id': 1662340, 'fixture_id': 404861, 'referee_id': 20892, 'type_id': 8}, {'id': 3971657, 'fixture_id': 404861, 'referee_id': 12810, 'type_id': 7}]"
+380,405014,Atlético Madrid vs SD Eibar,564,2063,5188.0,4-1-4-1,4-4-2,1662504
+384,405403,Sevilla vs SD Eibar,564,2063,177.0,4-4-2,4-2-3-1,2524498
+385,405526,SD Eibar vs FC Barcelona,564,2063,9242.0,4-3-3,4-4-2,1663349
+387,401495,Sevilla vs Atlético Madrid,564,2063,177.0,4-4-2,4-2-3-1,1661034
+392,403301,Sevilla vs FC Barcelona,564,2063,177.0,4-3-3,4-2-3-1,"[{'id': 1661335, 'fixture_id': 403301, 'referee_id': 20892, 'type_id': 8}, {'id': 3837561, 'fixture_id': 403301, 'referee_id': 12810, 'type_id': 7}, {'id': 5285343, 'fixture_id': 403301, 'referee_id': 13604, 'type_id': 9}]"
+394,403512,Sevilla vs Getafe,564,2063,177.0,4-2-3-1,4-2-3-1,1236514
+397,403765,Real Sociedad vs Sevilla,564,2063,133.0,4-2-3-1,4-2-3-1,2814239
+398,403941,Sevilla vs Valencia,564,2063,177.0,4-5-1,4-2-3-1,1661754
+400,1096123,UD Logroñés vs Sevilla,570,5683,9189.0,4-2-3-1,4-2-3-1,4685386
+403,1096131,Sevilla vs UD Logroñés,570,5683,177.0,4-2-3-1,4-2-3-1,"[{'id': 2863732, 'fixture_id': 1096131, 'referee_id': 20892, 'type_id': 8}, {'id': 2863734, 'fixture_id': 1096131, 'referee_id': 50860, 'type_id': 9}, {'id': 3394190, 'fixture_id': 1096131, 'referee_id': 12810, 'type_id': 7}]"
+405,404250,Sevilla vs Espanyol,564,2063,177.0,4-2-3-1,4-2-3-1,1662027
+408,404641,Sevilla vs Athletic Club,564,2063,177.0,4-2-3-1,4-2-3-1,1662986
+411,1095565,Sevilla vs Mirandés,570,5683,177.0,5-4-1,4-2-3-1,5235898
+412,404873,Atlético Madrid vs Sevilla,564,2063,5188.0,4-2-3-1,4-4-2,1662416
+413,1095575,Mirandés vs Sevilla,570,5683,4550.0,4-2-3-1,5-4-1,2863989
+420,405375,FC Barcelona vs Sevilla,564,2063,,4-2-3-1,4-3-3,1663419
+422,405498,Getafe vs Sevilla,564,2063,9351.0,4-2-3-1,4-2-3-1,1663215
+423,401391,Athletic Club vs FC Barcelona,564,2063,9162.0,4-3-3,4-2-3-1,2446617
+425,401561,Atlético Madrid vs FC Barcelona,564,2063,5188.0,4-3-3,4-4-2,2814277
+432,1095988,Villanovense vs Barcelona,570,5683,7717.0,4-3-3,4-4-2,2863811
+433,403614,Getafe vs FC Barcelona,564,2063,9351.0,4-3-3,4-4-2,2503331
+436,403866,FC Barcelona vs Real Sociedad,564,2063,,4-4-2,4-3-3,1661547
+437,1095995,Barcelona vs Villanovense,570,5683,,4-2-3-1,4-3-3,"[{'id': 2863800, 'fixture_id': 1095995, 'referee_id': 15309, 'type_id': 7}, {'id': 2863802, 'fixture_id': 1095995, 'referee_id': 17919, 'type_id': 9}]"
+438,403967,Valencia vs FC Barcelona,564,2063,9240.0,4-3-3,4-3-3,1662028
+441,404346,Espanyol vs FC Barcelona,564,2063,9220.0,4-3-3,4-2-3-1,1663373
+442,1095911,Barcelona vs Espanyol,570,5683,,4-4-2,4-3-3,2863913
+444,1095920,Espanyol vs Barcelona,570,5683,9220.0,4-3-3,4-2-3-1,2863887
+445,404792,FC Barcelona vs Athletic Club,564,2063,,4-2-3-1,4-3-3,2814198
+446,1095449,Athletic Club vs Barcelona,570,5683,9162.0,4-3-3,4-2-3-1,2864032
+448,1095458,Barcelona vs Athletic Club,570,5683,,4-2-3-1,4-3-3,5001012
+449,404910,FC Barcelona vs Atlético Madrid,564,2063,,4-4-1-1,4-3-3,1662357
+450,1095388,Barcelona vs Valencia,570,5683,,4-1-4-1,4-3-3,2864120
+452,1095400,Valencia vs Barcelona,570,5683,9240.0,4-3-3,4-2-3-1,2864017
+462,401665,Real Sociedad vs Espanyol,564,2063,133.0,4-2-3-1,4-2-3-1,"[{'id': 1660982, 'fixture_id': 401665, 'referee_id': 15900, 'type_id': 9}, {'id': 1661060, 'fixture_id': 401665, 'referee_id': 15309, 'type_id': 7}]"
+464,403284,Real Sociedad vs Athletic Club,564,2063,133.0,4-2-3-1,4-2-3-1,1661812
+466,403446,Real Sociedad vs Atlético Madrid,564,2063,133.0,4-4-2,4-2-3-1,1662563
+474,404041,Getafe vs Real Sociedad,564,2063,9351.0,4-2-3-1,4-4-2,"[{'id': 1661619, 'fixture_id': 404041, 'referee_id': 15309, 'type_id': 7}]"
+479,404679,Real Sociedad vs Valencia,564,2063,133.0,4-4-2,4-3-3,"[{'id': 4852092, 'fixture_id': 404679, 'referee_id': 11712, 'type_id': 8}]"
+483,405091,Espanyol vs Real Sociedad,564,2063,9220.0,4-1-4-1,4-2-3-1,1663242
+485,405261,Athletic Club vs Real Sociedad,564,2063,9162.0,4-3-3,4-2-3-1,4186890
+487,405384,Atlético Madrid vs Real Sociedad,564,2063,5188.0,4-3-3,4-4-2,"[{'id': 1662793, 'fixture_id': 405384, 'referee_id': 20263, 'type_id': 9}, {'id': 3836698, 'fixture_id': 405384, 'referee_id': 12829, 'type_id': 7}]"
+493,403114,Espanyol vs Valencia,564,2063,9220.0,4-3-3,4-2-3-1,1661268
+495,403359,Athletic Club vs Valencia,564,2063,9162.0,4-2-3-1,4-2-3-1,1661478
+497,403559,Atlético Madrid vs Valencia,564,2063,5188.0,4-3-3,4-4-2,"[{'id': 1236583, 'fixture_id': 403559, 'referee_id': 20892, 'type_id': 8}, {'id': 1236592, 'fixture_id': 403559, 'referee_id': 20543, 'type_id': 9}, {'id': 5313804, 'fixture_id': 403559, 'referee_id': 12810, 'type_id': 7}]"
+503,1096158,Barakaldo vs Valencia,570,5683,9174.0,4-4-2,4-2-3-1,2863740
+506,1096167,Valencia vs Barakaldo,570,5683,9240.0,4-2-3-1,4-1-2-3,2863709
+507,404133,Valencia vs Getafe,564,2063,9240.0,4-2-3-1,4-3-3,1662074
+521,405129,Valencia vs Espanyol,564,2063,9240.0,4-4-2,4-2-3-1,2446658
+523,405356,Valencia vs Athletic Club,564,2063,9240.0,4-2-3-1,4-1-4-1,"[{'id': 2483264, 'fixture_id': 405356, 'referee_id': 20542, 'type_id': 9}, {'id': 1663301, 'fixture_id': 405356, 'referee_id': 20892, 'type_id': 8}, {'id': 3836856, 'fixture_id': 405356, 'referee_id': 12810, 'type_id': 7}]"
+525,405554,Valencia vs Atlético Madrid,564,2063,9240.0,4-3-3,4-3-3,1663536
+530,403105,Atlético Madrid vs Getafe,564,2063,5188.0,4-2-3-1,4-4-2,1661217
+538,403875,Atlético Madrid vs Espanyol,564,2063,5188.0,4-2-3-1,4-4-2,1661819
+539,1096004,Reus Deportiu vs Atlético Madrid,570,5683,9327.0,NaN,NaN,3126671
+541,404117,Atlético Madrid vs Athletic Club,564,2063,5188.0,4-2-3-1,4-4-2,2524205
+542,1096012,Atlético Madrid vs Reus Deportiu,570,5683,5188.0,NaN,NaN,3126664
+555,405175,Getafe vs Atlético Madrid,564,2063,9351.0,4-3-3,4-1-4-1,2814181
+560,401355,Espanyol vs Getafe,564,2063,9220.0,4-2-3-1,4-2-3-1,"[{'id': 1660916, 'fixture_id': 401355, 'referee_id': 20521, 'type_id': 9}, {'id': 1660934, 'fixture_id': 401355, 'referee_id': 20892, 'type_id': 8}, {'id': 5137892, 'fixture_id': 401355, 'referee_id': 12810, 'type_id': 7}]"
+562,401589,Athletic Club vs Getafe,564,2063,9162.0,4-2-3-1,4-2-3-1,"[{'id': 1661231, 'fixture_id': 401589, 'referee_id': 15309, 'type_id': 7}, {'id': 3837834, 'fixture_id': 401589, 'referee_id': 19889, 'type_id': 9}]"
+582,404783,Getafe vs Espanyol,564,2063,9351.0,4-2-3-1,4-2-3-1,1662649
+584,404928,Getafe vs Athletic Club,564,2063,9351.0,4-2-3-1,4-2-3-1,1662454
+601,403727,Athletic Club vs Espanyol,564,2063,9162.0,4-2-3-1,4-2-3-1,1236728
+605,1096219,Linense vs Athletic Club,570,5683,20611.0,4-2-3-1,4-4-2,2863701
+608,1096226,Athletic Club vs Linense,570,5683,9162.0,NaN,NaN,2863685

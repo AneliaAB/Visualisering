@@ -1,0 +1,226 @@
+,fixture_id,name,league_id,season_id,venue_id,formation_away,formation_home,referee
+0,2020193,Wolfsburg vs Borussia Dortmund,82,8026,80,4-3-3,4-2-3-1,4072356
+1,2020198,Eintracht Frankfurt vs Wolfsburg,82,8026,2169,3-4-2-1,3-1-4-2,2528943
+2,2020211,Wolfsburg vs Hannover 96,82,8026,80,4-3-3,3-4-1-2,4928184
+3,2020220,Stuttgart vs Wolfsburg,82,8026,1945,3-4-1-2,3-4-2-1,90882
+4,2020229,Wolfsburg vs Werder Bremen,82,8026,80,3-1-4-2,4-2-3-1,4713386
+5,2020230,Bayern München vs Wolfsburg,82,8026,53,4-1-4-1,4-2-3-1,2448558
+6,2020247,Wolfsburg vs Mainz 05,82,8026,80,4-3-3,4-2-3-1,3814671
+7,2020253,Bayer Leverkusen vs Wolfsburg,82,8026,1947,4-3-3,4-2-3-1,4855151
+8,2020265,Wolfsburg vs Hoffenheim,82,8026,80,4-1-4-1,4-2-3-1,4663302
+9,2020270,Schalke 04 vs Wolfsburg,82,8026,2138,4-4-1-1,3-1-4-2,54429
+10,2020283,Wolfsburg vs Hertha BSC,82,8026,80,4-2-3-1,4-2-3-1,3108241
+11,2020291,Wolfsburg vs Freiburg,82,8026,80,4-3-3,4-2-3-1,55877
+12,2020299,Augsburg vs Wolfsburg,82,8026,2165,4-2-3-1,4-2-3-1,2405004
+13,2020310,Wolfsburg vs Borussia M'gladbach,82,8026,80,4-4-2,4-2-3-1,2529003
+14,2020317,Hamburger SV vs Wolfsburg,82,8026,1610,4-2-3-1,4-2-3-1,2448562
+15,2020328,Wolfsburg vs RB Leipzig,82,8026,80,4-2-2-2,4-2-3-1,90887
+16,2020331,Köln vs Wolfsburg,82,8026,1946,4-2-3-1,4-4-2,3814697
+17,2020338,Borussia Dortmund vs Wolfsburg,82,8026,2166,4-2-3-1,4-3-3,2404972
+18,2020355,Wolfsburg vs Eintracht Frankfurt,82,8026,80,3-1-4-2,4-4-2,54433
+19,2020363,Hannover 96 vs Wolfsburg,82,8026,1531,4-2-3-1,3-1-4-2,5356794
+20,2020373,Wolfsburg vs Stuttgart,82,8026,80,4-2-3-1,4-2-3-1,4071923
+21,2020378,Werder Bremen vs Wolfsburg,82,8026,2172,4-2-3-1,4-1-4-1,3108139
+22,2020391,Wolfsburg vs Bayern München,82,8026,80,4-3-3,4-1-4-1,4928145
+23,2020398,Mainz 05 vs Wolfsburg,82,8026,2103,4-2-3-1,3-1-4-2,1733995
+24,2020409,Wolfsburg vs Bayer Leverkusen,82,8026,80,4-2-3-1,4-2-3-1,4928140
+25,2020185,Bayern München vs Bayer Leverkusen,82,8026,53,4-2-3-1,4-3-3,2405023
+26,2020199,Bayer Leverkusen vs Hoffenheim,82,8026,1947,4-3-3,3-4-2-1,3108347
+27,2020210,Mainz 05 vs Bayer Leverkusen,82,8026,2103,3-4-2-1,3-4-2-1,54426
+28,2020218,Bayer Leverkusen vs Freiburg,82,8026,1947,4-4-1-1,4-4-2,90362
+29,2020222,Hertha BSC vs Bayer Leverkusen,82,8026,1944,4-4-2,4-2-3-1,3108331
+30,2020235,Bayer Leverkusen vs Hamburger SV,82,8026,1947,4-3-3,4-2-3-1,3108303
+31,2020243,Schalke 04 vs Bayer Leverkusen,82,8026,2138,4-2-3-1,3-4-2-1,90883
+33,2020260,Borussia M'gladbach vs Bayer Leverkusen,82,8026,180,4-2-3-1,4-4-2,1733568
+34,2020271,Bayer Leverkusen vs Köln,82,8026,1947,4-4-2,4-2-3-1,55876
+35,2020281,Augsburg vs Bayer Leverkusen,82,8026,2165,4-2-3-1,4-2-3-1,2448361
+36,2020289,Bayer Leverkusen vs RB Leipzig,82,8026,1947,4-2-2-2,3-4-2-1,3108229
+37,2020298,Eintracht Frankfurt vs Bayer Leverkusen,82,8026,2169,3-4-2-1,3-1-4-2,4928143
+38,2020308,Bayer Leverkusen vs Borussia Dortmund,82,8026,1947,3-4-2-1,3-4-2-1,3890901
+39,2020319,Stuttgart vs Bayer Leverkusen,82,8026,1945,3-4-2-1,3-4-2-1,3108242
+40,2020325,Bayer Leverkusen vs Werder Bremen,82,8026,1947,3-5-1-1,3-4-2-1,2404969
+41,2020336,Hannover 96 vs Bayer Leverkusen,82,8026,1531,4-2-3-1,3-4-2-1,2751618
+42,2020343,Bayer Leverkusen vs Bayern München,82,8026,1947,4-3-3,3-4-2-1,2751617
+43,2020348,Hoffenheim vs Bayer Leverkusen,82,8026,1618,4-2-3-1,3-1-4-2,2404950
+44,2020362,Bayer Leverkusen vs Mainz 05,82,8026,1947,3-1-4-2,4-2-3-1,90993
+45,2020367,Freiburg vs Bayer Leverkusen,82,8026,2063,4-2-3-1,4-2-2-2,3108155
+46,2020380,Bayer Leverkusen vs Hertha BSC,82,8026,1947,4-2-3-1,4-2-3-1,4072114
+47,2020390,Hamburger SV vs Bayer Leverkusen,82,8026,1610,4-2-3-1,3-4-1-2,5356784
+48,2020397,Bayer Leverkusen vs Schalke 04,82,8026,1947,3-4-1-2,4-3-3,2751610
+50,2020188,Freiburg vs Eintracht Frankfurt,82,8026,2063,3-1-4-2,3-4-2-1,55872
+51,2020195,RB Leipzig vs Freiburg,82,8026,2637,3-4-3,4-2-2-2,2448480
+52,2020205,Freiburg vs Borussia Dortmund,82,8026,2063,4-3-3,4-4-2,2528913
+54,2020223,Freiburg vs Hannover 96,82,8026,2063,4-3-3,3-4-2-1,2404999
+55,2020234,Werder Bremen vs Freiburg,82,8026,339831,3-4-2-1,3-1-4-2,3815101
+56,2020241,Freiburg vs Hoffenheim,82,8026,2063,4-3-3,3-4-3,2751636
+57,2020248,Bayern München vs Freiburg,82,8026,53,3-5-2,4-2-3-1,90989
+58,2020259,Freiburg vs Hertha BSC,82,8026,2063,4-2-3-1,3-4-3,90884
+59,2020274,Stuttgart vs Freiburg,82,8026,1945,4-3-3,4-2-3-1,2404976
+60,2020278,Freiburg vs Schalke 04,82,8026,2063,3-1-4-2,3-4-3,4727571
+62,2020296,Freiburg vs Mainz 05,82,8026,2063,4-3-3,3-1-4-2,2751627
+63,2020305,Freiburg vs Hamburger SV,82,8026,2063,4-2-3-1,3-4-3,4663294
+64,2020313,Köln vs Freiburg,82,8026,1946,3-4-3,3-4-2-1,3108217
+65,2020323,Freiburg vs Borussia M'gladbach,82,8026,2063,4-4-2,4-4-2,3108239
+66,2020335,Augsburg vs Freiburg,82,8026,2165,4-4-2,4-2-3-1,2448559
+67,2020342,Eintracht Frankfurt vs Freiburg,82,8026,2169,4-4-2,3-4-2-1,4818838
+68,2020350,Freiburg vs RB Leipzig,82,8026,2063,4-3-3,3-4-3,3814622
+69,2020357,Borussia Dortmund vs Freiburg,82,8026,2166,3-4-3,4-3-3,2751614
+71,2020381,Hannover 96 vs Freiburg,82,8026,1531,3-4-3,3-4-2-1,55883
+72,2020385,Freiburg vs Werder Bremen,82,8026,2063,4-1-4-1,4-4-2,4822584
+73,2020395,Hoffenheim vs Freiburg,82,8026,1618,4-2-3-1,3-1-4-2,2448576
+74,2020403,Freiburg vs Bayern München,82,8026,2063,4-1-4-1,3-4-3,90995
+76,2020194,Borussia Dortmund vs Hertha BSC,82,8026,2166,4-2-3-1,4-3-3,15801
+78,2020213,Borussia Dortmund vs Köln,82,8026,2166,4-1-4-1,4-3-3,3861043
+79,2020227,Hamburger SV vs Borussia Dortmund,82,8026,1610,4-3-3,4-3-3,4928146
+80,2020231,Borussia Dortmund vs Borussia M'gladbach,82,8026,2166,4-4-2,4-3-3,55874
+81,2020245,Augsburg vs Borussia Dortmund,82,8026,2165,4-3-3,4-2-3-1,15804
+82,2020249,Borussia Dortmund vs RB Leipzig,82,8026,2166,4-2-2-2,4-3-3,3108296
+83,2020262,Eintracht Frankfurt vs Borussia Dortmund,82,8026,2169,4-3-3,3-4-1-2,4072218
+84,2020273,Hannover 96 vs Borussia Dortmund,82,8026,1531,4-3-3,3-4-1-2,4712918
+85,2020275,Borussia Dortmund vs Bayern München,82,8026,2166,4-3-3,4-2-3-1,2404980
+86,2020292,Stuttgart vs Borussia Dortmund,82,8026,1945,4-3-3,3-4-2-1,90990
+87,2020293,Borussia Dortmund vs Schalke 04,82,8026,2166,3-4-3,3-4-2-1,3108250
+89,2020311,Borussia Dortmund vs Werder Bremen,82,8026,2166,3-1-4-2,3-4-3,55879
+90,2020327,Mainz 05 vs Borussia Dortmund,82,8026,2103,4-3-3,3-1-4-2,4071873
+91,2020329,Borussia Dortmund vs Hoffenheim,82,8026,2166,3-1-4-2,4-3-3,3108194
+93,2020349,Hertha BSC vs Borussia Dortmund,82,8026,1944,4-3-3,4-2-3-1,2448609
+95,2020365,Köln vs Borussia Dortmund,82,8026,1946,4-3-3,4-4-2,3814483
+96,2020375,Borussia Dortmund vs Hamburger SV,82,8026,2166,3-4-1-2,4-2-3-1,15807
+97,2020386,Borussia M'gladbach vs Borussia Dortmund,82,8026,180,4-2-3-1,4-2-3-1,1733524
+98,2020393,Borussia Dortmund vs Augsburg,82,8026,2166,4-2-3-1,4-2-3-1,55884
+99,2020401,RB Leipzig vs Borussia Dortmund,82,8026,2637,4-2-3-1,4-2-2-2,3815308
+100,2020186,Hoffenheim vs Werder Bremen,82,8026,232157,3-1-4-2,3-1-4-2,90881
+101,2020197,Werder Bremen vs Bayern München,82,8026,339831,4-2-3-1,3-1-4-2,1733429
+102,2020204,Hertha BSC vs Werder Bremen,82,8026,1944,3-1-4-2,4-2-3-1,97941
+103,2020216,Werder Bremen vs Schalke 04,82,8026,339831,3-4-3,3-1-4-2,3964440
+106,2020246,Hamburger SV vs Werder Bremen,82,8026,1610,3-1-4-2,4-2-3-1,3108299
+107,2020252,Werder Bremen vs Borussia M'gladbach,82,8026,339831,4-4-2,3-1-4-2,54428
+108,2020258,Köln vs Werder Bremen,82,8026,1946,4-2-3-1,4-4-2,3108298
+109,2020269,Werder Bremen vs Augsburg,82,8026,339831,4-2-3-1,3-1-4-2,2751630
+110,2020280,Eintracht Frankfurt vs Werder Bremen,82,8026,2169,4-3-3,3-1-4-2,4722459
+111,2020287,Werder Bremen vs Hannover 96,82,8026,339831,4-3-1-2,4-3-3,2528993
+112,2020294,RB Leipzig vs Werder Bremen,82,8026,2140,3-1-4-2,4-2-2-2,4663363
+113,2020306,Werder Bremen vs Stuttgart,82,8026,339831,3-4-1-2,4-3-3,1733528
+116,2020332,Werder Bremen vs Mainz 05,82,8026,339831,4-2-3-1,4-1-4-1,2529060
+117,2020341,Werder Bremen vs Hoffenheim,82,8026,339831,3-1-4-2,4-2-3-1,4072587
+118,2020347,Bayern München vs Werder Bremen,82,8026,53,4-2-3-1,4-1-4-1,3108192
+119,2020360,Werder Bremen vs Hertha BSC,82,8026,2172,4-2-3-1,4-1-4-1,1733517
+120,2020369,Schalke 04 vs Werder Bremen,82,8026,2138,4-3-3,3-4-3,90889
+123,2020396,Werder Bremen vs Hamburger SV,82,8026,339831,4-3-3,4-1-4-1,4928130
+124,2020404,Borussia M'gladbach vs Werder Bremen,82,8026,180,3-1-4-2,4-2-3-1,2529095
+125,2020189,Borussia M'gladbach vs Köln,82,8026,180,4-2-3-1,4-4-2,3108395
+126,2020196,Köln vs Hamburger SV,82,8026,1946,4-2-3-1,4-4-2,2751644
+127,2020208,Augsburg vs Köln,82,8026,2165,4-4-2,4-2-3-1,2405015
+129,2020221,Köln vs Eintracht Frankfurt,82,8026,1946,4-2-3-1,4-4-2,3108384
+130,2020237,Hannover 96 vs Köln,82,8026,1531,3-1-4-2,4-4-2,2751637
+131,2020239,Köln vs RB Leipzig,82,8026,1946,4-2-2-2,4-4-2,4804796
+132,2020256,Stuttgart vs Köln,82,8026,1945,4-4-2,3-4-2-1,2528955
+135,2020277,Köln vs Hoffenheim,82,8026,1946,4-3-3,4-4-2,3108256
+136,2020290,Mainz 05 vs Köln,82,8026,2103,4-4-2,4-3-3,5356836
+137,2020295,Köln vs Hertha BSC,82,8026,1946,4-4-2,3-4-3,97943
+139,2020307,Schalke 04 vs Köln,82,8026,2138,3-4-1-2,3-4-3,2404957
+141,2020320,Bayern München vs Köln,82,8026,53,5-4-1,4-3-3,2751623
+143,2020340,Köln vs Borussia M'gladbach,82,8026,1946,4-2-3-1,4-4-2,4663272
+144,2020353,Hamburger SV vs Köln,82,8026,1610,4-4-2,4-2-3-1,90888
+145,2020359,Köln vs Augsburg,82,8026,1946,3-4-2-1,4-4-2,2448553
+147,2020379,Eintracht Frankfurt vs Köln,82,8026,2169,4-4-2,3-4-2-1,2751612
+148,2020383,Köln vs Hannover 96,82,8026,1946,3-4-3,3-5-1-1,54434
+149,2020394,RB Leipzig vs Köln,82,8026,2171,3-4-2-1,4-3-3,3108121
+150,2020402,Köln vs Stuttgart,82,8026,1946,4-4-2,3-4-2-1,2751605
+151,2020190,Schalke 04 vs RB Leipzig,82,8026,2138,4-2-2-2,3-4-3,4928176
+152,2020201,Hannover 96 vs Schalke 04,82,8026,1531,3-4-3,4-3-3,3814741
+153,2020207,Schalke 04 vs Stuttgart,82,8026,2138,3-4-2-1,3-4-1-2,90988
+155,2020225,Schalke 04 vs Bayern München,82,8026,2138,4-2-3-1,3-4-2-1,15803
+156,2020233,Hoffenheim vs Schalke 04,82,8026,1618,3-4-2-1,3-1-4-2,5109933
+158,2020251,Hertha BSC vs Schalke 04,82,8026,1944,3-5-2,4-2-3-1,3923970
+159,2020261,Schalke 04 vs Mainz 05,82,8026,2138,3-4-2-1,3-1-4-2,97942
+162,2020288,Schalke 04 vs Hamburger SV,82,8026,2138,4-2-3-1,3-4-3,5356838
+165,2020314,Borussia M'gladbach vs Schalke 04,82,8026,180,4-1-4-1,4-4-2,4663292
+166,2020324,Schalke 04 vs Augsburg,82,8026,2138,4-2-3-1,3-1-4-2,90365
+167,2020334,Eintracht Frankfurt vs Schalke 04,82,8026,2169,3-1-4-2,3-4-1-2,3108191
+168,2020339,RB Leipzig vs Schalke 04,82,8026,2637,3-1-4-2,4-3-3,3108199
+169,2020352,Schalke 04 vs Hannover 96,82,8026,2138,3-4-2-1,3-1-4-2,3108177
+170,2020364,Stuttgart vs Schalke 04,82,8026,1945,3-4-2-1,3-4-2-1,4928118
+172,2020374,Bayern München vs Schalke 04,82,8026,53,3-4-1-2,4-3-3,2404937
+173,2020387,Schalke 04 vs Hoffenheim,82,8026,2138,3-1-4-2,3-4-1-2,4928178
+175,2020405,Schalke 04 vs Hertha BSC,82,8026,2138,4-1-4-1,3-4-1-2,5356781
+178,2020209,Hamburger SV vs RB Leipzig,82,8026,1610,4-2-2-2,4-2-3-1,3108366
+179,2020214,RB Leipzig vs Borussia M'gladbach,82,8026,2637,4-4-2,4-2-2-2,15802
+180,2020226,Augsburg vs RB Leipzig,82,8026,2165,4-2-2-2,4-3-1-2,2751639
+181,2020232,RB Leipzig vs Eintracht Frankfurt,82,8026,2140,3-4-2-1,4-2-2-2,3815385
+184,2020257,RB Leipzig vs Stuttgart,82,8026,2140,3-4-2-1,4-2-2-2,90363
+185,2020266,Bayern München vs RB Leipzig,82,8026,53,4-2-2-2,4-3-3,2751632
+186,2020276,RB Leipzig vs Hannover 96,82,8026,2637,3-4-3,4-2-2-2,3108257
+189,2020303,Hoffenheim vs RB Leipzig,82,8026,1618,4-2-2-2,3-1-4-2,2751625
+190,2020312,RB Leipzig vs Mainz 05,82,8026,2140,3-1-4-2,4-2-2-2,3815228
+192,2020330,RB Leipzig vs Hertha BSC,82,8026,2637,4-2-3-1,4-2-2-2,90992
+195,2020358,RB Leipzig vs Hamburger SV,82,8026,2637,3-4-1-2,4-2-2-2,2529062
+196,2020368,Borussia M'gladbach vs RB Leipzig,82,8026,180,4-3-3,4-4-2,2404948
+197,2020376,RB Leipzig vs Augsburg,82,8026,2637,4-2-3-1,4-2-2-2,90366
+198,2020388,Eintracht Frankfurt vs RB Leipzig,82,8026,2169,4-3-3,3-4-1-2,4928132
+201,2020191,Hamburger SV vs Augsburg,82,8026,1610,4-2-3-1,4-2-3-1,2751651
+202,2020200,Augsburg vs Borussia M'gladbach,82,8026,2165,4-4-2,4-1-4-1,5356878
+204,2020217,Eintracht Frankfurt vs Augsburg,82,8026,2169,4-2-3-1,3-1-4-2,2448579
+206,2020238,Stuttgart vs Augsburg,82,8026,1945,3-4-2-1,3-4-2-1,3108300
+208,2020250,Hoffenheim vs Augsburg,82,8026,232157,3-4-3,3-5-2,55875
+209,2020263,Augsburg vs Hannover 96,82,8026,2165,4-4-2,4-2-3-1,4706140
+212,2020284,Bayern München vs Augsburg,82,8026,53,4-2-3-1,4-3-3,54430
+214,2020309,Mainz 05 vs Augsburg,82,8026,2103,4-2-3-1,4-3-3,90991
+215,2020316,Augsburg vs Hertha BSC,82,8026,2165,4-4-2,4-2-3-1,3108203
+218,2020344,Augsburg vs Hamburger SV,82,8026,2165,4-4-2,4-2-3-1,55881
+219,2020351,Borussia M'gladbach vs Augsburg,82,8026,180,4-2-3-1,4-4-2,97945
+221,2020370,Augsburg vs Eintracht Frankfurt,82,8026,2165,3-1-4-2,4-2-3-1,3108143
+223,2020389,Augsburg vs Stuttgart,82,8026,2165,4-4-2,4-2-3-1,2404930
+225,2020407,Augsburg vs Hoffenheim,82,8026,2165,3-1-4-2,4-2-3-1,4831383
+228,2020206,Borussia M'gladbach vs Eintracht Frankfurt,82,8026,180,3-1-4-2,4-4-2,3108350
+230,2020224,Borussia M'gladbach vs Stuttgart,82,8026,180,3-4-3,4-4-2,2751640
+232,2020242,Borussia M'gladbach vs Hannover 96,82,8026,180,4-1-4-1,4-4-2,2448572
+235,2020267,Hoffenheim vs Borussia M'gladbach,82,8026,1618,4-2-3-1,3-1-4-2,3108276
+236,2020279,Borussia M'gladbach vs Mainz 05,82,8026,180,4-3-3,4-4-2,90364
+237,2020286,Hertha BSC vs Borussia M'gladbach,82,8026,1944,4-4-2,4-4-2,1733510
+238,2020297,Borussia M'gladbach vs Bayern München,82,8026,180,4-1-4-1,4-4-2,55878
+242,2020333,Borussia M'gladbach vs Hamburger SV,82,8026,180,3-5-2,4-4-2,54432
+245,2020361,Eintracht Frankfurt vs Borussia M'gladbach,82,8026,2169,3-4-3,3-1-4-2,15806
+247,2020382,Stuttgart vs Borussia M'gladbach,82,8026,1945,4-4-2,4-4-2,90994
+249,2020399,Hannover 96 vs Borussia M'gladbach,82,8026,1531,4-4-2,4-1-4-1,3108117
+251,2020187,Hertha BSC vs Stuttgart,82,8026,1944,4-4-2,4-4-2,4928171
+252,2020202,Stuttgart vs Mainz 05,82,8026,1945,4-2-3-1,3-4-2-1,3815198
+257,2020244,Eintracht Frankfurt vs Stuttgart,82,8026,2169,3-4-2-1,4-2-3-1,5356859
+261,2020282,Hamburger SV vs Stuttgart,82,8026,1610,4-2-3-1,4-2-3-1,90885
+263,2020301,Hannover 96 vs Stuttgart,82,8026,1531,3-4-2-1,3-4-3,2448581
+266,2020321,Hoffenheim vs Stuttgart,82,8026,1618,3-4-2-1,3-1-4-2,97944
+267,2020337,Stuttgart vs Bayern München,82,8026,1945,4-1-4-1,3-4-2-1,5356806
+268,2020346,Stuttgart vs Hertha BSC,82,8026,1945,4-2-3-1,4-4-2,4928121
+269,2020354,Mainz 05 vs Stuttgart,82,8026,2103,4-2-3-1,3-1-4-2,3108180
+274,2020400,Stuttgart vs Eintracht Frankfurt,82,8026,1945,3-1-4-2,4-4-2,97946
+276,2020192,Mainz 05 vs Hannover 96,82,8026,2103,4-4-2,4-2-3-1,5356880
+279,2020219,Hannover 96 vs Hamburger SV,82,8026,1531,4-2-3-1,4-3-3,3814678
+283,2020255,Hannover 96 vs Eintracht Frankfurt,82,8026,1531,3-4-3,4-3-3,1733482
+289,2020302,Bayern München vs Hannover 96,82,8026,53,3-4-2-1,4-3-3,90886
+290,2020318,Hannover 96 vs Hoffenheim,82,8026,1531,4-3-3,4-1-4-1,54431
+291,2020322,Hertha BSC vs Hannover 96,82,8026,1944,4-2-3-1,4-2-3-1,3814509
+293,2020345,Hannover 96 vs Mainz 05,82,8026,1531,3-1-4-2,3-4-1-2,1733880
+296,2020371,Hamburger SV vs Hannover 96,82,8026,1610,3-4-2-1,3-1-4-2,4928161
+300,2020406,Eintracht Frankfurt vs Hannover 96,82,8026,2169,3-1-4-2,3-4-1-2,15808
+303,2020203,Hoffenheim vs Bayern München,82,8026,1618,4-2-3-1,3-1-4-2,2751641
+304,2020215,Hoffenheim vs Hertha BSC,82,8026,232157,4-2-3-1,3-4-2-1,54427
+305,2020228,Mainz 05 vs Hoffenheim,82,8026,2103,3-1-4-2,3-4-2-1,55873
+312,2020285,Hoffenheim vs Eintracht Frankfurt,82,8026,1618,3-4-1-2,3-1-4-2,4938902
+313,2020300,Hamburger SV vs Hoffenheim,82,8026,1610,3-1-4-2,4-2-3-1,1733536
+321,2020356,Bayern München vs Hoffenheim,82,8026,53,3-1-4-2,4-3-3,55882
+322,2020366,Hertha BSC vs Hoffenheim,82,8026,1944,3-1-4-2,4-2-3-1,3108151
+323,2020377,Hoffenheim vs Mainz 05,82,8026,1618,3-1-4-2,3-1-4-2,2529088
+336,2020272,Mainz 05 vs Eintracht Frankfurt,82,8026,2103,3-1-4-2,4-3-3,4928182
+340,2020304,Hertha BSC vs Eintracht Frankfurt,82,8026,1944,3-4-3,4-4-2,2751621
+341,2020315,Eintracht Frankfurt vs Bayern München,82,8026,2169,4-3-3,3-4-3,3108218
+342,2020326,Hamburger SV vs Eintracht Frankfurt,82,8026,1610,3-1-4-2,4-2-3-1,55880
+355,2020212,Bayern München vs Mainz 05,82,8026,53,3-4-2-1,4-2-3-1,4928165
+357,2020236,Mainz 05 vs Hertha BSC,82,8026,2103,4-2-3-1,3-4-2-1,2405003
+359,2020254,Mainz 05 vs Hamburger SV,82,8026,2103,4-2-3-1,4-2-3-1,4728667
+372,2020372,Mainz 05 vs Bayern München,82,8026,2103,4-3-3,4-2-3-1,2751615
+374,2020384,Hertha BSC vs Mainz 05,82,8026,1944,3-1-4-2,4-2-3-1,3108126
+376,2020408,Hamburger SV vs Mainz 05,82,8026,1610,3-1-4-2,4-2-3-1,54435
+383,2020240,Hertha BSC vs Bayern München,82,8026,1944,4-2-3-1,4-2-3-1,3108281
+385,2020264,Hamburger SV vs Bayern München,82,8026,1610,4-2-3-1,3-4-1-2,15805
+400,2020392,Bayern München vs Hertha BSC,82,8026,53,4-1-4-1,4-3-3,90890
+411,2020268,Hertha BSC vs Hamburger SV,82,8026,1944,3-4-3,4-2-3-1,5356843

@@ -1,0 +1,368 @@
+,fixture_id,name,league_id,season_id,venue_id,formation_away,formation_home,referee
+0,1710803,Brighton & Hove Albion vs Manchester City,8,6397,,3-1-4-2,4-4-2,3112199
+1,1710815,Leicester City vs Brighton & Hove Albion,8,6397,117.0,4-4-1-1,4-4-1-1,50330
+2,5585968,Brighton & Hove Albion vs Barnet,27,7889,,3-4-3,4-2-3-1,1744397
+3,1710830,Watford vs Brighton & Hove Albion,8,6397,339729.0,4-4-1-1,4-3-3,4713274
+4,1710833,Brighton & Hove Albion vs West Bromwich Albion,8,6397,282066.0,4-1-4-1,4-4-1-1,1717179
+5,1710842,AFC Bournemouth vs Brighton & Hove Albion,8,6397,146.0,4-4-1-1,4-4-1-1,4717087
+6,5932880,AFC Bournemouth vs Brighton & Hove Albion,27,7889,146.0,3-4-3,4-4-1-1,1745541
+7,1710853,Brighton & Hove Albion vs Newcastle United,8,6397,,4-2-3-1,4-4-1-1,2757626
+8,1710863,Arsenal vs Brighton & Hove Albion,8,6397,204.0,4-5-1,3-4-2-1,1717538
+9,1710872,Brighton & Hove Albion vs Everton,8,6397,,4-2-3-1,4-4-2,3112130
+10,1710891,West Ham United vs Brighton & Hove Albion,8,6397,214.0,4-4-2,4-2-3-1,1717128
+11,1710894,Brighton & Hove Albion vs Southampton,8,6397,,4-1-4-1,4-4-1-1,51331
+12,1710909,Swansea City vs Brighton & Hove Albion,8,6397,208.0,4-4-2,4-3-3,2002597
+13,1710914,Brighton & Hove Albion vs Stoke City,8,6397,,3-4-2-1,4-4-1-1,51110
+14,1710926,Manchester United vs Brighton & Hove Albion,8,6397,206.0,4-5-1,4-2-3-1,51333
+15,1710934,Brighton & Hove Albion vs Crystal Palace,8,6397,,4-4-2,4-4-1-1,2757459
+16,1710944,Brighton & Hove Albion vs Liverpool,8,6397,,3-5-1-1,4-4-1-1,5219474
+17,1710954,Huddersfield Town vs Brighton & Hove Albion,8,6397,340.0,4-4-1-1,4-2-3-1,3480276
+18,1710971,Tottenham Hotspur vs Brighton & Hove Albion,8,6397,,4-5-1,4-2-3-1,4668049
+19,1710974,Brighton & Hove Albion vs Burnley,8,6397,,4-4-1-1,4-2-3-1,1717813
+20,1710983,Brighton & Hove Albion vs Watford,8,6397,,4-2-3-1,4-4-1-1,53190
+21,1710993,Chelsea vs Brighton & Hove Albion,8,6397,321614.0,4-5-1,3-5-1-1,2009838
+22,1711008,Newcastle United vs Brighton & Hove Albion,8,6397,,4-4-1-1,4-4-2,3111970
+23,1711013,Brighton & Hove Albion vs AFC Bournemouth,8,6397,,4-4-2,4-4-1-1,3111963
+24,8693812,Brighton & Hove Albion vs Crystal Palace,24,8275,,4-2-3-1,4-4-2,2747337
+25,1711031,West Bromwich Albion vs Brighton & Hove Albion,8,6397,119.0,4-4-1-1,4-4-2,1717823
+26,1711033,Brighton & Hove Albion vs Chelsea,8,6397,,3-4-3,5-3-2,1717795
+27,9174968,Middlesbrough vs Brighton & Hove Albion,24,8275,203.0,4-4-2,4-2-3-1,3101125
+28,1711048,Southampton vs Brighton & Hove Albion,8,6397,167.0,4-4-1-1,4-2-3-1,2002638
+29,1711054,Brighton & Hove Albion vs West Ham United,8,6397,,3-4-2-1,4-4-1-1,43064
+30,1711068,Stoke City vs Brighton & Hove Albion,8,6397,207.0,4-4-1-1,4-3-3,4951210
+31,9544742,Brighton & Hove Albion vs Coventry City,24,8275,,4-4-2,4-4-2,5098433
+32,1711074,Brighton & Hove Albion vs Swansea City,8,6397,,5-4-1,4-4-1-1,2012181
+33,1710810,Watford vs Liverpool,8,6397,339729.0,4-3-3,4-3-3,3112178
+34,1710816,Liverpool vs Crystal Palace,8,6397,230.0,3-5-2,4-3-3,1717599
+35,1710826,Liverpool vs Arsenal,8,6397,230.0,3-4-2-1,4-3-3,5358237
+36,1710837,Manchester City vs Liverpool,8,6397,,4-3-3,3-1-4-2,1717002
+37,1710846,Liverpool vs Burnley,8,6397,230.0,4-4-1-1,4-3-3,43054
+38,5932868,Leicester City vs Liverpool,27,7889,117.0,4-3-3,4-4-2,4066130
+39,1710856,Leicester City vs Liverpool,8,6397,117.0,4-3-3,4-4-1-1,3112138
+40,1710868,Newcastle United vs Liverpool,8,6397,,4-3-3,4-2-3-1,4951310
+41,1710876,Liverpool vs Manchester United,8,6397,230.0,4-2-3-1,4-3-3,1717578
+42,1710890,Tottenham Hotspur vs Liverpool,8,6397,,4-3-3,3-5-2,2757541
+43,1710898,Liverpool vs Huddersfield Town,8,6397,230.0,4-5-1,4-3-3,1717315
+44,1710911,West Ham United vs Liverpool,8,6397,214.0,4-2-2-2,3-4-2-1,51332
+45,1710918,Liverpool vs Southampton,8,6397,230.0,4-2-3-1,4-3-3,51524
+46,1710925,Liverpool vs Chelsea,8,6397,230.0,3-5-1-1,4-3-3,3112091
+47,1710941,Stoke City vs Liverpool,8,6397,207.0,4-2-3-1,3-4-2-1,1717598
+49,1710955,Liverpool vs Everton,8,6397,230.0,4-4-2,4-3-3,4667781
+50,1710970,Liverpool vs West Bromwich Albion,8,6397,230.0,4-5-1,4-4-2,53189
+51,1710972,AFC Bournemouth vs Liverpool,8,6397,146.0,4-3-3,4-4-1-1,2757367
+52,1710982,Arsenal vs Liverpool,8,6397,204.0,4-2-3-1,4-2-3-1,1717995
+53,1710996,Liverpool vs Swansea City,8,6397,230.0,4-5-1,4-3-3,1717589
+54,1711006,Liverpool vs Leicester City,8,6397,230.0,4-4-1-1,4-3-3,51337
+55,1711014,Burnley vs Liverpool,8,6397,200.0,4-2-3-1,4-4-1-1,43062
+56,8693811,Liverpool vs Everton,24,8275,230.0,4-2-3-1,4-2-3-1,4712801
+57,1711026,Liverpool vs Manchester City,8,6397,230.0,4-3-3,4-3-3,2757268
+58,1711040,Swansea City vs Liverpool,8,6397,208.0,4-2-3-1,5-4-1,51338
+59,9128093,Liverpool vs West Bromwich Albion,24,8275,230.0,4-4-2,4-3-3,4677523
+60,1711042,Huddersfield Town vs Liverpool,8,6397,340.0,4-3-3,5-3-2,1717785
+61,1711058,Liverpool vs Tottenham Hotspur,8,6397,230.0,4-3-1-2,4-3-3,1717990
+62,1711067,Southampton vs Liverpool,8,6397,167.0,4-3-3,4-2-3-1,1717790
+63,1711078,Liverpool vs West Ham United,8,6397,230.0,3-4-2-1,4-3-3,3480012
+64,1710802,Arsenal vs Leicester City,8,6397,204.0,4-4-1-1,3-4-2-1,2005568
+65,1710818,Stoke City vs Arsenal,8,6397,207.0,3-4-2-1,3-4-2-1,2757747
+67,1710832,Arsenal vs AFC Bournemouth,8,6397,204.0,3-5-1-1,3-4-2-1,3112196
+68,1710843,Chelsea vs Arsenal,8,6397,321614.0,3-4-2-1,3-4-2-1,3112145
+69,5932873,Arsenal vs Doncaster Rovers,27,7889,204.0,5-4-1,3-4-2-1,48158
+70,1710852,Arsenal vs West Bromwich Albion,8,6397,204.0,3-5-2,3-4-2-1,4667860
+72,1710881,Watford vs Arsenal,8,6397,339729.0,3-4-2-1,3-4-3,51330
+73,1710883,Everton vs Arsenal,8,6397,12.0,3-4-2-1,3-4-2-1,4667799
+74,6737680,Arsenal vs Norwich City,27,7889,204.0,4-2-3-1,3-4-3,"[{'id': 4007247, 'fixture_id': 6737680, 'referee_id': 14660, 'type_id': 8}, {'id': 3103161, 'fixture_id': 6737680, 'referee_id': 12096, 'type_id': 7}]"
+75,1710893,Arsenal vs Swansea City,8,6397,204.0,3-5-2,3-4-2-1,51109
+76,1710905,Manchester City vs Arsenal,8,6397,,3-4-2-1,4-3-3,3112084
+77,1710913,Arsenal vs Tottenham Hotspur,8,6397,204.0,3-5-2,3-4-2-1,2008631
+78,1710922,Burnley vs Arsenal,8,6397,200.0,3-4-2-1,4-4-1-1,51111
+79,1710933,Arsenal vs Huddersfield Town,8,6397,204.0,3-4-2-1,3-4-2-1,3480230
+80,1710943,Arsenal vs Manchester United,8,6397,204.0,3-4-1-2,3-4-2-1,2757423
+81,1710958,Southampton vs Arsenal,8,6397,167.0,3-4-2-1,4-2-3-1,5110835
+82,1710965,West Ham United vs Arsenal,8,6397,214.0,4-3-3,5-3-2,1718123
+83,1710973,Arsenal vs Newcastle United,8,6397,204.0,4-4-2,4-3-3,4951481
+84,7804427,Arsenal vs West Ham United,27,7889,204.0,5-3-2,4-3-3,1747302
+86,1710994,Crystal Palace vs Arsenal,8,6397,201.0,3-4-2-1,4-4-2,3112025
+87,1711011,West Bromwich Albion vs Arsenal,8,6397,119.0,3-4-2-1,5-3-2,2002627
+88,1711012,Arsenal vs Chelsea,8,6397,204.0,3-5-1-1,3-4-2-1,3111966
+89,8693816,Nottingham Forest vs Arsenal,24,8275,542.0,4-2-3-1,4-2-3-1,1748123
+90,8930443,Chelsea vs Arsenal,27,7889,321614.0,3-4-2-1,3-5-1-1,1276046
+91,1711022,AFC Bournemouth vs Arsenal,8,6397,146.0,3-4-2-1,3-4-2-1,1717859
+92,1711032,Arsenal vs Crystal Palace,8,6397,204.0,4-4-2,4-1-4-1,1718292
+93,8930444,Arsenal vs Chelsea,27,7889,204.0,3-4-2-1,4-3-3,3102291
+94,1711043,Swansea City vs Arsenal,8,6397,208.0,4-3-3,5-4-1,51115
+95,1711053,Arsenal vs Everton,8,6397,204.0,3-4-3,4-2-3-1,51340
+96,1711070,Tottenham Hotspur vs Arsenal,8,6397,,4-3-3,4-2-3-1,3111902
+97,9435054,Arsenal vs Manchester City,27,7889,,3-4-2-1,4-3-3,4692627
+100,5585961,Sheffield United vs Leicester City,27,7889,339719.0,4-4-2,3-5-2,1744403
+101,1710827,Manchester United vs Leicester City,8,6397,206.0,4-4-1-1,4-2-3-1,3112177
+102,1710836,Leicester City vs Chelsea,8,6397,117.0,3-4-2-1,4-4-2,51106
+103,1710845,Huddersfield Town vs Leicester City,8,6397,340.0,4-4-1-1,4-2-3-1,1717010
+106,1710862,AFC Bournemouth vs Leicester City,8,6397,146.0,4-4-1-1,4-4-1-1,3480318
+107,1710875,Leicester City vs West Bromwich Albion,8,6397,117.0,4-3-3,4-4-1-1,2002588
+108,1710889,Swansea City vs Leicester City,8,6397,208.0,4-4-1-1,4-3-3,3112103
+109,6737683,Leicester City vs Leeds United,27,7889,117.0,4-2-3-1,4-4-2,50357
+110,1710897,Leicester City vs Everton,8,6397,117.0,4-4-1-1,4-4-1-1,2757544
+111,1710908,Stoke City vs Leicester City,8,6397,207.0,4-4-1-1,3-4-2-1,5219477
+112,1710917,Leicester City vs Manchester City,8,6397,117.0,4-3-3,4-4-1-1,4951249
+113,1710931,West Ham United vs Leicester City,8,6397,214.0,4-4-1-1,4-2-3-1,1717357
+114,1710935,Leicester City vs Tottenham Hotspur,8,6397,117.0,3-5-2,4-4-1-1,3112060
+115,1710947,Leicester City vs Burnley,8,6397,117.0,4-4-1-1,4-4-1-1,53188
+116,1710957,Newcastle United vs Leicester City,8,6397,,4-4-1-1,4-4-1-1,51335
+117,1710969,Southampton vs Leicester City,8,6397,167.0,4-2-3-1,4-2-3-1,1717629
+118,1710977,Leicester City vs Crystal Palace,8,6397,117.0,4-4-2,4-2-3-1,1717791
+119,7804430,Leicester City vs Manchester City,27,7889,117.0,4-3-3,4-4-1-1,"[{'id': 2533399, 'fixture_id': 7804430, 'referee_id': 12025, 'type_id': 7}, {'id': 2747547, 'fixture_id': 7804430, 'referee_id': 12083, 'type_id': 8}, {'id': 3795222, 'fixture_id': 7804430, 'referee_id': 15835, 'type_id': 9}]"
+120,1710986,Leicester City vs Manchester United,8,6397,117.0,4-2-3-1,4-2-3-1,1717924
+121,1711000,Watford vs Leicester City,8,6397,339729.0,4-2-3-1,4-3-3,1717857
+123,1711016,Leicester City vs Huddersfield Town,8,6397,117.0,4-2-3-1,4-4-2,4004355
+124,8876559,Fleetwood Town vs Leicester City,24,8275,669.0,4-3-3,4-3-3,"[{'id': 1748710, 'fixture_id': 8876559, 'referee_id': 12146, 'type_id': 7}, {'id': 3102338, 'fixture_id': 8876559, 'referee_id': 12026, 'type_id': 8}, {'id': 3102335, 'fixture_id': 8876559, 'referee_id': 13537, 'type_id': 9}]"
+125,1711023,Chelsea vs Leicester City,8,6397,321614.0,4-4-1-1,3-5-1-1,51529
+126,9113428,Leicester City vs Fleetwood Town,24,8275,117.0,4-5-1,4-4-1-1,1749279
+127,1711036,Leicester City vs Watford,8,6397,117.0,4-2-3-1,4-4-1-1,50339
+128,9306892,Peterborough United vs Leicester City,24,8275,260.0,4-2-3-1,4-2-3-1,3101103
+129,1711046,Everton vs Leicester City,8,6397,12.0,4-2-3-1,4-2-3-1,1718272
+130,1711057,Leicester City vs Swansea City,8,6397,117.0,5-4-1,4-4-2,3111911
+131,1711065,Manchester City vs Leicester City,8,6397,,3-5-2,4-3-3,51530
+132,9544741,Leicester City vs Sheffield United,24,8275,117.0,3-5-2,4-4-1-1,51130
+133,1711077,Leicester City vs Stoke City,8,6397,117.0,4-1-4-1,4-2-3-1,3111899
+135,1710812,AFC Bournemouth vs Watford,8,6397,146.0,4-3-3,4-4-1-1,43053
+136,5585965,Watford vs Bristol City,27,7889,339729.0,4-4-2,4-2-3-1,2532578
+138,1710838,Southampton vs Watford,8,6397,167.0,4-2-3-1,4-2-3-1,50331
+139,1710850,Watford vs Manchester City,8,6397,339729.0,4-3-3,4-2-3-1,3112148
+140,1710860,Swansea City vs Watford,8,6397,208.0,4-2-3-1,3-5-2,51107
+141,1710870,West Bromwich Albion vs Watford,8,6397,119.0,4-2-3-1,4-2-3-1,3112113
+143,1710882,Chelsea vs Watford,8,6397,321614.0,3-4-3,3-4-3,1717451
+144,1710900,Watford vs Stoke City,8,6397,339729.0,3-4-2-1,4-2-3-1,3112100
+145,1710903,Everton vs Watford,8,6397,12.0,4-3-3,4-3-3,4951256
+146,1710920,Watford vs West Ham United,8,6397,339729.0,4-3-3,3-4-2-1,2757487
+148,1710927,Newcastle United vs Watford,8,6397,,3-4-2-1,4-4-2,1717541
+149,1710936,Watford vs Manchester United,8,6397,339729.0,3-4-2-1,3-5-2,1717674
+150,1710950,Watford vs Tottenham Hotspur,8,6397,339729.0,4-2-3-1,3-4-2-1,1717595
+151,1710952,Burnley vs Watford,8,6397,200.0,4-2-3-1,4-2-3-1,50336
+152,1710966,Crystal Palace vs Watford,8,6397,201.0,3-4-2-1,4-4-2,51112
+153,1710980,Watford vs Huddersfield Town,8,6397,339729.0,4-4-2,3-4-2-1,3112010
+156,1711010,Watford vs Swansea City,8,6397,339729.0,4-2-2-2,4-2-3-1,1717682
+157,1711017,Manchester City vs Watford,8,6397,,4-2-3-1,4-3-3,51114
+158,8693809,Watford vs Bristol City,24,8275,339729.0,4-4-2,4-1-4-1,4850617
+159,1711030,Watford vs Southampton,8,6397,339729.0,4-2-3-1,4-2-3-1,43063
+161,9128098,Southampton vs Watford,24,8275,167.0,4-3-3,4-2-3-1,4712248
+162,1711050,Stoke City vs Watford,8,6397,207.0,4-3-3,4-2-3-1,1718336
+163,1711060,Watford vs Chelsea,8,6397,339729.0,3-4-2-1,3-4-2-1,2002642
+164,1711071,West Ham United vs Watford,8,6397,214.0,3-4-3,3-4-3,4951536
+165,1711080,Watford vs Everton,8,6397,339729.0,4-3-3,4-2-3-1,3111889
+166,1710809,Southampton vs Swansea City,8,6397,167.0,4-3-1-2,4-2-3-1,51520
+167,1710819,Swansea City vs Manchester United,8,6397,208.0,4-2-3-1,3-1-4-2,1717088
+168,5585972,Milton Keynes Dons vs Swansea City,27,7889,424.0,4-3-1-2,4-4-1-1,4811384
+169,1710824,Crystal Palace vs Swansea City,8,6397,201.0,3-5-2,3-5-2,2757690
+170,1710840,Swansea City vs Newcastle United,8,6397,208.0,4-2-3-1,4-3-1-2,51521
+171,1710849,Tottenham Hotspur vs Swansea City,8,6397,,3-5-2,3-5-1-1,2006745
+172,5932875,Reading vs Swansea City,27,7889,494.0,4-3-3,4-2-3-1,3883936
+174,1710871,West Ham United vs Swansea City,8,6397,214.0,4-3-1-2,4-4-2,43055
+175,1710879,Swansea City vs Huddersfield Town,8,6397,208.0,4-2-3-1,4-3-3,53185
+177,6737685,Swansea City vs Manchester United,27,7889,208.0,3-4-1-2,4-2-3-1,"[{'id': 701080, 'fixture_id': 6737685, 'referee_id': 14818, 'type_id': 9}, {'id': 3103168, 'fixture_id': 6737685, 'referee_id': 12769, 'type_id': 7}, {'id': 2747733, 'fixture_id': 6737685, 'referee_id': 12245, 'type_id': 8}]"
+180,1710915,Burnley vs Swansea City,8,6397,200.0,4-3-3,4-4-1-1,1717264
+181,1710929,Swansea City vs AFC Bournemouth,8,6397,208.0,4-4-1-1,4-3-1-2,4951264
+182,1710938,Chelsea vs Swansea City,8,6397,321614.0,4-3-1-2,3-4-2-1,51334
+183,1710949,Stoke City vs Swansea City,8,6397,207.0,4-3-1-2,4-4-2,4951190
+184,1710959,Swansea City vs West Bromwich Albion,8,6397,208.0,4-4-2,4-3-3,2009444
+185,1710964,Swansea City vs Manchester City,8,6397,208.0,4-3-3,4-5-1,3112005
+186,1710976,Everton vs Swansea City,8,6397,12.0,4-3-3,4-2-3-1,1718071
+187,1710990,Swansea City vs Crystal Palace,8,6397,208.0,4-4-2,4-3-3,4951452
+190,1711020,Swansea City vs Tottenham Hotspur,8,6397,208.0,4-2-3-1,5-3-2,4951235
+191,8693825,Wolverhampton Wanderers vs Swansea City,24,8275,492.0,3-4-3,3-4-3,3102797
+192,1711028,Newcastle United vs Swansea City,8,6397,,4-4-2,4-2-3-1,3480155
+193,9113431,Swansea City vs Wolverhampton Wanderers,24,8275,208.0,3-4-3,3-4-3,1749280
+195,9306893,Notts County vs Swansea City,24,8275,15793.0,3-4-3,4-4-2,51544
+198,9522907,Swansea City vs Notts County,24,8275,208.0,4-4-1-1,4-4-1-1,1750645
+199,1711069,Swansea City vs Burnley,8,6397,208.0,4-4-2,5-4-1,2757214
+200,9727650,Sheffield Wednesday vs Swansea City,24,8275,495.0,3-4-3,3-5-2,53214
+202,10060903,Swansea City vs Sheffield Wednesday,24,8275,208.0,3-5-2,3-4-3,3777018
+203,1710805,Crystal Palace vs Huddersfield Town,8,6397,201.0,4-2-3-1,3-4-2-1,1717162
+205,5585964,Crystal Palace vs Ipswich Town,27,7889,201.0,4-2-3-1,3-5-2,4898932
+207,1710834,Burnley vs Crystal Palace,8,6397,200.0,4-3-3,4-4-2,3112174
+208,1710844,Crystal Palace vs Southampton,8,6397,201.0,4-2-3-1,4-4-1-1,4667818
+209,5932879,Crystal Palace vs Huddersfield Town,27,7889,201.0,4-2-3-1,4-2-3-1,50356
+210,1710857,Manchester City vs Crystal Palace,8,6397,,4-2-3-1,4-3-3,51328
+211,1710867,Manchester United vs Crystal Palace,8,6397,206.0,4-3-3,4-2-3-1,2007083
+212,1710874,Crystal Palace vs Chelsea,8,6397,201.0,3-4-3,4-4-2,2757552
+213,1710886,Newcastle United vs Crystal Palace,8,6397,,4-4-2,4-2-3-1,4155581
+214,6737681,Bristol City vs Crystal Palace,27,7889,500.0,4-5-1,4-4-2,2533165
+215,1710896,Crystal Palace vs West Ham United,8,6397,201.0,3-5-2,4-4-2,4975246
+216,1710910,Tottenham Hotspur vs Crystal Palace,8,6397,,4-4-2,3-5-1-1,1717604
+217,1710916,Crystal Palace vs Everton,8,6397,201.0,4-3-3,4-4-2,3112069
+218,1710923,Crystal Palace vs Stoke City,8,6397,201.0,3-4-2-1,4-4-2,2008945
+220,1710951,West Bromwich Albion vs Crystal Palace,8,6397,119.0,4-4-2,4-3-3,3112039
+221,1710953,Crystal Palace vs AFC Bournemouth,8,6397,201.0,4-4-1-1,4-4-2,1717534
+226,1711004,Crystal Palace vs Manchester City,8,6397,201.0,4-3-3,4-3-3,1717945
+227,1711018,Southampton vs Crystal Palace,8,6397,167.0,4-2-3-1,4-2-3-1,3480111
+229,1711024,Crystal Palace vs Burnley,8,6397,201.0,4-2-3-1,4-4-2,3111944
+231,1711044,West Ham United vs Crystal Palace,8,6397,214.0,4-4-2,3-4-2-1,51339
+232,1711056,Crystal Palace vs Newcastle United,8,6397,201.0,4-4-1-1,4-4-2,2757184
+233,1711063,Everton vs Crystal Palace,8,6397,12.0,4-3-3,4-3-3,1717696
+234,1711076,Crystal Palace vs Tottenham Hotspur,8,6397,201.0,4-2-3-1,4-3-3,1717890
+235,1710807,Manchester United vs West Ham United,8,6397,206.0,4-2-3-1,4-2-3-1,1717209
+238,1710839,Stoke City vs Manchester United,8,6397,207.0,4-3-3,3-4-2-1,51327
+239,1710847,Manchester United vs Everton,8,6397,206.0,3-4-2-1,4-2-3-1,2757633
+240,5932869,Manchester United vs Burton Albion,27,7889,206.0,5-3-2,4-2-3-1,3860268
+241,1710858,Southampton vs Manchester United,8,6397,167.0,4-2-3-1,4-2-3-1,5358236
+244,1710884,Huddersfield Town vs Manchester United,8,6397,340.0,4-2-3-1,4-2-3-1,51108
+246,1710899,Manchester United vs Tottenham Hotspur,8,6397,206.0,3-5-1-1,3-4-1-2,1717539
+247,1710902,Chelsea vs Manchester United,8,6397,321614.0,3-4-1-2,3-1-4-2,3112083
+248,1710919,Manchester United vs Newcastle United,8,6397,206.0,4-4-2,4-2-3-1,4951597
+252,1710956,Manchester United vs Manchester City,8,6397,206.0,4-3-3,4-2-3-1,3112041
+253,1710967,Manchester United vs AFC Bournemouth,8,6397,206.0,4-4-1-1,4-2-3-1,3480152
+254,1710981,West Bromwich Albion vs Manchester United,8,6397,119.0,4-2-3-1,4-3-3,3111990
+255,7804428,Bristol City vs Manchester United,27,7889,500.0,4-3-3,4-4-1-1,2007748
+257,1710997,Manchester United vs Burnley,8,6397,206.0,4-1-4-1,4-2-3-1,1717628
+258,1711007,Manchester United vs Southampton,8,6397,206.0,4-2-3-1,4-2-3-1,4668057
+259,1711015,Everton vs Manchester United,8,6397,12.0,4-3-3,4-2-3-1,2757319
+260,8693819,Manchester United vs Derby County,24,8275,206.0,4-2-3-1,4-1-4-1,1748161
+261,1711027,Manchester United vs Stoke City,8,6397,206.0,4-2-3-1,4-2-3-1,3111941
+262,1711034,Burnley vs Manchester United,8,6397,200.0,4-3-3,4-4-1-1,2002632
+263,9128095,Yeovil Town vs Manchester United,24,8275,841.0,4-3-3,4-4-2,53212
+264,1711051,Tottenham Hotspur vs Manchester United,8,6397,,4-2-3-1,4-2-3-1,2757211
+265,1711059,Manchester United vs Huddersfield Town,8,6397,206.0,4-1-4-1,4-2-3-1,5110804
+266,1711066,Newcastle United vs Manchester United,8,6397,,4-2-3-1,4-4-1-1,4667768
+267,9727651,Huddersfield Town vs Manchester United,24,8275,340.0,4-3-3,4-2-3-1,1751036
+268,1711079,Manchester United vs Chelsea,8,6397,206.0,3-4-2-1,4-3-1-2,1718267
+269,1710811,West Bromwich Albion vs AFC Bournemouth,8,6397,119.0,4-4-1-1,4-1-4-1,5116140
+271,5585973,Birmingham City vs AFC Bournemouth,27,7889,507.0,NaN,NaN,3800161
+272,1710822,AFC Bournemouth vs Manchester City,8,6397,146.0,4-3-3,5-3-2,2002574
+276,1710855,Everton vs AFC Bournemouth,8,6397,12.0,4-4-1-1,4-3-3,1717511
+278,1710880,Tottenham Hotspur vs AFC Bournemouth,8,6397,,3-5-1-1,4-2-3-1,4667804
+279,1710888,Stoke City vs AFC Bournemouth,8,6397,207.0,4-4-1-1,3-4-3,50332
+280,6737679,AFC Bournemouth vs Middlesbrough,27,7889,146.0,4-2-3-1,4-4-1-1,5261740
+281,1710892,AFC Bournemouth vs Chelsea,8,6397,146.0,3-4-2-1,3-4-1-2,5195748
+282,1710906,Newcastle United vs AFC Bournemouth,8,6397,,4-4-2,4-4-2,53186
+283,1710912,AFC Bournemouth vs Huddersfield Town,8,6397,146.0,4-2-3-1,4-4-1-1,50334
+285,1710932,AFC Bournemouth vs Burnley,8,6397,146.0,4-4-1-1,4-4-1-1,43058
+286,1710942,AFC Bournemouth vs Southampton,8,6397,146.0,4-2-3-1,4-4-1-1,1717500
+290,7804429,Chelsea vs AFC Bournemouth,27,7889,321614.0,5-3-2,3-4-3,51127
+291,1710987,Manchester City vs AFC Bournemouth,8,6397,,3-4-2-1,4-3-3,51527
+292,1710992,AFC Bournemouth vs West Ham United,8,6397,146.0,3-4-2-1,4-4-1-1,4667813
+293,1711002,AFC Bournemouth vs Everton,8,6397,146.0,4-3-3,4-4-1-1,50338
+295,8843014,AFC Bournemouth vs Wigan Athletic,24,8275,146.0,4-2-3-1,4-4-2,"[{'id': 512785, 'fixture_id': 8843014, 'referee_id': 12097, 'type_id': 8}, {'id': 2401715, 'fixture_id': 8843014, 'referee_id': 13545, 'type_id': 9}, {'id': 4643585, 'fixture_id': 8843014, 'referee_id': 12087, 'type_id': 7}]"
+297,9113435,Wigan Athletic vs AFC Bournemouth,24,8275,14.0,4-4-1-1,4-2-3-1,4078496
+298,1711041,West Ham United vs AFC Bournemouth,8,6397,214.0,3-4-3,3-5-1-1,1717650
+299,1711045,Chelsea vs AFC Bournemouth,8,6397,321614.0,3-4-3,3-4-2-1,50340
+300,1711052,AFC Bournemouth vs Stoke City,8,6397,146.0,4-3-3,3-4-2-1,53193
+301,1711064,Huddersfield Town vs AFC Bournemouth,8,6397,340.0,3-4-2-1,4-2-3-1,3111950
+302,1711072,AFC Bournemouth vs Newcastle United,8,6397,146.0,4-4-1-1,4-4-1-1,43065
+303,1710808,Newcastle United vs Tottenham Hotspur,8,6397,,4-2-3-1,4-2-3-1,2757733
+304,1710814,Huddersfield Town vs Newcastle United,8,6397,340.0,4-2-3-1,4-2-3-1,5219482
+305,5585953,Newcastle United vs Nottingham Forest,27,7889,,NaN,NaN,3104599
+306,1710828,Newcastle United vs West Ham United,8,6397,,4-2-3-1,4-2-3-1,51326
+308,1710848,Newcastle United vs Stoke City,8,6397,,3-4-2-1,4-2-3-1,3480337
+311,1710878,Southampton vs Newcastle United,8,6397,167.0,4-4-2,4-4-2,1717548
+313,1710895,Burnley vs Newcastle United,8,6397,200.0,4-2-3-1,4-4-1-1,2002592
+317,1710937,West Bromwich Albion vs Newcastle United,8,6397,119.0,4-2-3-1,3-5-2,50335
+318,1710945,Chelsea vs Newcastle United,8,6397,321614.0,3-4-2-1,3-5-1-1,1717572
+320,1710968,Newcastle United vs Everton,8,6397,,4-2-3-1,4-2-3-1,1717803
+322,1710991,West Ham United vs Newcastle United,8,6397,214.0,4-4-2,3-4-2-1,51113
+323,1710998,Newcastle United vs Manchester City,8,6397,,4-3-3,5-4-1,2757289
+325,1711019,Stoke City vs Newcastle United,8,6397,207.0,4-2-3-1,4-3-3,1718120
+326,8693827,Newcastle United vs Luton Town,24,8275,,4-3-1-2,4-4-1-1,51349
+328,1711037,Manchester City vs Newcastle United,8,6397,,5-4-1,4-3-3,53192
+329,9306895,Chelsea vs Newcastle United,24,8275,321614.0,5-3-2,3-4-2-1,1749665
+330,1711047,Newcastle United vs Burnley,8,6397,,4-4-1-1,4-4-1-1,4951085
+334,1710806,Everton vs Stoke City,8,6397,12.0,3-4-2-1,3-4-2-1,51325
+335,1710817,Manchester City vs Everton,8,6397,,3-5-2,3-1-4-2,4951578
+336,1710823,Chelsea vs Everton,8,6397,321614.0,3-4-2-1,3-4-2-1,1717150
+337,1710835,Everton vs Tottenham Hotspur,8,6397,12.0,3-5-1-1,4-2-3-1,3909237
+339,5932867,Everton vs Sunderland,27,7889,12.0,4-2-3-1,4-3-3,3244864
+341,1710865,Everton vs Burnley,8,6397,12.0,4-4-1-1,4-2-2-2,1717502
+344,6737682,Chelsea vs Everton,27,7889,321614.0,4-5-1,3-4-3,51348
+348,1710928,Southampton vs Everton,8,6397,167.0,4-4-2,4-2-3-1,1717383
+349,1710939,Everton vs West Ham United,8,6397,12.0,4-1-4-1,4-1-4-1,3112062
+350,1710946,Everton vs Huddersfield Town,8,6397,12.0,4-2-3-1,4-1-4-1,1717626
+354,1710985,Everton vs Chelsea,8,6397,12.0,3-4-2-1,4-1-4-1,4667888
+355,1711001,West Bromwich Albion vs Everton,8,6397,119.0,3-1-4-2,4-4-2,43061
+359,1711029,Tottenham Hotspur vs Everton,8,6397,,4-2-3-1,4-2-3-1,4667766
+360,1711035,Everton vs West Bromwich Albion,8,6397,12.0,4-4-2,4-2-3-1,4667762
+366,1710813,Burnley vs West Bromwich Albion,8,6397,200.0,4-1-4-1,4-4-1-1,1717174
+367,5585952,Accrington Stanley vs West Bromwich Albion,27,7889,823.0,NaN,NaN,3859236
+368,1710831,West Bromwich Albion vs Stoke City,8,6397,119.0,3-4-2-1,4-2-3-1,3112169
+370,1710851,West Bromwich Albion vs West Ham United,8,6397,119.0,3-4-3,4-2-3-1,53184
+371,5932866,West Bromwich Albion vs Manchester City,27,7889,119.0,4-3-3,3-5-2,51542
+375,1710887,Southampton vs West Bromwich Albion,8,6397,167.0,4-5-1,4-3-1-2,4667808
+376,1710901,West Bromwich Albion vs Manchester City,8,6397,119.0,4-3-3,3-5-2,51523
+377,1710904,Huddersfield Town vs West Bromwich Albion,8,6397,340.0,3-5-2,4-4-1-1,43057
+378,1710921,West Bromwich Albion vs Chelsea,8,6397,119.0,3-5-1-1,3-5-2,1717605
+379,1710930,Tottenham Hotspur vs West Bromwich Albion,8,6397,,3-5-2,3-5-2,51525
+385,1710989,Stoke City vs West Bromwich Albion,8,6397,207.0,4-4-2,4-2-3-1,51336
+388,1711021,West Ham United vs West Bromwich Albion,8,6397,214.0,4-2-3-1,3-4-2-1,51528
+389,8843016,Exeter City vs West Bromwich Albion,24,8275,339205.0,4-4-2,4-4-2,51128
+393,1711049,Manchester City vs West Bromwich Albion,8,6397,,4-4-1-1,4-3-3,5315991
+394,1711061,West Bromwich Albion vs Southampton,8,6397,119.0,4-2-3-1,4-4-2,3111917
+395,1711062,Chelsea vs West Bromwich Albion,8,6397,321614.0,5-3-2,3-4-2-1,51116
+396,9544739,West Bromwich Albion vs Southampton,24,8275,119.0,4-2-3-1,4-4-2,1750653
+397,1711081,West Bromwich Albion vs Huddersfield Town,8,6397,119.0,4-2-3-1,4-4-2,1718317
+405,1710864,Chelsea vs Manchester City,8,6397,321614.0,4-3-3,3-5-1-1,1717590
+406,1710877,Manchester City vs Stoke City,8,6397,,4-4-1-1,4-3-3,4667805
+407,1710885,Manchester City vs Burnley,8,6397,,4-4-1-1,4-3-3,43056
+408,6737684,Manchester City vs Wolverhampton Wanderers,27,7889,,3-4-3,4-2-3-1,1563759
+412,1710924,Huddersfield Town vs Manchester City,8,6397,340.0,4-3-3,4-5-1,4747433
+413,1710940,Manchester City vs Southampton,8,6397,,5-4-1,4-3-3,53187
+414,1710948,Manchester City vs West Ham United,8,6397,,3-5-1-1,4-3-3,2009287
+417,1710978,Manchester City vs Tottenham Hotspur,8,6397,,4-3-1-2,4-3-3,4667777
+423,8693823,Manchester City vs Burnley,24,8275,,4-4-1-1,4-3-3,"[{'id': 1748112, 'fixture_id': 8693823, 'referee_id': 13580, 'type_id': 9}, {'id': 3102802, 'fixture_id': 8693823, 'referee_id': 12769, 'type_id': 7}]"
+424,8930445,Manchester City vs Bristol City,27,7889,,4-4-1-1,4-3-3,3102286
+427,8930446,Bristol City vs Manchester City,27,7889,500.0,4-3-3,4-5-1,"[{'id': 4655652, 'fixture_id': 8930446, 'referee_id': 15835, 'type_id': 9}, {'id': 4830887, 'fixture_id': 8930446, 'referee_id': 12799, 'type_id': 7}]"
+428,9306896,Cardiff City vs Manchester City,24,8275,125.0,4-3-3,4-2-3-1,51129
+430,1711055,Burnley vs Manchester City,8,6397,200.0,4-3-3,4-4-2,1717770
+432,9544743,Wigan Athletic vs Manchester City,24,8275,14.0,4-3-3,4-3-2-1,3101041
+436,5585957,Huddersfield Town vs Rotherham United,27,7889,340.0,NaN,NaN,4065931
+437,1710825,Huddersfield Town vs Southampton,8,6397,340.0,4-2-3-1,4-2-3-1,3913094
+438,1710841,West Ham United vs Huddersfield Town,8,6397,214.0,4-2-3-1,3-4-3,1717013
+441,1710854,Burnley vs Huddersfield Town,8,6397,200.0,4-2-3-1,4-5-1,1717284
+442,1710866,Huddersfield Town vs Tottenham Hotspur,8,6397,340.0,3-4-2-1,4-2-3-1,51329
+452,1710963,Huddersfield Town vs Chelsea,8,6397,340.0,3-4-2-1,4-5-1,2757359
+454,1710988,Southampton vs Huddersfield Town,8,6397,167.0,4-2-3-1,4-2-3-1,50337
+455,1710995,Huddersfield Town vs Stoke City,8,6397,340.0,4-2-3-1,4-2-3-1,3111983
+456,1711005,Huddersfield Town vs Burnley,8,6397,340.0,4-4-1-1,4-2-3-1,53191
+458,8693815,Bolton Wanderers vs Huddersfield Town,24,8275,383.0,4-4-2,5-3-2,43079
+459,1711025,Huddersfield Town vs West Ham United,8,6397,340.0,3-5-1-1,4-2-3-1,1717717
+460,1711039,Stoke City vs Huddersfield Town,8,6397,207.0,4-2-3-1,4-2-3-1,3111919
+461,9128094,Huddersfield Town vs Birmingham City,24,8275,340.0,3-5-1-1,4-2-3-1,51350
+464,9522906,Birmingham City vs Huddersfield Town,24,8275,507.0,4-4-2,3-5-2,53213
+469,1711119,Southampton vs West Ham United,8,6397,167.0,4-2-3-1,4-2-3-1,51118
+470,5585967,Cheltenham Town vs West Ham United,27,7889,294.0,4-3-3,4-4-2,3244910
+474,5932878,West Ham United vs Bolton Wanderers,27,7889,214.0,5-3-2,4-4-2,4862361
+475,1710861,West Ham United vs Tottenham Hotspur,8,6397,214.0,3-5-1-1,3-4-3,3112134
+477,1710873,Burnley vs West Ham United,8,6397,200.0,4-4-2,4-4-1-1,3480357
+479,6737686,Tottenham Hotspur vs West Ham United,27,7889,,3-4-1-2,3-5-2,2007304
+487,1710961,West Ham United vs Chelsea,8,6397,214.0,3-5-1-1,3-4-2-1,3112020
+489,1710979,Stoke City vs West Ham United,8,6397,207.0,3-4-1-2,4-4-2,4951231
+494,1711009,Tottenham Hotspur vs West Ham United,8,6397,,3-5-1-1,4-2-3-1,2009998
+495,8693824,Shrewsbury Town vs West Ham United,24,8275,145100.0,3-5-2,4-1-4-1,53211
+497,9113430,West Ham United vs Shrewsbury Town,24,8275,214.0,5-4-1,4-2-3-1,3913187
+499,9306894,Wigan Athletic vs West Ham United,24,8275,14.0,4-4-2,4-2-3-1,1749635
+506,5585970,Southampton vs Wolverhampton Wanderers,27,7889,167.0,3-4-3,3-4-3,"[{'id': 1744383, 'fixture_id': 5585970, 'referee_id': 13674, 'type_id': 9}, {'id': 3244913, 'fixture_id': 5585970, 'referee_id': 12098, 'type_id': 7}, {'id': 2748197, 'fixture_id': 5585970, 'referee_id': 14815, 'type_id': 8}]"
+511,1710869,Stoke City vs Southampton,8,6397,207.0,4-2-3-1,3-4-2-1,51522
+515,1710907,Southampton vs Burnley,8,6397,167.0,4-4-1-1,4-2-3-1,50333
+522,1710975,Chelsea vs Southampton,8,6397,321614.0,3-4-2-1,3-4-2-1,43060
+524,1710999,Tottenham Hotspur vs Southampton,8,6397,,4-1-4-1,4-2-3-1,3480402
+527,8693829,Fulham vs Southampton,24,8275,485.0,4-2-3-1,4-3-3,3102803
+529,1711038,Southampton vs Tottenham Hotspur,8,6397,167.0,4-2-3-1,4-2-3-1,1718334
+535,1711075,Burnley vs Southampton,8,6397,200.0,4-2-3-1,4-4-1-1,4951272
+536,1710804,Chelsea vs Burnley,8,6397,321614.0,4-4-1-1,3-4-2-1,5219478
+537,1710820,Tottenham Hotspur vs Chelsea,8,6397,,3-5-1-1,4-3-2-1,3112191
+541,5932877,Chelsea vs Nottingham Forest,27,7889,321614.0,3-5-2,4-3-4,1745558
+542,1710859,Stoke City vs Chelsea,8,6397,207.0,3-4-2-1,3-4-3,2006877
+559,1711003,Chelsea vs Stoke City,8,6397,321614.0,4-2-3-1,3-4-3,1717796
+561,8693831,Norwich City vs Chelsea,24,8275,489.0,3-4-3,3-4-3,4847548
+564,9113432,Chelsea vs Norwich City,24,8275,321614.0,3-4-1-2,3-4-3,3787985
+571,9544740,Chelsea vs Hull City,24,8275,321614.0,4-1-4-1,3-4-3,2743207
+575,1710829,Tottenham Hotspur vs Burnley,8,6397,,4-4-1-1,4-2-3-1,51105
+578,6501814,Tottenham Hotspur vs Barnsley,27,7889,,4-3-3,4-2-3-1,2533145
+590,1710960,Tottenham Hotspur vs Stoke City,8,6397,,3-4-3,4-2-3-1,43059
+593,1710984,Burnley vs Tottenham Hotspur,8,6397,200.0,4-2-3-1,4-4-1-1,3111994
+597,8693820,Tottenham Hotspur vs AFC Wimbledon,24,8275,,4-5-1,4-4-2,2747315
+600,9128100,Newport County vs Tottenham Hotspur,24,8275,788.0,3-1-4-2,4-5-1,43080
+603,9522909,Tottenham Hotspur vs Newport County,24,8275,,4-5-1,4-2-3-1,3780752
+605,9749242,Rochdale vs Tottenham Hotspur,24,8275,561.0,4-1-4-1,3-5-2,"[{'id': 1750924, 'fixture_id': 9749242, 'referee_id': 15268, 'type_id': 9}, {'id': 3100621, 'fixture_id': 9749242, 'referee_id': 12769, 'type_id': 7}, {'id': 4712360, 'fixture_id': 9749242, 'referee_id': 17242, 'type_id': 8}]"
+609,5585956,Stoke City vs Rochdale,27,7889,207.0,4-3-3,3-4-2-1,48157
+613,5932874,Bristol City vs Stoke City,27,7889,500.0,3-4-2-1,4-4-2,3798517
+625,1710962,Burnley vs Stoke City,8,6397,200.0,4-4-2,4-4-1-1,51526
+631,8693813,Coventry City vs Stoke City,24,8275,270.0,3-4-1-2,4-4-2,1748127
+640,5585960,Blackburn Rovers vs Burnley,27,7889,339721.0,NaN,NaN,4712905
+644,5932872,Burnley vs Leeds United,27,7889,200.0,4-2-3-1,4-4-2,3103463
