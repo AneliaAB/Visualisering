@@ -1,0 +1,331 @@
+,fixture_id,pitch,weatherDescription,current
+0,18841619,GOOD,scattered clouds,"{'temp': 18.64, 'wind': 9.26, 'clouds': '18%', 'humidity': '83%', 'pressure': 1015, 'direction': 220, 'feels_like': 18.73, 'description': 'scattered clouds'}"
+1,18841635,GOOD,broken clouds,"{'temp': 21.79, 'wind': 7.54, 'clouds': '76%', 'humidity': '66%', 'pressure': 1013, 'direction': 223, 'feels_like': 21.75, 'description': 'broken clouds'}"
+2,18841639,NaN,broken clouds,"{'temp': 16.56, 'wind': 4.47, 'clouds': '100%', 'humidity': '76%', 'pressure': 1008, 'direction': 283, 'feels_like': 16.26, 'description': 'broken clouds'}"
+3,18841648,NaN,broken clouds,
+4,18841660,NaN,broken clouds,
+5,18841668,NaN,scattered clouds,
+6,18995307,NaN,overcast clouds,
+7,18841677,NaN,light rain,
+8,18841687,NaN,overcast clouds,
+9,18841701,NaN,moderate rain,
+10,18842132,NaN,moderate rain,
+11,18842141,NaN,light rain,
+12,18842385,NaN,light rain,
+13,18842407,NaN,sky is clear,
+14,18842414,NaN,moderate rain,
+15,18842421,NaN,light rain,
+16,18842431,NaN,moderate rain,
+17,18842441,NaN,few clouds,
+18,18842451,NaN,overcast clouds,"{'temp': -1.64, 'wind': 2.68, 'clouds': '74%', 'humidity': '77%', 'pressure': 1022, 'direction': 42, 'feels_like': -5.16, 'description': 'overcast clouds'}"
+19,18842463,NaN,overcast clouds,"{'temp': 10.37, 'wind': 1.79, 'clouds': '100%', 'humidity': '77%', 'pressure': 1007, 'direction': 241, 'feels_like': 9.47, 'description': 'overcast clouds'}"
+20,18842478,NaN,overcast clouds,"{'temp': 10.85, 'wind': 9.26, 'clouds': '100%', 'humidity': '78%', 'pressure': 985, 'direction': 250, 'feels_like': 10.03, 'description': 'overcast clouds'}"
+21,19037854,NaN,broken clouds,"{'temp': -10.18, 'wind': 2.57, 'clouds': '72%', 'humidity': '62%', 'pressure': 1025, 'direction': 50, 'feels_like': -15.18, 'description': 'broken clouds'}"
+22,18842483,NaN,clear sky,"{'temp': 7.09, 'wind': 5.81, 'clouds': '46%', 'humidity': '76%', 'pressure': 1019, 'direction': 360, 'feels_like': 3.62, 'description': 'clear sky'}"
+23,19062941,NaN,light rain,"{'temp': 2.84, 'wind': 11.12, 'clouds': '100%', 'humidity': '98%', 'pressure': 985, 'direction': 346, 'feels_like': -3.58, 'description': 'light rain'}"
+24,18842492,NaN,overcast clouds,"{'temp': 5.62, 'wind': 1.54, 'clouds': '100%', 'humidity': '86%', 'pressure': 1034, 'direction': 240, 'feels_like': 4.6, 'description': 'overcast clouds'}"
+25,18842503,NaN,broken clouds,"{'temp': 10.21, 'wind': 4.63, 'clouds': '90%', 'humidity': '78%', 'pressure': 1028, 'direction': 240, 'feels_like': 9.32, 'description': 'broken clouds'}"
+26,18842517,NaN,few clouds,"{'temp': 5.56, 'wind': 6.69, 'clouds': '14%', 'humidity': '66%', 'pressure': 1002, 'direction': 290, 'feels_like': 1.34, 'description': 'few clouds'}"
+27,18842528,NaN,overcast clouds,
+28,18842533,NaN,light rain,
+29,18841620,GOOD,scattered clouds,"{'temp': 20.76, 'wind': 8.75, 'clouds': '73%', 'humidity': '65%', 'pressure': 1007, 'direction': 230, 'feels_like': 20.59, 'description': 'scattered clouds'}"
+30,18841628,GOOD,few clouds,"{'temp': 20.08, 'wind': 2.24, 'clouds': '31%', 'humidity': '65%', 'pressure': 1011, 'direction': 313, 'feels_like': 19.84, 'description': 'few clouds'}"
+31,18841637,GOOD,broken clouds,"{'temp': 22.72, 'wind': 2.24, 'clouds': '76%', 'humidity': '71%', 'pressure': 1006, 'direction': 272, 'feels_like': 22.9, 'description': 'broken clouds'}"
+32,18968549,NaN,clear sky,"{'temp': 23.87, 'wind': 3.58, 'clouds': '2%', 'humidity': '58%', 'pressure': 1002, 'direction': 161, 'feels_like': 23.83, 'description': 'clear sky'}"
+33,18841654,NaN,few clouds,
+34,18841659,NaN,scattered clouds,
+35,18841671,NaN,sky is clear,
+36,18995309,NaN,overcast clouds,
+37,18841679,NaN,sky is clear,
+38,18841691,NaN,light rain,
+39,18841705,NaN,broken clouds,
+41,19016538,NaN,light rain,
+42,18842142,NaN,light rain,
+43,18842384,NaN,moderate rain,
+44,18842403,NaN,light snow,
+45,18842415,NaN,rain and snow,
+46,18842423,NaN,scattered clouds,
+47,18842434,NaN,light snow,
+48,18842447,NaN,scattered clouds,
+49,19029700,NaN,light rain,
+50,18842452,NaN,light intensity shower rain,"{'temp': 3.8, 'wind': 5.14, 'clouds': '100%', 'humidity': '92%', 'pressure': 1009, 'direction': 140, 'feels_like': -0.23, 'description': 'light intensity shower rain'}"
+51,18842460,NaN,clear sky,"{'temp': 6.7, 'wind': 1.03, 'clouds': '100%', 'humidity': '91%', 'pressure': 1018, 'direction': 90, 'feels_like': 6.7, 'description': 'clear sky'}"
+52,18842472,NaN,overcast clouds,"{'temp': 1.45, 'wind': 1.34, 'clouds': '95%', 'humidity': '80%', 'pressure': 1002, 'direction': 181, 'feels_like': 0.15, 'description': 'overcast clouds'}"
+53,19037858,NaN,scattered clouds,"{'temp': -1.82, 'wind': 4.12, 'clouds': '39%', 'humidity': '71%', 'pressure': 1014, 'direction': 220, 'feels_like': -6.61, 'description': 'overcast clouds'}"
+54,19051344,NaN,broken clouds,"{'temp': 5.29, 'wind': 4.63, 'clouds': '97%', 'humidity': '83%', 'pressure': 1033, 'direction': 60, 'feels_like': 1.88, 'description': 'broken clouds'}"
+55,18842485,NaN,overcast clouds,"{'temp': 4.05, 'wind': 2.57, 'clouds': '99%', 'humidity': '83%', 'pressure': 1022, 'direction': 240, 'feels_like': 1.71, 'description': 'overcast clouds'}"
+56,19051345,NaN,moderate rain,"{'temp': 2.72, 'wind': 0.89, 'clouds': '100%', 'humidity': '93%', 'pressure': 1007, 'direction': 131, 'feels_like': 2.72, 'description': 'light rain'}"
+57,19062942,NaN,overcast clouds,
+58,18842491,NaN,overcast clouds,"{'temp': 1.47, 'wind': 7.2, 'clouds': '100%', 'humidity': '80%', 'pressure': 1007, 'direction': 150, 'feels_like': -4.11, 'description': 'overcast clouds'}"
+59,18842504,NaN,broken clouds,"{'temp': 9, 'wind': 2.68, 'clouds': '89%', 'humidity': '86%', 'pressure': 1026, 'direction': 251, 'feels_like': 7.51, 'description': 'broken clouds'}"
+60,18842512,NaN,few clouds,"{'temp': 5.56, 'wind': 6.69, 'clouds': '14%', 'humidity': '66%', 'pressure': 1002, 'direction': 290, 'feels_like': 1.34, 'description': 'few clouds'}"
+61,18842523,NaN,light shower snow,"{'temp': -6.54, 'wind': 2.57, 'clouds': '100%', 'humidity': '80%', 'pressure': 1005, 'direction': 240, 'feels_like': -10.86, 'description': 'light shower snow'}"
+62,18842537,NaN,sky is clear,
+63,18841624,GOOD,clear sky,"{'temp': 23.31, 'wind': 3.58, 'clouds': '4%', 'humidity': '59%', 'pressure': 1006, 'direction': 285, 'feels_like': 23.24, 'description': 'clear sky'}"
+64,18841629,GOOD,scattered clouds,"{'temp': 22.51, 'wind': 8.23, 'clouds': '70%', 'humidity': '60%', 'pressure': 1010, 'direction': 230, 'feels_like': 22.38, 'description': 'scattered clouds'}"
+65,18841644,NaN,broken clouds,"{'temp': 14.92, 'wind': 2.57, 'clouds': '71%', 'humidity': '87%', 'pressure': 1009, 'direction': 260, 'feels_like': 14.74, 'description': 'broken clouds'}"
+66,18841652,NaN,overcast clouds,
+67,18841665,NaN,broken clouds,
+68,18841672,NaN,light rain,
+69,18995311,NaN,moderate rain,
+70,18841683,NaN,sky is clear,
+72,18841700,NaN,moderate rain,
+73,18842135,NaN,light rain,
+74,19016540,NaN,moderate rain,
+75,18842143,NaN,light rain,
+76,18842388,NaN,moderate rain,
+77,18842405,NaN,sky is clear,
+79,18842425,NaN,rain and snow,
+80,18842432,NaN,moderate rain,
+81,18842445,NaN,sky is clear,
+82,19029703,NaN,broken clouds,"{'temp': 10.32, 'wind': 10.29, 'clouds': '94%', 'humidity': '95%', 'pressure': 1010, 'direction': 280, 'feels_like': 9.89, 'description': 'broken clouds'}"
+83,18842453,NaN,moderate rain,"{'temp': 10.92, 'wind': 10.8, 'clouds': '94%', 'humidity': '87%', 'pressure': 1003, 'direction': 240, 'feels_like': 10.34, 'description': 'moderate rain'}"
+84,18842464,NaN,overcast clouds,"{'temp': 4.11, 'wind': 1.89, 'clouds': '17%', 'humidity': '97%', 'pressure': 1019, 'direction': 126, 'feels_like': 2.45, 'description': 'overcast clouds'}"
+85,18842473,NaN,light rain,"{'temp': 7.52, 'wind': 8.23, 'clouds': '34%', 'humidity': '94%', 'pressure': 981, 'direction': 140, 'feels_like': 3.38, 'description': 'light rain'}"
+86,19037852,NaN,overcast clouds,"{'temp': 3.8, 'wind': 4.12, 'clouds': '71%', 'humidity': '71%', 'pressure': 1031, 'direction': 10, 'feels_like': 0.31, 'description': 'overcast clouds'}"
+88,18842480,NaN,moderate rain,
+90,19062936,NaN,clear sky,"{'temp': 10.05, 'wind': 7.72, 'clouds': '80%', 'humidity': '81%', 'pressure': 1012, 'direction': 160, 'feels_like': 9.23, 'description': 'clear sky'}"
+91,18842498,NaN,broken clouds,"{'temp': 6.19, 'wind': 6.26, 'clouds': '100%', 'humidity': '80%', 'pressure': 1024, 'direction': 310, 'feels_like': 2.31, 'description': 'broken clouds'}"
+92,18842501,NaN,overcast clouds,
+93,18842513,NaN,overcast clouds,"{'temp': 9.53, 'wind': 3.58, 'clouds': '81%', 'humidity': '89%', 'pressure': 980, 'direction': 170, 'feels_like': 7.63, 'description': 'overcast clouds'}"
+94,18842520,NaN,broken clouds,"{'temp': 12.98, 'wind': 6.17, 'clouds': '90%', 'humidity': '85%', 'pressure': 1031, 'direction': 230, 'feels_like': 12.55, 'description': 'broken clouds'}"
+95,18842536,NaN,broken clouds,"{'temp': 9.62, 'wind': 3.13, 'clouds': '100%', 'humidity': '90%', 'pressure': 991, 'direction': 190, 'feels_like': 7.98, 'description': 'broken clouds'}"
+96,19075902,NaN,moderate rain,
+97,18841617,GOOD,broken clouds,"{'temp': 23.32, 'wind': 4.63, 'clouds': '52%', 'humidity': '81%', 'pressure': 1001, 'direction': 230, 'feels_like': 23.82, 'description': 'broken clouds'}"
+98,18841627,GOOD,broken clouds,"{'temp': 25.77, 'wind': 2.68, 'clouds': '90%', 'humidity': '59%', 'pressure': 1020, 'direction': 321, 'feels_like': 25.94, 'description': 'broken clouds'}"
+100,18841646,NaN,few clouds,
+101,18841658,NaN,moderate rain,
+102,18841666,NaN,sky is clear,
+103,18995306,NaN,overcast clouds,
+104,18841676,NaN,broken clouds,
+105,18841686,NaN,light rain,
+106,18841699,NaN,light rain,
+107,18842130,NaN,light rain,
+108,19016542,NaN,light snow,
+109,18842145,NaN,NaN,NaN
+110,18842383,NaN,light snow,
+111,18842400,NaN,sky is clear,
+112,18842411,NaN,light rain,
+113,18842424,NaN,light rain,
+114,18842430,NaN,heavy intensity rain,
+117,18842461,NaN,broken clouds,"{'temp': 10.71, 'wind': 7.87, 'clouds': '100%', 'humidity': '76%', 'pressure': 1006, 'direction': 242, 'feels_like': 9.82, 'description': 'broken clouds'}"
+120,18842481,NaN,overcast clouds,"{'temp': 5.86, 'wind': 5.66, 'clouds': '100%', 'humidity': '71%', 'pressure': 1025, 'direction': 220, 'feels_like': 2.12, 'description': 'overcast clouds'}"
+121,18842493,NaN,light rain,"{'temp': 1.96, 'wind': 3.09, 'clouds': '100%', 'humidity': '86%', 'pressure': 1033, 'direction': 220, 'feels_like': -1.22, 'description': 'clear sky'}"
+123,18842518,NaN,scattered clouds,"{'temp': 10.59, 'wind': 5.66, 'clouds': '69%', 'humidity': '75%', 'pressure': 992, 'direction': 280, 'feels_like': 9.66, 'description': 'scattered clouds'}"
+124,18842521,NaN,overcast clouds,"{'temp': 12.61, 'wind': 4.79, 'clouds': '99%', 'humidity': '94%', 'pressure': 1023, 'direction': 178, 'feels_like': 12.38, 'description': 'overcast clouds'}"
+125,18842531,NaN,sky is clear,
+126,18841625,GOOD,broken clouds,"{'temp': 15.76, 'wind': 6.17, 'clouds': '100%', 'humidity': '91%', 'pressure': 1007, 'direction': 250, 'feels_like': 15.77, 'description': 'broken clouds'}"
+128,18841642,GOOD,scattered clouds,"{'temp': 17.47, 'wind': 7.2, 'clouds': '63%', 'humidity': '72%', 'pressure': 1006, 'direction': 300, 'feels_like': 17.15, 'description': 'scattered clouds'}"
+129,18968541,NaN,broken clouds,"{'temp': 12.38, 'wind': 2.34, 'clouds': '100%', 'humidity': '79%', 'pressure': 1010, 'direction': 312, 'feels_like': 11.74, 'description': 'broken clouds'}"
+130,18841651,NaN,few clouds,
+132,18841673,NaN,scattered clouds,
+133,18995298,NaN,few clouds,
+134,18841685,NaN,light rain,
+135,18841695,NaN,overcast clouds,
+136,18841696,NaN,light rain,
+137,18842138,NaN,heavy intensity rain,
+138,18842147,NaN,scattered clouds,
+139,18842391,NaN,few clouds,
+142,18842427,NaN,light rain,
+143,18842439,NaN,heavy intensity rain,
+144,18842449,NaN,few clouds,
+145,18842459,NaN,overcast clouds,"{'temp': 13.38, 'wind': 10.28, 'clouds': '100%', 'humidity': '83%', 'pressure': 1002, 'direction': 253, 'feels_like': 12.94, 'description': 'overcast clouds'}"
+146,18842462,NaN,broken clouds,"{'temp': 10.41, 'wind': 7.2, 'clouds': '100%', 'humidity': '81%', 'pressure': 1002, 'direction': 220, 'feels_like': 9.62, 'description': 'broken clouds'}"
+147,18842479,NaN,overcast clouds,"{'temp': 10.93, 'wind': 2.68, 'clouds': '100%', 'humidity': '87%', 'pressure': 992, 'direction': 54, 'feels_like': 10.35, 'description': 'overcast clouds'}"
+148,19037878,NaN,overcast clouds,"{'temp': 6.15, 'wind': 2.06, 'clouds': '100%', 'humidity': '92%', 'pressure': 1009, 'direction': 340, 'feels_like': 4.65, 'description': 'overcast clouds'}"
+149,19062413,NaN,broken clouds,"{'temp': 0.73, 'wind': 0.89, 'clouds': '48%', 'humidity': '83%', 'pressure': 999, 'direction': 110, 'feels_like': 0.73, 'description': 'broken clouds'}"
+151,19062930,NaN,clear sky,"{'temp': 9.33, 'wind': 3.6, 'clouds': '40%', 'humidity': '83%', 'pressure': 1017, 'direction': 170, 'feels_like': 7.38, 'description': 'clear sky'}"
+152,18842496,NaN,overcast clouds,"{'temp': 4.27, 'wind': 1.34, 'clouds': '100%', 'humidity': '87%', 'pressure': 1031, 'direction': 136, 'feels_like': 3.34, 'description': 'overcast clouds'}"
+153,18842505,NaN,overcast clouds,"{'temp': 12.57, 'wind': 8.23, 'clouds': '100%', 'humidity': '90%', 'pressure': 1023, 'direction': 250, 'feels_like': 12.23, 'description': 'overcast clouds'}"
+154,18842519,NaN,overcast clouds,"{'temp': 9.58, 'wind': 0.89, 'clouds': '100%', 'humidity': '84%', 'pressure': 982, 'direction': 83, 'feels_like': 9.58, 'description': 'overcast clouds'}"
+155,18842529,NaN,light shower snow,"{'temp': -6.54, 'wind': 2.57, 'clouds': '100%', 'humidity': '80%', 'pressure': 1005, 'direction': 240, 'feels_like': -10.86, 'description': 'light shower snow'}"
+156,18842539,NaN,overcast clouds,"{'temp': 6.92, 'wind': 0.89, 'clouds': '96%', 'humidity': '82%', 'pressure': 994, 'direction': 333, 'feels_like': 6.92, 'description': 'overcast clouds'}"
+158,18841641,GOOD,scattered clouds,"{'temp': 23.39, 'wind': 2.68, 'clouds': '64%', 'humidity': '73%', 'pressure': 1011, 'direction': 311, 'feels_like': 23.69, 'description': 'scattered clouds'}"
+159,18968547,NaN,overcast clouds,"{'temp': 14.74, 'wind': 4.12, 'clouds': '100%', 'humidity': '87%', 'pressure': 1009, 'direction': 220, 'feels_like': 14.54, 'description': 'overcast clouds'}"
+160,18841653,NaN,light rain,
+163,18995299,NaN,light rain,
+164,18841678,NaN,heavy intensity rain,
+165,18841630,NaN,light rain,
+166,18841692,NaN,overcast clouds,
+167,18841703,NaN,light rain,
+168,18842131,NaN,light rain,
+170,18842389,NaN,sky is clear,
+171,18842404,NaN,sky is clear,
+172,18842412,NaN,scattered clouds,
+174,18842435,NaN,light rain,
+175,18842454,NaN,scattered clouds,"{'temp': 9.62, 'wind': 8.23, 'clouds': '89%', 'humidity': '83%', 'pressure': 1011, 'direction': 250, 'feels_like': 6.12, 'description': 'scattered clouds'}"
+176,18842469,NaN,moderate rain,"{'temp': 3.73, 'wind': 17.11, 'clouds': '86%', 'humidity': '97%', 'pressure': 985, 'direction': 324, 'feels_like': -3.27, 'description': 'moderate rain'}"
+177,18842474,NaN,overcast clouds,"{'temp': 10.36, 'wind': 5.14, 'clouds': '100%', 'humidity': '90%', 'pressure': 1001, 'direction': 180, 'feels_like': 9.8, 'description': 'overcast clouds'}"
+178,19037851,NaN,broken clouds,"{'temp': 2.91, 'wind': 6.17, 'clouds': '69%', 'humidity': '71%', 'pressure': 1028, 'direction': 20, 'feels_like': -1.83, 'description': 'broken clouds'}"
+179,18842484,NaN,overcast clouds,"{'temp': 2.16, 'wind': 1.79, 'clouds': '8%', 'humidity': '94%', 'pressure': 1035, 'direction': 305, 'feels_like': 0.31, 'description': 'overcast clouds'}"
+180,19062750,NaN,heavy intensity rain,
+181,19062939,NaN,few clouds,"{'temp': 8.73, 'wind': 5.36, 'clouds': '67%', 'humidity': '78%', 'pressure': 1025, 'direction': 160, 'feels_like': 5.86, 'description': 'few clouds'}"
+183,18842508,NaN,broken clouds,"{'temp': 9.26, 'wind': 8.23, 'clouds': '79%', 'humidity': '72%', 'pressure': 1020, 'direction': 280, 'feels_like': 5.65, 'description': 'broken clouds'}"
+184,18842514,NaN,broken clouds,"{'temp': 9.96, 'wind': 2.06, 'clouds': '88%', 'humidity': '92%', 'pressure': 983, 'direction': 200, 'feels_like': 9.1, 'description': 'broken clouds'}"
+185,18842524,NaN,moderate rain,
+187,19077596,NaN,overcast clouds,"{'temp': 6.59, 'wind': 2.57, 'clouds': '100%', 'humidity': '86%', 'pressure': 1019, 'direction': 210, 'feels_like': 4.73, 'description': 'overcast clouds'}"
+188,18841621,GOOD,moderate rain,"{'temp': 1.38, 'wind': 1.65, 'clouds': '16%', 'humidity': '87%', 'pressure': 1018, 'direction': 217, 'feels_like': -0.4, 'description': 'clear sky'}"
+190,18841638,GOOD,light rain,"{'temp': 17.97, 'wind': 5.14, 'clouds': '44%', 'humidity': '75%', 'pressure': 1005, 'direction': 260, 'feels_like': 17.78, 'description': 'light rain'}"
+191,18968544,NaN,few clouds,"{'temp': 14.04, 'wind': 4.46, 'clouds': '100%', 'humidity': '91%', 'pressure': 1009, 'direction': 314, 'feels_like': 13.88, 'description': 'few clouds'}"
+193,18841657,NaN,scattered clouds,
+195,18995301,NaN,light rain,
+196,18841680,NaN,heavy intensity rain,
+197,18841689,NaN,light rain,
+198,18841702,NaN,light rain,
+199,18842134,NaN,light rain,
+200,18842140,NaN,broken clouds,
+201,18842387,NaN,broken clouds,
+203,18842419,NaN,moderate rain,
+204,18842428,NaN,scattered clouds,
+206,18842446,NaN,overcast clouds,
+208,18842465,NaN,broken clouds,"{'temp': 10.59, 'wind': 7.2, 'clouds': '100%', 'humidity': '80%', 'pressure': 1001, 'direction': 220, 'feels_like': 9.79, 'description': 'broken clouds'}"
+209,18842471,NaN,scattered clouds,"{'temp': 2.57, 'wind': 2.24, 'clouds': '29%', 'humidity': '77%', 'pressure': 999, 'direction': 299, 'feels_like': 0.28, 'description': 'scattered clouds'}"
+210,19037867,NaN,overcast clouds,"{'temp': -3.09, 'wind': 3.6, 'clouds': '11%', 'humidity': '75%', 'pressure': 1018, 'direction': 290, 'feels_like': -7.76, 'description': 'overcast clouds'}"
+211,19062034,NaN,clear sky,"{'temp': -2.03, 'wind': 0.51, 'clouds': '43%', 'humidity': '80%', 'pressure': 996, 'direction': 270, 'feels_like': -2.03, 'description': 'clear sky'}"
+213,18842497,NaN,overcast clouds,"{'temp': 1.35, 'wind': 2.24, 'clouds': '100%', 'humidity': '83%', 'pressure': 1005, 'direction': 107, 'feels_like': -1.16, 'description': 'overcast clouds'}"
+215,18842511,NaN,clear sky,"{'temp': 2.81, 'wind': 2.24, 'clouds': '36%', 'humidity': '64%', 'pressure': 1002, 'direction': 187, 'feels_like': 0.56, 'description': 'clear sky'}"
+216,18842522,NaN,overcast clouds,"{'temp': 8.32, 'wind': 3.13, 'clouds': '52%', 'humidity': '87%', 'pressure': 1026, 'direction': 230, 'feels_like': 6.41, 'description': 'overcast clouds'}"
+217,18842535,NaN,sky is clear,
+219,18841632,GOOD,overcast clouds,"{'temp': 18.45, 'wind': 5.7, 'clouds': '100%', 'humidity': '85%', 'pressure': 1010, 'direction': 111, 'feels_like': 18.57, 'description': 'overcast clouds'}"
+220,18841645,NaN,few clouds,"{'temp': 4.26, 'wind': 1.71, 'clouds': '18%', 'humidity': '96%', 'pressure': 1031, 'direction': 184, 'feels_like': 2.83, 'description': 'scattered clouds'}"
+221,18968542,NaN,overcast clouds,"{'temp': -1.75, 'wind': 6.2, 'clouds': '100%', 'humidity': '71%', 'pressure': 1009, 'direction': 299, 'feels_like': -7.78, 'description': 'overcast clouds'}"
+222,18841655,NaN,broken clouds,
+223,18841663,NaN,scattered clouds,
+224,18841675,NaN,snow,
+225,18841684,NaN,sky is clear,
+227,18841704,NaN,light rain,
+231,18842408,NaN,light snow,
+232,18842413,NaN,moderate rain,
+234,18842437,NaN,NaN,NaN
+235,18842444,NaN,overcast clouds,
+236,18842450,NaN,broken clouds,"{'temp': 9.7, 'wind': 6.17, 'clouds': '100%', 'humidity': '83%', 'pressure': 1014, 'direction': 280, 'feels_like': 6.81, 'description': 'broken clouds'}"
+238,18842475,NaN,overcast clouds,"{'temp': 10.81, 'wind': 5.66, 'clouds': '100%', 'humidity': '80%', 'pressure': 990, 'direction': 160, 'feels_like': 10.04, 'description': 'overcast clouds'}"
+239,19037873,NaN,overcast clouds,"{'temp': 4.98, 'wind': 4.54, 'clouds': '92%', 'humidity': '87%', 'pressure': 1015, 'direction': 358, 'feels_like': 1.54, 'description': 'overcast clouds'}"
+240,18842489,NaN,light rain,"{'temp': 3.14, 'wind': 10.25, 'clouds': '100%', 'humidity': '98%', 'pressure': 1008, 'direction': 286, 'feels_like': -2.95, 'description': 'light rain'}"
+243,18842509,NaN,light rain,
+248,18841633,GOOD,scattered clouds,"{'temp': 23.39, 'wind': 2.24, 'clouds': '38%', 'humidity': '49%', 'pressure': 1009, 'direction': 309, 'feels_like': 23.06, 'description': 'scattered clouds'}"
+249,18841643,GOOD,scattered clouds,"{'temp': 17.19, 'wind': 4.12, 'clouds': '86%', 'humidity': '75%', 'pressure': 1006, 'direction': 300, 'feels_like': 16.92, 'description': 'scattered clouds'}"
+252,18841669,NaN,overcast clouds,
+255,18841693,NaN,overcast clouds,
+257,18842136,NaN,light rain,
+258,19016539,NaN,light rain,
+261,18842402,NaN,light rain,
+262,18842417,NaN,rain and snow,
+263,18842429,NaN,light rain,
+264,18842436,NaN,heavy intensity rain,
+266,18842458,NaN,overcast clouds,"{'temp': 11.82, 'wind': 6.69, 'clouds': '96%', 'humidity': '75%', 'pressure': 1011, 'direction': 250, 'feels_like': 11.02, 'description': 'overcast clouds'}"
+267,18842467,NaN,overcast clouds,"{'temp': 5.29, 'wind': 3.12, 'clouds': '20%', 'humidity': '86%', 'pressure': 1015, 'direction': 127, 'feels_like': 2.77, 'description': 'overcast clouds'}"
+268,18842476,NaN,broken clouds,"{'temp': 11.45, 'wind': 10.29, 'clouds': '100%', 'humidity': '82%', 'pressure': 991, 'direction': 170, 'feels_like': 10.79, 'description': 'broken clouds'}"
+269,19037870,NaN,scattered clouds,"{'temp': 2.13, 'wind': 0.89, 'clouds': '50%', 'humidity': '83%', 'pressure': 1035, 'direction': 33, 'feels_like': 2.13, 'description': 'scattered clouds'}"
+270,18842487,NaN,broken clouds,"{'temp': 3.24, 'wind': 4.63, 'clouds': '82%', 'humidity': '73%', 'pressure': 1011, 'direction': 340, 'feels_like': -0.67, 'description': 'broken clouds'}"
+271,19062940,NaN,overcast clouds,
+273,18842507,NaN,overcast clouds,"{'temp': 12.97, 'wind': 7.2, 'clouds': '90%', 'humidity': '74%', 'pressure': 1017, 'direction': 250, 'feels_like': 12.25, 'description': 'broken clouds'}"
+274,18842510,NaN,sky is clear,
+277,18841623,GOOD,broken clouds,"{'temp': 21.79, 'wind': 6.69, 'clouds': '90%', 'humidity': '61%', 'pressure': 1010, 'direction': 230, 'feels_like': 21.62, 'description': 'broken clouds'}"
+280,18968553,NaN,scattered clouds,"{'temp': 14.44, 'wind': 4.23, 'clouds': '99%', 'humidity': '79%', 'pressure': 1011, 'direction': 314, 'feels_like': 14, 'description': 'scattered clouds'}"
+281,18841647,NaN,light rain,
+282,18841661,NaN,light rain,
+283,18841667,NaN,broken clouds,
+285,18841682,NaN,light rain,
+287,18841698,NaN,moderate rain,
+288,18842133,NaN,light rain,
+289,18842139,NaN,moderate rain,
+295,18842442,NaN,few clouds,
+300,18842482,NaN,overcast clouds,
+301,18842494,NaN,overcast clouds,"{'temp': 1.29, 'wind': 4.63, 'clouds': '100%', 'humidity': '84%', 'pressure': 1009, 'direction': 240, 'feels_like': -3.09, 'description': 'overcast clouds'}"
+302,18842502,NaN,overcast clouds,"{'temp': 11.12, 'wind': 7.72, 'clouds': '90%', 'humidity': '80%', 'pressure': 1017, 'direction': 230, 'feels_like': 10.38, 'description': 'overcast clouds'}"
+305,18842455,NaN,scattered clouds,"{'temp': 8.61, 'wind': 2.06, 'clouds': '92%', 'humidity': '91%', 'pressure': 1017, 'direction': 160, 'feels_like': 7.52, 'description': 'scattered clouds'}"
+306,18842538,NaN,moderate rain,"{'temp': 4.77, 'wind': 2.68, 'clouds': '100%', 'humidity': '86%', 'pressure': 1019, 'direction': 38, 'feels_like': 2.48, 'description': 'few clouds'}"
+307,18841618,GOOD,broken clouds,"{'temp': 19.93, 'wind': 7.2, 'clouds': '49%', 'humidity': '79%', 'pressure': 1014, 'direction': 240, 'feels_like': 20.04, 'description': 'broken clouds'}"
+309,18841636,GOOD,heavy intensity rain,"{'temp': 17.7, 'wind': 2.24, 'clouds': '49%', 'humidity': '76%', 'pressure': 1009, 'direction': 319, 'feels_like': 17.51, 'description': 'heavy intensity rain'}"
+310,18968548,NaN,NaN,NaN
+312,18841656,NaN,moderate rain,
+314,18995304,NaN,light rain,
+316,18841690,NaN,overcast clouds,
+318,18842129,NaN,moderate rain,
+320,18842144,NaN,moderate rain,
+321,18842382,NaN,light rain,
+323,18842410,NaN,moderate rain,
+326,18842456,NaN,scattered clouds,"{'temp': 10.65, 'wind': 9.77, 'clouds': '92%', 'humidity': '82%', 'pressure': 1009, 'direction': 250, 'feels_like': 9.91, 'description': 'scattered clouds'}"
+328,18842477,NaN,overcast clouds,"{'temp': 1.46, 'wind': 1.54, 'clouds': '99%', 'humidity': '76%', 'pressure': 1004, 'direction': 130, 'feels_like': -0.15, 'description': 'overcast clouds'}"
+329,19037876,NaN,broken clouds,"{'temp': 5.54, 'wind': 2.06, 'clouds': '98%', 'humidity': '86%', 'pressure': 1017, 'direction': 310, 'feels_like': 3.94, 'description': 'broken clouds'}"
+331,19062929,NaN,broken clouds,"{'temp': 11.53, 'wind': 7.72, 'clouds': '100%', 'humidity': '97%', 'pressure': 1021, 'direction': 230, 'feels_like': 11.27, 'description': 'broken clouds'}"
+332,18842495,NaN,overcast clouds,"{'temp': 5.28, 'wind': 4.63, 'clouds': '89%', 'humidity': '78%', 'pressure': 1033, 'direction': 230, 'feels_like': 1.87, 'description': 'overcast clouds'}"
+333,18842500,NaN,broken clouds,"{'temp': 12.1, 'wind': 5.66, 'clouds': '90%', 'humidity': '88%', 'pressure': 1026, 'direction': 240, 'feels_like': 11.66, 'description': 'broken clouds'}"
+335,18842526,NaN,scattered clouds,"{'temp': 11, 'wind': 3.6, 'clouds': '63%', 'humidity': '86%', 'pressure': 1022, 'direction': 180, 'feels_like': 10.4, 'description': 'scattered clouds'}"
+336,18842530,NaN,light rain,
+337,19077591,NaN,overcast clouds,"{'temp': 8.69, 'wind': 3.68, 'clouds': '100%', 'humidity': '93%', 'pressure': 1019, 'direction': 242, 'feels_like': 6.55, 'description': 'overcast clouds'}"
+338,18841622,GOOD,few clouds,"{'temp': 19.15, 'wind': 5.14, 'clouds': '94%', 'humidity': '67%', 'pressure': 1005, 'direction': 240, 'feels_like': 18.87, 'description': 'few clouds'}"
+339,18841631,GOOD,few clouds,"{'temp': 18.66, 'wind': 3.6, 'clouds': '100%', 'humidity': '69%', 'pressure': 1014, 'direction': 210, 'feels_like': 18.38, 'description': 'few clouds'}"
+344,18995312,NaN,moderate rain,
+345,18841681,NaN,moderate rain,
+346,18841694,NaN,light rain,
+352,18842406,NaN,scattered clouds,
+354,18842422,NaN,moderate rain,
+355,18842438,NaN,light snow,
+357,19029701,NaN,moderate rain,
+359,18842468,NaN,clear sky,"{'temp': 4.54, 'wind': 2.06, 'clouds': '5%', 'humidity': '81%', 'pressure': 1014, 'direction': 290, 'feels_like': 2.77, 'description': 'clear sky'}"
+361,19037865,NaN,broken clouds,"{'temp': 5.17, 'wind': 3.64, 'clouds': '87%', 'humidity': '90%', 'pressure': 1019, 'direction': 348, 'feels_like': 2.28, 'description': 'broken clouds'}"
+362,18842488,NaN,scattered clouds,
+364,18842490,NaN,few clouds,"{'temp': 0.93, 'wind': 1.68, 'clouds': '100%', 'humidity': '87%', 'pressure': 1035, 'direction': 233, 'feels_like': -0.96, 'description': 'few clouds'}"
+366,18842516,NaN,overcast clouds,
+369,19077589,NaN,light rain,"{'temp': 3.85, 'wind': 0.89, 'clouds': '100%', 'humidity': '95%', 'pressure': 1017, 'direction': 244, 'feels_like': 3.85, 'description': 'few clouds'}"
+373,18968539,NaN,clear sky,"{'temp': 13.2, 'wind': 3.6, 'clouds': '67%', 'humidity': '76%', 'pressure': 1009, 'direction': 280, 'feels_like': 12.56, 'description': 'clear sky'}"
+374,18841650,NaN,overcast clouds,
+375,18841662,NaN,light rain,
+376,18841674,NaN,light rain,
+381,18842146,NaN,light rain,
+382,18842390,NaN,broken clouds,
+384,18842418,NaN,sky is clear,
+387,18842448,NaN,scattered clouds,
+391,19037869,NaN,broken clouds,"{'temp': 3.47, 'wind': 3.6, 'clouds': '49%', 'humidity': '74%', 'pressure': 1031, 'direction': 30, 'feels_like': 0.24, 'description': 'broken clouds'}"
+392,19062751,NaN,clear sky,"{'temp': -3.76, 'wind': 5.36, 'clouds': '6%', 'humidity': '58%', 'pressure': 997, 'direction': 344, 'feels_like': -9.85, 'description': 'clear sky'}"
+394,19062931,NaN,overcast clouds,"{'temp': 5.09, 'wind': 3.09, 'clouds': '3%', 'humidity': '82%', 'pressure': 1034, 'direction': 220, 'feels_like': 2.55, 'description': 'overcast clouds'}"
+397,19077420,NaN,clear sky,"{'temp': 3.01, 'wind': 2.06, 'clouds': '99%', 'humidity': '87%', 'pressure': 1004, 'direction': 150, 'feels_like': 0.98, 'description': 'clear sky'}"
+399,18842527,NaN,broken clouds,"{'temp': 13.63, 'wind': 5.14, 'clouds': '82%', 'humidity': '85%', 'pressure': 1026, 'direction': 190, 'feels_like': 13.27, 'description': 'broken clouds'}"
+400,18842532,NaN,sky is clear,
+402,18841626,GOOD,scattered clouds,"{'temp': 22.5, 'wind': 4.63, 'clouds': '26%', 'humidity': '59%', 'pressure': 1021, 'direction': 240, 'feels_like': 22.35, 'description': 'scattered clouds'}"
+404,18968536,NaN,moderate rain,
+408,18995300,NaN,light rain,
+412,18842137,NaN,moderate rain,
+413,19016543,NaN,light rain,
+419,18842433,NaN,moderate rain,
+420,18842443,NaN,overcast clouds,
+422,18842457,NaN,light intensity shower rain,"{'temp': 3.8, 'wind': 5.14, 'clouds': '100%', 'humidity': '92%', 'pressure': 1009, 'direction': 140, 'feels_like': -0.23, 'description': 'light intensity shower rain'}"
+423,18842466,NaN,light rain,"{'temp': 7.95, 'wind': 5.81, 'clouds': '100%', 'humidity': '88%', 'pressure': 990, 'direction': 250, 'feels_like': 4.71, 'description': 'light rain'}"
+426,18842486,NaN,light rain,"{'temp': 3.68, 'wind': 3.58, 'clouds': '92%', 'humidity': '83%', 'pressure': 1010, 'direction': 330, 'feels_like': 0.5, 'description': 'light rain'}"
+430,18842506,NaN,overcast clouds,"{'temp': 9.5, 'wind': 6.26, 'clouds': '95%', 'humidity': '88%', 'pressure': 1023, 'direction': 300, 'feels_like': 6.52, 'description': 'overcast clouds'}"
+431,18842515,NaN,few clouds,"{'temp': 9.04, 'wind': 1.03, 'clouds': '65%', 'humidity': '86%', 'pressure': 983, 'direction': 0, 'feels_like': 9.04, 'description': 'few clouds'}"
+434,18841616,GOOD,NaN,NaN
+438,18841664,NaN,scattered clouds,
+446,18842386,NaN,overcast clouds,
+448,18842416,NaN,rain and snow,
+449,18842420,NaN,light rain,
+454,19037871,NaN,overcast clouds,"{'temp': 4.32, 'wind': 1.54, 'clouds': '94%', 'humidity': '82%', 'pressure': 1030, 'direction': 80, 'feels_like': 3.12, 'description': 'overcast clouds'}"
+456,19062937,NaN,broken clouds,"{'temp': 5.18, 'wind': 1.54, 'clouds': '100%', 'humidity': '87%', 'pressure': 1019, 'direction': 330, 'feels_like': 4.1, 'description': 'broken clouds'}"
+457,18842499,NaN,broken clouds,"{'temp': 6.33, 'wind': 4.12, 'clouds': '100%', 'humidity': '86%', 'pressure': 1023, 'direction': 270, 'feels_like': 3.43, 'description': 'broken clouds'}"
+460,18842525,NaN,moderate rain,
+465,18841634,GOOD,clear sky,"{'temp': 27.15, 'wind': 2.24, 'clouds': '5%', 'humidity': '57%', 'pressure': 1009, 'direction': 237, 'feels_like': 28.05, 'description': 'clear sky'}"
+470,18995305,NaN,sky is clear,
+473,18841697,NaN,scattered clouds,
+478,18842401,NaN,moderate rain,
+480,18842426,NaN,snow,
+487,19037856,NaN,overcast clouds,"{'temp': 4.05, 'wind': 3.09, 'clouds': '78%', 'humidity': '70%', 'pressure': 1028, 'direction': 0, 'feels_like': 1.3, 'description': 'overcast clouds'}"
+488,19062752,NaN,overcast clouds,"{'temp': 1.3, 'wind': 2.57, 'clouds': '18%', 'humidity': '76%', 'pressure': 1000, 'direction': 170, 'feels_like': -1.55, 'description': 'overcast clouds'}"
+498,18968554,NaN,overcast clouds,"{'temp': 15.96, 'wind': 3.58, 'clouds': '93%', 'humidity': '75%', 'pressure': 1014, 'direction': 315, 'feels_like': 15.57, 'description': 'overcast clouds'}"
+501,18841670,NaN,sky is clear,
+504,18841688,NaN,broken clouds,
+507,19016541,NaN,light snow,
+508,18842148,NaN,moderate rain,
+519,19037875,NaN,overcast clouds,"{'temp': 5.11, 'wind': 3.09, 'clouds': '95%', 'humidity': '88%', 'pressure': 1019, 'direction': 350, 'feels_like': 2.57, 'description': 'overcast clouds'}"
+520,19051342,NaN,sky is clear,"{'temp': 3.27, 'wind': 4.12, 'clouds': '23%', 'humidity': '80%', 'pressure': 1037, 'direction': 40, 'feels_like': -0.34, 'description': 'scattered clouds'}"
+522,19051343,NaN,overcast clouds,"{'temp': 13, 'wind': 10.8, 'clouds': '100%', 'humidity': '89%', 'pressure': 1012, 'direction': 230, 'feels_like': 12.68, 'description': 'overcast clouds'}"
+523,19062934,NaN,scattered clouds,"{'temp': 3.61, 'wind': 3.6, 'clouds': '39%', 'humidity': '81%', 'pressure': 1034, 'direction': 250, 'feels_like': 0.41, 'description': 'scattered clouds'}"
+526,19077599,NaN,light snow,"{'temp': 1.8, 'wind': 0.51, 'clouds': '100%', 'humidity': '93%', 'pressure': 1004, 'direction': 170, 'feels_like': 1.8, 'description': 'light snow'}"
+532,18841640,NaN,overcast clouds,"{'temp': 11.31, 'wind': 0.45, 'clouds': '100%', 'humidity': '82%', 'pressure': 1025, 'direction': 335, 'feels_like': 10.64, 'description': 'overcast clouds'}"
+543,18842409,NaN,rain and snow,
+550,18842470,NaN,broken clouds,"{'temp': 11.22, 'wind': 8.75, 'clouds': '100%', 'humidity': '85%', 'pressure': 994, 'direction': 170, 'feels_like': 10.62, 'description': 'broken clouds'}"
+551,19037868,NaN,broken clouds,"{'temp': 4.5, 'wind': 2.57, 'clouds': '97%', 'humidity': '90%', 'pressure': 1021, 'direction': 360, 'feels_like': 2.25, 'description': 'broken clouds'}"
+564,18841649,NaN,broken clouds,
+581,19037857,NaN,scattered clouds,"{'temp': -1.82, 'wind': 3.13, 'clouds': '39%', 'humidity': '72%', 'pressure': 1013, 'direction': 254, 'feels_like': -5.81, 'description': 'overcast clouds'}"
+594,18995308,NaN,light rain,

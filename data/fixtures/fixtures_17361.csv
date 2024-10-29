@@ -1,0 +1,244 @@
+,fixture_id,name,league_id,season_id,venue_id,formation_away,formation_home,referee
+0,16840076,Werder Bremen vs Hertha BSC,82,17361,339831,4-3-1-2,4-2-2-2,4729501
+1,16840082,Hertha BSC vs Eintracht Frankfurt,82,17361,1944,3-4-1-2,4-3-1-2,1928586
+2,16840087,FC Bayern München vs Hertha BSC,82,17361,53,4-4-1-1,4-2-3-1,2668775
+3,16840099,Hertha BSC vs VfB Stuttgart,82,17361,1944,3-4-2-1,4-2-3-1,3063257
+4,16840107,RB Leipzig vs Hertha BSC,82,17361,2140,4-2-3-1,4-2-3-1,2372449
+5,16840118,Hertha BSC vs VfL Wolfsburg,82,17361,1944,4-2-3-1,4-2-3-1,3063243
+6,16840129,FC Augsburg vs Hertha BSC,82,17361,2165,4-2-2-2,4-4-2,91060
+7,16840137,Hertha BSC vs Borussia Dortmund,82,17361,1944,3-4-3,4-4-2,1928614
+8,16840144,Bayer 04 Leverkusen vs Hertha BSC,82,17361,1947,4-4-2,4-3-3,3261349
+9,16840154,Hertha BSC vs FC Union Berlin,82,17361,1944,3-4-1-2,4-2-3-1,3587397
+10,16840161,Borussia Mönchengladbach vs Hertha BSC,82,17361,180,4-2-3-1,4-2-3-1,3587464
+11,16840171,Hertha BSC vs FSV Mainz 05,82,17361,1944,5-3-2,4-3-3,4644140
+12,16840181,SC Freiburg vs Hertha BSC,82,17361,2063,4-3-3,3-4-2-1,3632869
+13,16840190,Hertha BSC vs Schalke 04,82,17361,1944,4-2-3-1,4-3-3,90436
+14,16840203,DSC Arminia Bielefeld vs Hertha BSC,82,17361,1719,4-3-3,4-4-2,90954
+15,16840210,FC Köln vs Hertha BSC,82,17361,1946,4-3-1-2,3-4-2-1,91063
+16,16840217,Hertha BSC vs TSG Hoffenheim,82,17361,1944,3-5-2,4-3-1-2,3063133
+17,16840226,Hertha BSC vs Werder Bremen,82,17361,1944,3-5-2,4-3-3,3261343
+18,16840235,Eintracht Frankfurt vs Hertha BSC,82,17361,2169,4-2-3-1,3-4-2-1,4596773
+19,16840244,Hertha BSC vs FC Bayern München,82,17361,1944,4-1-4-1,4-2-3-1,"[{'id': 1928682, 'fixture_id': 16840244, 'referee_id': 14473, 'type_id': 9}, {'id': 4584479, 'fixture_id': 16840244, 'referee_id': 13405, 'type_id': 7}, {'id': 4603595, 'fixture_id': 16840244, 'referee_id': 15875, 'type_id': 8}]"
+20,16840257,VfB Stuttgart vs Hertha BSC,82,17361,1945,4-3-3,3-4-3,3063128
+21,16840262,Hertha BSC vs RB Leipzig,82,17361,1944,3-4-2-1,3-5-2,90440
+22,16840271,VfL Wolfsburg vs Hertha BSC,82,17361,80,3-4-1-2,4-2-3-1,1928702
+23,16840281,Hertha BSC vs FC Augsburg,82,17361,1944,4-2-3-1,3-1-4-2,3587168
+24,16840285,Borussia Dortmund vs Hertha BSC,82,17361,2166,3-1-4-2,4-2-3-1,3063104
+25,16840298,Hertha BSC vs Bayer 04 Leverkusen,82,17361,1944,4-2-3-1,3-4-1-2,"[{'id': 4584578, 'fixture_id': 16840298, 'referee_id': 11735, 'type_id': 9}, {'id': 4584447, 'fixture_id': 16840298, 'referee_id': 12082, 'type_id': 8}]"
+26,16840308,FC Union Berlin vs Hertha BSC,82,17361,420,4-3-3,3-4-1-2,4641345
+27,16840074,FC Union Berlin vs FC Augsburg,82,17361,420,4-2-3-1,4-3-3,15871
+28,16840078,Borussia Mönchengladbach vs FC Union Berlin,82,17361,180,3-4-2-1,4-2-3-1,2372466
+29,16840092,FC Union Berlin vs FSV Mainz 05,82,17361,420,4-2-3-1,3-4-2-1,4584615
+30,16840100,Schalke 04 vs FC Union Berlin,82,17361,2138,4-2-3-1,4-3-3,3681856
+31,16840110,FC Union Berlin vs SC Freiburg,82,17361,420,4-4-2,4-2-3-1,5033158
+32,16840115,TSG Hoffenheim vs FC Union Berlin,82,17361,1618,3-4-1-2,3-1-4-2,4584602
+33,16840127,FC Union Berlin vs DSC Arminia Bielefeld,82,17361,420,4-2-3-1,4-2-3-1,4584557
+34,16840139,FC Köln vs FC Union Berlin,82,17361,1946,4-2-3-1,4-1-4-1,2372440
+35,16840146,FC Union Berlin vs Eintracht Frankfurt,82,17361,420,3-4-1-2,4-2-3-1,4611529
+37,16840165,FC Union Berlin vs FC Bayern München,82,17361,420,4-2-3-1,4-1-4-1,1928628
+38,16840176,VfB Stuttgart vs FC Union Berlin,82,17361,1945,5-3-2,3-1-4-2,"[{'id': 339739, 'fixture_id': 16840176, 'referee_id': 17354, 'type_id': 7}, {'id': 2896380, 'fixture_id': 16840176, 'referee_id': 11688, 'type_id': 8}, {'id': 3602422, 'fixture_id': 16840176, 'referee_id': 15803, 'type_id': 9}]"
+39,16840182,FC Union Berlin vs Borussia Dortmund,82,17361,420,4-2-3-1,4-1-4-1,3063164
+40,16840192,Werder Bremen vs FC Union Berlin,82,17361,339831,5-3-2,4-2-3-1,2372417
+41,16840199,FC Union Berlin vs VfL Wolfsburg,82,17361,420,4-2-3-1,3-5-2,4638846
+42,16840209,FC Union Berlin vs Bayer 04 Leverkusen,82,17361,420,4-3-3,3-1-4-2,3596537
+43,16840213,RB Leipzig vs FC Union Berlin,82,17361,2140,3-1-4-2,3-4-2-1,54500
+44,16840229,FC Augsburg vs FC Union Berlin,82,17361,2165,3-4-3,3-4-2-1,4639354
+45,16840236,FC Union Berlin vs Borussia Mönchengladbach,82,17361,420,4-4-2,3-5-2,1928676
+46,16840246,FSV Mainz 05 vs FC Union Berlin,82,17361,2103,3-5-2,3-4-1-2,5163941
+47,16840255,FC Union Berlin vs Schalke 04,82,17361,420,4-2-3-1,3-5-2,3261345
+48,16840260,SC Freiburg vs FC Union Berlin,82,17361,2063,3-5-2,4-2-2-2,2668562
+49,16840272,FC Union Berlin vs TSG Hoffenheim,82,17361,420,3-4-1-2,3-1-4-2,2372371
+50,16840284,DSC Arminia Bielefeld vs FC Union Berlin,82,17361,1719,4-4-2,4-2-3-1,3063042
+51,16840289,FC Union Berlin vs FC Köln,82,17361,420,4-2-3-1,3-5-2,3063056
+52,16840297,Eintracht Frankfurt vs FC Union Berlin,82,17361,2169,3-5-2,3-4-1-2,54504
+54,16840072,VfL Wolfsburg vs Bayer 04 Leverkusen,82,17361,80,4-1-4-1,4-3-3,90431
+55,16840081,SC Freiburg vs VfL Wolfsburg,82,17361,2063,4-2-3-1,4-2-2-2,2668778
+56,16840090,VfL Wolfsburg vs FC Augsburg,82,17361,80,4-4-2,4-3-3,4616157
+57,16840096,Borussia Mönchengladbach vs VfL Wolfsburg,82,17361,180,4-3-3,4-2-3-1,3261361
+58,16840109,VfL Wolfsburg vs DSC Arminia Bielefeld,82,17361,80,4-2-3-1,4-1-4-1,55972
+60,16840126,VfL Wolfsburg vs TSG Hoffenheim,82,17361,80,3-1-4-2,4-2-3-1,90433
+61,16840138,Schalke 04 vs VfL Wolfsburg,82,17361,2138,4-2-3-1,3-1-4-2,15874
+62,16840145,VfL Wolfsburg vs Werder Bremen,82,17361,80,3-4-2-1,4-2-3-1,2448451
+63,16840156,FC Köln vs VfL Wolfsburg,82,17361,1946,4-2-3-1,3-1-4-2,90434
+64,16840163,VfL Wolfsburg vs Eintracht Frankfurt,82,17361,80,3-1-4-2,4-2-3-1,54498
+65,16840168,FC Bayern München vs VfL Wolfsburg,82,17361,53,4-2-3-1,4-1-4-1,15876
+66,16840180,VfL Wolfsburg vs VfB Stuttgart,82,17361,80,4-2-3-1,4-2-2-2,3587532
+67,16840187,Borussia Dortmund vs VfL Wolfsburg,82,17361,2166,4-2-3-1,4-2-3-1,55976
+69,16840207,VfL Wolfsburg vs RB Leipzig,82,17361,80,3-4-2-1,4-2-3-1,2372391
+70,16840219,FSV Mainz 05 vs VfL Wolfsburg,82,17361,2103,4-2-3-1,3-5-2,2668624
+71,16840223,Bayer 04 Leverkusen vs VfL Wolfsburg,82,17361,1947,4-2-3-1,4-3-3,15878
+72,16840234,VfL Wolfsburg vs SC Freiburg,82,17361,80,3-4-3,4-2-3-1,3638571
+73,16840247,FC Augsburg vs VfL Wolfsburg,82,17361,2165,4-2-3-1,4-2-3-1,3587275
+74,16840253,VfL Wolfsburg vs Borussia Mönchengladbach,82,17361,80,4-2-3-1,4-2-3-1,2372382
+75,16840266,DSC Arminia Bielefeld vs VfL Wolfsburg,82,17361,1719,4-2-3-1,4-4-1-1,3587224
+77,16840278,TSG Hoffenheim vs VfL Wolfsburg,82,17361,1618,4-2-3-1,3-4-1-2,54503
+78,16840288,VfL Wolfsburg vs Schalke 04,82,17361,80,3-5-2,4-2-3-1,2668518
+79,16840301,Werder Bremen vs VfL Wolfsburg,82,17361,339831,4-2-3-1,3-1-4-2,"[{'id': 3063044, 'fixture_id': 16840301, 'referee_id': 17226, 'type_id': 9}, {'id': 2896364, 'fixture_id': 16840301, 'referee_id': 12206, 'type_id': 8}]"
+80,16840307,VfL Wolfsburg vs FC Köln,82,17361,80,4-1-4-1,4-2-3-1,3587284
+82,16840079,Bayer 04 Leverkusen vs RB Leipzig,82,17361,1947,3-4-2-1,4-1-4-1,3063285
+83,16840095,VfB Stuttgart vs Bayer 04 Leverkusen,82,17361,1945,4-1-4-1,3-1-4-2,3648132
+84,16840101,FSV Mainz 05 vs Bayer 04 Leverkusen,82,17361,2103,4-1-4-1,4-2-3-1,1928601
+85,16840108,Bayer 04 Leverkusen vs FC Augsburg,82,17361,1947,4-4-2,4-3-3,2668747
+86,16840116,SC Freiburg vs Bayer 04 Leverkusen,82,17361,2063,4-3-3,4-2-2-2,2668729
+87,16840125,Bayer 04 Leverkusen vs Borussia Mönchengladbach,82,17361,1947,4-2-3-1,4-3-3,3063237
+88,16840140,DSC Arminia Bielefeld vs Bayer 04 Leverkusen,82,17361,1719,4-3-3,4-1-4-1,4629664
+90,16840155,Schalke 04 vs Bayer 04 Leverkusen,82,17361,2138,4-3-3,4-2-3-1,2668685
+91,16840162,Bayer 04 Leverkusen vs TSG Hoffenheim,82,17361,1947,4-1-3-2,4-3-3,3063199
+92,16840173,FC Köln vs Bayer 04 Leverkusen,82,17361,1946,4-2-3-1,3-1-4-2,2372413
+93,16840179,Bayer 04 Leverkusen vs FC Bayern München,82,17361,1947,4-2-3-1,4-3-3,5033197
+94,16840189,Eintracht Frankfurt vs Bayer 04 Leverkusen,82,17361,2169,4-3-3,3-4-2-1,4593572
+95,16840197,Bayer 04 Leverkusen vs Werder Bremen,82,17361,1947,3-5-2,4-3-3,2668628
+97,16840215,Bayer 04 Leverkusen vs Borussia Dortmund,82,17361,1947,4-2-3-1,4-3-3,4688740
+99,16840233,RB Leipzig vs Bayer 04 Leverkusen,82,17361,2140,4-3-3,3-1-4-2,3063120
+100,16840241,Bayer 04 Leverkusen vs VfB Stuttgart,82,17361,1947,3-4-2-1,4-3-3,90439
+101,16840252,Bayer 04 Leverkusen vs FSV Mainz 05,82,17361,1947,3-4-1-2,4-3-3,90956
+102,16840265,FC Augsburg vs Bayer 04 Leverkusen,82,17361,2165,4-3-3,4-2-3-1,2448460
+103,16840270,Bayer 04 Leverkusen vs SC Freiburg,82,17361,1947,4-2-2-2,4-3-3,4822601
+104,16840277,Borussia Mönchengladbach vs Bayer 04 Leverkusen,82,17361,180,4-3-3,4-2-3-1,2668528
+105,16840287,Bayer 04 Leverkusen vs DSC Arminia Bielefeld,82,17361,1947,4-4-2,4-3-3,4584536
+107,16840306,Bayer 04 Leverkusen vs Schalke 04,82,17361,1947,3-5-2,3-5-1-1,90442
+108,16840077,VfB Stuttgart vs SC Freiburg,82,17361,1945,4-1-3-2,3-1-4-2,2668774
+110,16840088,Borussia Dortmund vs SC Freiburg,82,17361,2166,3-4-2-1,3-4-2-1,90949
+111,16840098,SC Freiburg vs Werder Bremen,82,17361,2063,3-1-4-2,4-4-2,2448445
+114,16840124,RB Leipzig vs SC Freiburg,82,17361,2140,5-3-2,4-1-3-2,5168359
+115,16840135,SC Freiburg vs FSV Mainz 05,82,17361,2063,3-5-2,4-4-2,3063216
+116,16840148,FC Augsburg vs SC Freiburg,82,17361,2165,3-4-3,4-2-2-2,4584576
+117,16840152,SC Freiburg vs Borussia Mönchengladbach,82,17361,2063,4-2-3-1,3-4-3,2372436
+118,16840164,SC Freiburg vs DSC Arminia Bielefeld,82,17361,2063,4-1-3-2,3-4-3,3063183
+119,16840172,Schalke 04 vs SC Freiburg,82,17361,2138,3-4-3,4-2-3-1,90435
+121,16840188,TSG Hoffenheim vs SC Freiburg,82,17361,1618,3-4-3,4-2-3-1,3631826
+122,16840198,SC Freiburg vs FC Köln,82,17361,2063,4-2-3-1,4-2-3-1,4655316
+123,16840204,FC Bayern München vs SC Freiburg,82,17361,53,3-4-3,4-2-3-1,2448446
+124,16840216,SC Freiburg vs Eintracht Frankfurt,82,17361,2063,3-4-2-1,4-4-2,90955
+125,16840225,SC Freiburg vs VfB Stuttgart,82,17361,2063,3-4-2-1,3-4-3,2372387
+127,16840243,SC Freiburg vs Borussia Dortmund,82,17361,2063,4-1-4-1,4-2-2-2,4584486
+128,16840256,Werder Bremen vs SC Freiburg,82,17361,339831,3-4-2-1,3-5-2,55979
+131,16840279,SC Freiburg vs RB Leipzig,82,17361,2063,3-1-4-2,4-2-2-2,90958
+132,16840290,FSV Mainz 05 vs SC Freiburg,82,17361,2103,3-4-3,3-4-3,2668514
+133,16840296,SC Freiburg vs FC Augsburg,82,17361,2063,4-4-2,4-4-2,1928712
+134,16840305,Borussia Mönchengladbach vs SC Freiburg,82,17361,180,5-3-2,4-2-3-1,2448463
+135,16840070,Borussia Dortmund vs Borussia Mönchengladbach,82,17361,2166,3-4-3,3-4-1-2,3587516
+136,16840085,FC Augsburg vs Borussia Dortmund,82,17361,2165,3-1-4-2,4-2-2-2,3063280
+138,16840097,TSG Hoffenheim vs Borussia Dortmund,82,17361,1618,3-4-2-1,3-4-3,"[{'id': 2896393, 'fixture_id': 16840097, 'referee_id': 11688, 'type_id': 8}, {'id': 3596281, 'fixture_id': 16840097, 'referee_id': 11719, 'type_id': 9}]"
+139,16840106,Borussia Dortmund vs Schalke 04,82,17361,2166,3-5-2,4-2-3-1,"[{'id': 308110, 'fixture_id': 16840106, 'referee_id': 15401, 'type_id': 7}, {'id': 2668725, 'fixture_id': 16840106, 'referee_id': 16993, 'type_id': 9}]"
+140,16840122,DSC Arminia Bielefeld vs Borussia Dortmund,82,17361,1719,4-2-3-1,5-3-2,1928618
+141,16840123,Borussia Dortmund vs FC Bayern München,82,17361,2166,4-2-3-1,4-2-3-1,55973
+143,16840141,Borussia Dortmund vs FC Köln,82,17361,2166,5-3-2,4-2-3-1,3587374
+144,16840153,Eintracht Frankfurt vs Borussia Dortmund,82,17361,2169,3-4-2-1,3-4-3,90952
+145,16840159,Borussia Dortmund vs VfB Stuttgart,82,17361,2166,3-1-4-2,3-4-2-1,2448494
+146,16840174,Werder Bremen vs Borussia Dortmund,82,17361,339831,4-2-3-1,3-5-2,4584867
+149,16840195,RB Leipzig vs Borussia Dortmund,82,17361,2140,4-2-3-1,3-4-2-1,2668627
+150,16840205,Borussia Dortmund vs FSV Mainz 05,82,17361,2166,5-3-2,4-2-3-1,90437
+152,16840222,Borussia Mönchengladbach vs Borussia Dortmund,82,17361,180,4-2-3-1,3-4-1-2,55978
+153,16840232,Borussia Dortmund vs FC Augsburg,82,17361,2166,3-4-2-1,4-2-3-1,4584738
+155,16840250,Borussia Dortmund vs TSG Hoffenheim,82,17361,2166,5-3-2,4-2-3-1,1928680
+156,16840263,Schalke 04 vs Borussia Dortmund,82,17361,2138,4-2-3-1,4-3-3,2668536
+157,16840268,Borussia Dortmund vs DSC Arminia Bielefeld,82,17361,2166,4-4-2,4-1-4-1,3587191
+158,16840276,FC Bayern München vs Borussia Dortmund,82,17361,53,3-4-2-1,4-2-3-1,15879
+160,16840300,FC Köln vs Borussia Dortmund,82,17361,1946,4-1-4-1,4-4-2,2668490
+161,16840303,Borussia Dortmund vs Eintracht Frankfurt,82,17361,2166,3-4-1-2,4-1-4-1,55982
+163,16840083,Schalke 04 vs Werder Bremen,82,17361,2138,4-3-3,4-2-3-1,54495
+164,16840094,Werder Bremen vs DSC Arminia Bielefeld,82,17361,339831,4-2-3-1,5-3-2,4596027
+166,16840112,Werder Bremen vs TSG Hoffenheim,82,17361,339831,3-4-2-1,3-4-2-1,3261355
+167,16840117,Eintracht Frankfurt vs Werder Bremen,82,17361,2169,3-4-2-1,3-4-1-2,3587508
+168,16840130,Werder Bremen vs FC Köln,82,17361,339831,4-1-4-1,3-4-2-1,3587389
+169,16840132,FC Bayern München vs Werder Bremen,82,17361,53,3-4-2-1,4-1-4-1,90951
+171,16840157,Werder Bremen vs VfB Stuttgart,82,17361,339831,3-1-4-2,4-2-3-1,91061
+172,16840160,RB Leipzig vs Werder Bremen,82,17361,2140,3-4-2-1,4-2-3-1,2668676
+174,16840184,FSV Mainz 05 vs Werder Bremen,82,17361,2103,4-3-1-2,3-1-4-2,90953
+177,16840211,Werder Bremen vs FC Augsburg,82,17361,339831,3-4-3,3-5-2,"[{'id': 3063147, 'fixture_id': 16840211, 'referee_id': 15397, 'type_id': 9}, {'id': 2896375, 'fixture_id': 16840211, 'referee_id': 11688, 'type_id': 8}, {'id': 3587433, 'fixture_id': 16840211, 'referee_id': 12081, 'type_id': 7}]"
+178,16840214,Borussia Mönchengladbach vs Werder Bremen,82,17361,180,3-5-2,4-2-3-1,3063148
+180,16840238,Werder Bremen vs Schalke 04,82,17361,339831,4-2-3-1,3-5-2,2668589
+182,16840259,TSG Hoffenheim vs Werder Bremen,82,17361,1618,3-5-2,3-4-1-2,4584525
+183,16840274,Werder Bremen vs Eintracht Frankfurt,82,17361,339831,3-4-2-1,3-4-2-1,3587259
+184,16840283,FC Köln vs Werder Bremen,82,17361,1946,3-4-1-2,4-4-1-1,4699133
+185,16840248,DSC Arminia Bielefeld vs Werder Bremen,82,17361,1719,3-4-2-1,4-2-3-1,54501
+186,16840292,Werder Bremen vs FC Bayern München,82,17361,339831,4-2-3-1,3-4-2-1,55981
+188,16840311,VfB Stuttgart vs Werder Bremen,82,17361,1945,4-2-3-1,3-4-2-1,4611191
+189,16840073,Eintracht Frankfurt vs DSC Arminia Bielefeld,82,17361,2169,4-1-4-1,3-4-1-2,3629468
+190,16840086,DSC Arminia Bielefeld vs FC Köln,82,17361,1719,4-2-3-1,4-3-3,3587593
+192,16840104,DSC Arminia Bielefeld vs FC Bayern München,82,17361,1719,4-2-3-1,4-2-3-1,2668743
+197,16840142,RB Leipzig vs DSC Arminia Bielefeld,82,17361,2140,4-2-3-1,3-4-2-1,3640491
+198,16840158,DSC Arminia Bielefeld vs FSV Mainz 05,82,17361,1719,3-4-2-1,4-4-2,15875
+200,16840175,DSC Arminia Bielefeld vs FC Augsburg,82,17361,1719,3-4-1-2,4-4-2,4019024
+201,16840183,Schalke 04 vs DSC Arminia Bielefeld,82,17361,2138,4-4-2,4-2-3-1,1928642
+202,16840193,DSC Arminia Bielefeld vs Borussia Mönchengladbach,82,17361,1719,4-2-3-1,4-4-2,5173018
+204,16840206,TSG Hoffenheim vs DSC Arminia Bielefeld,82,17361,1618,4-1-3-2,3-5-2,15877
+205,16840221,DSC Arminia Bielefeld vs VfB Stuttgart,82,17361,1719,3-4-2-1,4-1-3-2,4584757
+206,16840230,DSC Arminia Bielefeld vs Eintracht Frankfurt,82,17361,1719,3-4-2-1,4-1-3-2,4640481
+207,16840237,FC Köln vs DSC Arminia Bielefeld,82,17361,1946,4-2-3-1,3-3-1-3,"[{'id': 3063100, 'fixture_id': 16840237, 'referee_id': 17226, 'type_id': 9}, {'id': 3237929, 'fixture_id': 16840237, 'referee_id': 11720, 'type_id': 8}, {'id': 1928678, 'fixture_id': 16840237, 'referee_id': 11619, 'type_id': 7}]"
+208,16840249,FC Bayern München vs DSC Arminia Bielefeld,82,17361,53,4-2-3-1,4-2-3-1,3587234
+214,16840302,DSC Arminia Bielefeld vs RB Leipzig,82,17361,1719,3-4-2-1,4-3-1-2,91066
+215,16840309,FSV Mainz 05 vs DSC Arminia Bielefeld,82,17361,2103,4-3-1-2,3-5-2,3063038
+216,16840075,FC Köln vs TSG Hoffenheim,82,17361,1946,3-4-1-2,4-2-3-1,2668771
+218,16840093,FC Köln vs Borussia Mönchengladbach,82,17361,1946,4-2-3-1,3-5-2,15872
+219,16840102,FC Köln vs Eintracht Frankfurt,82,17361,1946,3-4-1-2,4-1-4-1,90432
+220,16840113,VfB Stuttgart vs FC Köln,82,17361,1945,4-3-3,3-4-2-1,90950
+221,16840120,FC Köln vs FC Bayern München,82,17361,1946,4-2-3-1,4-1-4-1,91059
+226,16840166,FSV Mainz 05 vs FC Köln,82,17361,2103,3-1-4-2,3-4-2-1,4584543
+228,16840177,RB Leipzig vs FC Köln,82,17361,2140,4-3-3,4-2-3-1,3587320
+229,16840191,FC Köln vs FC Augsburg,82,17361,1946,3-4-3,3-1-4-2,2668641
+232,16840218,Schalke 04 vs FC Köln,82,17361,2138,3-4-2-1,4-2-3-1,2668600
+233,16840224,TSG Hoffenheim vs FC Köln,82,17361,1618,3-4-3,3-5-2,90438
+235,16840240,Borussia Mönchengladbach vs FC Köln,82,17361,180,3-1-4-2,4-2-3-1,2448479
+236,16840254,Eintracht Frankfurt vs FC Köln,82,17361,2169,3-1-4-2,3-4-2-1,91065
+237,16840264,FC Köln vs VfB Stuttgart,82,17361,1946,3-4-2-1,5-3-2,2668542
+238,16840267,FC Bayern München vs FC Köln,82,17361,53,3-5-2,4-2-3-1,3063083
+243,16840069,FC Bayern München vs Schalke 04,82,17361,53,4-4-2,4-2-3-1,4584553
+245,16840089,RB Leipzig vs Schalke 04,82,17361,2140,3-5-2,4-2-3-1,3587441
+248,16840119,Schalke 04 vs VfB Stuttgart,82,17361,2138,3-1-4-2,3-1-4-2,3587405
+249,16840128,FSV Mainz 05 vs Schalke 04,82,17361,2103,3-1-4-2,4-2-3-1,3587378
+251,16840143,Borussia Mönchengladbach vs Schalke 04,82,17361,180,4-2-3-1,4-2-3-1,55974
+253,16840167,FC Augsburg vs Schalke 04,82,17361,2165,4-1-4-1,4-4-2,55975
+257,16840200,Schalke 04 vs TSG Hoffenheim,82,17361,2138,3-4-2-1,4-4-2,4758907
+258,16840208,Eintracht Frankfurt vs Schalke 04,82,17361,2169,4-4-2,3-4-2-1,55977
+260,16840227,Schalke 04 vs FC Bayern München,82,17361,2138,4-2-3-1,4-2-3-1,"[{'id': 3063105, 'fixture_id': 16840227, 'referee_id': 15402, 'type_id': 9}, {'id': 2896372, 'fixture_id': 16840227, 'referee_id': 11688, 'type_id': 7}, {'id': 3587357, 'fixture_id': 16840227, 'referee_id': 15729, 'type_id': 8}]"
+262,16840245,Schalke 04 vs RB Leipzig,82,17361,2138,3-1-4-2,4-2-3-1,3063112
+265,16840275,VfB Stuttgart vs Schalke 04,82,17361,1945,4-2-3-1,3-4-2-1,90957
+266,16840282,Schalke 04 vs FSV Mainz 05,82,17361,2138,3-5-2,3-4-1-2,3587169
+268,16840299,Schalke 04 vs Borussia Mönchengladbach,82,17361,2138,4-2-3-1,3-5-2,2372379
+270,16840071,RB Leipzig vs FSV Mainz 05,82,17361,2140,4-2-3-1,3-4-2-1,55970
+273,16840103,FC Augsburg vs RB Leipzig,82,17361,2165,3-4-3,4-4-2,3587438
+275,16840114,Borussia Mönchengladbach vs RB Leipzig,82,17361,180,4-1-3-2,4-2-3-1,2668718
+277,16840136,Eintracht Frankfurt vs RB Leipzig,82,17361,2169,4-2-3-1,3-4-2-1,2668695
+279,16840150,FC Bayern München vs RB Leipzig,82,17361,53,4-3-3,4-2-3-1,2668682
+281,16840169,TSG Hoffenheim vs RB Leipzig,82,17361,1618,3-4-2-1,4-2-3-1,3261352
+283,16840194,VfB Stuttgart vs RB Leipzig,82,17361,1945,4-3-3,4-3-3,2448440
+287,16840228,FSV Mainz 05 vs RB Leipzig,82,17361,2103,3-1-4-2,3-4-1-2,2448439
+290,16840251,RB Leipzig vs FC Augsburg,82,17361,2140,5-4-1,3-1-4-2,4597063
+292,16840269,RB Leipzig vs Borussia Mönchengladbach,82,17361,2140,3-1-4-2,4-2-3-1,55980
+294,16840286,RB Leipzig vs Eintracht Frankfurt,82,17361,2140,3-5-1-1,4-2-3-1,5163949
+296,16840304,RB Leipzig vs FC Bayern München,82,17361,2140,4-2-3-1,4-3-3,2668495
+302,16840121,FC Augsburg vs FSV Mainz 05,82,17361,2165,4-2-3-1,4-4-2,15873
+304,16840133,Borussia Mönchengladbach vs FC Augsburg,82,17361,180,4-4-2,4-2-3-1,54497
+306,16840151,TSG Hoffenheim vs FC Augsburg,82,17361,1618,4-2-2-2,4-3-1-2,4017881
+309,16840185,FC Augsburg vs Eintracht Frankfurt,82,17361,2165,3-4-2-1,4-4-2,2668664
+311,16840202,FC Augsburg vs VfB Stuttgart,82,17361,2165,3-4-2-1,3-4-3,3261346
+313,16840220,FC Augsburg vs FC Bayern München,82,17361,2165,4-2-3-1,3-4-2-1,"[{'id': 1928663, 'fixture_id': 16840220, 'referee_id': 11619, 'type_id': 8}, {'id': 2372381, 'fixture_id': 16840220, 'referee_id': 12246, 'type_id': 7}, {'id': 3587242, 'fixture_id': 16840220, 'referee_id': 11719, 'type_id': 9}]"
+319,16840273,FSV Mainz 05 vs FC Augsburg,82,17361,2103,4-2-3-1,3-4-1-2,3261334
+321,16840291,FC Augsburg vs Borussia Mönchengladbach,82,17361,2165,4-2-3-1,4-2-3-1,90441
+323,16840310,FC Augsburg vs TSG Hoffenheim,82,17361,2165,3-4-1-2,4-2-2-2,90959
+328,16840111,FSV Mainz 05 vs Borussia Mönchengladbach,82,17361,2103,3-5-2,4-2-3-1,91058
+335,16840170,Eintracht Frankfurt vs Borussia Mönchengladbach,82,17361,2169,4-2-3-1,3-4-2-1,2668659
+336,16840178,Borussia Mönchengladbach vs TSG Hoffenheim,82,17361,180,4-2-3-1,4-2-3-1,91062
+338,16840196,Borussia Mönchengladbach vs FC Bayern München,82,17361,180,4-2-3-1,4-4-2,3063154
+339,16840212,VfB Stuttgart vs Borussia Mönchengladbach,82,17361,1945,4-2-3-1,3-5-2,3587266
+345,16840258,Borussia Mönchengladbach vs FSV Mainz 05,82,17361,180,3-4-1-2,3-5-2,54502
+352,16840084,FSV Mainz 05 vs VfB Stuttgart,82,17361,2103,3-1-4-2,4-2-3-1,3261360
+357,16840131,VfB Stuttgart vs Eintracht Frankfurt,82,17361,1945,3-4-1-2,3-1-4-2,"[{'id': 339737, 'fixture_id': 16840131, 'referee_id': 17354, 'type_id': 7}, {'id': 2896387, 'fixture_id': 16840131, 'referee_id': 11688, 'type_id': 8}, {'id': 3715159, 'fixture_id': 16840131, 'referee_id': 15803, 'type_id': 9}]"
+358,16840134,TSG Hoffenheim vs VfB Stuttgart,82,17361,1618,3-4-2-1,5-3-2,2668717
+359,16840149,VfB Stuttgart vs FC Bayern München,82,17361,1945,4-2-3-1,3-4-2-1,3063208
+369,16840239,VfB Stuttgart vs FSV Mainz 05,82,17361,1945,3-4-3,3-4-2-1,91064
+374,16840280,Eintracht Frankfurt vs VfB Stuttgart,82,17361,2169,3-4-2-1,3-4-1-2,4584459
+375,16840293,VfB Stuttgart vs TSG Hoffenheim,82,17361,1945,3-4-1-2,3-4-2-1,2448443
+376,16840294,FC Bayern München vs VfB Stuttgart,82,17361,53,3-4-2-1,4-2-3-1,3261338
+379,16840080,TSG Hoffenheim vs FC Bayern München,82,17361,1618,4-2-3-1,3-4-3,3587461
+380,16840091,Eintracht Frankfurt vs TSG Hoffenheim,82,17361,2169,3-1-4-2,3-4-1-2,55971
+386,16840147,FSV Mainz 05 vs TSG Hoffenheim,82,17361,2103,4-3-1-2,3-4-2-1,5163968
+396,16840231,FC Bayern München vs TSG Hoffenheim,82,17361,53,3-5-2,4-2-3-1,2668581
+397,16840242,TSG Hoffenheim vs Eintracht Frankfurt,82,17361,1618,3-4-2-1,3-5-2,2668577
+403,16840295,TSG Hoffenheim vs FSV Mainz 05,82,17361,1618,3-4-2-1,3-4-1-2,15880
+409,16840105,FC Bayern München vs Eintracht Frankfurt,82,17361,53,3-4-1-2,4-2-3-1,54496
+419,16840201,FSV Mainz 05 vs Eintracht Frankfurt,82,17361,2103,3-4-2-1,4-2-3-1,1928652
+426,16840261,Eintracht Frankfurt vs FC Bayern München,82,17361,2169,4-2-3-1,3-4-2-1,4612773
+445,16840186,FC Bayern München vs FSV Mainz 05,82,17361,53,4-3-1-2,4-2-3-1,54499
