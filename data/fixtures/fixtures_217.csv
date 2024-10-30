@@ -1,217 +1,217 @@
 ,fixture_id,name,league_id,season_id,venue_id,formation_away,formation_home,referee
-0,95581,Bayern München vs Wolfsburg,82,217,53,4-2-3-1,3-4-3,5001654
-1,95683,Wolfsburg vs Eintracht Frankfurt,82,217,80,4-2-3-1,4-2-3-1,198734
-2,95775,Hoffenheim vs Wolfsburg,82,217,232157,4-2-3-1,4-3-1-2,198337
-3,96593,Wolfsburg vs Bayer Leverkusen,82,217,80,4-2-3-1,4-2-3-1,3194117
-4,96839,Hertha BSC vs Wolfsburg,82,217,1944,4-2-3-1,4-2-3-1,5001502
-5,96940,Wolfsburg vs Werder Bremen,82,217,80,4-4-2,4-2-3-1,197996
-6,97032,Wolfsburg vs Augsburg,82,217,80,4-2-3-1,4-2-3-1,54376
-7,97079,Freiburg vs Wolfsburg,82,217,2142,4-2-3-1,4-4-2,2448300
-8,97199,Wolfsburg vs Mainz 05,82,217,80,3-4-3,4-2-3-1,90828
-9,97245,Stuttgart vs Wolfsburg,82,217,1945,4-2-3-1,4-2-3-1,1582765
-10,97363,Wolfsburg vs Hamburger SV,82,217,80,4-1-4-1,4-2-3-1,198177
-11,97391,Schalke 04 vs Wolfsburg,82,217,2138,4-2-3-1,4-2-3-1,3886034
-12,97532,Wolfsburg vs Borussia M'gladbach,82,217,80,4-4-2,4-2-3-1,198373
-14,97570,Hannover 96 vs Wolfsburg,82,217,1531,4-2-3-1,4-4-1-1,54389
-15,97714,Wolfsburg vs Paderborn,82,217,80,5-4-1,4-2-3-1,55811
-16,97759,Borussia Dortmund vs Wolfsburg,82,217,2166,4-2-3-1,4-1-4-1,141017
-17,97863,Wolfsburg vs Köln,82,217,80,4-1-4-1,4-2-3-1,199065
-18,97892,Wolfsburg vs Bayern München,82,217,80,4-5-1,4-2-3-1,141020
-19,98004,Eintracht Frankfurt vs Wolfsburg,82,217,2169,4-2-3-1,4-4-2,198781
-20,98070,Wolfsburg vs Hoffenheim,82,217,80,4-2-3-1,4-2-3-1,199504
-21,98165,Bayer Leverkusen vs Wolfsburg,82,217,1947,4-2-3-1,4-2-3-1,1583646
-22,98308,Wolfsburg vs Hertha BSC,82,217,80,4-2-3-1,4-2-3-1,90852
-23,98392,Werder Bremen vs Wolfsburg,82,217,2172,4-2-3-1,4-1-3-2,15773
-24,98422,Augsburg vs Wolfsburg,82,217,2165,4-2-3-1,4-2-3-1,55832
-25,95635,Borussia Dortmund vs Bayer Leverkusen,82,217,2166,4-2-3-1,4-1-3-2,3194247
-26,95673,Bayer Leverkusen vs Hertha BSC,82,217,1947,3-4-3,4-4-1-1,2413261
-27,95748,Bayer Leverkusen vs Werder Bremen,82,217,1947,4-4-2,4-2-3-1,2448334
-29,96773,Bayer Leverkusen vs Augsburg,82,217,1947,4-2-3-1,4-2-3-1,90820
-30,96902,Freiburg vs Bayer Leverkusen,82,217,2142,4-2-3-1,4-4-2,5015160
-31,96996,Bayer Leverkusen vs Paderborn,82,217,1947,4-1-4-1,4-2-3-1,198750
-32,97088,Stuttgart vs Bayer Leverkusen,82,217,1945,4-4-2,4-3-2-1,5001378
-33,97190,Bayer Leverkusen vs Schalke 04,82,217,1947,4-2-3-1,4-2-3-1,55793
-34,97254,Hamburger SV vs Bayer Leverkusen,82,217,2076,4-2-3-1,4-1-4-1,197855
-35,97307,Bayer Leverkusen vs Mainz 05,82,217,1947,4-2-3-1,4-2-3-1,54385
-36,97417,Hannover 96 vs Bayer Leverkusen,82,217,1531,4-4-1-1,4-2-3-1,15749
-37,97483,Bayer Leverkusen vs Köln,82,217,1947,4-2-3-1,4-2-3-1,199218
-38,97608,Bayern München vs Bayer Leverkusen,82,217,53,4-2-3-1,4-5-1,198183
-39,97705,Bayer Leverkusen vs Borussia M'gladbach,82,217,1947,4-4-2,4-2-3-1,199063
-40,97779,Hoffenheim vs Bayer Leverkusen,82,217,232157,4-2-3-1,4-2-3-1,2773470
-41,97825,Bayer Leverkusen vs Eintracht Frankfurt,82,217,1947,4-4-2,4-2-3-1,198383
-42,97948,Bayer Leverkusen vs Borussia Dortmund,82,217,1947,4-2-3-1,4-2-3-1,198190
-43,98032,Hertha BSC vs Bayer Leverkusen,82,217,1944,4-2-3-1,4-2-3-1,199503
-44,98126,Werder Bremen vs Bayer Leverkusen,82,217,2172,4-2-3-1,4-3-1-2,198019
-46,98261,Augsburg vs Bayer Leverkusen,82,217,2165,4-2-3-1,4-1-4-1,141027
-47,98337,Bayer Leverkusen vs Freiburg,82,217,1947,4-4-2,4-2-3-1,3965074
-48,98479,Paderborn vs Bayer Leverkusen,82,217,1571,4-4-2,4-2-3-1,2773412
-49,95619,Eintracht Frankfurt vs Freiburg,82,217,2169,4-4-2,4-2-3-1,197829
-50,95738,Freiburg vs Borussia M'gladbach,82,217,2142,4-2-3-1,4-4-2,199035
-51,95767,Borussia Dortmund vs Freiburg,82,217,2166,4-2-3-1,4-2-3-1,1582424
-52,96348,Freiburg vs Hertha BSC,82,217,2142,4-1-4-1,4-4-2,197834
-53,96670,Hoffenheim vs Freiburg,82,217,232157,4-4-2,4-5-1,199197
-55,97014,Werder Bremen vs Freiburg,82,217,2172,4-4-2,4-4-2,198163
-57,97151,Augsburg vs Freiburg,82,217,2165,4-4-2,4-2-3-1,15742
-58,97282,Köln vs Freiburg,82,217,1946,4-4-2,4-2-3-1,199055
-59,97345,Freiburg vs Schalke 04,82,217,2142,4-2-3-1,4-4-2,5001300
-60,97409,Mainz 05 vs Freiburg,82,217,2103,4-4-2,4-2-3-1,2773502
-61,97464,Freiburg vs Stuttgart,82,217,2142,4-2-3-1,4-4-2,55805
-62,97599,Paderborn vs Freiburg,82,217,1571,4-4-2,4-2-3-1,198010
-63,97686,Freiburg vs Hamburger SV,82,217,2142,4-1-3-2,4-4-2,198378
-64,97723,Bayern München vs Freiburg,82,217,53,5-4-1,4-1-4-1,199498
-65,97882,Freiburg vs Hannover 96,82,217,2063,4-2-3-1,4-4-2,198777
-66,97390,Freiburg vs Eintracht Frankfurt,82,217,2142,4-4-2,4-4-2,5001318
-67,97986,Borussia M'gladbach vs Freiburg,82,217,180,4-4-2,4-4-2,54396
-68,98088,Freiburg vs Borussia Dortmund,82,217,2142,4-2-3-1,4-4-2,5001127
-69,98213,Hertha BSC vs Freiburg,82,217,1944,4-4-2,4-2-3-1,199225
-70,98270,Freiburg vs Hoffenheim,82,217,2142,4-2-3-1,4-4-2,199071
-72,98441,Freiburg vs Werder Bremen,82,217,2142,4-3-1-2,4-4-2,3192688
-74,95664,Augsburg vs Borussia Dortmund,82,217,2165,4-1-4-1,4-1-4-1,198148
-76,96571,Mainz 05 vs Borussia Dortmund,82,217,2103,4-2-3-1,4-2-3-1,198742
-77,96740,Borussia Dortmund vs Stuttgart,82,217,2166,4-3-2-1,4-2-3-1,55776
-78,96880,Schalke 04 vs Borussia Dortmund,82,217,2138,4-4-1-1,4-2-3-1,199045
-79,96986,Borussia Dortmund vs Hamburger SV,82,217,2166,4-2-3-1,4-2-3-1,5001506
-80,97098,Köln vs Borussia Dortmund,82,217,1946,4-2-3-1,4-4-1-1,15739
-81,97142,Borussia Dortmund vs Hannover 96,82,217,2166,4-2-3-1,4-2-3-1,2413110
-82,97263,Bayern München vs Borussia Dortmund,82,217,53,4-2-3-1,4-1-4-1,55796
-83,97373,Borussia Dortmund vs Borussia M'gladbach,82,217,2166,4-4-2,4-2-3-1,4104244
-84,97427,Paderborn vs Borussia Dortmund,82,217,1571,4-2-3-1,4-1-4-1,198371
-85,97542,Eintracht Frankfurt vs Borussia Dortmund,82,217,2169,4-2-3-1,4-1-3-2,199059
-87,97551,Borussia Dortmund vs Hoffenheim,82,217,2166,4-2-3-1,4-2-3-1,5001265
-88,97667,Hertha BSC vs Borussia Dortmund,82,217,1944,4-2-3-1,4-2-3-1,198772
-90,97844,Werder Bremen vs Borussia Dortmund,82,217,2172,4-1-4-1,4-3-1-2,55814
-92,98014,Borussia Dortmund vs Augsburg,82,217,2166,4-2-3-1,4-2-3-1,15764
-94,98145,Borussia Dortmund vs Mainz 05,82,217,2166,4-3-3,4-2-3-1,2412889
-95,98231,Stuttgart vs Borussia Dortmund,82,217,1945,4-2-3-1,4-4-2,3192906
-96,98328,Borussia Dortmund vs Schalke 04,82,217,2166,3-5-2,4-2-3-1,5001085
-97,98451,Hamburger SV vs Borussia Dortmund,82,217,2076,4-2-3-1,4-2-3-1,199074
-98,95609,Hertha BSC vs Werder Bremen,82,217,1944,4-3-1-2,4-2-3-1,199187
-99,95693,Werder Bremen vs Hoffenheim,82,217,2172,4-2-3-1,4-4-2,3887581
-101,96482,Augsburg vs Werder Bremen,82,217,2165,4-4-2,4-1-4-1,15725
-102,96695,Werder Bremen vs Schalke 04,82,217,2172,4-2-3-1,4-4-2,198348
-105,97051,Bayern München vs Werder Bremen,82,217,53,4-3-3,3-4-3,1582547
-106,97134,Werder Bremen vs Köln,82,217,2172,4-1-4-1,4-4-2,3924159
-107,97226,Mainz 05 vs Werder Bremen,82,217,2103,4-3-1-2,4-2-3-1,198362
-108,97354,Werder Bremen vs Stuttgart,82,217,2172,4-2-3-1,4-3-1-2,90833
-109,97445,Hamburger SV vs Werder Bremen,82,217,2076,4-3-1-2,4-2-3-1,5001310
-110,97513,Werder Bremen vs Paderborn,82,217,2172,4-1-4-1,4-1-3-2,198181
-111,97627,Eintracht Frankfurt vs Werder Bremen,82,217,2169,4-1-3-2,4-1-3-2,2448364
-112,97676,Werder Bremen vs Hannover 96,82,217,2172,4-2-3-1,4-3-1-2,141016
-113,97769,Borussia M'gladbach vs Werder Bremen,82,217,180,4-3-3,4-4-2,3964965
-115,97957,Werder Bremen vs Hertha BSC,82,217,2172,4-2-3-1,4-3-1-2,5012402
-116,98023,Hoffenheim vs Werder Bremen,82,217,232157,4-3-1-2,4-2-3-1,90847
-118,98193,Werder Bremen vs Augsburg,82,217,2172,4-1-4-1,4-3-1-2,2448420
-119,98242,Schalke 04 vs Werder Bremen,82,217,2138,4-3-1-2,3-5-2,55827
-122,95627,Köln vs Hamburger SV,82,217,1946,4-2-3-1,4-2-3-1,198332
-123,95701,Stuttgart vs Köln,82,217,1945,4-2-3-1,4-2-3-1,4197550
-124,95794,Paderborn vs Köln,82,217,1571,4-2-3-1,4-1-4-1,199039
-125,96622,Köln vs Borussia M'gladbach,82,217,1946,4-4-2,4-2-3-1,5001550
-126,96819,Hannover 96 vs Köln,82,217,1531,4-2-3-1,4-4-2,2413175
-127,96922,Köln vs Bayern München,82,217,1946,3-4-3,4-3-2-1,198160
-128,97023,Eintracht Frankfurt vs Köln,82,217,2169,4-2-3-1,4-1-3-2,198356
-132,97326,Hoffenheim vs Köln,82,217,232157,4-2-3-1,4-2-3-1,198762
-133,97436,Köln vs Hertha BSC,82,217,1946,4-2-3-1,4-1-4-1,2413054
-135,97589,Köln vs Augsburg,82,217,1946,4-2-3-1,4-5-1,141014
-136,97647,Schalke 04 vs Köln,82,217,2138,4-2-3-1,5-3-2,5001202
-137,97751,Köln vs Mainz 05,82,217,1946,4-2-3-1,4-2-3-1,197867
-139,97939,Hamburger SV vs Köln,82,217,2076,4-1-4-1,4-1-4-1,198387
-140,98042,Köln vs Stuttgart,82,217,1946,4-1-4-1,4-2-3-1,2412911
-141,98108,Köln vs Paderborn,82,217,1946,4-2-3-1,4-4-2,2448429
-142,98175,Borussia M'gladbach vs Köln,82,217,180,4-4-2,4-4-2,3192945
-143,98290,Köln vs Hannover 96,82,217,1946,4-2-3-1,4-4-2,198787
-144,98317,Bayern München vs Köln,82,217,53,4-3-2-1,4-1-4-1,2773426
-145,98469,Köln vs Eintracht Frankfurt,82,217,1946,4-3-1-2,4-4-2,198201
-146,95598,Hannover 96 vs Schalke 04,82,217,1531,4-2-3-1,4-2-3-1,199028
-147,95719,Schalke 04 vs Bayern München,82,217,2138,3-4-3,4-2-3-1,15719
-148,95803,Borussia M'gladbach vs Schalke 04,82,217,180,4-2-3-1,4-4-2,4104376
-149,96456,Schalke 04 vs Eintracht Frankfurt,82,217,2138,4-3-2-1,4-2-3-1,54368
-152,97005,Hoffenheim vs Schalke 04,82,217,232157,4-2-3-1,4-2-3-1,197846
-153,97107,Schalke 04 vs Hertha BSC,82,217,2138,4-2-3-1,4-2-3-1,198167
-155,97217,Schalke 04 vs Augsburg,82,217,2138,4-2-3-1,4-2-3-1,2448356
-158,97473,Schalke 04 vs Mainz 05,82,217,2138,5-4-1,4-2-3-1,198767
-159,97580,Stuttgart vs Schalke 04,82,217,1945,3-4-1-2,4-2-3-1,197864
-161,97798,Paderborn vs Schalke 04,82,217,1571,3-5-2,4-4-2,15760
-162,97816,Schalke 04 vs Hamburger SV,82,217,2138,4-1-4-1,3-5-2,54394
-163,97901,Schalke 04 vs Hannover 96,82,217,2138,4-2-3-1,5-3-2,5001157
-164,97977,Bayern München vs Schalke 04,82,217,53,3-5-2,4-5-1,1583280
-165,98061,Schalke 04 vs Borussia M'gladbach,82,217,2138,4-4-2,3-5-2,198391
-166,98204,Eintracht Frankfurt vs Schalke 04,82,217,2169,5-3-2,4-4-2,15769
-169,98413,Schalke 04 vs Hoffenheim,82,217,2138,4-2-3-1,3-4-3,1583402
-170,95590,Hoffenheim vs Augsburg,82,217,232157,4-1-4-1,4-2-3-1,2413285
-172,95813,Eintracht Frankfurt vs Augsburg,82,217,2169,4-2-3-1,4-4-1-1,55770
-175,96950,Augsburg vs Hertha BSC,82,217,2165,4-2-3-1,4-2-3-1,1582471
-177,97060,Mainz 05 vs Augsburg,82,217,2103,4-2-3-1,4-2-3-1,2413134
-180,97316,Augsburg vs Paderborn,82,217,2165,4-2-3-1,4-1-4-1,2773518
-181,97455,Stuttgart vs Augsburg,82,217,1945,4-1-4-1,4-2-3-1,199216
-182,97493,Augsburg vs Hamburger SV,82,217,2165,4-4-2,4-1-4-1,199490
-184,97657,Augsburg vs Bayern München,82,217,2165,4-3-3,4-1-4-1,2412988
-185,97733,Hannover 96 vs Augsburg,82,217,1531,4-1-4-1,4-2-3-1,2448378
-186,97835,Augsburg vs Borussia M'gladbach,82,217,2165,4-4-2,4-4-2,1583122
-187,97968,Augsburg vs Hoffenheim,82,217,2165,4-3-3,4-1-4-1,197873
-189,98135,Augsburg vs Eintracht Frankfurt,82,217,2165,4-4-2,4-1-4-1,198195
-192,98365,Hertha BSC vs Augsburg,82,217,1944,4-5-1,4-2-3-1,2412848
-194,95654,Borussia M'gladbach vs Stuttgart,82,217,180,4-2-3-1,4-4-1-1,2448326
-198,96796,Borussia M'gladbach vs Hamburger SV,82,217,180,4-2-3-1,4-4-2,3194020
-199,96931,Paderborn vs Borussia M'gladbach,82,217,1571,4-4-2,4-4-2,15731
-200,97042,Borussia M'gladbach vs Mainz 05,82,217,180,5-4-1,4-4-2,55785
-201,97070,Hannover 96 vs Borussia M'gladbach,82,217,1531,4-4-1-1,4-4-2,199203
-202,97208,Borussia M'gladbach vs Bayern München,82,217,180,4-3-2-1,4-4-2,5001479
-203,97272,Borussia M'gladbach vs Hoffenheim,82,217,180,4-2-3-1,4-4-2,3193804
-205,97400,Borussia M'gladbach vs Eintracht Frankfurt,82,217,180,4-3-1-2,4-4-2,1582670
-208,97561,Borussia M'gladbach vs Hertha BSC,82,217,180,4-2-3-1,4-4-2,15754
-212,97930,Stuttgart vs Borussia M'gladbach,82,217,1945,4-4-2,4-2-3-1,2448423
-216,98299,Hamburger SV vs Borussia M'gladbach,82,217,2076,4-2-3-1,4-2-3-1,5001100
-217,98382,Borussia M'gladbach vs Paderborn,82,217,180,4-4-2,4-4-2,199376
-218,98459,Mainz 05 vs Borussia M'gladbach,82,217,2103,4-4-2,4-2-3-1,15776
-221,95757,Bayern München vs Stuttgart,82,217,53,4-1-4-1,4-4-2,199192
-222,96508,Stuttgart vs Hoffenheim,82,217,1945,4-1-3-2,4-1-3-2,197989
-224,96913,Stuttgart vs Hannover 96,82,217,1945,4-5-1,4-2-3-1,198746
-225,96967,Hertha BSC vs Stuttgart,82,217,1944,4-2-3-1,4-2-3-1,3193990
-227,97178,Eintracht Frankfurt vs Stuttgart,82,217,2169,4-2-3-1,4-4-2,2448355
-233,97697,Mainz 05 vs Stuttgart,82,217,2103,4-3-1-2,4-2-3-1,1583260
-234,97742,Hamburger SV vs Stuttgart,82,217,2076,4-4-1-1,4-4-2,3885791
-235,97854,Stuttgart vs Paderborn,82,217,1945,4-1-4-1,4-4-2,2412956
-238,98099,Stuttgart vs Bayern München,82,217,1945,3-4-3,4-1-4-1,197877
-239,98185,Hoffenheim vs Stuttgart,82,217,232157,4-5-1,4-2-3-1,141025
-241,98355,Hannover 96 vs Stuttgart,82,217,1531,4-2-3-1,4-2-3-1,198400
-242,98403,Stuttgart vs Hertha BSC,82,217,1945,4-2-3-1,4-2-3-1,5001068
-243,95644,Paderborn vs Mainz 05,82,217,1571,4-2-3-1,4-4-2,197984
-244,95710,Hamburger SV vs Paderborn,82,217,2076,4-1-4-1,4-2-3-1,1582470
-246,96550,Paderborn vs Hannover 96,82,217,1571,4-4-2,4-4-2,198154
-247,96646,Bayern München vs Paderborn,82,217,53,4-1-4-1,4-2-3-1,5001544
-250,97124,Paderborn vs Eintracht Frankfurt,82,217,1571,4-2-3-1,4-1-4-1,3193881
-251,97160,Hoffenheim vs Paderborn,82,217,232157,4-5-1,4-2-3-1,4104154
-252,97291,Paderborn vs Hertha BSC,82,217,1571,4-3-3,4-4-2,199486
-260,97910,Mainz 05 vs Paderborn,82,217,2103,4-4-2,4-2-3-1,3885971
-261,98052,Paderborn vs Hamburger SV,82,217,1571,4-2-3-1,4-4-2,199068
-263,98222,Hannover 96 vs Paderborn,82,217,1531,4-2-3-1,4-2-3-1,199509
-264,98280,Paderborn vs Bayern München,82,217,1571,4-2-3-1,4-1-4-1,1583461
-268,95728,Mainz 05 vs Hannover 96,82,217,2103,4-2-3-1,4-2-3-1,5001638
-269,95879,Hannover 96 vs Hamburger SV,82,217,1531,4-4-2,4-4-2,54366
-273,96976,Bayern München vs Hannover 96,82,217,53,4-4-2,4-3-3,2773584
-276,97236,Hannover 96 vs Eintracht Frankfurt,82,217,1531,4-5-1,4-2-3-1,5001448
-277,97298,Hertha BSC vs Hannover 96,82,217,1944,4-2-3-1,4-2-3-1,198005
-279,97522,Hoffenheim vs Hannover 96,82,217,232157,4-2-3-1,4-2-3-1,4103950
-285,97996,Hannover 96 vs Mainz 05,82,217,1531,4-2-3-1,4-2-3-1,199223
-286,98116,Hamburger SV vs Hannover 96,82,217,2076,4-2-3-1,4-2-3-1,55823
-290,98431,Hannover 96 vs Bayern München,82,217,1531,3-4-3,4-2-3-1,141031
-296,96859,Mainz 05 vs Hoffenheim,82,217,2103,4-2-3-1,4-3-3,5001508
-298,97116,Hamburger SV vs Hoffenheim,82,217,2076,4-2-3-1,4-2-3-1,198000
-302,97382,Bayern München vs Hoffenheim,82,217,53,4-2-3-1,4-5-1,199057
-305,97638,Hoffenheim vs Eintracht Frankfurt,82,217,232157,4-3-3,4-2-3-1,199493
-307,97872,Hertha BSC vs Hoffenheim,82,217,1944,4-2-3-1,4-2-3-1,198015
-313,98346,Hoffenheim vs Mainz 05,82,217,232157,4-2-3-1,4-2-3-1,198023
-319,96719,Eintracht Frankfurt vs Mainz 05,82,217,2169,4-2-3-1,4-4-2,5001552
-320,96958,Hamburger SV vs Eintracht Frankfurt,82,217,2076,4-1-4-1,4-2-3-1,197844
-325,97336,Eintracht Frankfurt vs Bayern München,82,217,2169,4-2-3-1,4-2-3-1,197858
-331,97788,Eintracht Frankfurt vs Hertha BSC,82,217,2169,4-2-3-1,4-3-1-2,90841
-337,98251,Mainz 05 vs Eintracht Frankfurt,82,217,2103,4-4-2,4-2-3-1,5001098
-338,98374,Eintracht Frankfurt vs Hamburger SV,82,217,2169,4-2-3-1,4-2-3-1,197881
-342,95786,Hertha BSC vs Mainz 05,82,217,1944,4-2-3-1,4-3-3,90814
-353,97617,Hamburger SV vs Mainz 05,82,217,2076,4-2-3-1,4-4-2,5001350
-356,97807,Mainz 05 vs Bayern München,82,217,2103,4-2-3-1,4-2-3-1,5001189
-359,98079,Mainz 05 vs Hertha BSC,82,217,2103,4-2-3-1,4-2-3-1,3193057
-367,96530,Hamburger SV vs Bayern München,82,217,2076,3-4-3,4-2-3-1,2448297
-376,97503,Hertha BSC vs Bayern München,82,217,1944,4-1-3-2,4-2-3-1,2448359
-384,98154,Bayern München vs Hamburger SV,82,217,53,4-4-2,4-1-4-1,199370
-396,97169,Hertha BSC vs Hamburger SV,82,217,1944,4-2-3-1,4-2-3-1,199208
+0,95581,Bayern München vs Wolfsburg,82,217,53,4-2-3-1,3-4-3,15400
+1,95683,Wolfsburg vs Eintracht Frankfurt,82,217,80,4-2-3-1,4-2-3-1,48708
+2,95775,Hoffenheim vs Wolfsburg,82,217,232157,4-2-3-1,4-3-1-2,48703
+3,96593,Wolfsburg vs Bayer Leverkusen,82,217,80,4-2-3-1,4-2-3-1,16778
+4,96839,Hertha BSC vs Wolfsburg,82,217,1944,4-2-3-1,4-2-3-1,15803
+5,96940,Wolfsburg vs Werder Bremen,82,217,80,4-4-2,4-2-3-1,48701
+6,97032,Wolfsburg vs Augsburg,82,217,80,4-2-3-1,4-2-3-1,15396
+7,97079,Freiburg vs Wolfsburg,82,217,2142,4-2-3-1,4-4-2,16993
+8,97199,Wolfsburg vs Mainz 05,82,217,80,3-4-3,4-2-3-1,17355
+9,97245,Stuttgart vs Wolfsburg,82,217,1945,4-2-3-1,4-2-3-1,14473
+10,97363,Wolfsburg vs Hamburger SV,82,217,80,4-1-4-1,4-2-3-1,48702
+11,97391,Schalke 04 vs Wolfsburg,82,217,2138,4-2-3-1,4-2-3-1,15803
+12,97532,Wolfsburg vs Borussia M'gladbach,82,217,80,4-4-2,4-2-3-1,48703
+14,97570,Hannover 96 vs Wolfsburg,82,217,1531,4-2-3-1,4-4-1-1,15396
+15,97714,Wolfsburg vs Paderborn,82,217,80,5-4-1,4-2-3-1,15413
+16,97759,Borussia Dortmund vs Wolfsburg,82,217,2166,4-2-3-1,4-1-4-1,25431
+17,97863,Wolfsburg vs Köln,82,217,80,4-1-4-1,4-2-3-1,48711
+18,97892,Wolfsburg vs Bayern München,82,217,80,4-5-1,4-2-3-1,25431
+19,98004,Eintracht Frankfurt vs Wolfsburg,82,217,2169,4-2-3-1,4-4-2,48708
+20,98070,Wolfsburg vs Hoffenheim,82,217,80,4-2-3-1,4-2-3-1,48716
+21,98165,Bayer Leverkusen vs Wolfsburg,82,217,1947,4-2-3-1,4-2-3-1,14473
+22,98308,Wolfsburg vs Hertha BSC,82,217,80,4-2-3-1,4-2-3-1,17355
+23,98392,Werder Bremen vs Wolfsburg,82,217,2172,4-2-3-1,4-1-3-2,221
+24,98422,Augsburg vs Wolfsburg,82,217,2165,4-2-3-1,4-2-3-1,15413
+25,95635,Borussia Dortmund vs Bayer Leverkusen,82,217,2166,4-2-3-1,4-1-3-2,16778
+26,95673,Bayer Leverkusen vs Hertha BSC,82,217,1947,3-4-3,4-4-1-1,17233
+27,95748,Bayer Leverkusen vs Werder Bremen,82,217,1947,4-4-2,4-2-3-1,16993
+29,96773,Bayer Leverkusen vs Augsburg,82,217,1947,4-2-3-1,4-2-3-1,17355
+30,96902,Freiburg vs Bayer Leverkusen,82,217,2142,4-2-3-1,4-4-2,15406
+31,96996,Bayer Leverkusen vs Paderborn,82,217,1947,4-1-4-1,4-2-3-1,48708
+32,97088,Stuttgart vs Bayer Leverkusen,82,217,1945,4-4-2,4-3-2-1,15400
+33,97190,Bayer Leverkusen vs Schalke 04,82,217,1947,4-2-3-1,4-2-3-1,15413
+34,97254,Hamburger SV vs Bayer Leverkusen,82,217,2076,4-2-3-1,4-1-4-1,48700
+35,97307,Bayer Leverkusen vs Mainz 05,82,217,1947,4-2-3-1,4-2-3-1,15396
+36,97417,Hannover 96 vs Bayer Leverkusen,82,217,1531,4-4-1-1,4-2-3-1,221
+37,97483,Bayer Leverkusen vs Köln,82,217,1947,4-2-3-1,4-2-3-1,48712
+38,97608,Bayern München vs Bayer Leverkusen,82,217,53,4-2-3-1,4-5-1,48702
+39,97705,Bayer Leverkusen vs Borussia M'gladbach,82,217,1947,4-4-2,4-2-3-1,48711
+40,97779,Hoffenheim vs Bayer Leverkusen,82,217,232157,4-2-3-1,4-2-3-1,228
+41,97825,Bayer Leverkusen vs Eintracht Frankfurt,82,217,1947,4-4-2,4-2-3-1,48703
+42,97948,Bayer Leverkusen vs Borussia Dortmund,82,217,1947,4-2-3-1,4-2-3-1,48702
+43,98032,Hertha BSC vs Bayer Leverkusen,82,217,1944,4-2-3-1,4-2-3-1,48716
+44,98126,Werder Bremen vs Bayer Leverkusen,82,217,2172,4-2-3-1,4-3-1-2,48701
+46,98261,Augsburg vs Bayer Leverkusen,82,217,2165,4-2-3-1,4-1-4-1,25431
+47,98337,Bayer Leverkusen vs Freiburg,82,217,1947,4-4-2,4-2-3-1,15803
+48,98479,Paderborn vs Bayer Leverkusen,82,217,1571,4-4-2,4-2-3-1,228
+49,95619,Eintracht Frankfurt vs Freiburg,82,217,2169,4-4-2,4-2-3-1,48700
+50,95738,Freiburg vs Borussia M'gladbach,82,217,2142,4-2-3-1,4-4-2,48711
+51,95767,Borussia Dortmund vs Freiburg,82,217,2166,4-2-3-1,4-2-3-1,14473
+52,96348,Freiburg vs Hertha BSC,82,217,2142,4-1-4-1,4-4-2,48700
+53,96670,Hoffenheim vs Freiburg,82,217,232157,4-4-2,4-5-1,48712
+55,97014,Werder Bremen vs Freiburg,82,217,2172,4-4-2,4-4-2,48702
+57,97151,Augsburg vs Freiburg,82,217,2165,4-4-2,4-2-3-1,221
+58,97282,Köln vs Freiburg,82,217,1946,4-4-2,4-2-3-1,48711
+59,97345,Freiburg vs Schalke 04,82,217,2142,4-2-3-1,4-4-2,15400
+60,97409,Mainz 05 vs Freiburg,82,217,2103,4-4-2,4-2-3-1,228
+61,97464,Freiburg vs Stuttgart,82,217,2142,4-2-3-1,4-4-2,15413
+62,97599,Paderborn vs Freiburg,82,217,1571,4-4-2,4-2-3-1,48701
+63,97686,Freiburg vs Hamburger SV,82,217,2142,4-1-3-2,4-4-2,48703
+64,97723,Bayern München vs Freiburg,82,217,53,5-4-1,4-1-4-1,48716
+65,97882,Freiburg vs Hannover 96,82,217,2063,4-2-3-1,4-4-2,48708
+66,97390,Freiburg vs Eintracht Frankfurt,82,217,2142,4-4-2,4-4-2,15400
+67,97986,Borussia M'gladbach vs Freiburg,82,217,180,4-4-2,4-4-2,15396
+68,98088,Freiburg vs Borussia Dortmund,82,217,2142,4-2-3-1,4-4-2,15406
+69,98213,Hertha BSC vs Freiburg,82,217,1944,4-4-2,4-2-3-1,48712
+70,98270,Freiburg vs Hoffenheim,82,217,2142,4-2-3-1,4-4-2,48711
+72,98441,Freiburg vs Werder Bremen,82,217,2142,4-3-1-2,4-4-2,16778
+74,95664,Augsburg vs Borussia Dortmund,82,217,2165,4-1-4-1,4-1-4-1,48702
+76,96571,Mainz 05 vs Borussia Dortmund,82,217,2103,4-2-3-1,4-2-3-1,48708
+77,96740,Borussia Dortmund vs Stuttgart,82,217,2166,4-3-2-1,4-2-3-1,15413
+78,96880,Schalke 04 vs Borussia Dortmund,82,217,2138,4-4-1-1,4-2-3-1,48711
+79,96986,Borussia Dortmund vs Hamburger SV,82,217,2166,4-2-3-1,4-2-3-1,15400
+80,97098,Köln vs Borussia Dortmund,82,217,1946,4-2-3-1,4-4-1-1,221
+81,97142,Borussia Dortmund vs Hannover 96,82,217,2166,4-2-3-1,4-2-3-1,17233
+82,97263,Bayern München vs Borussia Dortmund,82,217,53,4-2-3-1,4-1-4-1,15413
+83,97373,Borussia Dortmund vs Borussia M'gladbach,82,217,2166,4-4-2,4-2-3-1,15406
+84,97427,Paderborn vs Borussia Dortmund,82,217,1571,4-2-3-1,4-1-4-1,48703
+85,97542,Eintracht Frankfurt vs Borussia Dortmund,82,217,2169,4-2-3-1,4-1-3-2,48711
+87,97551,Borussia Dortmund vs Hoffenheim,82,217,2166,4-2-3-1,4-2-3-1,15400
+88,97667,Hertha BSC vs Borussia Dortmund,82,217,1944,4-2-3-1,4-2-3-1,48708
+90,97844,Werder Bremen vs Borussia Dortmund,82,217,2172,4-1-4-1,4-3-1-2,15413
+92,98014,Borussia Dortmund vs Augsburg,82,217,2166,4-2-3-1,4-2-3-1,221
+94,98145,Borussia Dortmund vs Mainz 05,82,217,2166,4-3-3,4-2-3-1,17233
+95,98231,Stuttgart vs Borussia Dortmund,82,217,1945,4-2-3-1,4-4-2,16778
+96,98328,Borussia Dortmund vs Schalke 04,82,217,2166,3-5-2,4-2-3-1,15400
+97,98451,Hamburger SV vs Borussia Dortmund,82,217,2076,4-2-3-1,4-2-3-1,48711
+98,95609,Hertha BSC vs Werder Bremen,82,217,1944,4-3-1-2,4-2-3-1,48712
+99,95693,Werder Bremen vs Hoffenheim,82,217,2172,4-2-3-1,4-4-2,15803
+101,96482,Augsburg vs Werder Bremen,82,217,2165,4-4-2,4-1-4-1,221
+102,96695,Werder Bremen vs Schalke 04,82,217,2172,4-2-3-1,4-4-2,48703
+105,97051,Bayern München vs Werder Bremen,82,217,53,4-3-3,3-4-3,14473
+106,97134,Werder Bremen vs Köln,82,217,2172,4-1-4-1,4-4-2,15406
+107,97226,Mainz 05 vs Werder Bremen,82,217,2103,4-3-1-2,4-2-3-1,48703
+108,97354,Werder Bremen vs Stuttgart,82,217,2172,4-2-3-1,4-3-1-2,17355
+109,97445,Hamburger SV vs Werder Bremen,82,217,2076,4-3-1-2,4-2-3-1,15400
+110,97513,Werder Bremen vs Paderborn,82,217,2172,4-1-4-1,4-1-3-2,48702
+111,97627,Eintracht Frankfurt vs Werder Bremen,82,217,2169,4-1-3-2,4-1-3-2,16993
+112,97676,Werder Bremen vs Hannover 96,82,217,2172,4-2-3-1,4-3-1-2,25431
+113,97769,Borussia M'gladbach vs Werder Bremen,82,217,180,4-3-3,4-4-2,15803
+115,97957,Werder Bremen vs Hertha BSC,82,217,2172,4-2-3-1,4-3-1-2,15406
+116,98023,Hoffenheim vs Werder Bremen,82,217,232157,4-3-1-2,4-2-3-1,17355
+118,98193,Werder Bremen vs Augsburg,82,217,2172,4-1-4-1,4-3-1-2,16993
+119,98242,Schalke 04 vs Werder Bremen,82,217,2138,4-3-1-2,3-5-2,15413
+122,95627,Köln vs Hamburger SV,82,217,1946,4-2-3-1,4-2-3-1,48703
+123,95701,Stuttgart vs Köln,82,217,1945,4-2-3-1,4-2-3-1,15406
+124,95794,Paderborn vs Köln,82,217,1571,4-2-3-1,4-1-4-1,48711
+125,96622,Köln vs Borussia M'gladbach,82,217,1946,4-4-2,4-2-3-1,15400
+126,96819,Hannover 96 vs Köln,82,217,1531,4-2-3-1,4-4-2,17233
+127,96922,Köln vs Bayern München,82,217,1946,3-4-3,4-3-2-1,48702
+128,97023,Eintracht Frankfurt vs Köln,82,217,2169,4-2-3-1,4-1-3-2,48703
+132,97326,Hoffenheim vs Köln,82,217,232157,4-2-3-1,4-2-3-1,48708
+133,97436,Köln vs Hertha BSC,82,217,1946,4-2-3-1,4-1-4-1,17233
+135,97589,Köln vs Augsburg,82,217,1946,4-2-3-1,4-5-1,25431
+136,97647,Schalke 04 vs Köln,82,217,2138,4-2-3-1,5-3-2,15406
+137,97751,Köln vs Mainz 05,82,217,1946,4-2-3-1,4-2-3-1,48700
+139,97939,Hamburger SV vs Köln,82,217,2076,4-1-4-1,4-1-4-1,48703
+140,98042,Köln vs Stuttgart,82,217,1946,4-1-4-1,4-2-3-1,17233
+141,98108,Köln vs Paderborn,82,217,1946,4-2-3-1,4-4-2,16993
+142,98175,Borussia M'gladbach vs Köln,82,217,180,4-4-2,4-4-2,16778
+143,98290,Köln vs Hannover 96,82,217,1946,4-2-3-1,4-4-2,48708
+144,98317,Bayern München vs Köln,82,217,53,4-3-2-1,4-1-4-1,228
+145,98469,Köln vs Eintracht Frankfurt,82,217,1946,4-3-1-2,4-4-2,48702
+146,95598,Hannover 96 vs Schalke 04,82,217,1531,4-2-3-1,4-2-3-1,48711
+147,95719,Schalke 04 vs Bayern München,82,217,2138,3-4-3,4-2-3-1,221
+148,95803,Borussia M'gladbach vs Schalke 04,82,217,180,4-2-3-1,4-4-2,15406
+149,96456,Schalke 04 vs Eintracht Frankfurt,82,217,2138,4-3-2-1,4-2-3-1,15396
+152,97005,Hoffenheim vs Schalke 04,82,217,232157,4-2-3-1,4-2-3-1,48700
+153,97107,Schalke 04 vs Hertha BSC,82,217,2138,4-2-3-1,4-2-3-1,48702
+155,97217,Schalke 04 vs Augsburg,82,217,2138,4-2-3-1,4-2-3-1,16993
+158,97473,Schalke 04 vs Mainz 05,82,217,2138,5-4-1,4-2-3-1,48708
+159,97580,Stuttgart vs Schalke 04,82,217,1945,3-4-1-2,4-2-3-1,48700
+161,97798,Paderborn vs Schalke 04,82,217,1571,3-5-2,4-4-2,221
+162,97816,Schalke 04 vs Hamburger SV,82,217,2138,4-1-4-1,3-5-2,15396
+163,97901,Schalke 04 vs Hannover 96,82,217,2138,4-2-3-1,5-3-2,17352
+164,97977,Bayern München vs Schalke 04,82,217,53,3-5-2,4-5-1,14473
+165,98061,Schalke 04 vs Borussia M'gladbach,82,217,2138,4-4-2,3-5-2,48703
+166,98204,Eintracht Frankfurt vs Schalke 04,82,217,2169,5-3-2,4-4-2,221
+169,98413,Schalke 04 vs Hoffenheim,82,217,2138,4-2-3-1,3-4-3,14473
+170,95590,Hoffenheim vs Augsburg,82,217,232157,4-1-4-1,4-2-3-1,17233
+172,95813,Eintracht Frankfurt vs Augsburg,82,217,2169,4-2-3-1,4-4-1-1,15413
+175,96950,Augsburg vs Hertha BSC,82,217,2165,4-2-3-1,4-2-3-1,14473
+177,97060,Mainz 05 vs Augsburg,82,217,2103,4-2-3-1,4-2-3-1,17233
+180,97316,Augsburg vs Paderborn,82,217,2165,4-2-3-1,4-1-4-1,228
+181,97455,Stuttgart vs Augsburg,82,217,1945,4-1-4-1,4-2-3-1,48712
+182,97493,Augsburg vs Hamburger SV,82,217,2165,4-4-2,4-1-4-1,48716
+184,97657,Augsburg vs Bayern München,82,217,2165,4-3-3,4-1-4-1,17233
+185,97733,Hannover 96 vs Augsburg,82,217,1531,4-1-4-1,4-2-3-1,16993
+186,97835,Augsburg vs Borussia M'gladbach,82,217,2165,4-4-2,4-4-2,14473
+187,97968,Augsburg vs Hoffenheim,82,217,2165,4-3-3,4-1-4-1,48700
+189,98135,Augsburg vs Eintracht Frankfurt,82,217,2165,4-4-2,4-1-4-1,48702
+192,98365,Hertha BSC vs Augsburg,82,217,1944,4-5-1,4-2-3-1,17233
+194,95654,Borussia M'gladbach vs Stuttgart,82,217,180,4-2-3-1,4-4-1-1,16993
+198,96796,Borussia M'gladbach vs Hamburger SV,82,217,180,4-2-3-1,4-4-2,16778
+199,96931,Paderborn vs Borussia M'gladbach,82,217,1571,4-4-2,4-4-2,221
+200,97042,Borussia M'gladbach vs Mainz 05,82,217,180,5-4-1,4-4-2,15413
+201,97070,Hannover 96 vs Borussia M'gladbach,82,217,1531,4-4-1-1,4-4-2,48712
+202,97208,Borussia M'gladbach vs Bayern München,82,217,180,4-3-2-1,4-4-2,15400
+203,97272,Borussia M'gladbach vs Hoffenheim,82,217,180,4-2-3-1,4-4-2,16778
+205,97400,Borussia M'gladbach vs Eintracht Frankfurt,82,217,180,4-3-1-2,4-4-2,14473
+208,97561,Borussia M'gladbach vs Hertha BSC,82,217,180,4-2-3-1,4-4-2,221
+212,97930,Stuttgart vs Borussia M'gladbach,82,217,1945,4-4-2,4-2-3-1,16993
+216,98299,Hamburger SV vs Borussia M'gladbach,82,217,2076,4-2-3-1,4-2-3-1,15400
+217,98382,Borussia M'gladbach vs Paderborn,82,217,180,4-4-2,4-4-2,48713
+218,98459,Mainz 05 vs Borussia M'gladbach,82,217,2103,4-4-2,4-2-3-1,221
+221,95757,Bayern München vs Stuttgart,82,217,53,4-1-4-1,4-4-2,48712
+222,96508,Stuttgart vs Hoffenheim,82,217,1945,4-1-3-2,4-1-3-2,48701
+224,96913,Stuttgart vs Hannover 96,82,217,1945,4-5-1,4-2-3-1,48708
+225,96967,Hertha BSC vs Stuttgart,82,217,1944,4-2-3-1,4-2-3-1,16778
+227,97178,Eintracht Frankfurt vs Stuttgart,82,217,2169,4-2-3-1,4-4-2,16993
+233,97697,Mainz 05 vs Stuttgart,82,217,2103,4-3-1-2,4-2-3-1,14473
+234,97742,Hamburger SV vs Stuttgart,82,217,2076,4-4-1-1,4-4-2,15406
+235,97854,Stuttgart vs Paderborn,82,217,1945,4-1-4-1,4-4-2,17233
+238,98099,Stuttgart vs Bayern München,82,217,1945,3-4-3,4-1-4-1,48700
+239,98185,Hoffenheim vs Stuttgart,82,217,232157,4-5-1,4-2-3-1,25431
+241,98355,Hannover 96 vs Stuttgart,82,217,1531,4-2-3-1,4-2-3-1,48703
+242,98403,Stuttgart vs Hertha BSC,82,217,1945,4-2-3-1,4-2-3-1,15406
+243,95644,Paderborn vs Mainz 05,82,217,1571,4-2-3-1,4-4-2,48701
+244,95710,Hamburger SV vs Paderborn,82,217,2076,4-1-4-1,4-2-3-1,14473
+246,96550,Paderborn vs Hannover 96,82,217,1571,4-4-2,4-4-2,48702
+247,96646,Bayern München vs Paderborn,82,217,53,4-1-4-1,4-2-3-1,17352
+250,97124,Paderborn vs Eintracht Frankfurt,82,217,1571,4-2-3-1,4-1-4-1,16778
+251,97160,Hoffenheim vs Paderborn,82,217,232157,4-5-1,4-2-3-1,15803
+252,97291,Paderborn vs Hertha BSC,82,217,1571,4-3-3,4-4-2,48716
+260,97910,Mainz 05 vs Paderborn,82,217,2103,4-4-2,4-2-3-1,15803
+261,98052,Paderborn vs Hamburger SV,82,217,1571,4-2-3-1,4-4-2,48711
+263,98222,Hannover 96 vs Paderborn,82,217,1531,4-2-3-1,4-2-3-1,48716
+264,98280,Paderborn vs Bayern München,82,217,1571,4-2-3-1,4-1-4-1,14473
+268,95728,Mainz 05 vs Hannover 96,82,217,2103,4-2-3-1,4-2-3-1,17352
+269,95879,Hannover 96 vs Hamburger SV,82,217,1531,4-4-2,4-4-2,15396
+273,96976,Bayern München vs Hannover 96,82,217,53,4-4-2,4-3-3,228
+276,97236,Hannover 96 vs Eintracht Frankfurt,82,217,1531,4-5-1,4-2-3-1,17352
+277,97298,Hertha BSC vs Hannover 96,82,217,1944,4-2-3-1,4-2-3-1,48701
+279,97522,Hoffenheim vs Hannover 96,82,217,232157,4-2-3-1,4-2-3-1,15406
+285,97996,Hannover 96 vs Mainz 05,82,217,1531,4-2-3-1,4-2-3-1,48712
+286,98116,Hamburger SV vs Hannover 96,82,217,2076,4-2-3-1,4-2-3-1,15413
+290,98431,Hannover 96 vs Bayern München,82,217,1531,3-4-3,4-2-3-1,25431
+296,96859,Mainz 05 vs Hoffenheim,82,217,2103,4-2-3-1,4-3-3,15400
+298,97116,Hamburger SV vs Hoffenheim,82,217,2076,4-2-3-1,4-2-3-1,48701
+302,97382,Bayern München vs Hoffenheim,82,217,53,4-2-3-1,4-5-1,48711
+305,97638,Hoffenheim vs Eintracht Frankfurt,82,217,232157,4-3-3,4-2-3-1,48716
+307,97872,Hertha BSC vs Hoffenheim,82,217,1944,4-2-3-1,4-2-3-1,48701
+313,98346,Hoffenheim vs Mainz 05,82,217,232157,4-2-3-1,4-2-3-1,48701
+319,96719,Eintracht Frankfurt vs Mainz 05,82,217,2169,4-2-3-1,4-4-2,15406
+320,96958,Hamburger SV vs Eintracht Frankfurt,82,217,2076,4-1-4-1,4-2-3-1,48700
+325,97336,Eintracht Frankfurt vs Bayern München,82,217,2169,4-2-3-1,4-2-3-1,48700
+331,97788,Eintracht Frankfurt vs Hertha BSC,82,217,2169,4-2-3-1,4-3-1-2,17355
+337,98251,Mainz 05 vs Eintracht Frankfurt,82,217,2103,4-4-2,4-2-3-1,15406
+338,98374,Eintracht Frankfurt vs Hamburger SV,82,217,2169,4-2-3-1,4-2-3-1,48700
+342,95786,Hertha BSC vs Mainz 05,82,217,1944,4-2-3-1,4-3-3,17355
+353,97617,Hamburger SV vs Mainz 05,82,217,2076,4-2-3-1,4-4-2,17352
+356,97807,Mainz 05 vs Bayern München,82,217,2103,4-2-3-1,4-2-3-1,15400
+359,98079,Mainz 05 vs Hertha BSC,82,217,2103,4-2-3-1,4-2-3-1,16778
+367,96530,Hamburger SV vs Bayern München,82,217,2076,3-4-3,4-2-3-1,16993
+376,97503,Hertha BSC vs Bayern München,82,217,1944,4-1-3-2,4-2-3-1,16993
+384,98154,Bayern München vs Hamburger SV,82,217,53,4-4-2,4-1-4-1,48713
+396,97169,Hertha BSC vs Hamburger SV,82,217,1944,4-2-3-1,4-2-3-1,48712

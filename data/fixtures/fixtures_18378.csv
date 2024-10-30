@@ -1,330 +1,330 @@
 ,fixture_id,name,league_id,season_id,venue_id,formation_away,formation_home,referee
-0,18138604,Burnley vs Brighton & Hove Albion,8,18378,200.0,4-1-4-1,4-4-2,2636701
-1,18138615,Brighton & Hove Albion vs Watford,8,18378,282066.0,4-1-4-1,3-5-2,3048499
-2,18356638,Cardiff City vs Brighton & Hove Albion,27,18439,125.0,4-2-3-1,5-3-2,3039884
-3,18138624,Brighton & Hove Albion vs Everton,8,18378,282066.0,4-4-1-1,4-4-1-1,1415986
-4,18138634,Brentford vs Brighton & Hove Albion,8,18378,338817.0,3-4-1-2,3-5-2,3533368
-5,18138644,Brighton & Hove Albion vs Leicester City,8,18378,,4-3-3,4-4-2,4480455
-6,18386433,Brighton & Hove Albion vs Swansea City,27,18439,,3-4-2-1,4-2-3-1,3039643
-7,18138656,Crystal Palace vs Brighton & Hove Albion,8,18378,201.0,3-4-3,4-3-3,2636553
-8,18138663,Brighton & Hove Albion vs Arsenal,8,18378,,4-2-3-1,3-5-2,1416118
-9,18138680,Norwich City vs Brighton & Hove Albion,8,18378,489.0,3-5-2,5-3-2,4480428
-10,18138685,Brighton & Hove Albion vs Manchester City,8,18378,,4-3-3,3-5-2,1397961
-11,18429260,Leicester City vs Brighton & Hove Albion,27,18439,117.0,3-4-3,3-4-2-1,2888574
-12,18138745,Liverpool vs Brighton & Hove Albion,8,18378,230.0,4-2-3-1,4-3-3,2204563
-13,18138754,Brighton & Hove Albion vs Newcastle United,8,18378,,5-4-1,4-2-3-1,2636461
-14,18138762,Aston Villa vs Brighton & Hove Albion,8,18378,5.0,3-5-2,4-3-3,3048307
-15,18138774,Brighton & Hove Albion vs Leeds United,8,18378,,4-2-3-1,4-2-3-1,4480370
-16,18140372,West Ham United vs Brighton & Hove Albion,8,18378,214.0,4-2-3-1,4-2-3-1,1398413
-17,18138787,Southampton vs Brighton & Hove Albion,8,18378,137645.0,3-5-2,4-4-2,3048289
-18,18138961,Brighton & Hove Albion vs Wolverhampton Wanderers,8,18378,,3-4-3,4-3-3,1944824
-19,18138980,Brighton & Hove Albion vs Brentford,8,18378,,3-5-2,4-3-1-2,3048063
-20,18138804,Chelsea vs Brighton & Hove Albion,8,18378,321614.0,3-4-2-1,3-4-2-1,2204523
-21,18138816,Everton vs Brighton & Hove Albion,8,18378,12.0,4-4-2,5-4-1,3048235
-22,18452175,West Bromwich Albion vs Brighton & Hove Albion,24,18546,119.0,3-5-2,3-4-3,4545506
-23,18138823,Brighton & Hove Albion vs Crystal Palace,8,18378,282066.0,4-3-3,4-4-2,4480327
-24,18140173,Brighton & Hove Albion vs Chelsea,8,18378,282066.0,4-2-2-2,3-4-2-1,915224
-25,18138995,Leicester City vs Brighton & Hove Albion,8,18378,117.0,4-3-1-2,4-2-3-1,914903
-26,18465556,Tottenham Hotspur vs Brighton & Hove Albion,24,18546,281313.0,3-5-1-1,3-4-3,4541352
-27,18138841,Watford vs Brighton & Hove Albion,8,18378,19.0,3-5-2,4-4-2,924136
-28,18138972,Manchester United vs Brighton & Hove Albion,8,18378,206.0,4-1-2-1-2,4-2-3-1,3985664
-29,18138844,Brighton & Hove Albion vs Burnley,8,18378,,4-4-2,4-4-2,927091
-30,18138854,Brighton & Hove Albion vs Aston Villa,8,18378,282066.0,4-3-1-2,3-5-2,3048168
-31,18138610,Norwich City vs Liverpool,8,18378,489.0,4-3-3,4-3-3,2636715
-32,18138618,Liverpool vs Burnley,8,18378,230.0,4-4-2,4-3-3,2204625
-33,18138626,Liverpool vs Chelsea,8,18378,230.0,3-4-2-1,4-3-3,3048460
-34,18138638,Leeds United vs Liverpool,8,18378,488.0,4-3-3,4-1-4-1,4480470
-35,18138646,Liverpool vs Crystal Palace,8,18378,230.0,4-3-3,4-3-3,4480453
-36,18386426,Norwich City vs Liverpool,27,18439,489.0,4-3-3,3-1-4-2,3039652
-37,18138654,Brentford vs Liverpool,8,18378,338817.0,4-3-3,3-5-2,3533350
-38,18138668,Liverpool vs Manchester City,8,18378,230.0,4-3-3,4-3-3,867552
-39,18138682,Watford vs Liverpool,8,18378,15849.0,4-3-3,5-4-1,1397940
-40,18138690,Manchester United vs Liverpool,8,18378,206.0,4-3-3,4-2-3-1,3048354
-41,18429263,Preston North End vs Liverpool,27,18439,338734.0,4-3-3,3-4-1-2,2623018
-43,18138761,West Ham United vs Liverpool,8,18378,214.0,4-3-3,4-2-3-1,4480392
-44,18138765,Liverpool vs Arsenal,8,18378,230.0,4-4-1-1,4-3-3,3048322
-45,18138779,Liverpool vs Southampton,8,18378,230.0,3-4-3,4-3-3,2636394
-46,18140369,Everton vs Liverpool,8,18378,12.0,4-3-3,4-4-2,895515
-47,18138791,Wolverhampton Wanderers vs Liverpool,8,18378,492.0,4-3-3,3-4-3,1398097
-48,18138799,Liverpool vs Aston Villa,8,18378,230.0,4-3-3,4-3-3,4480343
-49,18138967,Liverpool vs Newcastle United,8,18378,230.0,4-5-1,4-3-3,2204449
-50,18138975,Tottenham Hotspur vs Liverpool,8,18378,281313.0,4-3-3,5-3-2,906988
-51,18444325,Liverpool vs Leicester City,27,18439,230.0,4-3-1-2,4-3-3,4546609
-52,18138808,Leicester City vs Liverpool,8,18378,117.0,4-3-3,4-3-1-2,3048259
-53,18138814,Chelsea vs Liverpool,8,18378,321614.0,4-3-3,3-4-2-1,3048222
-54,18452171,Liverpool vs Shrewsbury Town,24,18546,230.0,3-5-2,4-3-3,2621660
-55,18458439,Liverpool vs Arsenal,27,18439,230.0,4-4-2,4-3-3,3036117
-56,18138825,Liverpool vs Brentford,8,18378,230.0,3-5-2,4-3-3,1398192
-57,18458438,Arsenal vs Liverpool,27,18439,204.0,4-3-3,4-1-4-1,915198
-58,18138992,Crystal Palace vs Liverpool,8,18378,201.0,4-3-3,4-3-3,914895
-59,18465557,Liverpool vs Cardiff City,24,18546,230.0,3-5-2,4-3-3,5150676
-60,18140180,Liverpool vs Leicester City,8,18378,230.0,4-2-3-1,4-3-3,921740
-61,18138833,Burnley vs Liverpool,8,18378,260078.0,4-3-3,4-4-2,923863
-62,18138847,Liverpool vs Norwich City,8,18378,230.0,4-3-2-1,4-3-3,2204481
-63,18138982,Liverpool vs Leeds United,8,18378,230.0,4-1-4-1,4-3-3,3048052
-64,18471702,Chelsea vs Liverpool,27,18439,321614.0,4-3-3,3-4-2-1,4539293
-65,18138603,Brentford vs Arsenal,8,18378,338817.0,4-2-3-1,3-5-2,3048507
-66,18138613,Arsenal vs Chelsea,8,18378,204.0,3-4-2-1,4-2-3-1,53318
-67,18356636,West Bromwich Albion vs Arsenal,27,18439,119.0,4-2-3-1,3-4-3,4549134
-68,18138627,Manchester City vs Arsenal,8,18378,,5-4-1,4-3-3,1416045
-69,18138633,Arsenal vs Norwich City,8,18378,204.0,4-3-3,4-2-3-1,3048441
-70,18138645,Burnley vs Arsenal,8,18378,200.0,4-1-4-1,4-4-2,3048419
-71,18386428,Arsenal vs AFC Wimbledon,27,18439,204.0,4-4-1-1,4-3-2-1,2888703
-72,18138653,Arsenal vs Tottenham Hotspur,8,18378,204.0,4-3-3,4-2-3-1,4480444
-74,18138673,Arsenal vs Crystal Palace,8,18378,204.0,4-2-3-1,4-1-4-1,2204573
-75,18138683,Arsenal vs Aston Villa,8,18378,204.0,3-4-1-2,4-2-3-1,4480425
-76,18429257,Arsenal vs Leeds United,27,18439,204.0,4-2-3-1,4-2-3-1,2623012
-77,18138744,Leicester City vs Arsenal,8,18378,117.0,4-4-1-1,3-4-1-2,3048375
-78,18138752,Arsenal vs Watford,8,18378,204.0,4-1-4-1,4-4-1-1,1398010
-80,18138772,Arsenal vs Newcastle United,8,18378,204.0,4-4-2,4-4-1-1,4009164
-81,18140374,Manchester United vs Arsenal,8,18378,206.0,4-4-1-1,4-2-3-1,1398412
-82,18138783,Everton vs Arsenal,8,18378,12.0,4-2-3-1,4-4-1-1,2204537
-83,18138792,Arsenal vs Southampton,8,18378,204.0,4-4-2,4-4-1-1,2890856
-84,18138959,Arsenal vs West Ham United,8,18378,204.0,4-2-3-1,4-4-1-1,3048095
-85,18138971,Leeds United vs Arsenal,8,18378,488.0,4-2-3-1,4-2-3-1,2636038
-86,18444323,Arsenal vs Sunderland,27,18439,204.0,3-4-1-2,4-1-4-1,4546626
-87,18138985,Norwich City vs Arsenal,8,18378,489.0,4-2-3-1,4-2-3-1,4480188
-88,18138812,Arsenal vs Manchester City,8,18378,204.0,4-3-3,4-2-3-1,4480332
-89,18452197,Nottingham Forest vs Arsenal,24,18546,542.0,4-2-3-1,3-4-1-2,4545205
-92,18138989,Arsenal vs Burnley,8,18378,204.0,4-4-2,4-1-4-1,2636023
-93,18140177,Wolverhampton Wanderers vs Arsenal,8,18378,492.0,4-2-3-1,3-4-3,3047792
-94,18138842,Arsenal vs Brentford,8,18378,204.0,3-5-2,4-2-3-1,927090
-95,18138802,Arsenal vs Wolverhampton Wanderers,8,18378,204.0,3-4-3,4-2-3-1,928464
-96,18138607,Leicester City vs Wolverhampton Wanderers,8,18378,117.0,3-4-3,4-2-3-1,4480495
-97,18138621,West Ham United vs Leicester City,8,18378,214.0,4-2-3-1,4-2-3-1,3048491
-98,18138629,Norwich City vs Leicester City,8,18378,489.0,4-4-2,4-3-3,4480473
-99,18138639,Leicester City vs Manchester City,8,18378,117.0,4-3-3,4-2-3-1,53320
-101,18386431,Millwall vs Leicester City,27,18439,656.0,3-5-2,3-4-2-1,4549121
-102,18138659,Leicester City vs Burnley,8,18378,117.0,4-4-2,4-3-3,1416107
-103,18138666,Crystal Palace vs Leicester City,8,18378,201.0,4-4-2,4-3-3,3048404
-104,18138677,Leicester City vs Manchester United,8,18378,117.0,4-2-3-1,3-4-1-2,4480426
-105,18138684,Brentford vs Leicester City,8,18378,338817.0,3-4-1-2,3-5-2,4480416
-108,18138758,Leeds United vs Leicester City,8,18378,488.0,4-3-3,4-2-3-1,3048338
-109,18138764,Leicester City vs Chelsea,8,18378,117.0,3-4-2-1,3-4-3,890324
-110,18138778,Leicester City vs Watford,8,18378,117.0,4-1-4-1,4-2-3-1,4480376
-111,18140376,Southampton vs Leicester City,8,18378,137645.0,4-2-3-1,4-4-2,4480080
-112,18138782,Aston Villa vs Leicester City,8,18378,5.0,4-2-3-1,4-3-3,3048287
-113,18138798,Leicester City vs Newcastle United,8,18378,117.0,4-4-2,4-2-3-1,4145120
-115,18138983,Manchester City vs Leicester City,8,18378,,4-4-1-1,4-3-3,1398269
-117,18452177,Leicester City vs Watford,24,18546,117.0,4-3-3,4-2-3-1,2163397
-118,18138963,Leicester City vs Tottenham Hotspur,8,18378,117.0,3-5-2,3-5-2,914878
-120,18465559,Nottingham Forest vs Leicester City,24,18546,542.0,4-2-3-1,3-4-1-2,922177
-122,18138836,Leicester City vs West Ham United,8,18378,117.0,4-2-3-1,4-3-3,3048209
-123,18138851,Wolverhampton Wanderers vs Leicester City,8,18378,492.0,4-3-3,3-5-2,4480285
-124,18138824,Burnley vs Leicester City,8,18378,200.0,4-3-3,4-4-2,931730
-125,18138612,Watford vs Aston Villa,8,18378,15849.0,4-2-3-1,4-1-4-1,2204634
-127,18356646,Watford vs Crystal Palace,27,18439,15849.0,4-3-3,4-3-3,2623852
-128,18138630,Tottenham Hotspur vs Watford,8,18378,281313.0,4-1-4-1,4-3-3,2636683
-129,18138642,Watford vs Wolverhampton Wanderers,8,18378,15849.0,3-4-3,4-1-4-1,4480466
-130,18138649,Norwich City vs Watford,8,18378,489.0,4-2-3-1,4-3-3,4480452
-131,18386423,Watford vs Stoke City,27,18439,15849.0,3-4-3,4-3-3,2172517
-132,18138662,Watford vs Newcastle United,8,18378,15849.0,4-1-4-1,4-2-3-1,2890885
-133,18138667,Leeds United vs Watford,8,18378,488.0,4-2-3-1,4-1-4-1,4480446
-135,18138688,Everton vs Watford,8,18378,12.0,4-1-4-1,4-4-1-1,4480424
-136,18138750,Watford vs Southampton,8,18378,15849.0,4-4-2,4-4-1-1,3989089
-138,18138770,Watford vs Manchester United,8,18378,15849.0,4-2-3-1,4-1-4-1,1398029
-140,18140371,Watford vs Chelsea,8,18378,15849.0,3-4-2-1,4-1-4-1,2635791
-141,18138789,Watford vs Manchester City,8,18378,15849.0,4-3-3,4-1-4-1,4480356
-142,18138793,Brentford vs Watford,8,18378,338817.0,4-2-3-1,3-5-2,3048273
-143,18138811,Watford vs West Ham United,8,18378,19.0,4-2-3-1,4-1-4-1,3048232
-144,18138821,Watford vs Tottenham Hotspur,8,18378,19.0,3-4-3,4-4-2,4480320
-146,18138827,Newcastle United vs Watford,8,18378,,4-3-3,4-3-3,913012
-147,18138998,Watford vs Norwich City,8,18378,19.0,4-4-2,4-3-3,2204440
-148,18138962,Burnley vs Watford,8,18378,260078.0,4-4-2,4-4-2,919062
-149,18140176,West Ham United vs Watford,8,18378,214.0,4-4-2,4-2-3-1,920689
-151,18138843,Aston Villa vs Watford,8,18378,5.0,4-3-3,4-3-2-1,4480294
-152,18138976,Watford vs Crystal Palace,8,18378,19.0,4-3-3,4-3-3,2636064
-153,18138859,Manchester United vs Watford,8,18378,206.0,4-3-3,4-2-3-1,931161
-155,18138622,Wolverhampton Wanderers vs Tottenham Hotspur,8,18378,492.0,4-3-3,3-4-3,3533634
-156,18356629,Nottingham Forest vs Wolverhampton Wanderers,27,18439,542.0,3-4-2-1,4-3-3,3521136
-157,18138632,Wolverhampton Wanderers vs Manchester United,8,18378,492.0,4-2-3-1,3-4-3,2204613
-159,18138652,Wolverhampton Wanderers vs Brentford,8,18378,492.0,3-5-2,3-4-3,3048412
-160,18386432,Wolverhampton Wanderers vs Tottenham Hotspur,27,18439,492.0,4-3-3,3-4-3,3519890
-161,18138661,Southampton vs Wolverhampton Wanderers,8,18378,137645.0,3-4-3,4-4-2,4480438
-162,18138672,Wolverhampton Wanderers vs Newcastle United,8,18378,492.0,4-1-4-1,3-4-3,3533333
-163,18138674,Aston Villa vs Wolverhampton Wanderers,8,18378,5.0,3-4-2-1,3-4-1-2,3048372
-164,18138689,Leeds United vs Wolverhampton Wanderers,8,18378,488.0,3-4-2-1,4-4-1-1,4480413
-165,18138751,Wolverhampton Wanderers vs Everton,8,18378,492.0,4-4-2,3-4-2-1,1398013
-166,18138756,Crystal Palace vs Wolverhampton Wanderers,8,18378,201.0,3-4-2-1,4-3-3,3986597
-167,18138771,Wolverhampton Wanderers vs West Ham United,8,18378,492.0,4-2-3-1,3-4-2-1,2204547
-168,18138781,Norwich City vs Wolverhampton Wanderers,8,18378,489.0,3-4-3,4-1-4-1,4480365
-169,18140373,Wolverhampton Wanderers vs Burnley,8,18378,492.0,4-4-2,3-4-3,3047762
-171,18138800,Manchester City vs Wolverhampton Wanderers,8,18378,,3-5-2,4-3-3,1398142
-173,18138978,Wolverhampton Wanderers vs Chelsea,8,18378,492.0,3-4-2-1,3-5-2,2636043
-174,18138819,Manchester United vs Wolverhampton Wanderers,8,18378,206.0,3-4-3,4-2-2-2,2204513
-175,18452190,Wolverhampton Wanderers vs Sheffield United,24,18546,492.0,5-3-2,3-4-3,911909
-176,18138831,Wolverhampton Wanderers vs Southampton,8,18378,492.0,3-5-2,3-4-2-1,3048226
-177,18138990,Brentford vs Wolverhampton Wanderers,8,18378,338817.0,3-5-2,3-5-2,3974468
-178,18465561,Wolverhampton Wanderers vs Norwich City,24,18546,492.0,4-3-3,3-5-2,2617769
-180,18138840,Tottenham Hotspur vs Wolverhampton Wanderers,8,18378,281313.0,3-5-2,3-4-3,924135
-183,18138861,West Ham United vs Wolverhampton Wanderers,8,18378,214.0,3-4-2-1,4-2-3-1,3048166
-184,18138608,Manchester United vs Leeds United,8,18378,206.0,3-4-3,4-2-3-1,53317
-185,18138617,Leeds United vs Everton,8,18378,488.0,4-2-3-1,4-1-4-1,3048486
-186,18356632,Leeds United vs Crewe Alexandra,27,18439,488.0,4-3-3,4-2-3-1,2623854
-187,18138625,Burnley vs Leeds United,8,18378,200.0,3-3-3-1,4-4-2,3048474
-189,18138648,Newcastle United vs Leeds United,8,18378,,4-1-4-1,5-4-1,2204593
-190,18386421,Fulham vs Leeds United,27,18439,485.0,4-1-4-1,4-2-3-1,2623600
-191,18138658,Leeds United vs West Ham United,8,18378,488.0,4-2-3-1,4-1-4-1,1416100
-193,18138681,Southampton vs Leeds United,8,18378,137645.0,3-3-3-1,4-4-2,2636498
-196,18138748,Norwich City vs Leeds United,8,18378,489.0,3-3-3-1,4-4-2,3048382
-198,18138769,Tottenham Hotspur vs Leeds United,8,18378,281313.0,3-3-3-1,3-4-2-1,2636419
-201,18140370,Leeds United vs Crystal Palace,8,18378,488.0,4-3-3,4-2-3-1,1398418
-202,18138784,Leeds United vs Brentford,8,18378,488.0,3-5-2,3-4-3,2636377
-203,18138796,Chelsea vs Leeds United,8,18378,321614.0,4-3-1-2,3-4-3,1398102
-204,18138968,Manchester City vs Leeds United,8,18378,,4-2-3-1,4-2-3-1,903778
-206,18138817,Leeds United vs Burnley,8,18378,488.0,4-4-2,3-4-3,911470
-207,18452194,West Ham United vs Leeds United,24,18546,214.0,4-2-3-1,4-2-3-1,4143607
-208,18138830,West Ham United vs Leeds United,8,18378,214.0,4-1-4-1,4-2-3-1,2204496
-209,18138994,Leeds United vs Newcastle United,8,18378,488.0,4-3-2-1,4-1-4-1,914904
-210,18140172,Aston Villa vs Leeds United,8,18378,5.0,4-2-3-1,4-3-3,3047847
-211,18138835,Everton vs Leeds United,8,18378,12.0,4-2-3-1,4-4-2,3971184
-212,18138846,Leeds United vs Manchester United,8,18378,488.0,4-2-3-1,4-1-4-1,927096
-214,18138858,Leeds United vs Tottenham Hotspur,8,18378,488.0,3-4-2-1,4-1-4-1,4480280
-215,18138605,Chelsea vs Crystal Palace,8,18378,321614.0,4-4-2,3-4-2-1,1415944
-216,18138616,Crystal Palace vs Brentford,8,18378,201.0,3-5-2,4-3-3,1415970
-218,18138631,West Ham United vs Crystal Palace,8,18378,214.0,4-3-3,4-2-3-1,3533370
-219,18138636,Crystal Palace vs Tottenham Hotspur,8,18378,201.0,4-3-1-2,4-3-3,1416025
-224,18138687,Crystal Palace vs Newcastle United,8,18378,201.0,5-3-2,4-2-3-1,3048352
-225,18138746,Manchester City vs Crystal Palace,8,18378,,4-3-3,4-3-3,2636476
-227,18138763,Burnley vs Crystal Palace,8,18378,200.0,4-3-3,4-4-2,4480387
-228,18138777,Crystal Palace vs Aston Villa,8,18378,201.0,4-3-3,4-2-3-1,3048285
-230,18138785,Manchester United vs Crystal Palace,8,18378,206.0,4-3-3,4-2-3-1,4480361
-231,18138797,Crystal Palace vs Everton,8,18378,201.0,4-1-4-1,4-3-3,4480354
-232,18138965,Crystal Palace vs Southampton,8,18378,201.0,4-3-3,4-3-3,4480203
-233,18138986,Tottenham Hotspur vs Crystal Palace,8,18378,281313.0,4-3-3,3-4-2-1,1398277
-234,18138805,Crystal Palace vs Norwich City,8,18378,201.0,4-2-3-1,4-3-3,909844
-235,18138815,Crystal Palace vs West Ham United,8,18378,201.0,4-2-3-1,4-3-3,3048256
-236,18452183,Millwall vs Crystal Palace,24,18546,656.0,4-3-3,3-4-2-1,3038400
-239,18465546,Crystal Palace vs Hartlepool United,24,18546,201.0,3-5-1-1,4-3-3,4541296
-240,18140175,Norwich City vs Crystal Palace,8,18378,339041.0,4-3-3,4-4-2,921128
-241,18138832,Brentford vs Crystal Palace,8,18378,338817.0,4-3-3,3-5-2,4480310
-242,18138845,Crystal Palace vs Chelsea,8,18378,201.0,4-3-3,4-2-3-1,2636229
-244,18138856,Crystal Palace vs Burnley,8,18378,201.0,4-4-2,4-3-3,931159
-245,18491647,Crystal Palace vs Stoke City,24,18546,201.0,3-5-2,4-2-3-1,4555087
-247,18138620,Southampton vs Manchester United,8,18378,137645.0,4-2-3-1,4-4-2,4480483
-249,18138640,Manchester United vs Newcastle United,8,18378,206.0,5-4-1,4-2-3-1,3048448
-250,18138651,West Ham United vs Manchester United,8,18378,214.0,4-2-3-1,4-4-2,1416087
-251,18386420,Manchester United vs West Ham United,27,18439,206.0,4-2-3-1,4-3-3,2172540
-252,18138660,Manchester United vs Aston Villa,8,18378,206.0,3-5-2,4-2-3-1,2204579
-253,18138669,Manchester United vs Everton,8,18378,206.0,4-4-1-1,4-2-3-1,3048395
-256,18138749,Tottenham Hotspur vs Manchester United,8,18378,281313.0,3-5-2,4-2-3-1,4480405
-257,18138759,Manchester United vs Manchester City,8,18378,206.0,4-3-3,3-5-2,3048319
-259,18138776,Chelsea vs Manchester United,8,18378,321614.0,4-3-1-2,3-4-2-1,3048313
-262,18138801,Norwich City vs Manchester United,8,18378,489.0,4-2-2-2,4-3-3,3048245
-263,18138984,Newcastle United vs Manchester United,8,18378,449.0,4-2-2-2,4-5-1,4480193
-264,18138809,Manchester United vs Burnley,8,18378,206.0,4-4-1-1,4-2-2-2,1398154
-266,18452189,Manchester United vs Aston Villa,24,18546,206.0,4-3-3,4-2-3-1,3038398
-267,18138822,Aston Villa vs Manchester United,8,18378,5.0,4-2-3-1,4-3-2-1,2636273
-268,18138960,Brentford vs Manchester United,8,18378,338817.0,4-2-3-1,3-5-2,2636098
-269,18138996,Manchester United vs West Ham United,8,18378,206.0,4-2-3-1,4-2-3-1,915316
-270,18465555,Manchester United vs Middlesbrough,24,18546,206.0,3-5-2,4-2-3-1,3036065
-271,18140174,Burnley vs Manchester United,8,18378,260078.0,4-2-3-1,4-4-2,2204228
-272,18138837,Manchester United vs Southampton,8,18378,206.0,4-4-2,4-2-3-1,4480298
-278,18356634,Brentford vs Forest Green Rovers,27,18439,338817.0,3-5-2,4-2-3-1,3521133
-279,18138623,Aston Villa vs Brentford,8,18378,5.0,3-4-1-2,4-1-4-1,3533396
-282,18386422,Brentford vs Oldham Athletic,27,18439,338817.0,4-5-1,3-5-1-1,4548455
-284,18138671,West Ham United vs Brentford,8,18378,214.0,3-5-2,4-2-3-1,3533323
-285,18138675,Brentford vs Chelsea,8,18378,338817.0,3-5-2,3-5-2,3048388
-287,18429258,Stoke City vs Brentford,27,18439,207.0,3-5-1-1,3-4-3,3039098
-288,18138743,Burnley vs Brentford,8,18378,200.0,3-5-2,4-4-2,1397966
-289,18138753,Brentford vs Norwich City,8,18378,338817.0,4-2-3-1,3-5-2,2890871
-290,18138767,Newcastle United vs Brentford,8,18378,,3-5-2,3-4-3,4480386
-291,18138773,Brentford vs Everton,8,18378,338817.0,4-4-1-1,3-5-2,3048299
-292,18140377,Tottenham Hotspur vs Brentford,8,18378,281313.0,3-5-2,3-4-2-1,1398398
-295,18444324,Brentford vs Chelsea,27,18439,338817.0,3-4-1-2,3-5-2,2622387
-297,18138803,Brentford vs Manchester City,8,18378,338817.0,4-3-3,3-5-2,2636383
-298,18138813,Brentford vs Aston Villa,8,18378,338817.0,4-3-2-1,3-5-2,4480331
-299,18452184,Port Vale vs Brentford,24,18546,673.0,3-5-2,5-3-2,3975848
-300,18138974,Southampton vs Brentford,8,18378,137645.0,3-5-2,3-5-2,3975889
-304,18465553,Everton vs Brentford,24,18546,12.0,3-5-2,3-4-3,3036060
-305,18140181,Manchester City vs Brentford,8,18378,151.0,3-5-2,4-3-3,3047772
-308,18138853,Brentford vs Newcastle United,8,18378,338817.0,4-3-3,4-3-3,2204476
-309,18138609,Newcastle United vs West Ham United,8,18378,,4-2-3-1,5-3-2,1415962
-310,18138614,Aston Villa vs Newcastle United,8,18378,5.0,5-3-2,4-3-3,2636699
-311,18356623,Newcastle United vs Burnley,27,18439,,4-4-2,5-3-2,3233540
-312,18138628,Newcastle United vs Southampton,8,18378,,4-4-2,3-5-2,53319
-317,18138679,Newcastle United vs Tottenham Hotspur,8,18378,,4-2-3-1,4-1-4-1,2636525
-319,18138747,Newcastle United vs Chelsea,8,18378,,3-4-2-1,5-3-2,880011
-323,18140375,Newcastle United vs Norwich City,8,18378,,4-1-4-1,4-4-2,4480088
-324,18138786,Newcastle United vs Burnley,8,18378,,4-4-2,4-4-2,899308
-327,18138973,Newcastle United vs Manchester City,8,18378,,4-2-3-1,4-5-1,1398248
-329,18452191,Newcastle United vs Cambridge United,24,18546,,4-2-3-1,4-4-2,3038390
-332,18140178,Newcastle United vs Everton,8,18378,449.0,3-4-3,4-3-3,3047789
-333,18138838,Newcastle United vs Aston Villa,8,18378,449.0,4-3-3,4-3-3,4480302
-334,18138850,West Ham United vs Newcastle United,8,18378,214.0,4-3-3,4-2-3-1,927122
-337,18138619,Manchester City vs Norwich City,8,18378,,4-3-3,4-3-3,3533369
-338,18356637,Norwich City vs AFC Bournemouth,27,18439,489.0,4-3-3,4-3-3,2358960
-343,18138657,Everton vs Norwich City,8,18378,12.0,5-3-2,4-4-1-1,2636542
-344,18138664,Burnley vs Norwich City,8,18378,200.0,5-3-2,4-4-2,1416115
-346,18138686,Chelsea vs Norwich City,8,18378,321614.0,3-5-2,3-4-2-1,4480423
-349,18138768,Norwich City vs Southampton,8,18378,489.0,4-4-2,4-3-3,1398028
-352,18138788,Tottenham Hotspur vs Norwich City,8,18378,281313.0,5-3-2,3-4-2-1,2890859
-354,18138964,Norwich City vs Aston Villa,8,18378,489.0,4-3-3,4-3-3,2636084
-357,18452196,Charlton Athletic vs Norwich City,24,18546,667.0,4-5-1,3-4-1-2,4213335
-358,18138977,West Ham United vs Norwich City,8,18378,214.0,4-2-3-1,4-2-3-1,4480200
-359,18138828,Norwich City vs Everton,8,18378,489.0,4-4-2,4-2-3-1,4480317
-363,18138839,Norwich City vs Manchester City,8,18378,489.0,4-3-3,4-3-3,2636235
-365,18138860,Southampton vs Norwich City,8,18378,137645.0,4-2-3-1,4-4-2,4480273
-366,18138606,Everton vs Southampton,8,18378,12.0,4-4-2,4-2-3-1,4480498
-368,18356625,Huddersfield Town vs Everton,27,18439,340.0,3-4-3,3-4-2-1,3521126
-370,18138637,Everton vs Burnley,8,18378,12.0,4-4-2,3-4-3,1416027
-371,18138643,Aston Villa vs Everton,8,18378,5.0,4-4-1-1,5-3-2,4480472
-372,18386418,Queens Park Rangers vs Everton,27,18439,491.0,4-2-3-1,3-4-1-2,2172551
-375,18138676,Everton vs West Ham United,8,18378,12.0,4-2-3-1,4-4-1-1,3991795
-378,18138757,Everton vs Tottenham Hotspur,8,18378,12.0,3-4-2-1,4-4-1-1,1397993
-379,18138766,Manchester City vs Everton,8,18378,,4-4-1-1,4-3-3,3984467
-385,18138966,Chelsea vs Everton,8,18378,321614.0,5-4-1,3-4-2-1,3048077
-387,18452180,Hull City vs Everton,24,18546,199.0,3-4-3,3-5-2,1450048
-389,18138993,Everton vs Aston Villa,8,18378,12.0,4-3-2-1,4-4-2,4480186
-393,18138849,Southampton vs Everton,8,18378,137645.0,4-4-2,4-4-2,4480291
-394,18138857,Everton vs Manchester City,8,18378,12.0,4-3-3,4-3-3,931157
-395,18138611,Tottenham Hotspur vs Manchester City,8,18378,281313.0,4-3-3,4-3-3,3048505
-399,18138647,Manchester City vs Southampton,8,18378,,4-4-2,4-3-3,1416062
-400,18386430,Manchester City vs Wycombe Wanderers,27,18439,,3-1-4-2,4-3-3,4548256
-401,18138655,Chelsea vs Manchester City,8,18378,321614.0,4-3-3,3-5-2,3048417
-403,18138678,Manchester City vs Burnley,8,18378,,4-4-2,4-3-3,1397918
-405,18429259,West Ham United vs Manchester City,27,18439,214.0,4-3-3,4-2-3-1,1440954
-410,18138780,Manchester City vs West Ham United,8,18378,,4-2-3-1,4-3-3,3048297
-411,18140368,Aston Villa vs Manchester City,8,18378,5.0,4-2-3-1,4-3-3,2204192
-419,18452185,Swindon Town vs Manchester City,24,18546,516.0,4-2-3-1,3-1-4-2,3038396
-420,18138826,Manchester City vs Chelsea,8,18378,151.0,3-4-2-1,4-3-3,4480312
-421,18138997,Southampton vs Manchester City,8,18378,137645.0,4-3-3,4-4-2,4480174
-422,18465560,Manchester City vs Fulham,24,18546,,4-2-3-1,4-2-3-1,2927436
-425,18138848,Manchester City vs Tottenham Hotspur,8,18378,151.0,3-4-2-1,4-3-3,3048203
-427,18491648,Peterborough United vs Manchester City,24,18546,260.0,4-3-3,3-4-3,4535612
-431,18138641,Southampton vs West Ham United,8,18378,137645.0,4-2-3-1,4-1-4-1,2636641
-437,18138692,West Ham United vs Tottenham Hotspur,8,18378,214.0,4-2-3-1,4-2-3-1,876440
-439,18138742,Aston Villa vs West Ham United,8,18378,5.0,4-2-3-1,4-3-3,1397969
-444,18138790,West Ham United vs Chelsea,8,18378,214.0,3-4-2-1,3-4-2-1,2636368
-445,18138795,Burnley vs West Ham United,8,18378,200.0,4-2-3-1,4-4-2,3978919
-447,18444322,Tottenham Hotspur vs West Ham United,27,18439,281313.0,3-4-2-1,3-4-2-1,1445571
-448,18138987,West Ham United vs Southampton,8,18378,214.0,4-1-4-1,4-2-3-1,1398280
-455,18465554,Kidderminster Harriers vs West Ham United,24,18546,287.0,4-2-3-1,4-2-3-1,922175
-462,18356644,Newport County vs Southampton,27,18439,788.0,4-4-2,5-4-1,3521125
-466,18386429,Sheffield United vs Southampton,27,18439,2.0,4-2-3-1,4-2-3-1,3039656
-468,18138665,Chelsea vs Southampton,8,18378,321614.0,4-4-2,3-4-2-1,1416127
-470,18138691,Southampton vs Burnley,8,18378,137645.0,4-4-2,4-4-2,1397946
-471,18429256,Chelsea vs Southampton,27,18439,321614.0,3-4-3,3-4-2-1,1440958
-473,18138760,Southampton vs Aston Villa,8,18378,137645.0,4-2-3-1,4-4-2,4480397
-481,18138810,Southampton vs Tottenham Hotspur,8,18378,137645.0,3-4-2-1,5-3-2,3048244
-482,18452169,Swansea City vs Southampton,24,18546,208.0,4-4-2,3-4-2-1,4728374
-486,18465551,Southampton vs Coventry City,24,18546,137645.0,3-4-3,3-4-3,2159113
-487,18140179,Tottenham Hotspur vs Southampton,8,18378,281313.0,4-2-2-2,3-4-2-1,2635777
-494,18138635,Chelsea vs Aston Villa,8,18378,321614.0,5-3-2,3-4-2-1,3533377
-495,18138650,Tottenham Hotspur vs Chelsea,8,18378,281313.0,3-4-2-1,4-3-2-1,53321
-496,18386424,Chelsea vs Aston Villa,27,18439,321614.0,4-2-3-1,4-3-3,3519910
-503,18138755,Chelsea vs Burnley,8,18378,321614.0,4-4-2,3-4-1-2,2636444
-512,18138979,Aston Villa vs Chelsea,8,18378,5.0,3-4-2-1,4-3-1-2,1398262
-515,18458440,Chelsea vs Tottenham Hotspur,27,18439,321614.0,3-4-3,4-2-2-2,4542989
-516,18452170,Chelsea vs Chesterfield,24,18546,321614.0,3-4-3,3-4-3,2888334
-517,18458441,Tottenham Hotspur vs Chelsea,27,18439,281313.0,4-2-2-2,5-3-2,2619159
-520,18138991,Chelsea vs Tottenham Hotspur,8,18378,321614.0,4-4-2,4-1-4-1,914887
-521,18465552,Chelsea vs Plymouth Argyle,24,18546,321614.0,5-3-2,4-3-3,4541282
-526,18356633,Barrow vs Aston Villa,27,18439,989.0,4-2-3-1,3-5-2,2175646
-532,18138670,Tottenham Hotspur vs Aston Villa,8,18378,281313.0,3-5-2,4-2-3-1,1416144
-562,18429261,Burnley vs Tottenham Hotspur,27,18439,200.0,4-2-3-1,4-4-2,4547542
-575,18452182,Tottenham Hotspur vs Morecambe,24,18546,281313.0,5-3-2,5-3-2,3038408
-583,18138775,Burnley vs Tottenham Hotspur,8,18378,200.0,3-4-2-1,4-4-2,4480371
-585,18491651,Middlesbrough vs Tottenham Hotspur,24,18546,203.0,3-4-2-1,3-5-2,3034308
-592,18386427,Burnley vs Rochdale,27,18439,200.0,3-4-3,4-4-2,4548243
-606,18452174,Burnley vs Huddersfield Town,24,18546,200.0,3-4-2-1,4-4-2,2621651
+0,18138604,Burnley vs Brighton & Hove Albion,8,18378,200.0,4-1-4-1,4-4-2,11691
+1,18138615,Brighton & Hove Albion vs Watford,8,18378,282066.0,4-1-4-1,3-5-2,14532
+2,18356638,Cardiff City vs Brighton & Hove Albion,27,18439,125.0,4-2-3-1,5-3-2,18762
+3,18138624,Brighton & Hove Albion vs Everton,8,18378,282066.0,4-4-1-1,4-4-1-1,13533
+4,18138634,Brentford vs Brighton & Hove Albion,8,18378,338817.0,3-4-1-2,3-5-2,13529
+5,18138644,Brighton & Hove Albion vs Leicester City,8,18378,,4-3-3,4-4-2,15835
+6,18386433,Brighton & Hove Albion vs Swansea City,27,18439,,3-4-2-1,4-2-3-1,13537
+7,18138656,Crystal Palace vs Brighton & Hove Albion,8,18378,201.0,3-4-3,4-3-3,14533
+8,18138663,Brighton & Hove Albion vs Arsenal,8,18378,,4-2-3-1,3-5-2,13533
+9,18138680,Norwich City vs Brighton & Hove Albion,8,18378,489.0,3-5-2,5-3-2,14814
+10,18138685,Brighton & Hove Albion vs Manchester City,8,18378,,4-3-3,3-5-2,15242
+11,18429260,Leicester City vs Brighton & Hove Albion,27,18439,117.0,3-4-3,3-4-2-1,19868
+12,18138745,Liverpool vs Brighton & Hove Albion,8,18378,230.0,4-2-3-1,4-3-3,15241
+13,18138754,Brighton & Hove Albion vs Newcastle United,8,18378,,5-4-1,4-2-3-1,11691
+14,18138762,Aston Villa vs Brighton & Hove Albion,8,18378,5.0,3-5-2,4-3-3,14532
+15,18138774,Brighton & Hove Albion vs Leeds United,8,18378,,4-2-3-1,4-2-3-1,15293
+16,18140372,West Ham United vs Brighton & Hove Albion,8,18378,214.0,4-2-3-1,4-2-3-1,14808
+17,18138787,Southampton vs Brighton & Hove Albion,8,18378,137645.0,3-5-2,4-4-2,14532
+18,18138961,Brighton & Hove Albion vs Wolverhampton Wanderers,8,18378,,3-4-3,4-3-3,14807
+19,18138980,Brighton & Hove Albion vs Brentford,8,18378,,3-5-2,4-3-1-2,14812
+20,18138804,Chelsea vs Brighton & Hove Albion,8,18378,321614.0,3-4-2-1,3-4-2-1,15241
+21,18138816,Everton vs Brighton & Hove Albion,8,18378,12.0,4-4-2,5-4-1,13561
+22,18452175,West Bromwich Albion vs Brighton & Hove Albion,24,18546,119.0,3-5-2,3-4-3,13677
+23,18138823,Brighton & Hove Albion vs Crystal Palace,8,18378,282066.0,4-3-3,4-4-2,13677
+24,18140173,Brighton & Hove Albion vs Chelsea,8,18378,282066.0,4-2-2-2,3-4-2-1,15242
+25,18138995,Leicester City vs Brighton & Hove Albion,8,18378,117.0,4-3-1-2,4-2-3-1,15269
+26,18465556,Tottenham Hotspur vs Brighton & Hove Albion,24,18546,281313.0,3-5-1-1,3-4-3,15835
+27,18138841,Watford vs Brighton & Hove Albion,8,18378,19.0,3-5-2,4-4-2,13533
+28,18138972,Manchester United vs Brighton & Hove Albion,8,18378,206.0,4-1-2-1-2,4-2-3-1,14814
+29,18138844,Brighton & Hove Albion vs Burnley,8,18378,,4-4-2,4-4-2,15242
+30,18138854,Brighton & Hove Albion vs Aston Villa,8,18378,282066.0,4-3-1-2,3-5-2,13561
+31,18138610,Norwich City vs Liverpool,8,18378,489.0,4-3-3,4-3-3,14533
+32,18138618,Liverpool vs Burnley,8,18378,230.0,4-4-2,4-3-3,15241
+33,18138626,Liverpool vs Chelsea,8,18378,230.0,3-4-2-1,4-3-3,14532
+34,18138638,Leeds United vs Liverpool,8,18378,488.0,4-3-3,4-1-4-1,15293
+35,18138646,Liverpool vs Crystal Palace,8,18378,230.0,4-3-3,4-3-3,74959
+36,18386426,Norwich City vs Liverpool,27,18439,489.0,4-3-3,3-1-4-2,14812
+37,18138654,Brentford vs Liverpool,8,18378,338817.0,4-3-3,3-5-2,15835
+38,18138668,Liverpool vs Manchester City,8,18378,230.0,4-3-3,4-3-3,15294
+39,18138682,Watford vs Liverpool,8,18378,15849.0,4-3-3,5-4-1,13533
+40,18138690,Manchester United vs Liverpool,8,18378,206.0,4-3-3,4-2-3-1,14532
+41,18429263,Preston North End vs Liverpool,27,18439,338734.0,4-3-3,3-4-1-2,11691
+43,18138761,West Ham United vs Liverpool,8,18378,214.0,4-3-3,4-2-3-1,15293
+44,18138765,Liverpool vs Arsenal,8,18378,230.0,4-4-1-1,4-3-3,15273
+45,18138779,Liverpool vs Southampton,8,18378,230.0,3-4-3,4-3-3,14533
+46,18140369,Everton vs Liverpool,8,18378,12.0,4-3-3,4-4-2,15294
+47,18138791,Wolverhampton Wanderers vs Liverpool,8,18378,492.0,4-3-3,3-4-3,14808
+48,18138799,Liverpool vs Aston Villa,8,18378,230.0,4-3-3,4-3-3,15835
+49,18138967,Liverpool vs Newcastle United,8,18378,230.0,4-5-1,4-3-3,15241
+50,18138975,Tottenham Hotspur vs Liverpool,8,18378,281313.0,4-3-3,5-3-2,15294
+51,18444325,Liverpool vs Leicester City,27,18439,230.0,4-3-1-2,4-3-3,74959
+52,18138808,Leicester City vs Liverpool,8,18378,117.0,4-3-3,4-3-1-2,15273
+53,18138814,Chelsea vs Liverpool,8,18378,321614.0,4-3-3,3-4-2-1,14532
+54,18452171,Liverpool vs Shrewsbury Town,24,18546,230.0,3-5-2,4-3-3,11691
+55,18458439,Liverpool vs Arsenal,27,18439,230.0,4-4-2,4-3-3,15273
+56,18138825,Liverpool vs Brentford,8,18378,230.0,3-5-2,4-3-3,13533
+57,18458438,Arsenal vs Liverpool,27,18439,204.0,4-3-3,4-1-4-1,15269
+58,18138992,Crystal Palace vs Liverpool,8,18378,201.0,4-3-3,4-3-3,15242
+59,18465557,Liverpool vs Cardiff City,24,18546,230.0,3-5-2,4-3-3,74959
+60,18140180,Liverpool vs Leicester City,8,18378,230.0,4-2-3-1,4-3-3,14808
+61,18138833,Burnley vs Liverpool,8,18378,260078.0,4-3-3,4-4-2,15269
+62,18138847,Liverpool vs Norwich City,8,18378,230.0,4-3-2-1,4-3-3,15241
+63,18138982,Liverpool vs Leeds United,8,18378,230.0,4-1-4-1,4-3-3,15273
+64,18471702,Chelsea vs Liverpool,27,18439,321614.0,4-3-3,3-4-2-1,15835
+65,18138603,Brentford vs Arsenal,8,18378,338817.0,4-2-3-1,3-5-2,15273
+66,18138613,Arsenal vs Chelsea,8,18378,204.0,3-4-2-1,4-2-3-1,15294
+67,18356636,West Bromwich Albion vs Arsenal,27,18439,119.0,4-2-3-1,3-4-3,13530
+68,18138627,Manchester City vs Arsenal,8,18378,,5-4-1,4-3-3,15269
+69,18138633,Arsenal vs Norwich City,8,18378,204.0,4-3-3,4-2-3-1,15273
+70,18138645,Burnley vs Arsenal,8,18378,200.0,4-1-4-1,4-4-2,14532
+71,18386428,Arsenal vs AFC Wimbledon,27,18439,204.0,4-4-1-1,4-3-2-1,19868
+72,18138653,Arsenal vs Tottenham Hotspur,8,18378,204.0,4-3-3,4-2-3-1,15293
+74,18138673,Arsenal vs Crystal Palace,8,18378,204.0,4-2-3-1,4-1-4-1,15241
+75,18138683,Arsenal vs Aston Villa,8,18378,204.0,3-4-1-2,4-2-3-1,15293
+76,18429257,Arsenal vs Leeds United,27,18439,204.0,4-2-3-1,4-2-3-1,14533
+77,18138744,Leicester City vs Arsenal,8,18378,117.0,4-4-1-1,3-4-1-2,15273
+78,18138752,Arsenal vs Watford,8,18378,204.0,4-1-4-1,4-4-1-1,15242
+80,18138772,Arsenal vs Newcastle United,8,18378,204.0,4-4-2,4-4-1-1,15835
+81,18140374,Manchester United vs Arsenal,8,18378,206.0,4-4-1-1,4-2-3-1,15269
+82,18138783,Everton vs Arsenal,8,18378,12.0,4-2-3-1,4-4-1-1,15241
+83,18138792,Arsenal vs Southampton,8,18378,204.0,4-4-2,4-4-1-1,19868
+84,18138959,Arsenal vs West Ham United,8,18378,204.0,4-2-3-1,4-4-1-1,14532
+85,18138971,Leeds United vs Arsenal,8,18378,488.0,4-2-3-1,4-2-3-1,14533
+86,18444323,Arsenal vs Sunderland,27,18439,204.0,3-4-1-2,4-1-4-1,13677
+87,18138985,Norwich City vs Arsenal,8,18378,489.0,4-2-3-1,4-2-3-1,13529
+88,18138812,Arsenal vs Manchester City,8,18378,204.0,4-3-3,4-2-3-1,15835
+89,18452197,Nottingham Forest vs Arsenal,24,18546,542.0,4-2-3-1,3-4-1-2,15293
+92,18138989,Arsenal vs Burnley,8,18378,204.0,4-4-2,4-1-4-1,11691
+93,18140177,Wolverhampton Wanderers vs Arsenal,8,18378,492.0,4-2-3-1,3-4-3,15273
+94,18138842,Arsenal vs Brentford,8,18378,204.0,3-5-2,4-2-3-1,13533
+95,18138802,Arsenal vs Wolverhampton Wanderers,8,18378,204.0,3-4-3,4-2-3-1,15269
+96,18138607,Leicester City vs Wolverhampton Wanderers,8,18378,117.0,3-4-3,4-2-3-1,15293
+97,18138621,West Ham United vs Leicester City,8,18378,214.0,4-2-3-1,4-2-3-1,15273
+98,18138629,Norwich City vs Leicester City,8,18378,489.0,4-4-2,4-3-3,13677
+99,18138639,Leicester City vs Manchester City,8,18378,117.0,4-3-3,4-2-3-1,15294
+101,18386431,Millwall vs Leicester City,27,18439,656.0,3-5-2,3-4-2-1,74959
+102,18138659,Leicester City vs Burnley,8,18378,117.0,4-4-2,4-3-3,14808
+103,18138666,Crystal Palace vs Leicester City,8,18378,201.0,4-4-2,4-3-3,14532
+104,18138677,Leicester City vs Manchester United,8,18378,117.0,4-2-3-1,3-4-1-2,15293
+105,18138684,Brentford vs Leicester City,8,18378,338817.0,3-4-1-2,3-5-2,14663
+108,18138758,Leeds United vs Leicester City,8,18378,488.0,4-3-3,4-2-3-1,14812
+109,18138764,Leicester City vs Chelsea,8,18378,117.0,3-4-2-1,3-4-3,15294
+110,18138778,Leicester City vs Watford,8,18378,117.0,4-1-4-1,4-2-3-1,74959
+111,18140376,Southampton vs Leicester City,8,18378,137645.0,4-2-3-1,4-4-2,13677
+112,18138782,Aston Villa vs Leicester City,8,18378,5.0,4-2-3-1,4-3-3,15273
+113,18138798,Leicester City vs Newcastle United,8,18378,117.0,4-4-2,4-2-3-1,14814
+115,18138983,Manchester City vs Leicester City,8,18378,,4-4-1-1,4-3-3,14808
+117,18452177,Leicester City vs Watford,24,18546,117.0,4-3-3,4-2-3-1,15241
+118,18138963,Leicester City vs Tottenham Hotspur,8,18378,117.0,3-5-2,3-5-2,13533
+120,18465559,Nottingham Forest vs Leicester City,24,18546,542.0,4-2-3-1,3-4-1-2,15294
+122,18138836,Leicester City vs West Ham United,8,18378,117.0,4-2-3-1,4-3-3,15273
+123,18138851,Wolverhampton Wanderers vs Leicester City,8,18378,492.0,4-3-3,3-5-2,15293
+124,18138824,Burnley vs Leicester City,8,18378,200.0,4-3-3,4-4-2,14808
+125,18138612,Watford vs Aston Villa,8,18378,15849.0,4-2-3-1,4-1-4-1,15241
+127,18356646,Watford vs Crystal Palace,27,18439,15849.0,4-3-3,4-3-3,14813
+128,18138630,Tottenham Hotspur vs Watford,8,18378,281313.0,4-1-4-1,4-3-3,14533
+129,18138642,Watford vs Wolverhampton Wanderers,8,18378,15849.0,3-4-3,4-1-4-1,14814
+130,18138649,Norwich City vs Watford,8,18378,489.0,4-2-3-1,4-3-3,13677
+131,18386423,Watford vs Stoke City,27,18439,15849.0,3-4-3,4-3-3,14807
+132,18138662,Watford vs Newcastle United,8,18378,15849.0,4-1-4-1,4-2-3-1,19868
+133,18138667,Leeds United vs Watford,8,18378,488.0,4-2-3-1,4-1-4-1,14663
+135,18138688,Everton vs Watford,8,18378,12.0,4-1-4-1,4-4-1-1,13529
+136,18138750,Watford vs Southampton,8,18378,15849.0,4-4-2,4-4-1-1,14814
+138,18138770,Watford vs Manchester United,8,18378,15849.0,4-2-3-1,4-1-4-1,13533
+140,18140371,Watford vs Chelsea,8,18378,15849.0,3-4-2-1,4-1-4-1,11691
+141,18138789,Watford vs Manchester City,8,18378,15849.0,4-3-3,4-1-4-1,14663
+142,18138793,Brentford vs Watford,8,18378,338817.0,4-2-3-1,3-5-2,15273
+143,18138811,Watford vs West Ham United,8,18378,19.0,4-2-3-1,4-1-4-1,14812
+144,18138821,Watford vs Tottenham Hotspur,8,18378,19.0,3-4-3,4-4-2,13677
+146,18138827,Newcastle United vs Watford,8,18378,,4-3-3,4-3-3,15294
+147,18138998,Watford vs Norwich City,8,18378,19.0,4-4-2,4-3-3,15241
+148,18138962,Burnley vs Watford,8,18378,260078.0,4-4-2,4-4-2,15269
+149,18140176,West Ham United vs Watford,8,18378,214.0,4-4-2,4-2-3-1,15269
+151,18138843,Aston Villa vs Watford,8,18378,5.0,4-3-3,4-3-2-1,13677
+152,18138976,Watford vs Crystal Palace,8,18378,19.0,4-3-3,4-3-3,14533
+153,18138859,Manchester United vs Watford,8,18378,206.0,4-3-3,4-2-3-1,15242
+155,18138622,Wolverhampton Wanderers vs Tottenham Hotspur,8,18378,492.0,4-3-3,3-4-3,15835
+156,18356629,Nottingham Forest vs Wolverhampton Wanderers,27,18439,542.0,3-4-2-1,4-3-3,17237
+157,18138632,Wolverhampton Wanderers vs Manchester United,8,18378,492.0,4-2-3-1,3-4-3,15241
+159,18138652,Wolverhampton Wanderers vs Brentford,8,18378,492.0,3-5-2,3-4-3,14812
+160,18386432,Wolverhampton Wanderers vs Tottenham Hotspur,27,18439,492.0,4-3-3,3-4-3,14814
+161,18138661,Southampton vs Wolverhampton Wanderers,8,18378,137645.0,3-4-3,4-4-2,74959
+162,18138672,Wolverhampton Wanderers vs Newcastle United,8,18378,492.0,4-1-4-1,3-4-3,13529
+163,18138674,Aston Villa vs Wolverhampton Wanderers,8,18378,5.0,3-4-2-1,3-4-1-2,15273
+164,18138689,Leeds United vs Wolverhampton Wanderers,8,18378,488.0,3-4-2-1,4-4-1-1,13677
+165,18138751,Wolverhampton Wanderers vs Everton,8,18378,492.0,4-4-2,3-4-2-1,15269
+166,18138756,Crystal Palace vs Wolverhampton Wanderers,8,18378,201.0,3-4-2-1,4-3-3,13529
+167,18138771,Wolverhampton Wanderers vs West Ham United,8,18378,492.0,4-2-3-1,3-4-2-1,15241
+168,18138781,Norwich City vs Wolverhampton Wanderers,8,18378,489.0,3-4-3,4-1-4-1,14663
+169,18140373,Wolverhampton Wanderers vs Burnley,8,18378,492.0,4-4-2,3-4-3,13561
+171,18138800,Manchester City vs Wolverhampton Wanderers,8,18378,,3-5-2,4-3-3,13533
+173,18138978,Wolverhampton Wanderers vs Chelsea,8,18378,492.0,3-4-2-1,3-5-2,11691
+174,18138819,Manchester United vs Wolverhampton Wanderers,8,18378,206.0,3-4-3,4-2-2-2,15241
+175,18452190,Wolverhampton Wanderers vs Sheffield United,24,18546,492.0,5-3-2,3-4-3,15294
+176,18138831,Wolverhampton Wanderers vs Southampton,8,18378,492.0,3-5-2,3-4-2-1,13537
+177,18138990,Brentford vs Wolverhampton Wanderers,8,18378,338817.0,3-5-2,3-5-2,14814
+178,18465561,Wolverhampton Wanderers vs Norwich City,24,18546,492.0,4-3-3,3-5-2,11691
+180,18138840,Tottenham Hotspur vs Wolverhampton Wanderers,8,18378,281313.0,3-5-2,3-4-3,15242
+183,18138861,West Ham United vs Wolverhampton Wanderers,8,18378,214.0,3-4-2-1,4-2-3-1,14532
+184,18138608,Manchester United vs Leeds United,8,18378,206.0,3-4-3,4-2-3-1,15294
+185,18138617,Leeds United vs Everton,8,18378,488.0,4-2-3-1,4-1-4-1,14812
+186,18356632,Leeds United vs Crewe Alexandra,27,18439,488.0,4-3-3,4-2-3-1,33703
+187,18138625,Burnley vs Leeds United,8,18378,200.0,3-3-3-1,4-4-2,15273
+189,18138648,Newcastle United vs Leeds United,8,18378,,4-1-4-1,5-4-1,15241
+190,18386421,Fulham vs Leeds United,27,18439,485.0,4-1-4-1,4-2-3-1,14813
+191,18138658,Leeds United vs West Ham United,8,18378,488.0,4-2-3-1,4-1-4-1,15242
+193,18138681,Southampton vs Leeds United,8,18378,137645.0,3-3-3-1,4-4-2,11691
+196,18138748,Norwich City vs Leeds United,8,18378,489.0,3-3-3-1,4-4-2,14532
+198,18138769,Tottenham Hotspur vs Leeds United,8,18378,281313.0,3-3-3-1,3-4-2-1,14533
+201,18140370,Leeds United vs Crystal Palace,8,18378,488.0,4-3-3,4-2-3-1,15242
+202,18138784,Leeds United vs Brentford,8,18378,488.0,3-5-2,3-4-3,11691
+203,18138796,Chelsea vs Leeds United,8,18378,321614.0,4-3-1-2,3-4-3,14808
+204,18138968,Manchester City vs Leeds United,8,18378,,4-2-3-1,4-2-3-1,15294
+206,18138817,Leeds United vs Burnley,8,18378,488.0,4-4-2,3-4-3,15294
+207,18452194,West Ham United vs Leeds United,24,18546,214.0,4-2-3-1,4-2-3-1,15835
+208,18138830,West Ham United vs Leeds United,8,18378,214.0,4-1-4-1,4-2-3-1,15241
+209,18138994,Leeds United vs Newcastle United,8,18378,488.0,4-3-2-1,4-1-4-1,14808
+210,18140172,Aston Villa vs Leeds United,8,18378,5.0,4-2-3-1,4-3-3,19868
+211,18138835,Everton vs Leeds United,8,18378,12.0,4-2-3-1,4-4-2,13529
+212,18138846,Leeds United vs Manchester United,8,18378,488.0,4-2-3-1,4-1-4-1,15294
+214,18138858,Leeds United vs Tottenham Hotspur,8,18378,488.0,3-4-2-1,4-1-4-1,15293
+215,18138605,Chelsea vs Crystal Palace,8,18378,321614.0,4-4-2,3-4-2-1,13533
+216,18138616,Crystal Palace vs Brentford,8,18378,201.0,3-5-2,4-3-3,15269
+218,18138631,West Ham United vs Crystal Palace,8,18378,214.0,4-3-3,4-2-3-1,15835
+219,18138636,Crystal Palace vs Tottenham Hotspur,8,18378,201.0,4-3-1-2,4-3-3,13533
+224,18138687,Crystal Palace vs Newcastle United,8,18378,201.0,5-3-2,4-2-3-1,14812
+225,18138746,Manchester City vs Crystal Palace,8,18378,,4-3-3,4-3-3,14533
+227,18138763,Burnley vs Crystal Palace,8,18378,200.0,4-3-3,4-4-2,14663
+228,18138777,Crystal Palace vs Aston Villa,8,18378,201.0,4-3-3,4-2-3-1,13537
+230,18138785,Manchester United vs Crystal Palace,8,18378,206.0,4-3-3,4-2-3-1,15293
+231,18138797,Crystal Palace vs Everton,8,18378,201.0,4-1-4-1,4-3-3,74959
+232,18138965,Crystal Palace vs Southampton,8,18378,201.0,4-3-3,4-3-3,14663
+233,18138986,Tottenham Hotspur vs Crystal Palace,8,18378,281313.0,4-3-3,3-4-2-1,13533
+234,18138805,Crystal Palace vs Norwich City,8,18378,201.0,4-2-3-1,4-3-3,15294
+235,18138815,Crystal Palace vs West Ham United,8,18378,201.0,4-2-3-1,4-3-3,14812
+236,18452183,Millwall vs Crystal Palace,24,18546,656.0,4-3-3,3-4-2-1,14532
+239,18465546,Crystal Palace vs Hartlepool United,24,18546,201.0,3-5-1-1,4-3-3,14814
+240,18140175,Norwich City vs Crystal Palace,8,18378,339041.0,4-3-3,4-4-2,15294
+241,18138832,Brentford vs Crystal Palace,8,18378,338817.0,4-3-3,3-5-2,14663
+242,18138845,Crystal Palace vs Chelsea,8,18378,201.0,4-3-3,4-2-3-1,11691
+244,18138856,Crystal Palace vs Burnley,8,18378,201.0,4-4-2,4-3-3,13533
+245,18491647,Crystal Palace vs Stoke City,24,18546,201.0,3-5-2,4-2-3-1,13677
+247,18138620,Southampton vs Manchester United,8,18378,137645.0,4-2-3-1,4-4-2,15293
+249,18138640,Manchester United vs Newcastle United,8,18378,206.0,5-4-1,4-2-3-1,14532
+250,18138651,West Ham United vs Manchester United,8,18378,214.0,4-2-3-1,4-4-2,15269
+251,18386420,Manchester United vs West Ham United,27,18439,206.0,4-2-3-1,4-3-3,13533
+252,18138660,Manchester United vs Aston Villa,8,18378,206.0,3-5-2,4-2-3-1,15241
+253,18138669,Manchester United vs Everton,8,18378,206.0,4-4-1-1,4-2-3-1,15273
+256,18138749,Tottenham Hotspur vs Manchester United,8,18378,281313.0,3-5-2,4-2-3-1,15835
+257,18138759,Manchester United vs Manchester City,8,18378,206.0,4-3-3,3-5-2,15273
+259,18138776,Chelsea vs Manchester United,8,18378,321614.0,4-3-1-2,3-4-2-1,14532
+262,18138801,Norwich City vs Manchester United,8,18378,489.0,4-2-2-2,4-3-3,14812
+263,18138984,Newcastle United vs Manchester United,8,18378,449.0,4-2-2-2,4-5-1,15293
+264,18138809,Manchester United vs Burnley,8,18378,206.0,4-4-1-1,4-2-2-2,13533
+266,18452189,Manchester United vs Aston Villa,24,18546,206.0,4-3-3,4-2-3-1,15273
+267,18138822,Aston Villa vs Manchester United,8,18378,5.0,4-2-3-1,4-3-2-1,11691
+268,18138960,Brentford vs Manchester United,8,18378,338817.0,4-2-3-1,3-5-2,14533
+269,18138996,Manchester United vs West Ham United,8,18378,206.0,4-2-3-1,4-2-3-1,13533
+270,18465555,Manchester United vs Middlesbrough,24,18546,206.0,3-5-2,4-2-3-1,14532
+271,18140174,Burnley vs Manchester United,8,18378,260078.0,4-2-3-1,4-4-2,15241
+272,18138837,Manchester United vs Southampton,8,18378,206.0,4-4-2,4-2-3-1,15835
+278,18356634,Brentford vs Forest Green Rovers,27,18439,338817.0,3-5-2,4-2-3-1,20117
+279,18138623,Aston Villa vs Brentford,8,18378,5.0,3-4-1-2,4-1-4-1,14814
+282,18386422,Brentford vs Oldham Athletic,27,18439,338817.0,4-5-1,3-5-1-1,14663
+284,18138671,West Ham United vs Brentford,8,18378,214.0,3-5-2,4-2-3-1,14814
+285,18138675,Brentford vs Chelsea,8,18378,338817.0,3-5-2,3-5-2,14532
+287,18429258,Stoke City vs Brentford,27,18439,207.0,3-5-1-1,3-4-3,13537
+288,18138743,Burnley vs Brentford,8,18378,200.0,3-5-2,4-4-2,13533
+289,18138753,Brentford vs Norwich City,8,18378,338817.0,4-2-3-1,3-5-2,19868
+290,18138767,Newcastle United vs Brentford,8,18378,,3-5-2,3-4-3,13677
+291,18138773,Brentford vs Everton,8,18378,338817.0,4-4-1-1,3-5-2,14812
+292,18140377,Tottenham Hotspur vs Brentford,8,18378,281313.0,3-5-2,3-4-2-1,13533
+295,18444324,Brentford vs Chelsea,27,18439,338817.0,3-4-1-2,3-5-2,14533
+297,18138803,Brentford vs Manchester City,8,18378,338817.0,4-3-3,3-5-2,11691
+298,18138813,Brentford vs Aston Villa,8,18378,338817.0,4-3-2-1,3-5-2,15293
+299,18452184,Port Vale vs Brentford,24,18546,673.0,3-5-2,5-3-2,14846
+300,18138974,Southampton vs Brentford,8,18378,137645.0,3-5-2,3-5-2,15835
+304,18465553,Everton vs Brentford,24,18546,12.0,3-5-2,3-4-3,15273
+305,18140181,Manchester City vs Brentford,8,18378,151.0,3-5-2,4-3-3,14812
+308,18138853,Brentford vs Newcastle United,8,18378,338817.0,4-3-3,4-3-3,15241
+309,18138609,Newcastle United vs West Ham United,8,18378,,4-2-3-1,5-3-2,15269
+310,18138614,Aston Villa vs Newcastle United,8,18378,5.0,5-3-2,4-3-3,11691
+311,18356623,Newcastle United vs Burnley,27,18439,,4-4-2,5-3-2,14659
+312,18138628,Newcastle United vs Southampton,8,18378,,4-4-2,3-5-2,15294
+317,18138679,Newcastle United vs Tottenham Hotspur,8,18378,,4-2-3-1,4-1-4-1,14533
+319,18138747,Newcastle United vs Chelsea,8,18378,,3-4-2-1,5-3-2,15294
+323,18140375,Newcastle United vs Norwich City,8,18378,,4-1-4-1,4-4-2,74959
+324,18138786,Newcastle United vs Burnley,8,18378,,4-4-2,4-4-2,15294
+327,18138973,Newcastle United vs Manchester City,8,18378,,4-2-3-1,4-5-1,15269
+329,18452191,Newcastle United vs Cambridge United,24,18546,,4-2-3-1,4-4-2,13537
+332,18140178,Newcastle United vs Everton,8,18378,449.0,3-4-3,4-3-3,14532
+333,18138838,Newcastle United vs Aston Villa,8,18378,449.0,4-3-3,4-3-3,15293
+334,18138850,West Ham United vs Newcastle United,8,18378,214.0,4-3-3,4-2-3-1,14808
+337,18138619,Manchester City vs Norwich City,8,18378,,4-3-3,4-3-3,13529
+338,18356637,Norwich City vs AFC Bournemouth,27,18439,489.0,4-3-3,4-3-3,13545
+343,18138657,Everton vs Norwich City,8,18378,12.0,5-3-2,4-4-1-1,11691
+344,18138664,Burnley vs Norwich City,8,18378,200.0,5-3-2,4-4-2,15242
+346,18138686,Chelsea vs Norwich City,8,18378,321614.0,3-5-2,3-4-2-1,74959
+349,18138768,Norwich City vs Southampton,8,18378,489.0,4-4-2,4-3-3,15269
+352,18138788,Tottenham Hotspur vs Norwich City,8,18378,281313.0,5-3-2,3-4-2-1,19868
+354,18138964,Norwich City vs Aston Villa,8,18378,489.0,4-3-3,4-3-3,11691
+357,18452196,Charlton Athletic vs Norwich City,24,18546,667.0,4-5-1,3-4-1-2,14824
+358,18138977,West Ham United vs Norwich City,8,18378,214.0,4-2-3-1,4-2-3-1,14663
+359,18138828,Norwich City vs Everton,8,18378,489.0,4-4-2,4-2-3-1,74959
+363,18138839,Norwich City vs Manchester City,8,18378,489.0,4-3-3,4-3-3,14533
+365,18138860,Southampton vs Norwich City,8,18378,137645.0,4-2-3-1,4-4-2,14663
+366,18138606,Everton vs Southampton,8,18378,12.0,4-4-2,4-2-3-1,74959
+368,18356625,Huddersfield Town vs Everton,27,18439,340.0,3-4-3,3-4-2-1,19850
+370,18138637,Everton vs Burnley,8,18378,12.0,4-4-2,3-4-3,15269
+371,18138643,Aston Villa vs Everton,8,18378,5.0,4-4-1-1,5-3-2,15293
+372,18386418,Queens Park Rangers vs Everton,27,18439,491.0,4-2-3-1,3-4-1-2,15242
+375,18138676,Everton vs West Ham United,8,18378,12.0,4-2-3-1,4-4-1-1,15835
+378,18138757,Everton vs Tottenham Hotspur,8,18378,12.0,3-4-2-1,4-4-1-1,14808
+379,18138766,Manchester City vs Everton,8,18378,,4-4-1-1,4-3-3,15835
+385,18138966,Chelsea vs Everton,8,18378,321614.0,5-4-1,3-4-2-1,15273
+387,18452180,Hull City vs Everton,24,18546,199.0,3-4-3,3-5-2,15242
+389,18138993,Everton vs Aston Villa,8,18378,12.0,4-3-2-1,4-4-2,15293
+393,18138849,Southampton vs Everton,8,18378,137645.0,4-4-2,4-4-2,74959
+394,18138857,Everton vs Manchester City,8,18378,12.0,4-3-3,4-3-3,15294
+395,18138611,Tottenham Hotspur vs Manchester City,8,18378,281313.0,4-3-3,4-3-3,14532
+399,18138647,Manchester City vs Southampton,8,18378,,4-4-2,4-3-3,13533
+400,18386430,Manchester City vs Wycombe Wanderers,27,18439,,3-1-4-2,4-3-3,13677
+401,18138655,Chelsea vs Manchester City,8,18378,321614.0,4-3-3,3-5-2,15273
+403,18138678,Manchester City vs Burnley,8,18378,,4-4-2,4-3-3,15269
+405,18429259,West Ham United vs Manchester City,27,18439,214.0,4-3-3,4-2-3-1,13533
+410,18138780,Manchester City vs West Ham United,8,18378,,4-2-3-1,4-3-3,15273
+411,18140368,Aston Villa vs Manchester City,8,18378,5.0,4-2-3-1,4-3-3,15241
+419,18452185,Swindon Town vs Manchester City,24,18546,516.0,4-2-3-1,3-1-4-2,14812
+420,18138826,Manchester City vs Chelsea,8,18378,151.0,3-4-2-1,4-3-3,15293
+421,18138997,Southampton vs Manchester City,8,18378,137645.0,4-3-3,4-4-2,14663
+422,18465560,Manchester City vs Fulham,24,18546,,4-2-3-1,4-2-3-1,19868
+425,18138848,Manchester City vs Tottenham Hotspur,8,18378,151.0,3-4-2-1,4-3-3,14532
+427,18491648,Peterborough United vs Manchester City,24,18546,260.0,4-3-3,3-4-3,74959
+431,18138641,Southampton vs West Ham United,8,18378,137645.0,4-2-3-1,4-1-4-1,11691
+437,18138692,West Ham United vs Tottenham Hotspur,8,18378,214.0,4-2-3-1,4-2-3-1,15294
+439,18138742,Aston Villa vs West Ham United,8,18378,5.0,4-2-3-1,4-3-3,14808
+444,18138790,West Ham United vs Chelsea,8,18378,214.0,3-4-2-1,3-4-2-1,14533
+445,18138795,Burnley vs West Ham United,8,18378,200.0,4-2-3-1,4-4-2,13529
+447,18444322,Tottenham Hotspur vs West Ham United,27,18439,281313.0,3-4-2-1,3-4-2-1,14808
+448,18138987,West Ham United vs Southampton,8,18378,214.0,4-1-4-1,4-2-3-1,15242
+455,18465554,Kidderminster Harriers vs West Ham United,24,18546,287.0,4-2-3-1,4-2-3-1,13533
+462,18356644,Newport County vs Southampton,27,18439,788.0,4-4-2,5-4-1,13541
+466,18386429,Sheffield United vs Southampton,27,18439,2.0,4-2-3-1,4-2-3-1,13561
+468,18138665,Chelsea vs Southampton,8,18378,321614.0,4-4-2,3-4-2-1,15269
+470,18138691,Southampton vs Burnley,8,18378,137645.0,4-4-2,4-4-2,14808
+471,18429256,Chelsea vs Southampton,27,18439,321614.0,3-4-3,3-4-2-1,15242
+473,18138760,Southampton vs Aston Villa,8,18378,137645.0,4-2-3-1,4-4-2,74959
+481,18138810,Southampton vs Tottenham Hotspur,8,18378,137645.0,3-4-2-1,5-3-2,14532
+482,18452169,Swansea City vs Southampton,24,18546,208.0,4-4-2,3-4-2-1,14663
+486,18465551,Southampton vs Coventry City,24,18546,137645.0,3-4-3,3-4-3,14807
+487,18140179,Tottenham Hotspur vs Southampton,8,18378,281313.0,4-2-2-2,3-4-2-1,11691
+494,18138635,Chelsea vs Aston Villa,8,18378,321614.0,5-3-2,3-4-2-1,15835
+495,18138650,Tottenham Hotspur vs Chelsea,8,18378,281313.0,3-4-2-1,4-3-2-1,15294
+496,18386424,Chelsea vs Aston Villa,27,18439,321614.0,4-2-3-1,4-3-3,13529
+503,18138755,Chelsea vs Burnley,8,18378,321614.0,4-4-2,3-4-1-2,14533
+512,18138979,Aston Villa vs Chelsea,8,18378,5.0,3-4-2-1,4-3-1-2,15269
+515,18458440,Chelsea vs Tottenham Hotspur,27,18439,321614.0,3-4-3,4-2-2-2,15293
+516,18452170,Chelsea vs Chesterfield,24,18546,321614.0,3-4-3,3-4-3,19868
+517,18458441,Tottenham Hotspur vs Chelsea,27,18439,281313.0,4-2-2-2,5-3-2,14533
+520,18138991,Chelsea vs Tottenham Hotspur,8,18378,321614.0,4-4-2,4-1-4-1,15294
+521,18465552,Chelsea vs Plymouth Argyle,24,18546,321614.0,5-3-2,4-3-3,14663
+526,18356633,Barrow vs Aston Villa,27,18439,989.0,4-2-3-1,3-5-2,14978
+532,18138670,Tottenham Hotspur vs Aston Villa,8,18378,281313.0,3-5-2,4-2-3-1,14808
+562,18429261,Burnley vs Tottenham Hotspur,27,18439,200.0,4-2-3-1,4-4-2,14814
+575,18452182,Tottenham Hotspur vs Morecambe,24,18546,281313.0,5-3-2,5-3-2,13561
+583,18138775,Burnley vs Tottenham Hotspur,8,18378,200.0,3-4-2-1,4-4-2,13529
+585,18491651,Middlesbrough vs Tottenham Hotspur,24,18546,203.0,3-4-2-1,3-5-2,14812
+592,18386427,Burnley vs Rochdale,27,18439,200.0,3-4-3,4-4-2,11695
+606,18452174,Burnley vs Huddersfield Town,24,18546,200.0,3-4-2-1,4-4-2,14533

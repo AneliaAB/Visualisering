@@ -1,368 +1,368 @@
 ,fixture_id,name,league_id,season_id,venue_id,formation_away,formation_home,referee
-0,477,Fulham vs Norwich City,8,7,,4-4-2,4-4-2,3209424
-1,524,Manchester United vs Fulham,8,7,206.0,4-2-3-1,4-2-3-1,1568682
-2,1069783,Sheffield Wednesday vs Fulham,27,5368,495.0,NaN,NaN,3137131
-3,562,West Ham United vs Fulham,8,7,4.0,4-3-3,4-3-3,3209389
-4,613,Fulham vs West Bromwich Albion,8,7,,4-2-3-1,4-4-2,42967
-5,679,Wigan Athletic vs Fulham,8,7,14.0,4-4-2,3-4-3,50222
-6,722,Fulham vs Manchester City,8,7,,4-2-3-1,4-4-2,217483
-7,817,Southampton vs Fulham,8,7,167.0,4-2-3-1,4-3-3,117770
-8,850,Fulham vs Aston Villa,8,7,,4-4-2,4-3-3,217067
-9,943,Reading vs Fulham,8,7,494.0,4-4-2,4-4-2,51367
-10,1022,Fulham vs Everton,8,7,,4-4-2,4-4-2,51222
-11,1101,Arsenal vs Fulham,8,7,204.0,4-2-3-1,4-2-3-1,217209
-12,1277,Fulham vs Sunderland,8,7,,4-2-3-1,4-2-3-1,50237
-13,1325,Stoke City vs Fulham,8,7,207.0,4-5-1,4-5-1,3209118
-14,1538,Chelsea vs Fulham,8,7,,4-2-3-1,4-3-3,3209053
-15,1596,Fulham vs Tottenham Hotspur,8,7,,4-2-3-1,4-4-2,217096
-16,1763,Fulham vs Newcastle United,8,7,,4-3-3,4-4-2,50981
-17,1812,Queens Park Rangers vs Fulham,8,7,491.0,4-4-2,4-3-3,1569761
-18,1938,Liverpool vs Fulham,8,7,230.0,4-4-1-1,4-3-3,117815
-19,1978,Fulham vs Southampton,8,7,,4-3-3,4-4-1-1,217237
-20,2172,Fulham vs Swansea City,8,7,,4-2-3-1,4-4-1-1,2778490
-21,2251,West Bromwich Albion vs Fulham,8,7,119.0,4-4-1-1,4-2-3-1,1986654
-22,1066157,Fulham vs Blackpool,24,5356,,NaN,NaN,3140264
-23,2374,Fulham vs Wigan Athletic,8,7,,3-5-2,4-4-2,117833
-24,1066078,Blackpool vs Fulham,24,5356,339736.0,NaN,NaN,3140347
-25,2452,Manchester City vs Fulham,8,7,,4-4-2,4-2-3-1,1570661
-26,1065969,Manchester United vs Fulham,24,5356,206.0,4-2-3-1,4-2-3-1,3140499
-27,2631,Fulham vs West Ham United,8,7,,4-4-2,4-2-3-1,217127
-28,2717,Fulham vs Manchester United,8,7,,4-4-1-1,4-4-1-1,1571141
-29,2773,Norwich City vs Fulham,8,7,489.0,4-2-3-1,4-4-1-1,164581
-30,2869,Fulham vs Stoke City,8,7,,4-4-2,4-4-2,50272
-31,3021,Sunderland vs Fulham,8,7,212.0,4-4-2,4-4-2,217513
-32,490,West Bromwich Albion vs Liverpool,8,7,119.0,4-3-3,4-3-3,217179
+0,477,Fulham vs Norwich City,8,7,,4-4-2,4-4-2,15273
+1,524,Manchester United vs Fulham,8,7,206.0,4-2-3-1,4-2-3-1,15242
+2,1069783,Sheffield Wednesday vs Fulham,27,5368,495.0,NaN,NaN,15294
+3,562,West Ham United vs Fulham,8,7,4.0,4-3-3,4-3-3,14532
+4,613,Fulham vs West Bromwich Albion,8,7,,4-2-3-1,4-4-2,14818
+5,679,Wigan Athletic vs Fulham,8,7,14.0,4-4-2,3-4-3,15267
+6,722,Fulham vs Manchester City,8,7,,4-2-3-1,4-4-2,69975
+7,817,Southampton vs Fulham,8,7,167.0,4-2-3-1,4-3-3,20191
+8,850,Fulham vs Aston Villa,8,7,,4-4-2,4-3-3,69959
+9,943,Reading vs Fulham,8,7,494.0,4-4-2,4-4-2,15272
+10,1022,Fulham vs Everton,8,7,,4-4-2,4-4-2,15271
+11,1101,Arsenal vs Fulham,8,7,204.0,4-2-3-1,4-2-3-1,69960
+12,1277,Fulham vs Sunderland,8,7,,4-2-3-1,4-2-3-1,15267
+13,1325,Stoke City vs Fulham,8,7,207.0,4-5-1,4-5-1,15273
+14,1538,Chelsea vs Fulham,8,7,,4-2-3-1,4-3-3,14532
+15,1596,Fulham vs Tottenham Hotspur,8,7,,4-2-3-1,4-4-2,69959
+16,1763,Fulham vs Newcastle United,8,7,,4-3-3,4-4-2,15270
+17,1812,Queens Park Rangers vs Fulham,8,7,491.0,4-4-2,4-3-3,15269
+18,1938,Liverpool vs Fulham,8,7,230.0,4-4-1-1,4-3-3,20191
+19,1978,Fulham vs Southampton,8,7,,4-3-3,4-4-1-1,69960
+20,2172,Fulham vs Swansea City,8,7,,4-2-3-1,4-4-1-1,14533
+21,2251,West Bromwich Albion vs Fulham,8,7,119.0,4-4-1-1,4-2-3-1,15241
+22,1066157,Fulham vs Blackpool,24,5356,,NaN,NaN,15270
+23,2374,Fulham vs Wigan Athletic,8,7,,3-5-2,4-4-2,20191
+24,1066078,Blackpool vs Fulham,24,5356,339736.0,NaN,NaN,14533
+25,2452,Manchester City vs Fulham,8,7,,4-4-2,4-2-3-1,13533
+26,1065969,Manchester United vs Fulham,24,5356,206.0,4-2-3-1,4-2-3-1,20191
+27,2631,Fulham vs West Ham United,8,7,,4-4-2,4-2-3-1,69959
+28,2717,Fulham vs Manchester United,8,7,,4-4-1-1,4-4-1-1,15242
+29,2773,Norwich City vs Fulham,8,7,489.0,4-2-3-1,4-4-1-1,32980
+30,2869,Fulham vs Stoke City,8,7,,4-4-2,4-4-2,15267
+31,3021,Sunderland vs Fulham,8,7,212.0,4-4-2,4-4-2,69975
+32,490,West Bromwich Albion vs Liverpool,8,7,119.0,4-3-3,4-3-3,69960
 33,1068504,Liverpool vs Prescot Cables,24,5356,,NaN,NaN,[]
-34,549,Liverpool vs Manchester City,8,7,230.0,3-5-2,4-2-3-1,2779440
-35,588,Liverpool vs Arsenal,8,7,230.0,4-3-3,4-3-3,164503
-36,634,Sunderland vs Liverpool,8,7,212.0,4-2-3-1,4-2-3-1,1568803
-37,685,Liverpool vs Manchester United,8,7,230.0,4-3-3,4-3-3,217481
-38,1069646,West Bromwich Albion vs Liverpool,27,5368,119.0,NaN,NaN,3137526
-39,728,Norwich City vs Liverpool,8,7,489.0,4-3-3,4-4-2,51359
-40,823,Liverpool vs Stoke City,8,7,230.0,4-2-3-1,4-3-3,50951
-41,858,Liverpool vs Reading,8,7,230.0,4-4-1-1,4-3-3,42969
-42,978,Everton vs Liverpool,8,7,12.0,4-5-1,4-4-1-1,2779172
-43,1069475,Liverpool vs Swansea City,27,5368,230.0,NaN,NaN,3137998
-44,1083,Liverpool vs Newcastle United,8,7,230.0,4-3-3,4-3-3,3209206
-45,1186,Chelsea vs Liverpool,8,7,,5-3-2,4-2-3-1,164529
-46,1206,Liverpool vs Wigan Athletic,8,7,230.0,4-4-2,4-4-2,1569192
-47,1377,Swansea City vs Liverpool,8,7,208.0,4-2-3-1,4-2-3-1,1569519
-48,1529,Tottenham Hotspur vs Liverpool,8,7,209.0,4-4-2,4-4-2,217222
-49,1605,Liverpool vs Southampton,8,7,230.0,4-2-3-1,4-3-3,3209030
-50,1752,West Ham United vs Liverpool,8,7,4.0,4-2-3-1,4-2-3-1,50248
-51,1781,Liverpool vs Aston Villa,8,7,230.0,3-5-2,4-3-3,51233
-53,2068,Stoke City vs Liverpool,8,7,207.0,4-2-3-1,4-4-2,164558
-54,2241,Queens Park Rangers vs Liverpool,8,7,491.0,4-3-3,4-4-1-1,3208779
-55,2329,Liverpool vs Sunderland,8,7,230.0,4-4-1-1,4-3-3,217246
-56,1066415,Mansfield Town vs Liverpool,24,5356,792.0,4-2-3-1,4-2-3-1,3139941
-57,2421,Manchester United vs Liverpool,8,7,206.0,4-1-4-1,4-2-3-1,164571
-58,2442,Liverpool vs Norwich City,8,7,230.0,4-4-1-1,4-3-3,3208679
-59,1065998,Oldham Athletic vs Liverpool,24,5356,670.0,4-4-2,4-4-2,3140469
-60,2579,Arsenal vs Liverpool,8,7,204.0,4-3-3,4-2-3-1,1570688
-61,2738,Manchester City vs Liverpool,8,7,,4-4-1-1,4-2-3-1,3208533
-62,2847,Liverpool vs West Bromwich Albion,8,7,230.0,4-2-3-1,4-2-3-1,1570857
-63,2858,Liverpool vs Swansea City,8,7,230.0,4-3-3,4-4-1-1,164586
-64,3041,Wigan Athletic vs Liverpool,8,7,14.0,4-3-3,3-4-1-2,1571254
-65,473,Arsenal vs Sunderland,8,7,204.0,4-5-1,4-3-3,217051
-66,545,Stoke City vs Arsenal,8,7,13.0,4-3-3,4-4-2,50939
-68,605,Arsenal vs Southampton,8,7,204.0,4-1-4-1,4-2-3-1,1568844
-69,696,Manchester City vs Arsenal,8,7,,4-2-3-1,4-2-3-1,1986281
+34,549,Liverpool vs Manchester City,8,7,230.0,3-5-2,4-2-3-1,14533
+35,588,Liverpool vs Arsenal,8,7,230.0,4-3-3,4-3-3,32980
+36,634,Sunderland vs Liverpool,8,7,212.0,4-2-3-1,4-2-3-1,15269
+37,685,Liverpool vs Manchester United,8,7,230.0,4-3-3,4-3-3,69975
+38,1069646,West Bromwich Albion vs Liverpool,27,5368,119.0,NaN,NaN,15271
+39,728,Norwich City vs Liverpool,8,7,489.0,4-3-3,4-4-2,15272
+40,823,Liverpool vs Stoke City,8,7,230.0,4-2-3-1,4-3-3,15270
+41,858,Liverpool vs Reading,8,7,230.0,4-4-1-1,4-3-3,14818
+42,978,Everton vs Liverpool,8,7,12.0,4-5-1,4-4-1-1,14533
+43,1069475,Liverpool vs Swansea City,27,5368,230.0,NaN,NaN,15267
+44,1083,Liverpool vs Newcastle United,8,7,230.0,4-3-3,4-3-3,14532
+45,1186,Chelsea vs Liverpool,8,7,,5-3-2,4-2-3-1,32980
+46,1206,Liverpool vs Wigan Athletic,8,7,230.0,4-4-2,4-4-2,15242
+47,1377,Swansea City vs Liverpool,8,7,208.0,4-2-3-1,4-2-3-1,13533
+48,1529,Tottenham Hotspur vs Liverpool,8,7,209.0,4-4-2,4-4-2,69960
+49,1605,Liverpool vs Southampton,8,7,230.0,4-2-3-1,4-3-3,15273
+50,1752,West Ham United vs Liverpool,8,7,4.0,4-2-3-1,4-2-3-1,15267
+51,1781,Liverpool vs Aston Villa,8,7,230.0,3-5-2,4-3-3,15271
+53,2068,Stoke City vs Liverpool,8,7,207.0,4-2-3-1,4-4-2,32980
+54,2241,Queens Park Rangers vs Liverpool,8,7,491.0,4-3-3,4-4-1-1,14532
+55,2329,Liverpool vs Sunderland,8,7,230.0,4-4-1-1,4-3-3,69960
+56,1066415,Mansfield Town vs Liverpool,24,5356,792.0,4-2-3-1,4-2-3-1,14533
+57,2421,Manchester United vs Liverpool,8,7,206.0,4-1-4-1,4-2-3-1,32980
+58,2442,Liverpool vs Norwich City,8,7,230.0,4-4-1-1,4-3-3,15273
+59,1065998,Oldham Athletic vs Liverpool,24,5356,670.0,4-4-2,4-4-2,15267
+60,2579,Arsenal vs Liverpool,8,7,204.0,4-3-3,4-2-3-1,15242
+61,2738,Manchester City vs Liverpool,8,7,,4-4-1-1,4-2-3-1,14532
+62,2847,Liverpool vs West Bromwich Albion,8,7,230.0,4-2-3-1,4-2-3-1,13533
+63,2858,Liverpool vs Swansea City,8,7,230.0,4-3-3,4-4-1-1,32980
+64,3041,Wigan Athletic vs Liverpool,8,7,14.0,4-3-3,3-4-1-2,15269
+65,473,Arsenal vs Sunderland,8,7,204.0,4-5-1,4-3-3,69959
+66,545,Stoke City vs Arsenal,8,7,13.0,4-3-3,4-4-2,15270
+68,605,Arsenal vs Southampton,8,7,204.0,4-1-4-1,4-2-3-1,15242
+69,696,Manchester City vs Arsenal,8,7,,4-2-3-1,4-2-3-1,15241
 70,1069603,Arsenal vs Coventry City,27,5368,204.0,NaN,NaN,[]
-71,708,Arsenal vs Chelsea,8,7,204.0,4-2-3-1,4-2-3-1,1568868
-72,809,West Ham United vs Arsenal,8,7,4.0,4-2-3-1,4-2-3-1,217193
-73,899,Norwich City vs Arsenal,8,7,489.0,4-2-3-1,4-4-2,50230
-74,935,Arsenal vs Queens Park Rangers,8,7,204.0,4-4-2,4-2-3-1,3209266
-75,1069440,Reading vs Arsenal,27,5368,494.0,4-2-3-1,4-4-2,3138070
-76,1013,Manchester United vs Arsenal,8,7,206.0,4-2-3-1,4-4-2,1986346
-78,1195,Arsenal vs Tottenham Hotspur,8,7,204.0,4-4-2,4-3-3,164530
-79,1346,Aston Villa vs Arsenal,8,7,,4-2-3-1,4-4-2,50969
-80,1548,Everton vs Arsenal,8,7,12.0,4-5-1,4-4-1-1,3209056
-81,1584,Arsenal vs Swansea City,8,7,204.0,4-2-3-1,4-2-3-1,117800
-82,1673,Arsenal vs West Bromwich Albion,8,7,204.0,4-2-3-1,4-2-3-1,51392
-83,1069367,Bradford City vs Arsenal,27,5368,653.0,4-4-2,4-4-2,3138230
-84,1850,Reading vs Arsenal,8,7,494.0,4-2-3-1,4-4-2,3208919
-85,1871,Wigan Athletic vs Arsenal,8,7,14.0,4-2-3-1,3-4-1-2,1569916
-86,2220,Arsenal vs Newcastle United,8,7,204.0,4-2-3-1,4-2-3-1,217110
-87,2309,Southampton vs Arsenal,8,7,167.0,4-3-2-1,4-4-2,50257
+71,708,Arsenal vs Chelsea,8,7,204.0,4-2-3-1,4-2-3-1,15269
+72,809,West Ham United vs Arsenal,8,7,4.0,4-2-3-1,4-2-3-1,69960
+73,899,Norwich City vs Arsenal,8,7,489.0,4-2-3-1,4-4-2,15267
+74,935,Arsenal vs Queens Park Rangers,8,7,204.0,4-4-2,4-2-3-1,14532
+75,1069440,Reading vs Arsenal,27,5368,494.0,4-2-3-1,4-4-2,15242
+76,1013,Manchester United vs Arsenal,8,7,206.0,4-2-3-1,4-4-2,15241
+78,1195,Arsenal vs Tottenham Hotspur,8,7,204.0,4-4-2,4-3-3,32980
+79,1346,Aston Villa vs Arsenal,8,7,,4-2-3-1,4-4-2,15270
+80,1548,Everton vs Arsenal,8,7,12.0,4-5-1,4-4-1-1,15273
+81,1584,Arsenal vs Swansea City,8,7,204.0,4-2-3-1,4-2-3-1,20191
+82,1673,Arsenal vs West Bromwich Albion,8,7,204.0,4-2-3-1,4-2-3-1,15272
+83,1069367,Bradford City vs Arsenal,27,5368,653.0,4-4-2,4-4-2,15241
+84,1850,Reading vs Arsenal,8,7,494.0,4-2-3-1,4-4-2,14532
+85,1871,Wigan Athletic vs Arsenal,8,7,14.0,4-2-3-1,3-4-1-2,13533
+86,2220,Arsenal vs Newcastle United,8,7,204.0,4-2-3-1,4-2-3-1,69959
+87,2309,Southampton vs Arsenal,8,7,167.0,4-3-2-1,4-4-2,15267
 88,1066405,Swansea City vs Arsenal,24,5356,208.0,NaN,NaN,[]
-89,2432,Arsenal vs Manchester City,8,7,204.0,4-2-3-1,4-2-3-1,1986710
+89,2432,Arsenal vs Manchester City,8,7,204.0,4-2-3-1,4-2-3-1,15241
 90,1066098,Arsenal vs Swansea City,24,5356,204.0,4-2-3-1,4-2-3-1,[]
-91,2510,Chelsea vs Arsenal,8,7,,4-2-3-1,4-2-3-1,1570678
-92,2093,Arsenal vs West Ham United,8,7,204.0,4-1-4-1,4-2-3-1,2778521
-93,1065958,Brighton & Hove Albion vs Arsenal,24,5356,,4-2-3-1,4-3-3,3140500
-95,2652,Arsenal vs Stoke City,8,7,204.0,4-5-1,4-2-3-1,217129
-96,2792,Sunderland vs Arsenal,8,7,212.0,4-2-3-1,4-5-1,3208521
+91,2510,Chelsea vs Arsenal,8,7,,4-2-3-1,4-2-3-1,15269
+92,2093,Arsenal vs West Ham United,8,7,204.0,4-1-4-1,4-2-3-1,14533
+93,1065958,Brighton & Hove Albion vs Arsenal,24,5356,,4-2-3-1,4-3-3,15273
+95,2652,Arsenal vs Stoke City,8,7,204.0,4-5-1,4-2-3-1,69959
+96,2792,Sunderland vs Arsenal,8,7,212.0,4-2-3-1,4-5-1,14532
 97,1065770,Arsenal vs Blackburn Rovers,24,5356,204.0,4-4-1-1,4-3-3,[]
-98,2879,Arsenal vs Aston Villa,8,7,204.0,4-2-3-1,4-1-4-1,1570942
-99,3053,Tottenham Hotspur vs Arsenal,8,7,209.0,4-2-3-1,4-2-3-1,117864
-100,481,Queens Park Rangers vs Swansea City,8,7,491.0,4-3-3,4-4-1-1,50213
-101,516,Swansea City vs West Ham United,8,7,208.0,4-3-3,4-3-3,1568743
-102,1069847,Swansea City vs Barnsley,27,5368,208.0,NaN,NaN,4694174
-103,567,Swansea City vs Sunderland,8,7,208.0,4-4-2,4-5-1,42966
-104,609,Aston Villa vs Swansea City,8,7,,4-2-3-1,4-1-3-2,50942
-105,651,Swansea City vs Everton,8,7,208.0,4-4-1-1,4-2-3-1,3209362
-106,1069548,Crawley Town vs Swansea City,27,5368,282066.0,NaN,NaN,4694243
-107,742,Stoke City vs Swansea City,8,7,13.0,4-3-3,4-2-3-1,1568859
-108,789,Swansea City vs Reading,8,7,208.0,4-4-2,4-2-3-1,1986296
-109,873,Swansea City vs Wigan Athletic,8,7,208.0,3-4-3,4-2-3-1,51364
-110,969,Manchester City vs Swansea City,8,7,,4-1-2-3,4-4-2,1569034
-112,1049,Swansea City vs Chelsea,8,7,208.0,4-2-3-1,4-2-3-1,1569420
-113,1127,Southampton vs Swansea City,8,7,167.0,4-3-3,4-4-2,2779086
-114,1226,Newcastle United vs Swansea City,8,7,,4-2-3-1,4-4-2,217214
-116,1518,Swansea City vs West Bromwich Albion,8,7,208.0,4-4-2,4-5-1,50975
-118,1711,Swansea City vs Norwich City,8,7,208.0,4-4-1-1,4-2-3-1,164548
-119,1069377,Swansea City vs Middlesbrough,27,5368,208.0,4-3-3,4-2-3-1,2973312
-120,1831,Tottenham Hotspur vs Swansea City,8,7,209.0,4-4-2,4-4-2,1986544
-121,1948,Swansea City vs Manchester United,8,7,208.0,4-4-2,4-2-3-1,3208882
-122,2008,Reading vs Swansea City,8,7,494.0,4-2-3-1,4-3-2-1,51405
-124,2270,Swansea City vs Aston Villa,8,7,208.0,4-4-2,4-4-2,217504
-126,1069338,Chelsea vs Swansea City,27,5368,,4-2-3-1,4-2-3-1,3138385
-127,2367,Everton vs Swansea City,8,7,12.0,4-4-2,4-4-1-1,217248
-129,2470,Swansea City vs Stoke City,8,7,208.0,4-4-1-1,4-2-3-1,1986725
-130,1069348,Swansea City vs Chelsea,27,5368,208.0,4-2-3-1,4-2-3-1,3138251
-131,2567,Sunderland vs Swansea City,8,7,212.0,4-2-3-1,4-4-1-1,2778151
-132,2696,West Ham United vs Swansea City,8,7,4.0,4-2-3-1,4-5-1,50268
-133,2803,Swansea City vs Queens Park Rangers,8,7,208.0,4-2-3-1,4-2-3-1,51254
-135,1069306,Bradford City vs Swansea City,27,5368,,4-2-3-1,4-4-2,3138346
-136,3032,Swansea City vs Newcastle United,8,7,208.0,4-2-3-1,4-2-3-1,5013851
-138,528,Norwich City vs Queens Park Rangers,8,7,489.0,4-4-2,4-4-2,117761
-139,1069751,Queens Park Rangers vs Walsall,27,5368,491.0,NaN,NaN,3137276
-140,584,Manchester City vs Queens Park Rangers,8,7,,4-4-2,4-2-3-1,217055
-141,625,Queens Park Rangers vs Chelsea,8,7,491.0,4-2-3-1,4-4-2,2779378
-142,702,Tottenham Hotspur vs Queens Park Rangers,8,7,209.0,4-4-2,4-2-3-1,217190
-143,1069616,Queens Park Rangers vs Reading,27,5368,491.0,NaN,NaN,3137616
-144,768,Queens Park Rangers vs West Ham United,8,7,491.0,4-2-3-1,4-4-2,117768
-145,797,West Bromwich Albion vs Queens Park Rangers,8,7,119.0,4-1-4-1,4-1-4-1,51361
-146,916,Queens Park Rangers vs Everton,8,7,491.0,4-4-2,4-4-2,1569020
-148,1075,Queens Park Rangers vs Reading,8,7,491.0,4-4-2,4-4-2,3209215
-149,1136,Stoke City vs Queens Park Rangers,8,7,207.0,4-4-2,4-1-4-1,1569289
-150,1235,Queens Park Rangers vs Southampton,8,7,491.0,4-1-4-1,4-4-2,1986406
-151,1316,Manchester United vs Queens Park Rangers,8,7,206.0,4-2-3-1,4-4-1-1,50238
-152,1459,Sunderland vs Queens Park Rangers,8,7,212.0,4-4-1-1,4-4-1-1,2778887
-153,1623,Queens Park Rangers vs Aston Villa,8,7,491.0,4-3-2-1,4-1-4-1,164543
-154,1722,Wigan Athletic vs Queens Park Rangers,8,7,14.0,4-3-3,3-4-3,217227
-156,1888,Newcastle United vs Queens Park Rangers,8,7,,4-5-1,4-4-2,1570011
-157,2025,Queens Park Rangers vs West Bromwich Albion,8,7,491.0,4-2-3-1,4-2-3-1,217108
-159,2319,Chelsea vs Queens Park Rangers,8,7,,4-3-3,4-2-3-1,51001
-160,1066295,Queens Park Rangers vs West Bromwich Albion,24,5356,491.0,NaN,NaN,3140100
-161,2348,Queens Park Rangers vs Tottenham Hotspur,8,7,491.0,4-4-2,4-3-3,50260
-162,1066088,West Bromwich Albion vs Queens Park Rangers,24,5356,119.0,NaN,NaN,3140362
-163,2480,West Ham United vs Queens Park Rangers,8,7,4.0,4-4-2,4-4-2,164573
-164,1065938,Queens Park Rangers vs Milton Keynes Dons,24,5356,491.0,NaN,NaN,3140530
-165,2548,Queens Park Rangers vs Manchester City,8,7,491.0,4-2-3-1,4-2-3-1,217258
-166,2642,Queens Park Rangers vs Norwich City,8,7,491.0,4-2-3-1,4-2-3-1,1570642
-168,2901,Queens Park Rangers vs Manchester United,8,7,491.0,4-4-2,4-2-3-1,3208455
-169,2999,Southampton vs Queens Park Rangers,8,7,167.0,4-4-2,4-2-3-1,164590
-170,511,Everton vs Manchester United,8,7,12.0,4-2-3-1,4-4-1-1,2779478
-172,596,Southampton vs Manchester United,8,7,167.0,4-2-3-1,4-3-2-1,1986266
-173,619,Manchester United vs Wigan Athletic,8,7,206.0,3-4-1-2,4-4-2,3209366
-175,1069637,Manchester United vs Newcastle United,27,5368,206.0,4-4-1-1,4-4-2,3137571
-176,756,Manchester United vs Tottenham Hotspur,8,7,206.0,4-2-3-1,4-2-3-1,217063
-177,837,Newcastle United vs Manchester United,8,7,,4-3-3,4-4-2,164515
-178,866,Manchester United vs Stoke City,8,7,206.0,4-5-1,4-4-2,3209285
-179,1005,Chelsea vs Manchester United,8,7,321614.0,4-4-2,4-2-3-1,117778
-180,1069463,Chelsea vs Manchester United,27,5368,321614.0,4-4-2,4-2-3-1,3138038
-182,1155,Aston Villa vs Manchester United,8,7,,4-4-1-1,4-4-1-1,1569133
-183,1265,Norwich City vs Manchester United,8,7,489.0,4-4-2,4-2-3-1,3209134
-185,1557,Manchester United vs West Ham United,8,7,206.0,4-2-3-1,4-3-3,51386
-186,1642,Reading vs Manchester United,8,7,494.0,4-1-4-1,4-4-2,217498
-187,1731,Manchester City vs Manchester United,8,7,,4-2-3-1,4-4-1-1,1569843
-188,1793,Manchester United vs Sunderland,8,7,206.0,4-4-1-1,4-4-1-1,217100
-190,1987,Manchester United vs Newcastle United,8,7,206.0,4-3-3,4-4-2,1986592
-191,2180,Manchester United vs West Bromwich Albion,8,7,206.0,4-2-3-1,4-4-2,1570100
-192,2299,Wigan Athletic vs Manchester United,8,7,14.0,4-4-2,3-4-3,2778378
-193,1066395,West Ham United vs Manchester United,24,5356,4.0,4-4-2,4-3-3,3139990
-195,1066108,Manchester United vs West Ham United,24,5356,206.0,4-4-2,4-4-2,3140326
-196,2519,Tottenham Hotspur vs Manchester United,8,7,209.0,4-1-4-1,4-2-3-1,217124
-198,2608,Manchester United vs Southampton,8,7,206.0,4-2-3-1,4-4-2,51014
-200,2836,Manchester United vs Everton,8,7,206.0,4-4-2,4-4-2,217511
-201,1065810,Manchester United vs Reading,24,5356,206.0,4-4-2,4-4-2,3140710
-203,2988,Manchester United vs Norwich City,8,7,206.0,4-4-1-1,4-4-2,51257
-205,1069666,Sunderland vs Morecambe,27,5368,212.0,NaN,NaN,4749814
-208,673,West Ham United vs Sunderland,8,7,4.0,4-4-1-1,4-3-3,50946
-209,1069583,Milton Keynes Dons vs Sunderland,27,5368,424.0,NaN,NaN,3400437
-210,748,Sunderland vs Wigan Athletic,8,7,212.0,3-4-3,4-4-1-1,164512
-211,777,Manchester City vs Sunderland,8,7,,4-4-1-1,4-2-3-1,50227
-212,908,Sunderland vs Newcastle United,8,7,212.0,4-4-2,4-4-2,1569070
-213,951,Stoke City vs Sunderland,8,7,207.0,4-5-1,4-5-1,217489
-214,1069400,Sunderland vs Middlesbrough,27,5368,212.0,NaN,NaN,3138153
-215,1040,Sunderland vs Aston Villa,8,7,212.0,4-4-2,4-4-2,51370
-216,1110,Everton vs Sunderland,8,7,12.0,4-4-2,4-4-1-1,50962
-218,1295,Sunderland vs West Bromwich Albion,8,7,212.0,4-2-3-1,4-4-2,1986422
-220,1653,Norwich City vs Sunderland,8,7,489.0,4-4-2,4-2-3-1,217226
-221,1701,Sunderland vs Chelsea,8,7,212.0,4-2-3-1,4-4-1-1,217500
-222,554,Sunderland vs Reading,8,7,212.0,4-4-1-1,4-4-1-1,51214
-224,1898,Southampton vs Sunderland,8,7,167.0,4-4-1-1,4-4-2,164552
-225,2016,Sunderland vs Manchester City,8,7,212.0,4-2-3-1,4-4-2,1570057
-226,2119,Sunderland vs Tottenham Hotspur,8,7,212.0,4-4-2,4-2-3-1,1570115
+98,2879,Arsenal vs Aston Villa,8,7,204.0,4-2-3-1,4-1-4-1,15269
+99,3053,Tottenham Hotspur vs Arsenal,8,7,209.0,4-2-3-1,4-2-3-1,20191
+100,481,Queens Park Rangers vs Swansea City,8,7,491.0,4-3-3,4-4-1-1,15267
+101,516,Swansea City vs West Ham United,8,7,208.0,4-3-3,4-3-3,15269
+102,1069847,Swansea City vs Barnsley,27,5368,208.0,NaN,NaN,14663
+103,567,Swansea City vs Sunderland,8,7,208.0,4-4-2,4-5-1,14818
+104,609,Aston Villa vs Swansea City,8,7,,4-2-3-1,4-1-3-2,15270
+105,651,Swansea City vs Everton,8,7,208.0,4-4-1-1,4-2-3-1,14532
+106,1069548,Crawley Town vs Swansea City,27,5368,282066.0,NaN,NaN,17241
+107,742,Stoke City vs Swansea City,8,7,13.0,4-3-3,4-2-3-1,13533
+108,789,Swansea City vs Reading,8,7,208.0,4-4-2,4-2-3-1,15241
+109,873,Swansea City vs Wigan Athletic,8,7,208.0,3-4-3,4-2-3-1,15272
+110,969,Manchester City vs Swansea City,8,7,,4-1-2-3,4-4-2,15269
+112,1049,Swansea City vs Chelsea,8,7,208.0,4-2-3-1,4-2-3-1,15242
+113,1127,Southampton vs Swansea City,8,7,167.0,4-3-3,4-4-2,14533
+114,1226,Newcastle United vs Swansea City,8,7,,4-2-3-1,4-4-2,69960
+116,1518,Swansea City vs West Bromwich Albion,8,7,208.0,4-4-2,4-5-1,15270
+118,1711,Swansea City vs Norwich City,8,7,208.0,4-4-1-1,4-2-3-1,32980
+119,1069377,Swansea City vs Middlesbrough,27,5368,208.0,4-3-3,4-2-3-1,15267
+120,1831,Tottenham Hotspur vs Swansea City,8,7,209.0,4-4-2,4-4-2,15241
+121,1948,Swansea City vs Manchester United,8,7,208.0,4-4-2,4-2-3-1,15273
+122,2008,Reading vs Swansea City,8,7,494.0,4-2-3-1,4-3-2-1,15272
+124,2270,Swansea City vs Aston Villa,8,7,208.0,4-4-2,4-4-2,69975
+126,1069338,Chelsea vs Swansea City,27,5368,,4-2-3-1,4-2-3-1,14532
+127,2367,Everton vs Swansea City,8,7,12.0,4-4-2,4-4-1-1,69960
+129,2470,Swansea City vs Stoke City,8,7,208.0,4-4-1-1,4-2-3-1,15241
+130,1069348,Swansea City vs Chelsea,27,5368,208.0,4-2-3-1,4-2-3-1,69959
+131,2567,Sunderland vs Swansea City,8,7,212.0,4-2-3-1,4-4-1-1,14533
+132,2696,West Ham United vs Swansea City,8,7,4.0,4-2-3-1,4-5-1,15267
+133,2803,Swansea City vs Queens Park Rangers,8,7,208.0,4-2-3-1,4-2-3-1,15271
+135,1069306,Bradford City vs Swansea City,27,5368,,4-2-3-1,4-4-2,15242
+136,3032,Swansea City vs Newcastle United,8,7,208.0,4-2-3-1,4-2-3-1,15293
+138,528,Norwich City vs Queens Park Rangers,8,7,489.0,4-4-2,4-4-2,20191
+139,1069751,Queens Park Rangers vs Walsall,27,5368,491.0,NaN,NaN,70007
+140,584,Manchester City vs Queens Park Rangers,8,7,,4-4-2,4-2-3-1,69959
+141,625,Queens Park Rangers vs Chelsea,8,7,491.0,4-2-3-1,4-4-2,14533
+142,702,Tottenham Hotspur vs Queens Park Rangers,8,7,209.0,4-4-2,4-2-3-1,69960
+143,1069616,Queens Park Rangers vs Reading,27,5368,491.0,NaN,NaN,14818
+144,768,Queens Park Rangers vs West Ham United,8,7,491.0,4-2-3-1,4-4-2,20191
+145,797,West Bromwich Albion vs Queens Park Rangers,8,7,119.0,4-1-4-1,4-1-4-1,15272
+146,916,Queens Park Rangers vs Everton,8,7,491.0,4-4-2,4-4-2,13533
+148,1075,Queens Park Rangers vs Reading,8,7,491.0,4-4-2,4-4-2,15273
+149,1136,Stoke City vs Queens Park Rangers,8,7,207.0,4-4-2,4-1-4-1,15269
+150,1235,Queens Park Rangers vs Southampton,8,7,491.0,4-1-4-1,4-4-2,15241
+151,1316,Manchester United vs Queens Park Rangers,8,7,206.0,4-2-3-1,4-4-1-1,15267
+152,1459,Sunderland vs Queens Park Rangers,8,7,212.0,4-4-1-1,4-4-1-1,14533
+153,1623,Queens Park Rangers vs Aston Villa,8,7,491.0,4-3-2-1,4-1-4-1,32980
+154,1722,Wigan Athletic vs Queens Park Rangers,8,7,14.0,4-3-3,3-4-3,69960
+156,1888,Newcastle United vs Queens Park Rangers,8,7,,4-5-1,4-4-2,15242
+157,2025,Queens Park Rangers vs West Bromwich Albion,8,7,491.0,4-2-3-1,4-2-3-1,69959
+159,2319,Chelsea vs Queens Park Rangers,8,7,,4-3-3,4-2-3-1,15270
+160,1066295,Queens Park Rangers vs West Bromwich Albion,24,5356,491.0,NaN,NaN,20191
+161,2348,Queens Park Rangers vs Tottenham Hotspur,8,7,491.0,4-4-2,4-3-3,15267
+162,1066088,West Bromwich Albion vs Queens Park Rangers,24,5356,119.0,NaN,NaN,15269
+163,2480,West Ham United vs Queens Park Rangers,8,7,4.0,4-4-2,4-4-2,32980
+164,1065938,Queens Park Rangers vs Milton Keynes Dons,24,5356,491.0,NaN,NaN,15241
+165,2548,Queens Park Rangers vs Manchester City,8,7,491.0,4-2-3-1,4-2-3-1,69960
+166,2642,Queens Park Rangers vs Norwich City,8,7,491.0,4-2-3-1,4-2-3-1,13533
+168,2901,Queens Park Rangers vs Manchester United,8,7,491.0,4-4-2,4-2-3-1,14532
+169,2999,Southampton vs Queens Park Rangers,8,7,167.0,4-4-2,4-2-3-1,32980
+170,511,Everton vs Manchester United,8,7,12.0,4-2-3-1,4-4-1-1,14533
+172,596,Southampton vs Manchester United,8,7,167.0,4-2-3-1,4-3-2-1,15241
+173,619,Manchester United vs Wigan Athletic,8,7,206.0,3-4-1-2,4-4-2,15273
+175,1069637,Manchester United vs Newcastle United,27,5368,206.0,4-4-1-1,4-4-2,14532
+176,756,Manchester United vs Tottenham Hotspur,8,7,206.0,4-2-3-1,4-2-3-1,69959
+177,837,Newcastle United vs Manchester United,8,7,,4-3-3,4-4-2,32980
+178,866,Manchester United vs Stoke City,8,7,206.0,4-5-1,4-4-2,14532
+179,1005,Chelsea vs Manchester United,8,7,321614.0,4-4-2,4-2-3-1,20191
+180,1069463,Chelsea vs Manchester United,27,5368,321614.0,4-4-2,4-2-3-1,15270
+182,1155,Aston Villa vs Manchester United,8,7,,4-4-1-1,4-4-1-1,15242
+183,1265,Norwich City vs Manchester United,8,7,489.0,4-4-2,4-2-3-1,14532
+185,1557,Manchester United vs West Ham United,8,7,206.0,4-2-3-1,4-3-3,15272
+186,1642,Reading vs Manchester United,8,7,494.0,4-1-4-1,4-4-2,69975
+187,1731,Manchester City vs Manchester United,8,7,,4-2-3-1,4-4-1-1,15269
+188,1793,Manchester United vs Sunderland,8,7,206.0,4-4-1-1,4-4-1-1,69959
+190,1987,Manchester United vs Newcastle United,8,7,206.0,4-3-3,4-4-2,15241
+191,2180,Manchester United vs West Bromwich Albion,8,7,206.0,4-2-3-1,4-4-2,13533
+192,2299,Wigan Athletic vs Manchester United,8,7,14.0,4-4-2,3-4-3,14533
+193,1066395,West Ham United vs Manchester United,24,5356,4.0,4-4-2,4-3-3,15269
+195,1066108,Manchester United vs West Ham United,24,5356,206.0,4-4-2,4-4-2,69960
+196,2519,Tottenham Hotspur vs Manchester United,8,7,209.0,4-1-4-1,4-2-3-1,69959
+198,2608,Manchester United vs Southampton,8,7,206.0,4-2-3-1,4-4-2,15270
+200,2836,Manchester United vs Everton,8,7,206.0,4-4-2,4-4-2,69975
+201,1065810,Manchester United vs Reading,24,5356,206.0,4-4-2,4-4-2,14533
+203,2988,Manchester United vs Norwich City,8,7,206.0,4-4-1-1,4-4-2,15271
+205,1069666,Sunderland vs Morecambe,27,5368,212.0,NaN,NaN,17241
+208,673,West Ham United vs Sunderland,8,7,4.0,4-4-1-1,4-3-3,15270
+209,1069583,Milton Keynes Dons vs Sunderland,27,5368,424.0,NaN,NaN,15835
+210,748,Sunderland vs Wigan Athletic,8,7,212.0,3-4-3,4-4-1-1,32980
+211,777,Manchester City vs Sunderland,8,7,,4-4-1-1,4-2-3-1,15267
+212,908,Sunderland vs Newcastle United,8,7,212.0,4-4-2,4-4-2,15269
+213,951,Stoke City vs Sunderland,8,7,207.0,4-5-1,4-5-1,69975
+214,1069400,Sunderland vs Middlesbrough,27,5368,212.0,NaN,NaN,69960
+215,1040,Sunderland vs Aston Villa,8,7,212.0,4-4-2,4-4-2,15272
+216,1110,Everton vs Sunderland,8,7,12.0,4-4-2,4-4-1-1,15270
+218,1295,Sunderland vs West Bromwich Albion,8,7,212.0,4-2-3-1,4-4-2,15241
+220,1653,Norwich City vs Sunderland,8,7,489.0,4-4-2,4-2-3-1,69960
+221,1701,Sunderland vs Chelsea,8,7,212.0,4-2-3-1,4-4-1-1,69975
+222,554,Sunderland vs Reading,8,7,212.0,4-4-1-1,4-4-1-1,15271
+224,1898,Southampton vs Sunderland,8,7,167.0,4-4-1-1,4-4-2,32980
+225,2016,Sunderland vs Manchester City,8,7,212.0,4-2-3-1,4-4-2,15242
+226,2119,Sunderland vs Tottenham Hotspur,8,7,212.0,4-4-2,4-2-3-1,15269
 228,1066314,Bolton Wanderers vs Sunderland,24,5356,10.0,NaN,NaN,"[{'id': 3140072, 'fixture_id': 1066314, 'referee_id': 12019, 'type_id': 7}, {'id': 3140066, 'fixture_id': 1066314, 'referee_id': 69962, 'type_id': 9}]"
-229,2412,Sunderland vs West Ham United,8,7,212.0,4-4-2,4-4-2,51243
-230,1066069,Sunderland vs Bolton Wanderers,24,5356,212.0,NaN,NaN,3140342
-231,2489,Wigan Athletic vs Sunderland,8,7,14.0,4-4-1-1,3-4-3,3208657
-233,2686,Reading vs Sunderland,8,7,494.0,4-1-4-1,4-1-4-1,51019
-235,2922,West Bromwich Albion vs Sunderland,8,7,119.0,4-4-2,4-4-2,42990
-237,503,Wigan Athletic vs Chelsea,8,7,14.0,4-2-3-1,3-4-3,51351
-238,533,Southampton vs Wigan Athletic,8,7,167.0,3-4-3,4-5-1,3209408
+229,2412,Sunderland vs West Ham United,8,7,212.0,4-4-2,4-4-2,15271
+230,1066069,Sunderland vs Bolton Wanderers,24,5356,212.0,NaN,NaN,15242
+231,2489,Wigan Athletic vs Sunderland,8,7,14.0,4-4-1-1,3-4-3,14532
+233,2686,Reading vs Sunderland,8,7,494.0,4-1-4-1,4-1-4-1,15270
+235,2922,West Bromwich Albion vs Sunderland,8,7,119.0,4-4-2,4-4-2,14818
+237,503,Wigan Athletic vs Chelsea,8,7,14.0,4-2-3-1,3-4-3,15272
+238,533,Southampton vs Wigan Athletic,8,7,167.0,3-4-3,4-5-1,14532
 239,1069881,Nottingham Forest vs Wigan Athletic,27,5368,542.0,3-4-3,4-4-2,"[{'id': 3136897, 'fixture_id': 1069881, 'referee_id': 70023, 'type_id': 8}, {'id': 3136909, 'fixture_id': 1069881, 'referee_id': 13552, 'type_id': 9}, {'id': 3136925, 'fixture_id': 1069881, 'referee_id': 14830, 'type_id': 7}]"
-240,579,Wigan Athletic vs Stoke City,8,7,14.0,4-4-1-1,4-4-2,1568678
-243,1069495,West Ham United vs Wigan Athletic,27,5368,4.0,NaN,NaN,4709445
-245,803,Wigan Athletic vs Everton,8,7,14.0,4-4-2,3-4-3,1568925
-247,959,Wigan Athletic vs West Ham United,8,7,14.0,4-5-1,3-4-3,1569076
-248,1069421,Wigan Athletic vs Bradford City,27,5368,14.0,NaN,NaN,3138089
-249,1059,Tottenham Hotspur vs Wigan Athletic,8,7,209.0,3-4-3,4-4-2,1569410
-250,1144,Wigan Athletic vs West Bromwich Albion,8,7,14.0,4-4-2,3-4-3,51225
-252,1335,Wigan Athletic vs Reading,8,7,14.0,4-4-2,3-4-3,164538
-253,1565,Wigan Athletic vs Manchester City,8,7,14.0,4-2-3-1,3-4-3,217496
-254,1662,Newcastle United vs Wigan Athletic,8,7,,3-4-1-2,4-3-3,51390
-256,1803,Norwich City vs Wigan Athletic,8,7,489.0,3-4-3,4-4-1-1,50249
-258,1969,Everton vs Wigan Athletic,8,7,12.0,3-5-2,4-4-2,50990
-259,2144,Aston Villa vs Wigan Athletic,8,7,,3-4-3,5-3-2,1570072
-261,1066148,Wigan Athletic vs AFC Bournemouth,24,5356,14.0,NaN,NaN,5248131
-263,1066019,AFC Bournemouth vs Wigan Athletic,24,5356,346.0,NaN,NaN,3140446
-265,1065879,Macclesfield Town vs Wigan Athletic,24,5356,985.0,NaN,NaN,3140596
-266,2557,Stoke City vs Wigan Athletic,8,7,207.0,3-5-2,3-5-2,51421
-267,2706,Wigan Athletic vs Southampton,8,7,14.0,4-4-2,3-4-3,2778056
-268,2761,Chelsea vs Wigan Athletic,8,7,,3-4-3,4-2-3-1,1986803
-269,1065800,Huddersfield Town vs Wigan Athletic,24,5356,340.0,NaN,NaN,3140735
-270,2912,Reading vs Wigan Athletic,8,7,494.0,3-5-2,4-5-1,217267
-272,498,Newcastle United vs Tottenham Hotspur,8,7,,4-2-3-1,4-4-2,1568847
-273,541,Chelsea vs Newcastle United,8,7,321614.0,4-3-3,4-3-3,217182
-274,592,Newcastle United vs Aston Villa,8,7,,4-2-3-1,4-4-2,50219
-275,646,Everton vs Newcastle United,8,7,12.0,4-5-1,4-4-2,51355
-276,690,Newcastle United vs Norwich City,8,7,,4-5-1,4-4-2,51216
-278,736,Reading vs Newcastle United,8,7,494.0,4-4-2,4-4-2,2779309
-281,986,Newcastle United vs West Bromwich Albion,8,7,,4-4-2,4-4-2,217073
-283,1175,Newcastle United vs West Ham United,8,7,,4-4-2,4-4-2,1986389
-285,1401,Southampton vs Newcastle United,8,7,167.0,4-4-2,4-4-2,1569541
-286,1509,Stoke City vs Newcastle United,8,7,207.0,4-4-2,4-4-1-1,164541
-289,1772,Newcastle United vs Manchester City,8,7,,4-2-3-1,4-4-2,2778698
-293,2340,Newcastle United vs Everton,8,7,,4-2-3-1,4-2-3-1,1570408
-294,1066118,Brighton & Hove Albion vs Newcastle United,24,5356,,4-2-3-1,4-4-2,3140317
-295,2383,Norwich City vs Newcastle United,8,7,489.0,4-4-2,4-4-1-1,3208706
-296,2460,Newcastle United vs Reading,8,7,,4-2-3-1,4-2-3-1,2778239
-297,2538,Aston Villa vs Newcastle United,8,7,,4-2-3-1,5-3-2,1986741
-298,2674,Newcastle United vs Chelsea,8,7,,4-2-3-1,4-2-3-1,164579
-299,2750,Tottenham Hotspur vs Newcastle United,8,7,209.0,4-2-3-1,4-4-1-1,217262
-300,2943,Newcastle United vs Southampton,8,7,,4-2-3-1,4-2-3-1,217141
-304,1069656,Norwich City vs Scunthorpe United,27,5368,489.0,NaN,NaN,3137563
-305,571,Tottenham Hotspur vs Norwich City,8,7,209.0,4-4-2,4-2-3-1,217479
-306,600,Norwich City vs West Ham United,8,7,489.0,4-2-3-1,4-4-2,217056
-308,1069626,Norwich City vs Doncaster Rovers,27,5368,489.0,NaN,NaN,3137549
-310,783,Chelsea vs Norwich City,8,7,321614.0,4-4-1-1,4-2-3-1,3209314
-312,924,Aston Villa vs Norwich City,8,7,,4-2-3-1,4-2-3-1,217198
-313,1069453,Norwich City vs Tottenham Hotspur,27,5368,489.0,NaN,NaN,3138037
-314,1032,Norwich City vs Stoke City,8,7,489.0,4-3-3,4-2-3-1,2779138
-315,1118,Reading vs Norwich City,8,7,494.0,4-4-1-1,4-4-2,217080
-317,1307,Everton vs Norwich City,8,7,12.0,4-4-1-1,4-4-1-1,51380
-318,1501,Southampton vs Norwich City,8,7,167.0,4-4-2,4-2-3-1,117794
-321,1069357,Norwich City vs Aston Villa,27,5368,489.0,NaN,NaN,3138228
-323,1917,West Bromwich Albion vs Norwich City,8,7,119.0,4-4-1-1,4-5-1,1569981
-324,1998,Norwich City vs Chelsea,8,7,489.0,4-2-3-1,4-4-1-1,1570083
-325,2189,Norwich City vs Manchester City,8,7,489.0,4-2-3-1,4-4-2,51408
-326,2289,West Ham United vs Norwich City,8,7,4.0,4-4-2,4-2-3-1,117828
-327,1066304,Peterborough United vs Norwich City,24,5356,260.0,4-4-2,3-5-2,3398341
-330,1065869,Norwich City vs Luton Town,24,5356,489.0,4-4-2,4-4-2,3140621
-331,2587,Norwich City vs Tottenham Hotspur,8,7,489.0,4-4-2,4-4-1-1,51249
-334,2890,Norwich City vs Everton,8,7,489.0,4-5-1,4-4-2,51025
-337,520,Aston Villa vs Everton,8,7,,4-4-2,4-4-2,3209422
-338,1069903,Everton vs Leyton Orient,27,5368,12.0,NaN,NaN,3136917
-339,575,West Bromwich Albion vs Everton,8,7,119.0,4-4-1-1,4-2-3-1,1568815
-342,1069507,Leeds United vs Everton,27,5368,488.0,4-4-2,4-4-2,3137922
-343,715,Everton vs Southampton,8,7,12.0,4-4-2,4-4-1-1,50225
-349,1247,Reading vs Everton,8,7,494.0,4-4-1-1,4-4-2,1569404
-352,1614,Manchester City vs Everton,8,7,,4-4-2,4-2-3-1,50244
-353,1742,Everton vs Tottenham Hotspur,8,7,12.0,4-4-2,4-4-2,1569841
-354,1822,Stoke City vs Everton,8,7,207.0,4-4-1-1,4-3-3,217501
-355,1927,West Ham United vs Everton,8,7,4.0,4-4-2,4-2-3-1,3208887
-357,2233,Everton vs Chelsea,8,7,12.0,4-2-3-1,4-4-2,164562
-359,1066426,Cheltenham Town vs Everton,24,5356,728.0,4-4-1-1,4-1-2-3,3139942
-361,2528,Southampton vs Everton,8,7,167.0,4-4-2,4-2-3-1,51247
-362,1065947,Bolton Wanderers vs Everton,24,5356,10.0,NaN,NaN,3140549
-363,2598,Everton vs West Bromwich Albion,8,7,12.0,4-2-3-1,4-4-1-1,3208599
-364,2662,Everton vs Aston Villa,8,7,12.0,4-4-2,4-4-1-1,51425
-366,1065780,Oldham Athletic vs Everton,24,5356,670.0,4-4-2,4-4-2,3140747
-368,1065740,Everton vs Oldham Athletic,24,5356,12.0,4-4-2,4-4-2,3140802
-369,2978,Everton vs Reading,8,7,12.0,4-4-2,4-4-1-1,3208417
-371,537,Tottenham Hotspur vs West Bromwich Albion,8,7,209.0,4-2-3-1,4-2-3-1,1986244
-372,1069835,Yeovil Town vs West Bromwich Albion,27,5368,841.0,NaN,NaN,3137137
-375,668,West Bromwich Albion vs Reading,8,7,119.0,4-4-2,4-4-1-1,217060
-377,762,Aston Villa vs West Bromwich Albion,8,7,,4-2-3-1,4-4-2,3209315
-379,881,West Bromwich Albion vs Manchester City,8,7,119.0,4-2-3-1,4-2-3-1,117773
-381,1092,West Bromwich Albion vs Southampton,8,7,119.0,4-4-2,4-2-3-1,217492
-383,1256,West Bromwich Albion vs Chelsea,8,7,119.0,4-2-3-1,4-2-3-1,3209159
-386,1633,West Bromwich Albion vs Stoke City,8,7,119.0,4-5-1,4-4-1-1,1569716
-388,1840,West Bromwich Albion vs West Ham United,8,7,119.0,4-2-3-1,4-2-3-1,217231
-394,2392,Reading vs West Bromwich Albion,8,7,494.0,4-4-2,4-1-4-1,1570281
-396,2499,West Bromwich Albion vs Aston Villa,8,7,119.0,3-5-2,4-4-2,50263
-398,2729,West Bromwich Albion vs Tottenham Hotspur,8,7,119.0,4-2-3-1,4-4-2,117850
-401,2965,Chelsea vs West Bromwich Albion,8,7,,4-2-3-1,4-2-3-1,1571027
-402,507,Manchester City vs Southampton,8,7,,4-3-3,4-4-2,164499
-405,629,Stoke City vs Manchester City,8,7,13.0,4-4-1-1,4-4-1-1,117764
-407,1069569,Manchester City vs Aston Villa,27,5368,,NaN,NaN,3137721
-412,1067,West Ham United vs Manchester City,8,7,4.0,4-2-3-1,4-2-3-1,164526
-413,1165,Manchester City vs Tottenham Hotspur,8,7,,4-2-3-1,4-4-2,3209180
-414,1216,Manchester City vs Aston Villa,8,7,,4-3-3,4-2-3-1,1569313
-415,1419,Chelsea vs Manchester City,8,7,,4-3-3,4-2-3-1,217092
-420,1879,Manchester City vs Reading,8,7,,4-5-1,4-2-3-1,1986559
-423,2260,Manchester City vs Stoke City,8,7,,4-5-1,4-2-3-1,3208772
-424,1066206,Manchester City vs Watford,24,5356,,NaN,NaN,3140217
-427,1065859,Stoke City vs Manchester City,24,5356,13.0,4-4-2,4-4-2,3140662
-430,2815,Southampton vs Manchester City,8,7,167.0,4-2-3-1,4-2-3-1,1571067
-431,1065790,Manchester City vs Leeds United,24,5356,,4-2-3-1,4-2-3-1,3140743
-432,2932,Manchester City vs Chelsea,8,7,,4-2-3-1,4-2-3-1,2777877
-433,3063,Aston Villa vs Manchester City,8,7,,4-2-3-1,4-2-3-1,1986886
-434,494,West Ham United vs Aston Villa,8,7,4.0,4-4-2,4-3-3,1986233
-436,1069815,West Ham United vs Crewe Alexandra,27,5368,4.0,NaN,NaN,3137170
-443,890,West Ham United vs Southampton,8,7,4.0,4-1-4-1,4-4-2,51220
-447,1286,West Ham United vs Stoke City,8,7,4.0,4-2-3-1,4-2-3-1,217088
-448,1437,Tottenham Hotspur vs West Ham United,8,7,209.0,4-2-3-1,4-2-3-1,2778889
-450,1575,West Ham United vs Chelsea,8,7,4.0,4-2-3-1,4-2-3-1,1569615
-454,2201,Reading vs West Ham United,8,7,494.0,4-4-2,4-4-2,3208807
-463,2825,Aston Villa vs West Ham United,8,7,,4-4-2,4-5-1,117856
-464,2955,West Ham United vs Tottenham Hotspur,8,7,4.0,4-2-3-1,4-3-3,164588
-465,3010,Stoke City vs West Ham United,8,7,207.0,4-5-1,4-4-2,1571131
-468,1069740,Stevenage vs Southampton,27,5368,840.0,NaN,NaN,3246931
-471,663,Southampton vs Aston Villa,8,7,167.0,4-4-2,4-4-2,1568812
-472,1069527,Southampton vs Sheffield Wednesday,27,5368,167.0,NaN,NaN,3137887
-476,994,Southampton vs Tottenham Hotspur,8,7,167.0,4-2-3-1,4-4-2,50960
-477,1069430,Leeds United vs Southampton,27,5368,488.0,NaN,NaN,3138092
-484,1691,Southampton vs Reading,8,7,167.0,4-4-2,4-4-2,1569786
-487,2211,Stoke City vs Southampton,8,7,207.0,4-1-3-2,4-4-2,117826
-489,1066284,Southampton vs Chelsea,24,5356,167.0,4-2-3-1,4-2-3-1,3140105
-490,2358,Aston Villa vs Southampton,8,7,,4-4-2,4-4-2,217506
-491,1861,Chelsea vs Southampton,8,7,,4-3-2-1,4-2-3-1,3208921
-499,558,Chelsea vs Reading,8,7,321614.0,4-5-1,4-2-3-1,50940
-502,656,Chelsea vs Stoke City,8,7,321614.0,4-2-3-1,4-2-3-1,3209360
-503,1069537,Chelsea vs Wolverhampton Wanderers,27,5368,321614.0,NaN,NaN,3137809
-506,843,Tottenham Hotspur vs Chelsea,8,7,209.0,4-2-3-1,4-2-3-1,1986306
-516,1069388,Leeds United vs Chelsea,27,5368,488.0,4-1-4-1,4-4-2,3138225
-517,1957,Chelsea vs Aston Villa,8,7,,5-3-2,4-2-3-1,217235
-523,2402,Stoke City vs Chelsea,8,7,13.0,4-2-3-1,4-2-3-1,2778273
-527,1065979,Brentford vs Chelsea,24,5356,374.0,4-2-3-1,4-2-3-1,3140503
-528,2620,Reading vs Chelsea,8,7,494.0,4-5-1,4-5-1,217508
-531,1065840,Chelsea vs Brentford,24,5356,321614.0,4-4-2,4-2-3-1,3140672
-533,1065820,Middlesbrough vs Chelsea,24,5356,203.0,4-2-3-1,4-4-2,3140694
-537,1069718,Aston Villa vs Tranmere Rovers,27,5368,,NaN,NaN,3137308
-543,830,Tottenham Hotspur vs Aston Villa,8,7,209.0,4-4-2,4-4-2,51218
-546,1069410,Swindon Town vs Aston Villa,27,5368,516.0,NaN,NaN,3400041
-551,1481,Aston Villa vs Reading,8,7,,4-4-2,4-2-3-1,50241
-553,1683,Aston Villa vs Stoke City,8,7,,4-5-1,4-4-2,42973
-557,2038,Aston Villa vs Tottenham Hotspur,8,7,,4-4-2,3-5-2,117820
-560,1066167,Aston Villa vs Ipswich Town,24,5356,,NaN,NaN,3140261
-561,1069317,Bradford City vs Aston Villa,27,5368,653.0,4-2-3-1,4-4-2,2973307
-564,1069328,Aston Villa vs Bradford City,27,5368,,4-4-2,4-3-1-2,2973303
-565,1065850,Millwall vs Aston Villa,24,5356,656.0,NaN,NaN,3140664
-574,639,Reading vs Tottenham Hotspur,8,7,494.0,4-3-3,4-2-3-1,164507
-576,1069593,Carlisle United vs Tottenham Hotspur,27,5368,833.0,NaN,NaN,3137664
-590,1909,Tottenham Hotspur vs Stoke City,8,7,209.0,4-4-2,4-4-2,50988
-593,2279,Tottenham Hotspur vs Reading,8,7,209.0,4-4-1-1,4-4-2,164566
-594,1066138,Tottenham Hotspur vs Coventry City,24,5356,209.0,NaN,NaN,3140285
-597,1065988,Leeds United vs Tottenham Hotspur,24,5356,488.0,4-2-3-1,4-2-3-1,3140472
-603,485,Reading vs Stoke City,8,7,494.0,4-4-2,4-4-2,1568711
-605,1069730,Stoke City vs Swindon Town,27,5368,13.0,NaN,NaN,3137375
-625,1066128,Crystal Palace vs Stoke City,24,5356,201.0,NaN,NaN,3140288
-627,1066058,Stoke City vs Crystal Palace,24,5356,13.0,NaN,NaN,3140356
-632,2782,Stoke City vs Reading,8,7,207.0,4-5-1,4-4-2,3208496
-637,1069892,Reading vs Peterborough United,27,5368,494.0,NaN,NaN,3136918
-659,1066245,Crawley Town vs Reading,24,5356,282066.0,NaN,NaN,3140162
-662,1065919,Reading vs Sheffield United,24,5356,494.0,NaN,NaN,3140579
+240,579,Wigan Athletic vs Stoke City,8,7,14.0,4-4-1-1,4-4-2,15269
+243,1069495,West Ham United vs Wigan Athletic,27,5368,4.0,NaN,NaN,15293
+245,803,Wigan Athletic vs Everton,8,7,14.0,4-4-2,3-4-3,15242
+247,959,Wigan Athletic vs West Ham United,8,7,14.0,4-5-1,3-4-3,13533
+248,1069421,Wigan Athletic vs Bradford City,27,5368,14.0,NaN,NaN,14818
+249,1059,Tottenham Hotspur vs Wigan Athletic,8,7,209.0,3-4-3,4-4-2,15269
+250,1144,Wigan Athletic vs West Bromwich Albion,8,7,14.0,4-4-2,3-4-3,15271
+252,1335,Wigan Athletic vs Reading,8,7,14.0,4-4-2,3-4-3,32980
+253,1565,Wigan Athletic vs Manchester City,8,7,14.0,4-2-3-1,3-4-3,69975
+254,1662,Newcastle United vs Wigan Athletic,8,7,,3-4-1-2,4-3-3,15272
+256,1803,Norwich City vs Wigan Athletic,8,7,489.0,3-4-3,4-4-1-1,15267
+258,1969,Everton vs Wigan Athletic,8,7,12.0,3-5-2,4-4-2,15270
+259,2144,Aston Villa vs Wigan Athletic,8,7,,3-4-3,5-3-2,15242
+261,1066148,Wigan Athletic vs AFC Bournemouth,24,5356,14.0,NaN,NaN,17241
+263,1066019,AFC Bournemouth vs Wigan Athletic,24,5356,346.0,NaN,NaN,13533
+265,1065879,Macclesfield Town vs Wigan Athletic,24,5356,985.0,NaN,NaN,14818
+266,2557,Stoke City vs Wigan Athletic,8,7,207.0,3-5-2,3-5-2,15272
+267,2706,Wigan Athletic vs Southampton,8,7,14.0,4-4-2,3-4-3,14533
+268,2761,Chelsea vs Wigan Athletic,8,7,,3-4-3,4-2-3-1,15241
+269,1065800,Huddersfield Town vs Wigan Athletic,24,5356,340.0,NaN,NaN,15273
+270,2912,Reading vs Wigan Athletic,8,7,494.0,3-5-2,4-5-1,69960
+272,498,Newcastle United vs Tottenham Hotspur,8,7,,4-2-3-1,4-4-2,15269
+273,541,Chelsea vs Newcastle United,8,7,321614.0,4-3-3,4-3-3,69960
+274,592,Newcastle United vs Aston Villa,8,7,,4-2-3-1,4-4-2,15267
+275,646,Everton vs Newcastle United,8,7,12.0,4-5-1,4-4-2,15272
+276,690,Newcastle United vs Norwich City,8,7,,4-5-1,4-4-2,15271
+278,736,Reading vs Newcastle United,8,7,494.0,4-4-2,4-4-2,14533
+281,986,Newcastle United vs West Bromwich Albion,8,7,,4-4-2,4-4-2,69959
+283,1175,Newcastle United vs West Ham United,8,7,,4-4-2,4-4-2,15241
+285,1401,Southampton vs Newcastle United,8,7,167.0,4-4-2,4-4-2,15269
+286,1509,Stoke City vs Newcastle United,8,7,207.0,4-4-2,4-4-1-1,32980
+289,1772,Newcastle United vs Manchester City,8,7,,4-2-3-1,4-4-2,14533
+293,2340,Newcastle United vs Everton,8,7,,4-2-3-1,4-2-3-1,15269
+294,1066118,Brighton & Hove Albion vs Newcastle United,24,5356,,4-2-3-1,4-4-2,15267
+295,2383,Norwich City vs Newcastle United,8,7,489.0,4-4-2,4-4-1-1,14532
+296,2460,Newcastle United vs Reading,8,7,,4-2-3-1,4-2-3-1,14533
+297,2538,Aston Villa vs Newcastle United,8,7,,4-2-3-1,5-3-2,15241
+298,2674,Newcastle United vs Chelsea,8,7,,4-2-3-1,4-2-3-1,32980
+299,2750,Tottenham Hotspur vs Newcastle United,8,7,209.0,4-2-3-1,4-4-1-1,69960
+300,2943,Newcastle United vs Southampton,8,7,,4-2-3-1,4-2-3-1,69959
+304,1069656,Norwich City vs Scunthorpe United,27,5368,489.0,NaN,NaN,69962
+305,571,Tottenham Hotspur vs Norwich City,8,7,209.0,4-4-2,4-2-3-1,69975
+306,600,Norwich City vs West Ham United,8,7,489.0,4-2-3-1,4-4-2,69959
+308,1069626,Norwich City vs Doncaster Rovers,27,5368,489.0,NaN,NaN,69977
+310,783,Chelsea vs Norwich City,8,7,321614.0,4-4-1-1,4-2-3-1,14532
+312,924,Aston Villa vs Norwich City,8,7,,4-2-3-1,4-2-3-1,69960
+313,1069453,Norwich City vs Tottenham Hotspur,27,5368,489.0,NaN,NaN,13533
+314,1032,Norwich City vs Stoke City,8,7,489.0,4-3-3,4-2-3-1,14533
+315,1118,Reading vs Norwich City,8,7,494.0,4-4-1-1,4-4-2,69959
+317,1307,Everton vs Norwich City,8,7,12.0,4-4-1-1,4-4-1-1,15272
+318,1501,Southampton vs Norwich City,8,7,167.0,4-4-2,4-2-3-1,20191
+321,1069357,Norwich City vs Aston Villa,27,5368,489.0,NaN,NaN,15273
+323,1917,West Bromwich Albion vs Norwich City,8,7,119.0,4-4-1-1,4-5-1,15269
+324,1998,Norwich City vs Chelsea,8,7,489.0,4-2-3-1,4-4-1-1,13533
+325,2189,Norwich City vs Manchester City,8,7,489.0,4-2-3-1,4-4-2,15272
+326,2289,West Ham United vs Norwich City,8,7,4.0,4-4-2,4-2-3-1,20191
+327,1066304,Peterborough United vs Norwich City,24,5356,260.0,4-4-2,3-5-2,15835
+330,1065869,Norwich City vs Luton Town,24,5356,489.0,4-4-2,4-4-2,14533
+331,2587,Norwich City vs Tottenham Hotspur,8,7,489.0,4-4-2,4-4-1-1,15271
+334,2890,Norwich City vs Everton,8,7,489.0,4-5-1,4-4-2,15270
+337,520,Aston Villa vs Everton,8,7,,4-4-2,4-4-2,15273
+338,1069903,Everton vs Leyton Orient,27,5368,12.0,NaN,NaN,14818
+339,575,West Bromwich Albion vs Everton,8,7,119.0,4-4-1-1,4-2-3-1,13533
+342,1069507,Leeds United vs Everton,27,5368,488.0,4-4-2,4-4-2,15270
+343,715,Everton vs Southampton,8,7,12.0,4-4-2,4-4-1-1,15267
+349,1247,Reading vs Everton,8,7,494.0,4-4-1-1,4-4-2,15269
+352,1614,Manchester City vs Everton,8,7,,4-4-2,4-2-3-1,15267
+353,1742,Everton vs Tottenham Hotspur,8,7,12.0,4-4-2,4-4-2,15242
+354,1822,Stoke City vs Everton,8,7,207.0,4-4-1-1,4-3-3,69975
+355,1927,West Ham United vs Everton,8,7,4.0,4-4-2,4-2-3-1,14532
+357,2233,Everton vs Chelsea,8,7,12.0,4-2-3-1,4-4-2,32980
+359,1066426,Cheltenham Town vs Everton,24,5356,728.0,4-4-1-1,4-1-2-3,15242
+361,2528,Southampton vs Everton,8,7,167.0,4-4-2,4-2-3-1,15271
+362,1065947,Bolton Wanderers vs Everton,24,5356,10.0,NaN,NaN,15269
+363,2598,Everton vs West Bromwich Albion,8,7,12.0,4-2-3-1,4-4-1-1,15273
+364,2662,Everton vs Aston Villa,8,7,12.0,4-4-2,4-4-1-1,15272
+366,1065780,Oldham Athletic vs Everton,24,5356,670.0,4-4-2,4-4-2,69960
+368,1065740,Everton vs Oldham Athletic,24,5356,12.0,4-4-2,4-4-2,15273
+369,2978,Everton vs Reading,8,7,12.0,4-4-2,4-4-1-1,14532
+371,537,Tottenham Hotspur vs West Bromwich Albion,8,7,209.0,4-2-3-1,4-2-3-1,15241
+372,1069835,Yeovil Town vs West Bromwich Albion,27,5368,841.0,NaN,NaN,69966
+375,668,West Bromwich Albion vs Reading,8,7,119.0,4-4-2,4-4-1-1,69959
+377,762,Aston Villa vs West Bromwich Albion,8,7,,4-2-3-1,4-4-2,14532
+379,881,West Bromwich Albion vs Manchester City,8,7,119.0,4-2-3-1,4-2-3-1,20191
+381,1092,West Bromwich Albion vs Southampton,8,7,119.0,4-4-2,4-2-3-1,69975
+383,1256,West Bromwich Albion vs Chelsea,8,7,119.0,4-2-3-1,4-2-3-1,15273
+386,1633,West Bromwich Albion vs Stoke City,8,7,119.0,4-5-1,4-4-1-1,15242
+388,1840,West Bromwich Albion vs West Ham United,8,7,119.0,4-2-3-1,4-2-3-1,69960
+394,2392,Reading vs West Bromwich Albion,8,7,494.0,4-4-2,4-1-4-1,15242
+396,2499,West Bromwich Albion vs Aston Villa,8,7,119.0,3-5-2,4-4-2,15267
+398,2729,West Bromwich Albion vs Tottenham Hotspur,8,7,119.0,4-2-3-1,4-4-2,20191
+401,2965,Chelsea vs West Bromwich Albion,8,7,,4-2-3-1,4-2-3-1,15242
+402,507,Manchester City vs Southampton,8,7,,4-3-3,4-4-2,32980
+405,629,Stoke City vs Manchester City,8,7,13.0,4-4-1-1,4-4-1-1,20191
+407,1069569,Manchester City vs Aston Villa,27,5368,,NaN,NaN,69960
+412,1067,West Ham United vs Manchester City,8,7,4.0,4-2-3-1,4-2-3-1,32980
+413,1165,Manchester City vs Tottenham Hotspur,8,7,,4-2-3-1,4-4-2,15273
+414,1216,Manchester City vs Aston Villa,8,7,,4-3-3,4-2-3-1,13533
+415,1419,Chelsea vs Manchester City,8,7,,4-3-3,4-2-3-1,69959
+420,1879,Manchester City vs Reading,8,7,,4-5-1,4-2-3-1,15241
+423,2260,Manchester City vs Stoke City,8,7,,4-5-1,4-2-3-1,15273
+424,1066206,Manchester City vs Watford,24,5356,,NaN,NaN,69960
+427,1065859,Stoke City vs Manchester City,24,5356,13.0,4-4-2,4-4-2,32980
+430,2815,Southampton vs Manchester City,8,7,167.0,4-2-3-1,4-2-3-1,15269
+431,1065790,Manchester City vs Leeds United,24,5356,,4-2-3-1,4-2-3-1,20191
+432,2932,Manchester City vs Chelsea,8,7,,4-2-3-1,4-2-3-1,14533
+433,3063,Aston Villa vs Manchester City,8,7,,4-2-3-1,4-2-3-1,15241
+434,494,West Ham United vs Aston Villa,8,7,4.0,4-4-2,4-3-3,15241
+436,1069815,West Ham United vs Crewe Alexandra,27,5368,4.0,NaN,NaN,70003
+443,890,West Ham United vs Southampton,8,7,4.0,4-1-4-1,4-4-2,15271
+447,1286,West Ham United vs Stoke City,8,7,4.0,4-2-3-1,4-2-3-1,69959
+448,1437,Tottenham Hotspur vs West Ham United,8,7,209.0,4-2-3-1,4-2-3-1,14533
+450,1575,West Ham United vs Chelsea,8,7,4.0,4-2-3-1,4-2-3-1,15269
+454,2201,Reading vs West Ham United,8,7,494.0,4-4-2,4-4-2,15273
+463,2825,Aston Villa vs West Ham United,8,7,,4-4-2,4-5-1,20191
+464,2955,West Ham United vs Tottenham Hotspur,8,7,4.0,4-2-3-1,4-3-3,32980
+465,3010,Stoke City vs West Ham United,8,7,207.0,4-5-1,4-4-2,13533
+468,1069740,Stevenage vs Southampton,27,5368,840.0,NaN,NaN,14659
+471,663,Southampton vs Aston Villa,8,7,167.0,4-4-2,4-4-2,13533
+472,1069527,Southampton vs Sheffield Wednesday,27,5368,167.0,NaN,NaN,69975
+476,994,Southampton vs Tottenham Hotspur,8,7,167.0,4-2-3-1,4-4-2,15270
+477,1069430,Leeds United vs Southampton,27,5368,488.0,NaN,NaN,69959
+484,1691,Southampton vs Reading,8,7,167.0,4-4-2,4-4-2,13533
+487,2211,Stoke City vs Southampton,8,7,207.0,4-1-3-2,4-4-2,20191
+489,1066284,Southampton vs Chelsea,24,5356,167.0,4-2-3-1,4-2-3-1,15241
+490,2358,Aston Villa vs Southampton,8,7,,4-4-2,4-4-2,69975
+491,1861,Chelsea vs Southampton,8,7,,4-3-2-1,4-2-3-1,15273
+499,558,Chelsea vs Reading,8,7,321614.0,4-5-1,4-2-3-1,15270
+502,656,Chelsea vs Stoke City,8,7,321614.0,4-2-3-1,4-2-3-1,15273
+503,1069537,Chelsea vs Wolverhampton Wanderers,27,5368,321614.0,NaN,NaN,15273
+506,843,Tottenham Hotspur vs Chelsea,8,7,209.0,4-2-3-1,4-2-3-1,15241
+516,1069388,Leeds United vs Chelsea,27,5368,488.0,4-1-4-1,4-4-2,14533
+517,1957,Chelsea vs Aston Villa,8,7,,5-3-2,4-2-3-1,69960
+523,2402,Stoke City vs Chelsea,8,7,13.0,4-2-3-1,4-2-3-1,14533
+527,1065979,Brentford vs Chelsea,24,5356,374.0,4-2-3-1,4-2-3-1,13533
+528,2620,Reading vs Chelsea,8,7,494.0,4-5-1,4-5-1,69975
+531,1065840,Chelsea vs Brentford,24,5356,321614.0,4-4-2,4-2-3-1,15269
+533,1065820,Middlesbrough vs Chelsea,24,5356,203.0,4-2-3-1,4-4-2,15269
+537,1069718,Aston Villa vs Tranmere Rovers,27,5368,,NaN,NaN,62686
+543,830,Tottenham Hotspur vs Aston Villa,8,7,209.0,4-4-2,4-4-2,15271
+546,1069410,Swindon Town vs Aston Villa,27,5368,516.0,NaN,NaN,15835
+551,1481,Aston Villa vs Reading,8,7,,4-4-2,4-2-3-1,15267
+553,1683,Aston Villa vs Stoke City,8,7,,4-5-1,4-4-2,14818
+557,2038,Aston Villa vs Tottenham Hotspur,8,7,,4-4-2,3-5-2,20191
+560,1066167,Aston Villa vs Ipswich Town,24,5356,,NaN,NaN,13533
+561,1069317,Bradford City vs Aston Villa,27,5368,653.0,4-2-3-1,4-4-2,32980
+564,1069328,Aston Villa vs Bradford City,27,5368,,4-4-2,4-3-1-2,69960
+565,1065850,Millwall vs Aston Villa,24,5356,656.0,NaN,NaN,15271
+574,639,Reading vs Tottenham Hotspur,8,7,494.0,4-3-3,4-2-3-1,32980
+576,1069593,Carlisle United vs Tottenham Hotspur,27,5368,833.0,NaN,NaN,15242
+590,1909,Tottenham Hotspur vs Stoke City,8,7,209.0,4-4-2,4-4-2,15270
+593,2279,Tottenham Hotspur vs Reading,8,7,209.0,4-4-1-1,4-4-2,32980
+594,1066138,Tottenham Hotspur vs Coventry City,24,5356,209.0,NaN,NaN,70007
+597,1065988,Leeds United vs Tottenham Hotspur,24,5356,488.0,4-2-3-1,4-2-3-1,15242
+603,485,Reading vs Stoke City,8,7,494.0,4-4-2,4-4-2,15242
+605,1069730,Stoke City vs Swindon Town,27,5368,13.0,NaN,NaN,69956
+625,1066128,Crystal Palace vs Stoke City,24,5356,201.0,NaN,NaN,15271
+627,1066058,Stoke City vs Crystal Palace,24,5356,13.0,NaN,NaN,14532
+632,2782,Stoke City vs Reading,8,7,207.0,4-5-1,4-4-2,15273
+637,1069892,Reading vs Peterborough United,27,5368,494.0,NaN,NaN,69965
+659,1066245,Crawley Town vs Reading,24,5356,282066.0,NaN,NaN,14532
+662,1065919,Reading vs Sheffield United,24,5356,494.0,NaN,NaN,69959

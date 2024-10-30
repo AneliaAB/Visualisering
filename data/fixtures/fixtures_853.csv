@@ -1,317 +1,317 @@
 ,fixture_id,name,league_id,season_id,venue_id,formation_away,formation_home,referee
-0,401484,Málaga vs Osasuna,564,853,9233.0,5-3-2,4-2-3-1,10110
-1,401591,Espanyol vs Málaga,564,853,9220.0,4-2-3-1,4-4-2,8491
-2,402164,Málaga vs Villarreal,564,853,9233.0,4-4-2,4-4-2,8305
-3,403190,Las Palmas vs Málaga,564,853,1716.0,4-2-3-1,4-3-3,11097
-4,403247,Málaga vs SD Eibar,564,853,9233.0,4-2-3-1,4-4-2,10712
-5,403341,Real Betis vs Málaga,564,853,68.0,4-4-2,4-4-2,10059
-6,403509,Málaga vs Athletic Club,564,853,9233.0,4-2-3-1,4-4-2,2446637
-7,403580,Deportivo Alavés vs Málaga,564,853,1747.0,4-4-2,4-3-3,11171
-8,403704,Málaga vs Leganés,564,853,9233.0,4-2-3-1,4-2-3-1,11541
-9,403752,Atlético Madrid vs Málaga,564,853,5188.0,5-4-1,4-4-2,8522
-10,403818,Málaga vs Sporting Gijón,564,853,9233.0,4-4-2,4-2-3-1,8496
-11,403930,FC Barcelona vs Málaga,564,853,,5-4-1,4-3-3,11150
-12,404014,Málaga vs Deportivo La Coruña,564,853,9233.0,4-2-3-1,4-4-2,9517
-13,1096305,Córdoba vs Málaga,570,846,338.0,4-2-3-1,4-2-3-1,2809534
-14,404178,Valencia vs Málaga,564,853,9240.0,4-2-3-1,3-5-2,10717
-15,404198,Málaga vs Granada,564,853,9233.0,4-3-3,4-2-3-1,10063
-16,404349,Sevilla vs Málaga,564,853,177.0,4-2-3-1,3-5-2,10590
-17,1096316,Málaga vs Córdoba,570,846,9233.0,4-2-3-1,4-4-2,2809550
-18,404654,Celta de Vigo vs Málaga,564,853,9239.0,4-2-3-1,4-3-3,10090
-19,404768,Málaga vs Real Sociedad,564,853,9233.0,4-3-3,4-2-3-1,2814200
-20,404796,Real Madrid vs Málaga,564,853,2020.0,4-2-3-1,4-3-3,8500
-21,404868,Osasuna vs Málaga,564,853,56.0,4-2-3-1,5-3-2,11154
-22,404965,Málaga vs Espanyol,564,853,9233.0,4-2-3-1,4-2-3-1,9237
-23,405100,Villarreal vs Málaga,564,853,2028.0,4-2-3-1,4-4-2,9521
-24,405234,Málaga vs Las Palmas,564,853,9233.0,4-2-3-1,4-2-3-1,11107
-25,405283,SD Eibar vs Málaga,564,853,9242.0,4-2-3-1,4-2-3-1,8528
-26,405350,Málaga vs Real Betis,564,853,9233.0,5-4-1,4-2-3-1,11177
-27,405515,Athletic Club vs Málaga,564,853,9162.0,4-2-3-1,4-2-3-1,10068
-28,401513,Granada vs Villarreal,564,853,9237.0,4-4-2,4-2-3-1,8518
-29,401666,Villarreal vs Sevilla,564,853,2028.0,3-5-2,4-4-2,2446819
-31,403218,Villarreal vs Real Sociedad,564,853,2028.0,4-2-3-1,4-4-2,10585
-32,403266,Real Madrid vs Villarreal,564,853,2020.0,4-2-3-1,4-3-3,10083
-33,403409,Villarreal vs Osasuna,564,853,2028.0,4-4-2,4-4-2,9230
-34,403502,Espanyol vs Villarreal,564,853,9220.0,4-2-3-1,4-4-2,9943
-35,403610,Villarreal vs Celta de Vigo,564,853,2028.0,4-3-3,4-4-2,8521
-36,403695,Villarreal vs Las Palmas,564,853,2028.0,4-2-3-1,4-4-2,10114
-37,403773,SD Eibar vs Villarreal,564,853,9242.0,4-4-2,4-4-2,8357
-38,403893,Villarreal vs Real Betis,564,853,2028.0,4-4-2,4-4-2,9516
-39,403986,Athletic Club vs Villarreal,564,853,9162.0,4-2-3-1,4-2-3-1,11101
-40,404053,Villarreal vs Deportivo Alavés,564,853,2028.0,4-2-3-1,4-4-2,8310
-42,1096245,Toledo vs Villarreal,570,846,3920.0,4-4-2,5-3-2,2809587
-43,404119,Leganés vs Villarreal,564,853,293.0,4-4-2,5-4-1,10800
-44,404296,Villarreal vs Atlético Madrid,564,853,2028.0,4-4-2,4-4-2,11175
-45,404321,Sporting Gijón vs Villarreal,564,853,9224.0,4-4-2,5-4-1,9518
-46,1096262,Villarreal vs Toledo,570,846,9185.0,4-2-3-1,4-4-2,2809570
-47,1096034,Real Sociedad vs Villarreal,570,846,133.0,4-4-2,4-3-3,2809636
-48,404664,Villarreal vs FC Barcelona,564,853,2028.0,4-3-3,4-4-2,10719
-49,1096043,Villarreal vs Real Sociedad,570,846,2028.0,4-3-3,4-4-2,2809624
-50,404712,Deportivo La Coruña vs Villarreal,564,853,39.0,4-4-2,4-2-3-1,9235
-51,404815,Villarreal vs Valencia,564,853,2028.0,4-3-3,4-4-2,10091
-52,404880,Villarreal vs Granada,564,853,2028.0,5-4-1,4-2-3-1,10065
-53,405003,Sevilla vs Villarreal,564,853,177.0,4-2-3-1,4-4-2,11569
-55,405196,Real Sociedad vs Villarreal,564,853,133.0,4-4-2,4-3-3,11176
-56,405332,Villarreal vs Real Madrid,564,853,2028.0,4-3-3,4-2-3-1,8502
-57,405369,Osasuna vs Villarreal,564,853,56.0,4-4-2,5-3-2,10094
-58,405467,Villarreal vs Espanyol,564,853,2028.0,4-2-3-1,4-4-2,11157
-59,401544,Real Sociedad vs Real Madrid,564,853,133.0,4-3-3,4-2-3-1,10031
-60,401619,Real Madrid vs Celta de Vigo,564,853,2020.0,4-2-3-1,4-3-3,11146
-61,401693,Real Madrid vs Osasuna,564,853,2020.0,5-3-2,4-3-3,8353
-62,403228,Espanyol vs Real Madrid,564,853,9220.0,4-3-3,4-4-2,11169
-64,403380,Las Palmas vs Real Madrid,564,853,1716.0,4-3-3,4-2-3-1,8520
-65,403492,Real Madrid vs SD Eibar,564,853,2020.0,4-1-4-1,4-3-3,10035
-66,403570,Real Betis vs Real Madrid,564,853,68.0,4-3-3,4-3-3,8494
-67,403716,Real Madrid vs Athletic Club,564,853,2020.0,4-2-3-1,4-3-3,10714
-68,1096137,Cultural Leonesa vs Real Madrid,570,846,285880.0,4-3-3,4-2-3-1,2809632
-69,403742,Deportivo Alavés vs Real Madrid,564,853,1747.0,4-3-3,5-3-2,11100
-70,403865,Real Madrid vs Leganés,564,853,2020.0,4-3-3,4-3-3,8388
-71,403951,Atlético Madrid vs Real Madrid,564,853,5188.0,4-3-3,4-4-2,8358
-72,404026,Real Madrid vs Sporting Gijón,564,853,2020.0,5-4-1,4-2-3-1,11174
-73,1096146,Real Madrid vs Cultural Leonesa,570,846,2020.0,4-2-3-1,4-3-3,2809610
-74,404112,FC Barcelona vs Real Madrid,564,853,,4-2-3-1,4-3-3,10589
-75,404235,Real Madrid vs Deportivo La Coruña,564,853,2020.0,4-2-3-1,4-2-3-1,10117
-76,1096103,Real Madrid vs Sevilla,570,846,2020.0,4-1-4-1,4-3-3,2809628
-77,404597,Real Madrid vs Granada,564,853,2020.0,5-4-1,4-3-3,9519
-78,1096110,Sevilla vs Real Madrid,570,846,177.0,4-4-2,3-4-2-1,2809522
-79,404759,Sevilla vs Real Madrid,564,853,177.0,3-5-2,4-2-3-1,11571
-80,1095627,Real Madrid vs Celta de Vigo,570,846,2020.0,4-2-3-1,4-3-3,2809711
-82,1095761,Celta de Vigo vs Real Madrid,570,846,9239.0,4-4-2,4-3-3,3377371
-83,404945,Real Madrid vs Real Sociedad,564,853,2020.0,4-3-3,4-3-3,10803
-84,405090,Osasuna vs Real Madrid,564,853,56.0,3-5-2,4-4-2,10721
-85,405168,Real Madrid vs Espanyol,564,853,2020.0,4-5-1,4-3-3,11570
-86,404577,Valencia vs Real Madrid,564,853,9240.0,4-3-3,4-2-3-1,11152
-88,405401,Real Madrid vs Las Palmas,564,853,2020.0,4-1-4-1,4-3-3,8365
-89,405457,SD Eibar vs Real Madrid,564,853,9242.0,4-3-3,4-2-3-1,10095
-91,401636,Las Palmas vs Granada,564,853,1716.0,4-4-2,4-2-3-1,9228
-92,403132,Granada vs SD Eibar,564,853,9237.0,4-2-3-1,4-2-3-1,11538
-93,403149,Real Betis vs Granada,564,853,68.0,4-2-3-1,4-3-3,2446622
-94,403295,Granada vs Athletic Club,564,853,9237.0,4-2-3-1,4-2-3-1,10034
-95,403427,Deportivo Alavés vs Granada,564,853,1747.0,4-2-3-1,4-3-3,10084
-96,403447,Granada vs Leganés,564,853,9237.0,4-2-3-1,4-2-3-1,10113
-97,403558,Atlético Madrid vs Granada,564,853,5188.0,4-2-3-1,4-4-2,11148
-98,403669,Granada vs Sporting Gijón,564,853,9237.0,4-4-2,4-4-2,9515
-99,403764,FC Barcelona vs Granada,564,853,,5-4-1,4-3-3,10037
-100,403827,Granada vs Deportivo La Coruña,564,853,9237.0,4-2-3-1,5-4-1,8309
-101,403966,Valencia vs Granada,564,853,9240.0,5-4-1,4-3-3,11173
-102,404072,Celta de Vigo vs Granada,564,853,9239.0,5-4-1,4-4-2,11543
-104,1096329,Granada vs Osasuna,570,846,9237.0,4-4-2,4-4-2,2809562
-105,404100,Granada vs Sevilla,564,853,9237.0,4-2-3-1,4-2-3-1,10088
-107,404341,Granada vs Real Sociedad,564,853,9237.0,4-2-3-1,4-3-3,9234
-108,1096337,Osasuna vs Granada,570,846,56.0,4-2-3-1,4-4-2,2809555
-110,404749,Granada vs Osasuna,564,853,9237.0,5-3-2,4-2-3-1,11545
-111,404786,Espanyol vs Granada,564,853,9220.0,4-3-3,4-2-3-1,10592
-113,405033,Granada vs Las Palmas,564,853,9237.0,4-3-3,5-4-1,2446744
-114,405139,SD Eibar vs Granada,564,853,9242.0,5-3-2,4-2-3-1,2814183
-115,405150,Granada vs Real Betis,564,853,9237.0,5-3-2,5-3-2,9238
-116,405311,Athletic Club vs Granada,564,853,9162.0,5-4-1,4-2-3-1,11548
-117,405410,Granada vs Deportivo Alavés,564,853,9237.0,4-2-3-1,5-4-1,10723
-118,405448,Leganés vs Granada,564,853,293.0,5-4-1,4-2-3-1,10045
-119,401502,FC Barcelona vs Real Betis,564,853,,5-3-2,4-3-3,8304
-120,401582,Real Betis vs Deportivo La Coruña,564,853,68.0,4-2-3-1,4-3-3,10584
-121,403121,Valencia vs Real Betis,564,853,9240.0,4-3-3,4-3-3,10082
-123,403258,Sevilla vs Real Betis,564,853,177.0,4-2-3-1,4-3-3,8519
-125,403438,Real Sociedad vs Real Betis,564,853,133.0,4-3-3,4-3-3,11540
-127,403628,Osasuna vs Real Betis,564,853,56.0,4-4-2,5-3-2,2446670
-128,403789,Real Betis vs Espanyol,564,853,68.0,4-4-2,4-4-2,11149
-130,403911,Real Betis vs Las Palmas,564,853,68.0,4-3-3,5-3-2,10087
-131,404005,SD Eibar vs Real Betis,564,853,9242.0,5-3-2,4-2-3-1,9233
-132,1096225,Real Betis vs Deportivo La Coruña,570,846,68.0,4-2-3-1,3-5-2,5000742
-133,404135,Real Betis vs Celta de Vigo,564,853,68.0,4-2-3-1,5-3-2,11102
-134,404273,Real Betis vs Athletic Club,564,853,68.0,4-2-3-1,4-3-1-2,8391
-135,404311,Deportivo Alavés vs Real Betis,564,853,1747.0,5-3-2,4-4-1-1,10718
-136,1096234,Deportivo La Coruña vs Real Betis,570,846,39.0,5-3-2,4-2-3-1,2809591
-137,404645,Real Betis vs Leganés,564,853,68.0,5-4-1,5-3-2,8525
-138,404702,Atlético Madrid vs Real Betis,564,853,5188.0,5-3-2,4-4-2,10591
-139,404844,Real Betis vs Sporting Gijón,564,853,68.0,4-2-3-1,5-3-2,11568
-140,404914,Real Betis vs FC Barcelona,564,853,68.0,4-3-3,5-3-2,11572
-141,405063,Real Betis vs Valencia,564,853,68.0,4-2-3-1,5-3-2,11547
-143,405262,Real Betis vs Sevilla,564,853,68.0,3-4-2-1,5-3-2,2446678
-145,405438,Real Betis vs Real Sociedad,564,853,68.0,4-4-2,5-4-1,10724
-146,401535,Sporting Gijón vs Athletic Club,564,853,9224.0,4-2-3-1,4-2-3-1,1661118
-147,401649,Deportivo Alavés vs Sporting Gijón,564,853,1747.0,4-2-3-1,4-2-3-1,9941
-148,403112,Sporting Gijón vs Leganés,564,853,9224.0,5-3-2,4-2-3-1,9512
-149,403171,Atlético Madrid vs Sporting Gijón,564,853,5188.0,4-2-3-1,4-4-2,9229
-150,403273,Celta de Vigo vs Sporting Gijón,564,853,9239.0,4-4-2,4-3-3,10796
-151,403361,Sporting Gijón vs FC Barcelona,564,853,9224.0,4-3-3,4-2-3-1,2446552
-152,403474,Deportivo La Coruña vs Sporting Gijón,564,853,39.0,4-2-3-1,4-2-3-1,5106796
-153,403599,Sporting Gijón vs Valencia,564,853,9224.0,4-2-3-1,4-4-2,9944
-155,403734,Sporting Gijón vs Sevilla,564,853,9224.0,3-4-1-2,4-4-2,10715
-157,403976,Sporting Gijón vs Real Sociedad,564,853,9224.0,4-3-3,4-4-2,10038
-159,1096175,Sporting Gijón vs SD Eibar,570,846,9224.0,4-4-2,4-2-3-1,3382246
-160,404169,Sporting Gijón vs Osasuna,564,853,9224.0,4-4-2,5-4-1,11151
-161,404263,Espanyol vs Sporting Gijón,564,853,9220.0,5-4-1,4-4-2,2446668
+0,401484,Málaga vs Osasuna,564,853,9233.0,5-3-2,4-2-3-1,353
+1,401591,Espanyol vs Málaga,564,853,9220.0,4-2-3-1,4-4-2,84
+2,402164,Málaga vs Villarreal,564,853,9233.0,4-4-2,4-4-2,32
+3,403190,Las Palmas vs Málaga,564,853,1716.0,4-2-3-1,4-3-3,628
+4,403247,Málaga vs SD Eibar,564,853,9233.0,4-2-3-1,4-4-2,510
+5,403341,Real Betis vs Málaga,564,853,68.0,4-4-2,4-4-2,348
+6,403509,Málaga vs Athletic Club,564,853,9233.0,4-2-3-1,4-4-2,77
+7,403580,Deportivo Alavés vs Málaga,564,853,1747.0,4-4-2,4-3-3,649
+8,403704,Málaga vs Leganés,564,853,9233.0,4-2-3-1,4-2-3-1,1852
+9,403752,Atlético Madrid vs Málaga,564,853,5188.0,5-4-1,4-4-2,85
+10,403818,Málaga vs Sporting Gijón,564,853,9233.0,4-4-2,4-2-3-1,84
+11,403930,FC Barcelona vs Málaga,564,853,,5-4-1,4-3-3,648
+12,404014,Málaga vs Deportivo La Coruña,564,853,9233.0,4-2-3-1,4-4-2,260
+13,1096305,Córdoba vs Málaga,570,846,338.0,4-2-3-1,4-2-3-1,11710
+14,404178,Valencia vs Málaga,564,853,9240.0,4-2-3-1,3-5-2,510
+15,404198,Málaga vs Granada,564,853,9233.0,4-3-3,4-2-3-1,348
+16,404349,Sevilla vs Málaga,564,853,177.0,4-2-3-1,3-5-2,476
+17,1096316,Málaga vs Córdoba,570,846,9233.0,4-2-3-1,4-4-2,14666
+18,404654,Celta de Vigo vs Málaga,564,853,9239.0,4-2-3-1,4-3-3,350
+19,404768,Málaga vs Real Sociedad,564,853,9233.0,4-3-3,4-2-3-1,11710
+20,404796,Real Madrid vs Málaga,564,853,2020.0,4-2-3-1,4-3-3,84
+21,404868,Osasuna vs Málaga,564,853,56.0,4-2-3-1,5-3-2,648
+22,404965,Málaga vs Espanyol,564,853,9233.0,4-2-3-1,4-2-3-1,237
+23,405100,Villarreal vs Málaga,564,853,2028.0,4-2-3-1,4-4-2,260
+24,405234,Málaga vs Las Palmas,564,853,9233.0,4-2-3-1,4-2-3-1,628
+25,405283,SD Eibar vs Málaga,564,853,9242.0,4-2-3-1,4-2-3-1,85
+26,405350,Málaga vs Real Betis,564,853,9233.0,5-4-1,4-2-3-1,649
+27,405515,Athletic Club vs Málaga,564,853,9162.0,4-2-3-1,4-2-3-1,348
+28,401513,Granada vs Villarreal,564,853,9237.0,4-4-2,4-2-3-1,85
+29,401666,Villarreal vs Sevilla,564,853,2028.0,3-5-2,4-4-2,77
+31,403218,Villarreal vs Real Sociedad,564,853,2028.0,4-2-3-1,4-4-2,476
+32,403266,Real Madrid vs Villarreal,564,853,2020.0,4-2-3-1,4-3-3,350
+33,403409,Villarreal vs Osasuna,564,853,2028.0,4-4-2,4-4-2,237
+34,403502,Espanyol vs Villarreal,564,853,9220.0,4-2-3-1,4-4-2,331
+35,403610,Villarreal vs Celta de Vigo,564,853,2028.0,4-3-3,4-4-2,85
+36,403695,Villarreal vs Las Palmas,564,853,2028.0,4-2-3-1,4-4-2,353
+37,403773,SD Eibar vs Villarreal,564,853,9242.0,4-4-2,4-4-2,45
+38,403893,Villarreal vs Real Betis,564,853,2028.0,4-4-2,4-4-2,260
+39,403986,Athletic Club vs Villarreal,564,853,9162.0,4-2-3-1,4-2-3-1,628
+40,404053,Villarreal vs Deportivo Alavés,564,853,2028.0,4-2-3-1,4-4-2,32
+42,1096245,Toledo vs Villarreal,570,846,3920.0,4-4-2,5-3-2,16862
+43,404119,Leganés vs Villarreal,564,853,293.0,4-4-2,5-4-1,523
+44,404296,Villarreal vs Atlético Madrid,564,853,2028.0,4-4-2,4-4-2,649
+45,404321,Sporting Gijón vs Villarreal,564,853,9224.0,4-4-2,5-4-1,260
+46,1096262,Villarreal vs Toledo,570,846,9185.0,4-2-3-1,4-4-2,20562
+47,1096034,Real Sociedad vs Villarreal,570,846,133.0,4-4-2,4-3-3,70072
+48,404664,Villarreal vs FC Barcelona,564,853,2028.0,4-3-3,4-4-2,510
+49,1096043,Villarreal vs Real Sociedad,570,846,2028.0,4-3-3,4-4-2,15307
+50,404712,Deportivo La Coruña vs Villarreal,564,853,39.0,4-4-2,4-2-3-1,237
+51,404815,Villarreal vs Valencia,564,853,2028.0,4-3-3,4-4-2,350
+52,404880,Villarreal vs Granada,564,853,2028.0,5-4-1,4-2-3-1,348
+53,405003,Sevilla vs Villarreal,564,853,177.0,4-2-3-1,4-4-2,1868
+55,405196,Real Sociedad vs Villarreal,564,853,133.0,4-4-2,4-3-3,649
+56,405332,Villarreal vs Real Madrid,564,853,2028.0,4-3-3,4-2-3-1,84
+57,405369,Osasuna vs Villarreal,564,853,56.0,4-4-2,5-3-2,350
+58,405467,Villarreal vs Espanyol,564,853,2028.0,4-2-3-1,4-4-2,648
+59,401544,Real Sociedad vs Real Madrid,564,853,133.0,4-3-3,4-2-3-1,347
+60,401619,Real Madrid vs Celta de Vigo,564,853,2020.0,4-2-3-1,4-3-3,648
+61,401693,Real Madrid vs Osasuna,564,853,2020.0,5-3-2,4-3-3,45
+62,403228,Espanyol vs Real Madrid,564,853,9220.0,4-3-3,4-4-2,649
+64,403380,Las Palmas vs Real Madrid,564,853,1716.0,4-3-3,4-2-3-1,85
+65,403492,Real Madrid vs SD Eibar,564,853,2020.0,4-1-4-1,4-3-3,347
+66,403570,Real Betis vs Real Madrid,564,853,68.0,4-3-3,4-3-3,84
+67,403716,Real Madrid vs Athletic Club,564,853,2020.0,4-2-3-1,4-3-3,510
+68,1096137,Cultural Leonesa vs Real Madrid,570,846,285880.0,4-3-3,4-2-3-1,17316
+69,403742,Deportivo Alavés vs Real Madrid,564,853,1747.0,4-3-3,5-3-2,628
+70,403865,Real Madrid vs Leganés,564,853,2020.0,4-3-3,4-3-3,53
+71,403951,Atlético Madrid vs Real Madrid,564,853,5188.0,4-3-3,4-4-2,45
+72,404026,Real Madrid vs Sporting Gijón,564,853,2020.0,5-4-1,4-2-3-1,649
+73,1096146,Real Madrid vs Cultural Leonesa,570,846,2020.0,4-2-3-1,4-3-3,15906
+74,404112,FC Barcelona vs Real Madrid,564,853,,4-2-3-1,4-3-3,476
+75,404235,Real Madrid vs Deportivo La Coruña,564,853,2020.0,4-2-3-1,4-2-3-1,353
+76,1096103,Real Madrid vs Sevilla,570,846,2020.0,4-1-4-1,4-3-3,11710
+77,404597,Real Madrid vs Granada,564,853,2020.0,5-4-1,4-3-3,260
+78,1096110,Sevilla vs Real Madrid,570,846,177.0,4-4-2,3-4-2-1,15274
+79,404759,Sevilla vs Real Madrid,564,853,177.0,3-5-2,4-2-3-1,1870
+80,1095627,Real Madrid vs Celta de Vigo,570,846,2020.0,4-2-3-1,4-3-3,15307
+82,1095761,Celta de Vigo vs Real Madrid,570,846,9239.0,4-4-2,4-3-3,18771
+83,404945,Real Madrid vs Real Sociedad,564,853,2020.0,4-3-3,4-3-3,523
+84,405090,Osasuna vs Real Madrid,564,853,56.0,3-5-2,4-4-2,510
+85,405168,Real Madrid vs Espanyol,564,853,2020.0,4-5-1,4-3-3,1868
+86,404577,Valencia vs Real Madrid,564,853,9240.0,4-3-3,4-2-3-1,648
+88,405401,Real Madrid vs Las Palmas,564,853,2020.0,4-1-4-1,4-3-3,45
+89,405457,SD Eibar vs Real Madrid,564,853,9242.0,4-3-3,4-2-3-1,350
+91,401636,Las Palmas vs Granada,564,853,1716.0,4-4-2,4-2-3-1,237
+92,403132,Granada vs SD Eibar,564,853,9237.0,4-2-3-1,4-2-3-1,1852
+93,403149,Real Betis vs Granada,564,853,68.0,4-2-3-1,4-3-3,77
+94,403295,Granada vs Athletic Club,564,853,9237.0,4-2-3-1,4-2-3-1,347
+95,403427,Deportivo Alavés vs Granada,564,853,1747.0,4-2-3-1,4-3-3,350
+96,403447,Granada vs Leganés,564,853,9237.0,4-2-3-1,4-2-3-1,353
+97,403558,Atlético Madrid vs Granada,564,853,5188.0,4-2-3-1,4-4-2,648
+98,403669,Granada vs Sporting Gijón,564,853,9237.0,4-4-2,4-4-2,260
+99,403764,FC Barcelona vs Granada,564,853,,5-4-1,4-3-3,347
+100,403827,Granada vs Deportivo La Coruña,564,853,9237.0,4-2-3-1,5-4-1,32
+101,403966,Valencia vs Granada,564,853,9240.0,5-4-1,4-3-3,649
+102,404072,Celta de Vigo vs Granada,564,853,9239.0,5-4-1,4-4-2,1852
+104,1096329,Granada vs Osasuna,570,846,9237.0,4-4-2,4-4-2,13605
+105,404100,Granada vs Sevilla,564,853,9237.0,4-2-3-1,4-2-3-1,350
+107,404341,Granada vs Real Sociedad,564,853,9237.0,4-2-3-1,4-3-3,237
+108,1096337,Osasuna vs Granada,570,846,56.0,4-2-3-1,4-4-2,77
+110,404749,Granada vs Osasuna,564,853,9237.0,5-3-2,4-2-3-1,1852
+111,404786,Espanyol vs Granada,564,853,9220.0,4-3-3,4-2-3-1,476
+113,405033,Granada vs Las Palmas,564,853,9237.0,4-3-3,5-4-1,77
+114,405139,SD Eibar vs Granada,564,853,9242.0,5-3-2,4-2-3-1,11710
+115,405150,Granada vs Real Betis,564,853,9237.0,5-3-2,5-3-2,237
+116,405311,Athletic Club vs Granada,564,853,9162.0,5-4-1,4-2-3-1,1852
+117,405410,Granada vs Deportivo Alavés,564,853,9237.0,4-2-3-1,5-4-1,510
+118,405448,Leganés vs Granada,564,853,293.0,5-4-1,4-2-3-1,347
+119,401502,FC Barcelona vs Real Betis,564,853,,5-3-2,4-3-3,32
+120,401582,Real Betis vs Deportivo La Coruña,564,853,68.0,4-2-3-1,4-3-3,476
+121,403121,Valencia vs Real Betis,564,853,9240.0,4-3-3,4-3-3,350
+123,403258,Sevilla vs Real Betis,564,853,177.0,4-2-3-1,4-3-3,85
+125,403438,Real Sociedad vs Real Betis,564,853,133.0,4-3-3,4-3-3,1852
+127,403628,Osasuna vs Real Betis,564,853,56.0,4-4-2,5-3-2,77
+128,403789,Real Betis vs Espanyol,564,853,68.0,4-4-2,4-4-2,648
+130,403911,Real Betis vs Las Palmas,564,853,68.0,4-3-3,5-3-2,350
+131,404005,SD Eibar vs Real Betis,564,853,9242.0,5-3-2,4-2-3-1,237
+132,1096225,Real Betis vs Deportivo La Coruña,570,846,68.0,4-2-3-1,3-5-2,18637
+133,404135,Real Betis vs Celta de Vigo,564,853,68.0,4-2-3-1,5-3-2,628
+134,404273,Real Betis vs Athletic Club,564,853,68.0,4-2-3-1,4-3-1-2,53
+135,404311,Deportivo Alavés vs Real Betis,564,853,1747.0,5-3-2,4-4-1-1,510
+136,1096234,Deportivo La Coruña vs Real Betis,570,846,39.0,5-3-2,4-2-3-1,16542
+137,404645,Real Betis vs Leganés,564,853,68.0,5-4-1,5-3-2,85
+138,404702,Atlético Madrid vs Real Betis,564,853,5188.0,5-3-2,4-4-2,476
+139,404844,Real Betis vs Sporting Gijón,564,853,68.0,4-2-3-1,5-3-2,1868
+140,404914,Real Betis vs FC Barcelona,564,853,68.0,4-3-3,5-3-2,1870
+141,405063,Real Betis vs Valencia,564,853,68.0,4-2-3-1,5-3-2,1852
+143,405262,Real Betis vs Sevilla,564,853,68.0,3-4-2-1,5-3-2,77
+145,405438,Real Betis vs Real Sociedad,564,853,68.0,4-4-2,5-4-1,510
+146,401535,Sporting Gijón vs Athletic Club,564,853,9224.0,4-2-3-1,4-2-3-1,70072
+147,401649,Deportivo Alavés vs Sporting Gijón,564,853,1747.0,4-2-3-1,4-2-3-1,331
+148,403112,Sporting Gijón vs Leganés,564,853,9224.0,5-3-2,4-2-3-1,260
+149,403171,Atlético Madrid vs Sporting Gijón,564,853,5188.0,4-2-3-1,4-4-2,237
+150,403273,Celta de Vigo vs Sporting Gijón,564,853,9239.0,4-4-2,4-3-3,523
+151,403361,Sporting Gijón vs FC Barcelona,564,853,9224.0,4-3-3,4-2-3-1,77
+152,403474,Deportivo La Coruña vs Sporting Gijón,564,853,39.0,4-2-3-1,4-2-3-1,18637
+153,403599,Sporting Gijón vs Valencia,564,853,9224.0,4-2-3-1,4-4-2,331
+155,403734,Sporting Gijón vs Sevilla,564,853,9224.0,3-4-1-2,4-4-2,510
+157,403976,Sporting Gijón vs Real Sociedad,564,853,9224.0,4-3-3,4-4-2,347
+159,1096175,Sporting Gijón vs SD Eibar,570,846,9224.0,4-4-2,4-2-3-1,18771
+160,404169,Sporting Gijón vs Osasuna,564,853,9224.0,4-4-2,5-4-1,648
+161,404263,Espanyol vs Sporting Gijón,564,853,9220.0,5-4-1,4-4-2,77
 163,1096188,SD Eibar vs Sporting Gijón,570,846,9242.0,4-4-2,4-2-3-1,"[{'id': 2809593, 'fixture_id': 1096188, 'referee_id': 49721, 'type_id': 8}, {'id': 2809596, 'fixture_id': 1096188, 'referee_id': 16997, 'type_id': 9}, {'id': 3378588, 'fixture_id': 1096188, 'referee_id': 12810, 'type_id': 7}]"
-164,404616,Las Palmas vs Sporting Gijón,564,853,1716.0,5-4-1,4-1-4-1,9948
-165,404738,Sporting Gijón vs SD Eibar,564,853,9224.0,4-2-3-1,4-4-2,8361
-167,404936,Athletic Club vs Sporting Gijón,564,853,9162.0,4-1-4-1,4-2-3-1,10593
-168,405012,Sporting Gijón vs Deportivo Alavés,564,853,9224.0,4-2-3-1,4-2-3-1,8501
-169,405110,Leganés vs Sporting Gijón,564,853,293.0,4-1-4-1,4-2-3-1,8527
-170,405159,Sporting Gijón vs Atlético Madrid,564,853,9224.0,4-4-2,4-5-1,10093
-171,405323,Sporting Gijón vs Celta de Vigo,564,853,9224.0,4-2-3-1,4-3-3,11156
-172,405379,FC Barcelona vs Sporting Gijón,564,853,9236.0,4-5-1,3-4-3,11108
-173,405486,Sporting Gijón vs Deportivo La Coruña,564,853,9224.0,4-2-3-1,4-3-3,2814165
-174,401493,Deportivo La Coruña vs SD Eibar,564,853,39.0,4-2-3-1,4-2-3-1,10794
-176,403141,Deportivo La Coruña vs Athletic Club,564,853,39.0,4-2-3-1,4-4-2,1661388
-177,403238,Deportivo Alavés vs Deportivo La Coruña,564,853,1747.0,4-4-2,5-4-1,10033
-178,403322,Deportivo La Coruña vs Leganés,564,853,39.0,4-2-3-1,4-2-3-1,8306
-179,403400,Atlético Madrid vs Deportivo La Coruña,564,853,5188.0,4-2-3-1,4-4-2,8493
-181,403549,FC Barcelona vs Deportivo La Coruña,564,853,,4-4-2,3-4-3,11099
-182,403677,Celta de Vigo vs Deportivo La Coruña,564,853,9239.0,4-4-2,4-3-3,10060
-183,403809,Deportivo La Coruña vs Valencia,564,853,39.0,4-2-3-1,4-2-3-1,10086
-185,403921,Deportivo La Coruña vs Sevilla,564,853,39.0,3-4-2-1,4-3-1-2,8389
-188,404188,Deportivo La Coruña vs Real Sociedad,564,853,39.0,4-3-3,4-2-3-1,9947
-190,404371,Deportivo La Coruña vs Osasuna,564,853,39.0,5-4-1,4-2-3-1,11103
+164,404616,Las Palmas vs Sporting Gijón,564,853,1716.0,5-4-1,4-1-4-1,331
+165,404738,Sporting Gijón vs SD Eibar,564,853,9224.0,4-2-3-1,4-4-2,45
+167,404936,Athletic Club vs Sporting Gijón,564,853,9162.0,4-1-4-1,4-2-3-1,476
+168,405012,Sporting Gijón vs Deportivo Alavés,564,853,9224.0,4-2-3-1,4-2-3-1,84
+169,405110,Leganés vs Sporting Gijón,564,853,293.0,4-1-4-1,4-2-3-1,85
+170,405159,Sporting Gijón vs Atlético Madrid,564,853,9224.0,4-4-2,4-5-1,350
+171,405323,Sporting Gijón vs Celta de Vigo,564,853,9224.0,4-2-3-1,4-3-3,648
+172,405379,FC Barcelona vs Sporting Gijón,564,853,9236.0,4-5-1,3-4-3,628
+173,405486,Sporting Gijón vs Deportivo La Coruña,564,853,9224.0,4-2-3-1,4-3-3,11710
+174,401493,Deportivo La Coruña vs SD Eibar,564,853,39.0,4-2-3-1,4-2-3-1,523
+176,403141,Deportivo La Coruña vs Athletic Club,564,853,39.0,4-2-3-1,4-4-2,16862
+177,403238,Deportivo Alavés vs Deportivo La Coruña,564,853,1747.0,4-4-2,5-4-1,347
+178,403322,Deportivo La Coruña vs Leganés,564,853,39.0,4-2-3-1,4-2-3-1,32
+179,403400,Atlético Madrid vs Deportivo La Coruña,564,853,5188.0,4-2-3-1,4-4-2,84
+181,403549,FC Barcelona vs Deportivo La Coruña,564,853,,4-4-2,3-4-3,628
+182,403677,Celta de Vigo vs Deportivo La Coruña,564,853,9239.0,4-4-2,4-3-3,348
+183,403809,Deportivo La Coruña vs Valencia,564,853,39.0,4-2-3-1,4-2-3-1,350
+185,403921,Deportivo La Coruña vs Sevilla,564,853,39.0,3-4-2-1,4-3-1-2,53
+188,404188,Deportivo La Coruña vs Real Sociedad,564,853,39.0,4-3-3,4-2-3-1,331
+190,404371,Deportivo La Coruña vs Osasuna,564,853,39.0,5-4-1,4-2-3-1,628
 192,1095996,Deportivo La Coruña vs Deportivo Alavés,570,846,39.0,4-2-3-1,4-2-3-1,"[{'id': 2809655, 'fixture_id': 1095996, 'referee_id': 43062, 'type_id': 9}, {'id': 3713710, 'fixture_id': 1095996, 'referee_id': 12829, 'type_id': 7}, {'id': 5314094, 'fixture_id': 1095996, 'referee_id': 11712, 'type_id': 8}]"
-193,404587,Espanyol vs Deportivo La Coruña,564,853,9220.0,4-4-2,4-2-3-1,11153
-194,1096006,Deportivo Alavés vs Deportivo La Coruña,570,846,1747.0,4-2-3-1,4-2-3-1,2809640
-196,404777,Las Palmas vs Deportivo La Coruña,564,853,1716.0,4-4-2,4-1-4-1,8362
-197,404896,SD Eibar vs Deportivo La Coruña,564,853,9242.0,4-2-3-1,4-2-3-1,10042
-198,405081,Athletic Club vs Deportivo La Coruña,564,853,9162.0,4-2-3-1,4-2-3-1,10804
-199,405178,Deportivo La Coruña vs Deportivo Alavés,564,853,39.0,4-4-2,4-2-3-1,10121
-200,405273,Leganés vs Deportivo La Coruña,564,853,293.0,4-2-3-1,4-2-3-1,9951
-201,405420,Deportivo La Coruña vs Atlético Madrid,564,853,39.0,4-3-3,4-2-3-1,10596
-203,401573,Valencia vs Las Palmas,564,853,9240.0,4-2-3-1,4-2-3-1,9511
-205,402634,Sevilla vs Las Palmas,564,853,177.0,4-1-4-1,4-1-4-1,10032
-207,403283,Real Sociedad vs Las Palmas,564,853,133.0,4-1-4-1,4-3-3,9942
-209,403464,Osasuna vs Las Palmas,564,853,56.0,4-3-3,5-4-1,10713
-210,403531,Las Palmas vs Espanyol,564,853,1716.0,4-4-2,4-3-3,8356
-212,403799,Las Palmas vs Celta de Vigo,564,853,1716.0,4-2-3-1,4-1-4-1,10798
-213,403857,Las Palmas vs SD Eibar,564,853,1716.0,4-4-2,4-1-4-1,2446639
-215,404091,Las Palmas vs Athletic Club,564,853,1716.0,4-2-3-1,4-1-4-1,10062
-216,1096463,Huesca vs Las Palmas,570,846,9342.0,4-2-3-1,4-4-2,2809514
-217,404160,Deportivo Alavés vs Las Palmas,564,853,1747.0,4-1-4-1,4-2-3-1,8359
-218,404225,Las Palmas vs Leganés,564,853,1716.0,5-4-1,4-1-4-1,8498
-219,404331,Atlético Madrid vs Las Palmas,564,853,5188.0,4-1-4-1,4-4-2,10801
-220,1096474,Las Palmas vs Huesca,570,846,1716.0,4-4-2,4-1-4-1,2809477
-221,1095976,Las Palmas vs Atlético Madrid,570,846,1716.0,4-4-2,4-1-4-1,2809651
-223,1095985,Atlético Madrid vs Las Palmas,570,846,5188.0,4-1-4-1,4-4-2,3377881
-224,404693,FC Barcelona vs Las Palmas,564,853,,4-4-1-1,4-3-3,11567
-226,404955,Las Palmas vs Valencia,564,853,1716.0,4-3-3,4-3-3,10119
-228,405119,Las Palmas vs Sevilla,564,853,1716.0,4-2-3-1,4-1-4-1,11155
-230,405244,Las Palmas vs Real Sociedad,564,853,1716.0,4-3-3,4-3-3,10044
-232,405504,Las Palmas vs Osasuna,564,853,1716.0,4-2-3-1,4-3-3,2446691
-233,401564,Celta de Vigo vs Leganés,564,853,9239.0,5-4-1,4-2-3-1,9940
-235,401683,Celta de Vigo vs Atlético Madrid,564,853,9239.0,4-4-2,4-3-3,10111
-236,403200,Osasuna vs Celta de Vigo,564,853,56.0,4-2-3-1,5-3-2,11539
-238,403418,Espanyol vs Celta de Vigo,564,853,9220.0,4-2-3-1,4-3-3,8307
-239,403519,Celta de Vigo vs FC Barcelona,564,853,9239.0,4-3-3,4-2-3-1,9514
-243,403883,Celta de Vigo vs Valencia,564,853,9239.0,4-2-3-1,4-2-3-1,10588
-244,403940,SD Eibar vs Celta de Vigo,564,853,9242.0,4-2-3-1,4-2-3-1,9946
-247,1096356,UCAM Murcia vs Celta de Vigo,570,846,4569.0,4-2-3-1,4-2-3-1,2809531
-249,404254,Celta de Vigo vs Sevilla,564,853,9239.0,3-4-2-1,4-2-3-1,8311
-250,404568,Athletic Club vs Celta de Vigo,564,853,9162.0,4-3-3,4-2-3-1,8360
-251,1096365,Celta de Vigo vs UCAM Murcia,570,846,9239.0,4-2-3-1,4-2-3-1,2809526
-252,1095935,Valencia vs Celta de Vigo,570,846,9240.0,4-3-3,4-3-3,2809719
-254,1095947,Celta de Vigo vs Valencia,570,846,9239.0,4-3-3,4-2-3-1,5000941
-255,404729,Celta de Vigo vs Deportivo Alavés,564,853,9239.0,4-2-3-1,4-2-3-1,10802
-257,404851,Real Sociedad vs Celta de Vigo,564,853,133.0,4-3-3,4-3-3,2446665
-259,404906,Leganés vs Celta de Vigo,564,853,293.0,4-2-3-1,4-2-3-1,11546
-260,1095591,Celta de Vigo vs Deportivo Alavés,570,846,9239.0,4-2-3-1,4-2-3-1,2809700
-261,1095599,Deportivo Alavés vs Celta de Vigo,570,846,1747.0,4-2-3-1,4-2-3-1,2809692
-262,405128,Atlético Madrid vs Celta de Vigo,564,853,5188.0,4-3-3,4-4-2,11573
-263,405215,Celta de Vigo vs Osasuna,564,853,9239.0,5-3-2,4-3-3,9522
-265,405391,Celta de Vigo vs Espanyol,564,853,9239.0,4-4-2,4-3-3,10122
-266,405476,FC Barcelona vs Celta de Vigo,564,853,9236.0,4-2-3-1,3-4-3,8503
-268,401611,SD Eibar vs Valencia,564,853,9242.0,4-3-3,4-2-3-1,11168
-270,403180,SD Eibar vs Sevilla,564,853,9242.0,4-3-1-2,4-4-2,10058
-272,403350,SD Eibar vs Real Sociedad,564,853,9242.0,4-3-3,4-4-2,11098
-274,403619,SD Eibar vs Osasuna,564,853,9242.0,5-3-2,4-2-3-1,10797
-275,403639,Espanyol vs SD Eibar,564,853,9220.0,4-4-2,4-4-2,8495
-281,404146,Athletic Club vs SD Eibar,564,853,9162.0,4-2-3-1,4-2-3-1,8523
-282,404244,SD Eibar vs Deportivo Alavés,564,853,9242.0,5-3-2,4-2-3-1,11544
-283,404360,Leganés vs SD Eibar,564,853,293.0,4-4-2,4-2-3-1,10089
-285,1095956,Osasuna vs SD Eibar,570,846,56.0,4-2-3-1,4-4-2,2809669
-286,404606,SD Eibar vs Atlético Madrid,564,853,9242.0,4-1-4-1,4-2-3-1,8499
-287,1095967,SD Eibar vs Osasuna,570,846,9242.0,4-5-1,4-2-3-1,2809647
-289,1095896,Atlético Madrid vs SD Eibar,570,846,5188.0,4-2-3-1,4-4-2,2809660
-290,404860,SD Eibar vs FC Barcelona,564,853,9242.0,4-3-3,4-2-3-1,11105
-291,1095906,SD Eibar vs Atlético Madrid,570,846,9242.0,4-4-2,4-2-3-1,2809696
-293,404993,Valencia vs SD Eibar,564,853,9240.0,4-2-3-1,4-3-3,9950
-295,405187,Sevilla vs SD Eibar,564,853,177.0,4-2-3-1,5-3-2,10067
-297,405341,Real Sociedad vs SD Eibar,564,853,133.0,4-1-4-1,4-3-3,8312
-299,401524,Sevilla vs Espanyol,564,853,177.0,4-4-2,3-5-2,10081
-304,403371,Athletic Club vs Sevilla,564,853,9162.0,4-2-3-1,4-2-3-1,11170
-305,403455,Sevilla vs Deportivo Alavés,564,853,177.0,5-4-1,4-1-3-2,8387
-306,403540,Leganés vs Sevilla,564,853,293.0,4-1-3-2,4-4-2,9231
-307,403688,Sevilla vs Atlético Madrid,564,853,177.0,4-4-2,5-4-1,10036
-309,403903,Sevilla vs FC Barcelona,564,853,177.0,4-3-3,4-1-4-1,10115
-311,404044,Sevilla vs Valencia,564,853,177.0,3-4-1-2,3-5-1-1,2446641
-312,1096270,Formentera vs Sevilla,570,846,5985.0,4-2-3-1,4-2-3-1,2809583
-316,1096279,Sevilla vs Formentera,570,846,177.0,4-2-3-1,3-5-2,2809568
-318,404626,Real Sociedad vs Sevilla,564,853,133.0,3-5-1-1,4-3-3,10041
-321,404824,Osasuna vs Sevilla,564,853,56.0,5-3-2,5-3-2,8526
-322,404926,Espanyol vs Sevilla,564,853,9220.0,4-1-3-2,4-2-3-1,9520
-327,405428,Sevilla vs Athletic Club,564,853,177.0,4-2-3-1,4-3-3,9239
-328,405524,Deportivo Alavés vs Sevilla,564,853,1747.0,4-2-3-1,4-2-3-1,11549
-330,401658,Athletic Club vs FC Barcelona,564,853,9162.0,4-3-3,4-2-3-1,8386
-331,403104,FC Barcelona vs Deportivo Alavés,564,853,,5-4-1,4-3-3,10795
-332,403160,Leganés vs FC Barcelona,564,853,293.0,3-4-3,4-3-3,11147
-333,403304,FC Barcelona vs Atlético Madrid,564,853,,4-2-3-1,4-3-3,8354
-337,403648,Valencia vs FC Barcelona,564,853,9240.0,4-3-3,4-2-3-1,8308
-341,404082,Real Sociedad vs FC Barcelona,564,853,133.0,4-3-3,4-3-3,8497
-343,1096376,Hércules vs Barcelona,570,846,4295.0,4-3-3,5-4-1,2809539
-345,404206,Osasuna vs FC Barcelona,564,853,56.0,4-3-3,4-4-2,10040
-346,404560,FC Barcelona vs Espanyol,564,853,,4-4-2,4-3-3,2814213
+193,404587,Espanyol vs Deportivo La Coruña,564,853,9220.0,4-4-2,4-2-3-1,648
+194,1096006,Deportivo Alavés vs Deportivo La Coruña,570,846,1747.0,4-2-3-1,4-2-3-1,16862
+196,404777,Las Palmas vs Deportivo La Coruña,564,853,1716.0,4-4-2,4-1-4-1,45
+197,404896,SD Eibar vs Deportivo La Coruña,564,853,9242.0,4-2-3-1,4-2-3-1,347
+198,405081,Athletic Club vs Deportivo La Coruña,564,853,9162.0,4-2-3-1,4-2-3-1,523
+199,405178,Deportivo La Coruña vs Deportivo Alavés,564,853,39.0,4-4-2,4-2-3-1,353
+200,405273,Leganés vs Deportivo La Coruña,564,853,293.0,4-2-3-1,4-2-3-1,331
+201,405420,Deportivo La Coruña vs Atlético Madrid,564,853,39.0,4-3-3,4-2-3-1,476
+203,401573,Valencia vs Las Palmas,564,853,9240.0,4-2-3-1,4-2-3-1,260
+205,402634,Sevilla vs Las Palmas,564,853,177.0,4-1-4-1,4-1-4-1,347
+207,403283,Real Sociedad vs Las Palmas,564,853,133.0,4-1-4-1,4-3-3,331
+209,403464,Osasuna vs Las Palmas,564,853,56.0,4-3-3,5-4-1,510
+210,403531,Las Palmas vs Espanyol,564,853,1716.0,4-4-2,4-3-3,45
+212,403799,Las Palmas vs Celta de Vigo,564,853,1716.0,4-2-3-1,4-1-4-1,523
+213,403857,Las Palmas vs SD Eibar,564,853,1716.0,4-4-2,4-1-4-1,77
+215,404091,Las Palmas vs Athletic Club,564,853,1716.0,4-2-3-1,4-1-4-1,348
+216,1096463,Huesca vs Las Palmas,570,846,9342.0,4-2-3-1,4-4-2,17924
+217,404160,Deportivo Alavés vs Las Palmas,564,853,1747.0,4-1-4-1,4-2-3-1,45
+218,404225,Las Palmas vs Leganés,564,853,1716.0,5-4-1,4-1-4-1,84
+219,404331,Atlético Madrid vs Las Palmas,564,853,5188.0,4-1-4-1,4-4-2,523
+220,1096474,Las Palmas vs Huesca,570,846,1716.0,4-4-2,4-1-4-1,11710
+221,1095976,Las Palmas vs Atlético Madrid,570,846,1716.0,4-4-2,4-1-4-1,15712
+223,1095985,Atlético Madrid vs Las Palmas,570,846,5188.0,4-1-4-1,4-4-2,18771
+224,404693,FC Barcelona vs Las Palmas,564,853,,4-4-1-1,4-3-3,1868
+226,404955,Las Palmas vs Valencia,564,853,1716.0,4-3-3,4-3-3,353
+228,405119,Las Palmas vs Sevilla,564,853,1716.0,4-2-3-1,4-1-4-1,648
+230,405244,Las Palmas vs Real Sociedad,564,853,1716.0,4-3-3,4-3-3,347
+232,405504,Las Palmas vs Osasuna,564,853,1716.0,4-2-3-1,4-3-3,77
+233,401564,Celta de Vigo vs Leganés,564,853,9239.0,5-4-1,4-2-3-1,331
+235,401683,Celta de Vigo vs Atlético Madrid,564,853,9239.0,4-4-2,4-3-3,353
+236,403200,Osasuna vs Celta de Vigo,564,853,56.0,4-2-3-1,5-3-2,1852
+238,403418,Espanyol vs Celta de Vigo,564,853,9220.0,4-2-3-1,4-3-3,32
+239,403519,Celta de Vigo vs FC Barcelona,564,853,9239.0,4-3-3,4-2-3-1,260
+243,403883,Celta de Vigo vs Valencia,564,853,9239.0,4-2-3-1,4-2-3-1,476
+244,403940,SD Eibar vs Celta de Vigo,564,853,9242.0,4-2-3-1,4-2-3-1,331
+247,1096356,UCAM Murcia vs Celta de Vigo,570,846,4569.0,4-2-3-1,4-2-3-1,20562
+249,404254,Celta de Vigo vs Sevilla,564,853,9239.0,3-4-2-1,4-2-3-1,32
+250,404568,Athletic Club vs Celta de Vigo,564,853,9162.0,4-3-3,4-2-3-1,45
+251,1096365,Celta de Vigo vs UCAM Murcia,570,846,9239.0,4-2-3-1,4-2-3-1,13605
+252,1095935,Valencia vs Celta de Vigo,570,846,9240.0,4-3-3,4-3-3,16862
+254,1095947,Celta de Vigo vs Valencia,570,846,9239.0,4-3-3,4-2-3-1,16998
+255,404729,Celta de Vigo vs Deportivo Alavés,564,853,9239.0,4-2-3-1,4-2-3-1,523
+257,404851,Real Sociedad vs Celta de Vigo,564,853,133.0,4-3-3,4-3-3,77
+259,404906,Leganés vs Celta de Vigo,564,853,293.0,4-2-3-1,4-2-3-1,1852
+260,1095591,Celta de Vigo vs Deportivo Alavés,570,846,9239.0,4-2-3-1,4-2-3-1,16542
+261,1095599,Deportivo Alavés vs Celta de Vigo,570,846,1747.0,4-2-3-1,4-2-3-1,11710
+262,405128,Atlético Madrid vs Celta de Vigo,564,853,5188.0,4-3-3,4-4-2,1870
+263,405215,Celta de Vigo vs Osasuna,564,853,9239.0,5-3-2,4-3-3,260
+265,405391,Celta de Vigo vs Espanyol,564,853,9239.0,4-4-2,4-3-3,353
+266,405476,FC Barcelona vs Celta de Vigo,564,853,9236.0,4-2-3-1,3-4-3,84
+268,401611,SD Eibar vs Valencia,564,853,9242.0,4-3-3,4-2-3-1,649
+270,403180,SD Eibar vs Sevilla,564,853,9242.0,4-3-1-2,4-4-2,348
+272,403350,SD Eibar vs Real Sociedad,564,853,9242.0,4-3-3,4-4-2,628
+274,403619,SD Eibar vs Osasuna,564,853,9242.0,5-3-2,4-2-3-1,523
+275,403639,Espanyol vs SD Eibar,564,853,9220.0,4-4-2,4-4-2,84
+281,404146,Athletic Club vs SD Eibar,564,853,9162.0,4-2-3-1,4-2-3-1,85
+282,404244,SD Eibar vs Deportivo Alavés,564,853,9242.0,5-3-2,4-2-3-1,1852
+283,404360,Leganés vs SD Eibar,564,853,293.0,4-4-2,4-2-3-1,350
+285,1095956,Osasuna vs SD Eibar,570,846,56.0,4-2-3-1,4-4-2,16542
+286,404606,SD Eibar vs Atlético Madrid,564,853,9242.0,4-1-4-1,4-2-3-1,84
+287,1095967,SD Eibar vs Osasuna,570,846,9242.0,4-5-1,4-2-3-1,18789
+289,1095896,Atlético Madrid vs SD Eibar,570,846,5188.0,4-2-3-1,4-4-2,11710
+290,404860,SD Eibar vs FC Barcelona,564,853,9242.0,4-3-3,4-2-3-1,628
+291,1095906,SD Eibar vs Atlético Madrid,570,846,9242.0,4-4-2,4-2-3-1,18789
+293,404993,Valencia vs SD Eibar,564,853,9240.0,4-2-3-1,4-3-3,331
+295,405187,Sevilla vs SD Eibar,564,853,177.0,4-2-3-1,5-3-2,348
+297,405341,Real Sociedad vs SD Eibar,564,853,133.0,4-1-4-1,4-3-3,32
+299,401524,Sevilla vs Espanyol,564,853,177.0,4-4-2,3-5-2,350
+304,403371,Athletic Club vs Sevilla,564,853,9162.0,4-2-3-1,4-2-3-1,649
+305,403455,Sevilla vs Deportivo Alavés,564,853,177.0,5-4-1,4-1-3-2,53
+306,403540,Leganés vs Sevilla,564,853,293.0,4-1-3-2,4-4-2,237
+307,403688,Sevilla vs Atlético Madrid,564,853,177.0,4-4-2,5-4-1,347
+309,403903,Sevilla vs FC Barcelona,564,853,177.0,4-3-3,4-1-4-1,353
+311,404044,Sevilla vs Valencia,564,853,177.0,3-4-1-2,3-5-1-1,77
+312,1096270,Formentera vs Sevilla,570,846,5985.0,4-2-3-1,4-2-3-1,15712
+316,1096279,Sevilla vs Formentera,570,846,177.0,4-2-3-1,3-5-2,17924
+318,404626,Real Sociedad vs Sevilla,564,853,133.0,3-5-1-1,4-3-3,347
+321,404824,Osasuna vs Sevilla,564,853,56.0,5-3-2,5-3-2,85
+322,404926,Espanyol vs Sevilla,564,853,9220.0,4-1-3-2,4-2-3-1,260
+327,405428,Sevilla vs Athletic Club,564,853,177.0,4-2-3-1,4-3-3,237
+328,405524,Deportivo Alavés vs Sevilla,564,853,1747.0,4-2-3-1,4-2-3-1,1852
+330,401658,Athletic Club vs FC Barcelona,564,853,9162.0,4-3-3,4-2-3-1,53
+331,403104,FC Barcelona vs Deportivo Alavés,564,853,,5-4-1,4-3-3,523
+332,403160,Leganés vs FC Barcelona,564,853,293.0,3-4-3,4-3-3,648
+333,403304,FC Barcelona vs Atlético Madrid,564,853,,4-2-3-1,4-3-3,45
+337,403648,Valencia vs FC Barcelona,564,853,9240.0,4-3-3,4-2-3-1,32
+341,404082,Real Sociedad vs FC Barcelona,564,853,133.0,4-3-3,4-3-3,84
+343,1096376,Hércules vs Barcelona,570,846,4295.0,4-3-3,5-4-1,14666
+345,404206,Osasuna vs FC Barcelona,564,853,56.0,4-3-3,4-4-2,347
+346,404560,FC Barcelona vs Espanyol,564,853,,4-4-2,4-3-3,11710
 347,1096384,Barcelona vs Hércules,570,846,,5-4-1,4-3-3,"[{'id': 2809541, 'fixture_id': 1096384, 'referee_id': 12700, 'type_id': 8}, {'id': 2809544, 'fixture_id': 1096384, 'referee_id': 15310, 'type_id': 9}, {'id': 2809543, 'fixture_id': 1096384, 'referee_id': 15309, 'type_id': 7}]"
-348,1096121,Athletic Club vs Barcelona,570,846,9162.0,4-3-3,4-2-3-1,2809644
+348,1096121,Athletic Club vs Barcelona,570,846,9162.0,4-3-3,4-2-3-1,15307
 350,1096128,Barcelona vs Athletic Club,570,846,,4-4-2,4-3-3,"[{'id': 2809613, 'fixture_id': 1096128, 'referee_id': 20892, 'type_id': 8}, {'id': 3377899, 'fixture_id': 1096128, 'referee_id': 12810, 'type_id': 7}]"
-352,1095916,Real Sociedad vs Barcelona,570,846,133.0,4-3-3,4-3-3,2809663
-354,1095926,Barcelona vs Real Sociedad,570,846,,4-3-3,4-3-3,2809606
-356,1095573,Atlético Madrid vs Barcelona,570,846,5188.0,4-3-3,4-4-2,5015090
-357,404974,FC Barcelona vs Athletic Club,564,853,,4-2-3-1,4-3-3,10092
+352,1095916,Real Sociedad vs Barcelona,570,846,133.0,4-3-3,4-3-3,16542
+354,1095926,Barcelona vs Real Sociedad,570,846,,4-3-3,4-3-3,15712
+356,1095573,Atlético Madrid vs Barcelona,570,846,5188.0,4-3-3,4-4-2,18637
+357,404974,FC Barcelona vs Athletic Club,564,853,,4-2-3-1,4-3-3,350
 358,1095582,Barcelona vs Atlético Madrid,570,846,,4-4-2,4-3-3,"[{'id': 2809619, 'fixture_id': 1095582, 'referee_id': 20892, 'type_id': 8}]"
-359,405071,Deportivo Alavés vs FC Barcelona,564,853,1747.0,4-3-3,4-4-2,10594
-360,405225,FC Barcelona vs Leganés,564,853,9236.0,4-5-1,4-3-3,10722
-361,405302,Atlético Madrid vs FC Barcelona,564,853,5188.0,3-3-1-3,4-4-2,2814177
-364,401554,Atlético Madrid vs Deportivo Alavés,564,853,5188.0,4-2-3-1,4-2-3-1,10710
-368,403332,Valencia vs Deportivo Alavés,564,853,9240.0,4-4-2,4-3-3,10112
-372,403658,Real Sociedad vs Deportivo Alavés,564,853,133.0,4-5-1,4-2-3-1,10587
-374,403848,Osasuna vs Deportivo Alavés,564,853,56.0,4-2-3-1,5-3-2,9232
-375,403958,Deportivo Alavés vs Espanyol,564,853,1747.0,4-1-4-1,4-2-3-1,10799
-378,1096485,Gimnàstic Tarragona vs Deportivo Alavés,570,846,5348.0,4-2-3-1,4-2-3-1,2809478
-382,1096494,Deportivo Alavés vs Gimnàstic Tarragona,570,846,1747.0,4-2-3-1,4-2-3-1,2809504
-384,404636,Athletic Club vs Deportivo Alavés,564,853,9162.0,4-2-3-1,4-2-3-1,2446661
-387,1095608,Alcorcón vs Deportivo Alavés,570,846,412.0,4-2-3-1,4-2-3-1,2809682
-388,404806,Deportivo Alavés vs Leganés,564,853,1747.0,4-2-3-1,4-2-3-1,9949
-389,1095618,Deportivo Alavés vs Alcorcón,570,846,1747.0,4-2-3-1,4-2-3-1,2809687
-390,404888,Deportivo Alavés vs Atlético Madrid,564,853,1747.0,4-4-2,4-2-3-1,9236
-396,405252,Deportivo Alavés vs Valencia,564,853,1747.0,4-2-3-1,4-2-3-1,10805
-400,401602,Osasuna vs Real Sociedad,564,853,56.0,4-2-3-1,5-3-2,10057
-401,401673,Real Sociedad vs Espanyol,564,853,133.0,4-4-2,4-3-3,10711
-406,403590,Athletic Club vs Real Sociedad,564,853,9162.0,4-3-3,4-2-3-1,10085
-408,403725,Leganés vs Real Sociedad,564,853,293.0,4-3-3,4-2-3-1,11172
-409,403837,Real Sociedad vs Atlético Madrid,564,853,133.0,4-4-2,4-3-3,10061
-413,1096398,Real Valladolid vs Real Sociedad,570,846,9323.0,4-3-3,4-2-3-1,5235710
-415,404216,Real Sociedad vs Valencia,564,853,133.0,4-3-3,4-3-3,8524
-417,1096441,Real Sociedad vs Real Valladolid,570,846,133.0,4-1-4-1,4-3-3,2809511
-426,405021,Real Sociedad vs Osasuna,564,853,133.0,5-3-2,4-3-3,10120
-427,405052,Espanyol vs Real Sociedad,564,853,9220.0,4-3-3,4-4-2,8363
-435,403208,Athletic Club vs Valencia,564,853,9162.0,4-3-3,4-2-3-1,8492
-437,403390,Leganés vs Valencia,564,853,293.0,4-2-3-1,4-2-3-1,8355
-438,403484,Valencia vs Atlético Madrid,564,853,9240.0,4-4-2,4-2-3-1,10586
-445,1096156,Leganés vs Valencia,570,846,293.0,3-5-2,4-2-3-1,2809614
-448,1096165,Valencia vs Leganés,570,846,9240.0,5-4-1,4-2-3-1,2809601
-450,404673,Osasuna vs Valencia,564,853,56.0,4-2-3-1,3-4-1-2,10064
-452,404721,Valencia vs Espanyol,564,853,9240.0,4-2-3-1,4-3-3,11104
-457,405205,Valencia vs Athletic Club,564,853,9240.0,4-2-3-1,4-2-3-1,8364
-460,405360,Valencia vs Leganés,564,853,9240.0,4-2-3-1,4-3-3,9523
-461,405495,Atlético Madrid vs Valencia,564,853,5188.0,4-3-3,4-4-2,8529
-463,401628,Leganés vs Atlético Madrid,564,853,293.0,4-4-2,4-2-3-1,11096
-474,404061,Osasuna vs Atlético Madrid,564,853,56.0,4-4-2,4-4-2,8390
-476,1096288,Guijuelo vs Atlético Madrid,570,846,,4-3-3,4-2-3-1,2809552
-477,404127,Atlético Madrid vs Espanyol,564,853,5188.0,4-2-3-1,4-3-3,10116
-480,1096297,Atlético Madrid vs Guijuelo,570,846,5188.0,4-2-3-1,4-4-2,2809559
-486,404833,Athletic Club vs Atlético Madrid,564,853,9162.0,4-4-2,4-2-3-1,10720
-490,404983,Atlético Madrid vs Leganés,564,853,5188.0,5-3-2,4-4-2,11106
-508,403995,Leganés vs Osasuna,564,853,293.0,4-2-3-1,4-2-3-1,10716
-509,404035,Espanyol vs Leganés,564,853,9220.0,4-2-3-1,4-4-2,10039
-516,404683,Leganés vs Athletic Club,564,853,293.0,4-2-3-1,4-2-3-1,10118
-534,403781,Athletic Club vs Osasuna,564,853,9162.0,5-3-2,4-2-3-1,9945
-535,403874,Espanyol vs Athletic Club,564,853,9220.0,4-2-3-1,4-4-2,11542
-538,1096504,Racing Santander vs Athletic Club,570,846,6445.0,4-2-3-1,4-4-2,3379885
-542,1096521,Athletic Club vs Racing Santander,570,846,9162.0,4-4-2,4-2-3-1,2809491
-559,403313,Osasuna vs Espanyol,564,853,56.0,4-2-3-1,4-2-3-1,9513
+359,405071,Deportivo Alavés vs FC Barcelona,564,853,1747.0,4-3-3,4-4-2,476
+360,405225,FC Barcelona vs Leganés,564,853,9236.0,4-5-1,4-3-3,510
+361,405302,Atlético Madrid vs FC Barcelona,564,853,5188.0,3-3-1-3,4-4-2,11710
+364,401554,Atlético Madrid vs Deportivo Alavés,564,853,5188.0,4-2-3-1,4-2-3-1,510
+368,403332,Valencia vs Deportivo Alavés,564,853,9240.0,4-4-2,4-3-3,353
+372,403658,Real Sociedad vs Deportivo Alavés,564,853,133.0,4-5-1,4-2-3-1,476
+374,403848,Osasuna vs Deportivo Alavés,564,853,56.0,4-2-3-1,5-3-2,237
+375,403958,Deportivo Alavés vs Espanyol,564,853,1747.0,4-1-4-1,4-2-3-1,523
+378,1096485,Gimnàstic Tarragona vs Deportivo Alavés,570,846,5348.0,4-2-3-1,4-2-3-1,18789
+382,1096494,Deportivo Alavés vs Gimnàstic Tarragona,570,846,1747.0,4-2-3-1,4-2-3-1,70072
+384,404636,Athletic Club vs Deportivo Alavés,564,853,9162.0,4-2-3-1,4-2-3-1,77
+387,1095608,Alcorcón vs Deportivo Alavés,570,846,412.0,4-2-3-1,4-2-3-1,20562
+388,404806,Deportivo Alavés vs Leganés,564,853,1747.0,4-2-3-1,4-2-3-1,331
+389,1095618,Deportivo Alavés vs Alcorcón,570,846,1747.0,4-2-3-1,4-2-3-1,17924
+390,404888,Deportivo Alavés vs Atlético Madrid,564,853,1747.0,4-4-2,4-2-3-1,237
+396,405252,Deportivo Alavés vs Valencia,564,853,1747.0,4-2-3-1,4-2-3-1,523
+400,401602,Osasuna vs Real Sociedad,564,853,56.0,4-2-3-1,5-3-2,348
+401,401673,Real Sociedad vs Espanyol,564,853,133.0,4-4-2,4-3-3,510
+406,403590,Athletic Club vs Real Sociedad,564,853,9162.0,4-3-3,4-2-3-1,350
+408,403725,Leganés vs Real Sociedad,564,853,293.0,4-3-3,4-2-3-1,649
+409,403837,Real Sociedad vs Atlético Madrid,564,853,133.0,4-4-2,4-3-3,348
+413,1096398,Real Valladolid vs Real Sociedad,570,846,9323.0,4-3-3,4-2-3-1,16998
+415,404216,Real Sociedad vs Valencia,564,853,133.0,4-3-3,4-3-3,85
+417,1096441,Real Sociedad vs Real Valladolid,570,846,133.0,4-1-4-1,4-3-3,15274
+426,405021,Real Sociedad vs Osasuna,564,853,133.0,5-3-2,4-3-3,353
+427,405052,Espanyol vs Real Sociedad,564,853,9220.0,4-3-3,4-4-2,45
+435,403208,Athletic Club vs Valencia,564,853,9162.0,4-3-3,4-2-3-1,84
+437,403390,Leganés vs Valencia,564,853,293.0,4-2-3-1,4-2-3-1,45
+438,403484,Valencia vs Atlético Madrid,564,853,9240.0,4-4-2,4-2-3-1,476
+445,1096156,Leganés vs Valencia,570,846,293.0,3-5-2,4-2-3-1,16542
+448,1096165,Valencia vs Leganés,570,846,9240.0,5-4-1,4-2-3-1,15906
+450,404673,Osasuna vs Valencia,564,853,56.0,4-2-3-1,3-4-1-2,348
+452,404721,Valencia vs Espanyol,564,853,9240.0,4-2-3-1,4-3-3,628
+457,405205,Valencia vs Athletic Club,564,853,9240.0,4-2-3-1,4-2-3-1,45
+460,405360,Valencia vs Leganés,564,853,9240.0,4-2-3-1,4-3-3,260
+461,405495,Atlético Madrid vs Valencia,564,853,5188.0,4-3-3,4-4-2,85
+463,401628,Leganés vs Atlético Madrid,564,853,293.0,4-4-2,4-2-3-1,628
+474,404061,Osasuna vs Atlético Madrid,564,853,56.0,4-4-2,4-4-2,53
+476,1096288,Guijuelo vs Atlético Madrid,570,846,,4-3-3,4-2-3-1,15274
+477,404127,Atlético Madrid vs Espanyol,564,853,5188.0,4-2-3-1,4-3-3,353
+480,1096297,Atlético Madrid vs Guijuelo,570,846,5188.0,4-2-3-1,4-4-2,16862
+486,404833,Athletic Club vs Atlético Madrid,564,853,9162.0,4-4-2,4-2-3-1,510
+490,404983,Atlético Madrid vs Leganés,564,853,5188.0,5-3-2,4-4-2,628
+508,403995,Leganés vs Osasuna,564,853,293.0,4-2-3-1,4-2-3-1,510
+509,404035,Espanyol vs Leganés,564,853,9220.0,4-2-3-1,4-4-2,347
+516,404683,Leganés vs Athletic Club,564,853,293.0,4-2-3-1,4-2-3-1,353
+534,403781,Athletic Club vs Osasuna,564,853,9162.0,5-3-2,4-2-3-1,331
+535,403874,Espanyol vs Athletic Club,564,853,9220.0,4-2-3-1,4-4-2,1852
+538,1096504,Racing Santander vs Athletic Club,570,846,6445.0,4-2-3-1,4-4-2,17340
+542,1096521,Athletic Club vs Racing Santander,570,846,9162.0,4-4-2,4-2-3-1,17316
+559,403313,Osasuna vs Espanyol,564,853,56.0,4-2-3-1,4-2-3-1,260
 568,1096208,Alcorcón vs Espanyol,570,846,412.0,4-2-3-1,4-2-3-1,"[{'id': 2809573, 'fixture_id': 1096208, 'referee_id': 20892, 'type_id': 8}, {'id': 2809574, 'fixture_id': 1096208, 'referee_id': 34375, 'type_id': 9}, {'id': 3379758, 'fixture_id': 1096208, 'referee_id': 12810, 'type_id': 7}]"
-572,1096216,Espanyol vs Alcorcón,570,846,9220.0,4-2-3-1,4-4-2,4685344
-580,405293,Espanyol vs Osasuna,564,853,9220.0,4-4-2,4-4-2,10595
+572,1096216,Espanyol vs Alcorcón,570,846,9220.0,4-2-3-1,4-4-2,18637
+580,405293,Espanyol vs Osasuna,564,853,9220.0,4-4-2,4-4-2,476
