@@ -1,330 +1,330 @@
 ,fixture_id,pitch,weatherDescription,current
-0,18138604,NaN,sky is clear,
-1,18138615,NaN,light rain,
-2,18356638,NaN,light rain,
-3,18138624,NaN,light rain,
+0,18138604,NaN,sky is clear,NaN
+1,18138615,NaN,light rain,NaN
+2,18356638,NaN,light rain,NaN
+3,18138624,NaN,light rain,NaN
 4,18138634,NaN,NaN,NaN
-5,18138644,NaN,moderate rain,
-6,18386433,NaN,overcast clouds,
-7,18138656,NaN,overcast clouds,
-8,18138663,NaN,heavy intensity rain,
-9,18138680,NaN,moderate rain,
-10,18138685,NaN,overcast clouds,
-11,18429260,NaN,overcast clouds,
-12,18138745,NaN,sky is clear,
-13,18138754,NaN,overcast clouds,
-14,18138762,NaN,overcast clouds,
-15,18138774,NaN,light rain,
-16,18140372,NaN,rain and snow,
-17,18138787,NaN,rain and snow,
-18,18138961,NaN,broken clouds,
-19,18138980,NaN,moderate rain,
-20,18138804,NaN,overcast clouds,
-21,18138816,NaN,sky is clear,
+5,18138644,NaN,moderate rain,NaN
+6,18386433,NaN,overcast clouds,NaN
+7,18138656,NaN,overcast clouds,NaN
+8,18138663,NaN,heavy intensity rain,NaN
+9,18138680,NaN,moderate rain,NaN
+10,18138685,NaN,overcast clouds,NaN
+11,18429260,NaN,overcast clouds,NaN
+12,18138745,NaN,sky is clear,NaN
+13,18138754,NaN,overcast clouds,NaN
+14,18138762,NaN,overcast clouds,NaN
+15,18138774,NaN,light rain,NaN
+16,18140372,NaN,rain and snow,NaN
+17,18138787,NaN,rain and snow,NaN
+18,18138961,NaN,broken clouds,NaN
+19,18138980,NaN,moderate rain,NaN
+20,18138804,NaN,overcast clouds,NaN
+21,18138816,NaN,sky is clear,NaN
 22,18452175,NaN,NaN,NaN
-23,18138823,NaN,sky is clear,
-24,18140173,NaN,sky is clear,
-25,18138995,NaN,broken clouds,
+23,18138823,NaN,sky is clear,NaN
+24,18140173,NaN,sky is clear,NaN
+25,18138995,NaN,broken clouds,NaN
 26,18465556,NaN,NaN,NaN
-27,18138841,NaN,snow,
-28,18138972,NaN,moderate rain,
-29,18138844,NaN,moderate rain,
-30,18138854,NaN,sky is clear,
-31,18138610,NaN,sky is clear,
-32,18138618,NaN,overcast clouds,
-33,18138626,NaN,light rain,
-34,18138638,NaN,light rain,
-35,18138646,NaN,sky is clear,
-36,18386426,NaN,overcast clouds,
-37,18138654,NaN,overcast clouds,
-38,18138668,NaN,sky is clear,
-39,18138682,NaN,moderate rain,
-40,18138690,NaN,light rain,
-41,18429263,NaN,heavy intensity rain,
-43,18138761,NaN,few clouds,
-44,18138765,NaN,heavy intensity rain,
-45,18138779,NaN,light rain,
-46,18140369,NaN,scattered clouds,
-47,18138791,NaN,light rain,
-48,18138799,NaN,broken clouds,
-49,18138967,NaN,scattered clouds,
-50,18138975,NaN,overcast clouds,
-51,18444325,NaN,moderate rain,
-52,18138808,NaN,moderate rain,
-53,18138814,NaN,snow,
+27,18138841,NaN,snow,NaN
+28,18138972,NaN,moderate rain,NaN
+29,18138844,NaN,moderate rain,NaN
+30,18138854,NaN,sky is clear,NaN
+31,18138610,NaN,sky is clear,NaN
+32,18138618,NaN,overcast clouds,NaN
+33,18138626,NaN,light rain,NaN
+34,18138638,NaN,light rain,NaN
+35,18138646,NaN,sky is clear,NaN
+36,18386426,NaN,overcast clouds,NaN
+37,18138654,NaN,overcast clouds,NaN
+38,18138668,NaN,sky is clear,NaN
+39,18138682,NaN,moderate rain,NaN
+40,18138690,NaN,light rain,NaN
+41,18429263,NaN,heavy intensity rain,NaN
+43,18138761,NaN,few clouds,NaN
+44,18138765,NaN,heavy intensity rain,NaN
+45,18138779,NaN,light rain,NaN
+46,18140369,NaN,scattered clouds,NaN
+47,18138791,NaN,light rain,NaN
+48,18138799,NaN,broken clouds,NaN
+49,18138967,NaN,scattered clouds,NaN
+50,18138975,NaN,overcast clouds,NaN
+51,18444325,NaN,moderate rain,NaN
+52,18138808,NaN,moderate rain,NaN
+53,18138814,NaN,snow,NaN
 54,18452171,NaN,NaN,NaN
 55,18458439,NaN,NaN,NaN
-56,18138825,NaN,light rain,
+56,18138825,NaN,light rain,NaN
 57,18458438,NaN,NaN,NaN
-58,18138992,NaN,light snow,
+58,18138992,NaN,light snow,NaN
 59,18465557,NaN,NaN,NaN
-60,18140180,NaN,light rain,
-61,18138833,NaN,sky is clear,
+60,18140180,NaN,light rain,NaN
+61,18138833,NaN,sky is clear,NaN
 62,18138847,NaN,NaN,NaN
-63,18138982,NaN,light rain,
+63,18138982,NaN,light rain,NaN
 64,18471702,NaN,NaN,NaN
 65,18138603,NaN,NaN,NaN
-66,18138613,NaN,few clouds,
-67,18356636,NaN,overcast clouds,
-68,18138627,NaN,scattered clouds,
-69,18138633,NaN,scattered clouds,
-70,18138645,NaN,light rain,
-71,18386428,NaN,overcast clouds,
-72,18138653,NaN,scattered clouds,
-74,18138673,NaN,sky is clear,
-75,18138683,NaN,overcast clouds,
-76,18429257,NaN,light rain,
-77,18138744,NaN,light rain,
-78,18138752,NaN,sky is clear,
-80,18138772,NaN,snow,
-81,18140374,NaN,light snow,
-82,18138783,NaN,moderate rain,
-83,18138792,NaN,heavy intensity rain,
-84,18138959,NaN,light rain,
-85,18138971,NaN,overcast clouds,
-86,18444323,NaN,scattered clouds,
-87,18138985,NaN,scattered clouds,
-88,18138812,NaN,rain and snow,
+66,18138613,NaN,few clouds,NaN
+67,18356636,NaN,overcast clouds,NaN
+68,18138627,NaN,scattered clouds,NaN
+69,18138633,NaN,scattered clouds,NaN
+70,18138645,NaN,light rain,NaN
+71,18386428,NaN,overcast clouds,NaN
+72,18138653,NaN,scattered clouds,NaN
+74,18138673,NaN,sky is clear,NaN
+75,18138683,NaN,overcast clouds,NaN
+76,18429257,NaN,light rain,NaN
+77,18138744,NaN,light rain,NaN
+78,18138752,NaN,sky is clear,NaN
+80,18138772,NaN,snow,NaN
+81,18140374,NaN,light snow,NaN
+82,18138783,NaN,moderate rain,NaN
+83,18138792,NaN,heavy intensity rain,NaN
+84,18138959,NaN,light rain,NaN
+85,18138971,NaN,overcast clouds,NaN
+86,18444323,NaN,scattered clouds,NaN
+87,18138985,NaN,scattered clouds,NaN
+88,18138812,NaN,rain and snow,NaN
 89,18452197,NaN,NaN,NaN
-92,18138989,NaN,light snow,
-93,18140177,NaN,sky is clear,
-94,18138842,NaN,snow,
-95,18138802,NaN,light snow,
-96,18138607,NaN,overcast clouds,
-97,18138621,NaN,sky is clear,
-98,18138629,NaN,light rain,
-99,18138639,NaN,overcast clouds,
-101,18386431,NaN,overcast clouds,
-102,18138659,NaN,overcast clouds,
-103,18138666,NaN,moderate rain,
-104,18138677,NaN,broken clouds,
-105,18138684,NaN,broken clouds,
-108,18138758,NaN,broken clouds,
-109,18138764,NaN,broken clouds,
-110,18138778,NaN,light snow,
-111,18140376,NaN,rain and snow,
-112,18138782,NaN,light rain,
-113,18138798,NaN,overcast clouds,
-115,18138983,NaN,moderate rain,
+92,18138989,NaN,light snow,NaN
+93,18140177,NaN,sky is clear,NaN
+94,18138842,NaN,snow,NaN
+95,18138802,NaN,light snow,NaN
+96,18138607,NaN,overcast clouds,NaN
+97,18138621,NaN,sky is clear,NaN
+98,18138629,NaN,light rain,NaN
+99,18138639,NaN,overcast clouds,NaN
+101,18386431,NaN,overcast clouds,NaN
+102,18138659,NaN,overcast clouds,NaN
+103,18138666,NaN,moderate rain,NaN
+104,18138677,NaN,broken clouds,NaN
+105,18138684,NaN,broken clouds,NaN
+108,18138758,NaN,broken clouds,NaN
+109,18138764,NaN,broken clouds,NaN
+110,18138778,NaN,light snow,NaN
+111,18140376,NaN,rain and snow,NaN
+112,18138782,NaN,light rain,NaN
+113,18138798,NaN,overcast clouds,NaN
+115,18138983,NaN,moderate rain,NaN
 117,18452177,NaN,NaN,NaN
-118,18138963,NaN,sky is clear,
+118,18138963,NaN,sky is clear,NaN
 120,18465559,NaN,NaN,NaN
-122,18138836,NaN,moderate rain,
-123,18138851,NaN,moderate rain,
-124,18138824,NaN,light rain,
-125,18138612,NaN,few clouds,
-127,18356646,NaN,sky is clear,
-128,18138630,NaN,light rain,
-129,18138642,NaN,light rain,
-130,18138649,NaN,overcast clouds,
-131,18386423,NaN,broken clouds,
-132,18138662,NaN,light rain,
-133,18138667,NaN,moderate rain,
-135,18138688,NaN,sky is clear,
-136,18138750,NaN,light rain,
-138,18138770,NaN,light rain,
-140,18140371,NaN,light rain,
-141,18138789,NaN,broken clouds,
-142,18138793,NaN,moderate rain,
-143,18138811,NaN,snow,
-144,18138821,NaN,snow,
-146,18138827,NaN,scattered clouds,
-147,18138998,NaN,light snow,
-148,18138962,NaN,few clouds,
-149,18140176,NaN,broken clouds,
-151,18138843,NaN,moderate rain,
-152,18138976,NaN,overcast clouds,
-153,18138859,NaN,overcast clouds,
-155,18138622,NaN,light rain,
-156,18356629,NaN,overcast clouds,
-157,18138632,NaN,sky is clear,
-159,18138652,NaN,light rain,
-160,18386432,NaN,scattered clouds,
-161,18138661,NaN,light rain,
-162,18138672,NaN,moderate rain,
-163,18138674,NaN,broken clouds,
-164,18138689,NaN,broken clouds,
-165,18138751,NaN,light rain,
-166,18138756,NaN,broken clouds,
-167,18138771,NaN,broken clouds,
-168,18138781,NaN,snow,
-169,18140373,NaN,light rain,
-171,18138800,NaN,moderate rain,
-173,18138978,NaN,scattered clouds,
-174,18138819,NaN,light rain,
+122,18138836,NaN,moderate rain,NaN
+123,18138851,NaN,moderate rain,NaN
+124,18138824,NaN,light rain,NaN
+125,18138612,NaN,few clouds,NaN
+127,18356646,NaN,sky is clear,NaN
+128,18138630,NaN,light rain,NaN
+129,18138642,NaN,light rain,NaN
+130,18138649,NaN,overcast clouds,NaN
+131,18386423,NaN,broken clouds,NaN
+132,18138662,NaN,light rain,NaN
+133,18138667,NaN,moderate rain,NaN
+135,18138688,NaN,sky is clear,NaN
+136,18138750,NaN,light rain,NaN
+138,18138770,NaN,light rain,NaN
+140,18140371,NaN,light rain,NaN
+141,18138789,NaN,broken clouds,NaN
+142,18138793,NaN,moderate rain,NaN
+143,18138811,NaN,snow,NaN
+144,18138821,NaN,snow,NaN
+146,18138827,NaN,scattered clouds,NaN
+147,18138998,NaN,light snow,NaN
+148,18138962,NaN,few clouds,NaN
+149,18140176,NaN,broken clouds,NaN
+151,18138843,NaN,moderate rain,NaN
+152,18138976,NaN,overcast clouds,NaN
+153,18138859,NaN,overcast clouds,NaN
+155,18138622,NaN,light rain,NaN
+156,18356629,NaN,overcast clouds,NaN
+157,18138632,NaN,sky is clear,NaN
+159,18138652,NaN,light rain,NaN
+160,18386432,NaN,scattered clouds,NaN
+161,18138661,NaN,light rain,NaN
+162,18138672,NaN,moderate rain,NaN
+163,18138674,NaN,broken clouds,NaN
+164,18138689,NaN,broken clouds,NaN
+165,18138751,NaN,light rain,NaN
+166,18138756,NaN,broken clouds,NaN
+167,18138771,NaN,broken clouds,NaN
+168,18138781,NaN,snow,NaN
+169,18140373,NaN,light rain,NaN
+171,18138800,NaN,moderate rain,NaN
+173,18138978,NaN,scattered clouds,NaN
+174,18138819,NaN,light rain,NaN
 175,18452190,NaN,NaN,NaN
-176,18138831,NaN,scattered clouds,
-177,18138990,NaN,scattered clouds,
+176,18138831,NaN,scattered clouds,NaN
+177,18138990,NaN,scattered clouds,NaN
 178,18465561,NaN,NaN,NaN
-180,18138840,NaN,broken clouds,
-183,18138861,NaN,light snow,
-184,18138608,NaN,light rain,
-185,18138617,NaN,light rain,
-186,18356632,NaN,overcast clouds,
-187,18138625,NaN,moderate rain,
-189,18138648,NaN,sky is clear,
-190,18386421,NaN,broken clouds,
-191,18138658,NaN,light rain,
-193,18138681,NaN,moderate rain,
-196,18138748,NaN,overcast clouds,
-198,18138769,NaN,moderate rain,
-201,18140370,NaN,light rain,
-202,18138784,NaN,light rain,
-203,18138796,NaN,heavy intensity rain,
-204,18138968,NaN,overcast clouds,
-206,18138817,NaN,moderate rain,
+180,18138840,NaN,broken clouds,NaN
+183,18138861,NaN,light snow,NaN
+184,18138608,NaN,light rain,NaN
+185,18138617,NaN,light rain,NaN
+186,18356632,NaN,overcast clouds,NaN
+187,18138625,NaN,moderate rain,NaN
+189,18138648,NaN,sky is clear,NaN
+190,18386421,NaN,broken clouds,NaN
+191,18138658,NaN,light rain,NaN
+193,18138681,NaN,moderate rain,NaN
+196,18138748,NaN,overcast clouds,NaN
+198,18138769,NaN,moderate rain,NaN
+201,18140370,NaN,light rain,NaN
+202,18138784,NaN,light rain,NaN
+203,18138796,NaN,heavy intensity rain,NaN
+204,18138968,NaN,overcast clouds,NaN
+206,18138817,NaN,moderate rain,NaN
 207,18452194,NaN,NaN,NaN
-208,18138830,NaN,light snow,
-209,18138994,NaN,broken clouds,
-210,18140172,NaN,light rain,
-211,18138835,NaN,light rain,
-212,18138846,NaN,heavy intensity rain,
-214,18138858,NaN,scattered clouds,
-215,18138605,NaN,sky is clear,
-216,18138616,NaN,broken clouds,
-218,18138631,NaN,light rain,
-219,18138636,NaN,scattered clouds,
-224,18138687,NaN,overcast clouds,
-225,18138746,NaN,moderate rain,
-227,18138763,NaN,scattered clouds,
-228,18138777,NaN,snow,
-230,18138785,NaN,light rain,
-231,18138797,NaN,sky is clear,
-232,18138965,NaN,light rain,
-233,18138986,NaN,few clouds,
-234,18138805,NaN,snow,
-235,18138815,NaN,rain and snow,
+208,18138830,NaN,light snow,NaN
+209,18138994,NaN,broken clouds,NaN
+210,18140172,NaN,light rain,NaN
+211,18138835,NaN,light rain,NaN
+212,18138846,NaN,heavy intensity rain,NaN
+214,18138858,NaN,scattered clouds,NaN
+215,18138605,NaN,sky is clear,NaN
+216,18138616,NaN,broken clouds,NaN
+218,18138631,NaN,light rain,NaN
+219,18138636,NaN,scattered clouds,NaN
+224,18138687,NaN,overcast clouds,NaN
+225,18138746,NaN,moderate rain,NaN
+227,18138763,NaN,scattered clouds,NaN
+228,18138777,NaN,snow,NaN
+230,18138785,NaN,light rain,NaN
+231,18138797,NaN,sky is clear,NaN
+232,18138965,NaN,light rain,NaN
+233,18138986,NaN,few clouds,NaN
+234,18138805,NaN,snow,NaN
+235,18138815,NaN,rain and snow,NaN
 236,18452183,NaN,NaN,NaN
 239,18465546,NaN,NaN,NaN
-240,18140175,NaN,overcast clouds,
-241,18138832,NaN,light rain,
-242,18138845,NaN,snow,
-244,18138856,NaN,light snow,
+240,18140175,NaN,overcast clouds,NaN
+241,18138832,NaN,light rain,NaN
+242,18138845,NaN,snow,NaN
+244,18138856,NaN,light snow,NaN
 245,18491647,NaN,NaN,NaN
-247,18138620,NaN,sky is clear,
-249,18138640,NaN,light rain,
-250,18138651,NaN,sky is clear,
-251,18386420,NaN,broken clouds,
-252,18138660,NaN,light rain,
-253,18138669,NaN,moderate rain,
-256,18138749,NaN,light rain,
-257,18138759,NaN,moderate rain,
-259,18138776,NaN,snow,
-262,18138801,NaN,heavy intensity rain,
-263,18138984,NaN,overcast clouds,
-264,18138809,NaN,moderate rain,
+247,18138620,NaN,sky is clear,NaN
+249,18138640,NaN,light rain,NaN
+250,18138651,NaN,sky is clear,NaN
+251,18386420,NaN,broken clouds,NaN
+252,18138660,NaN,light rain,NaN
+253,18138669,NaN,moderate rain,NaN
+256,18138749,NaN,light rain,NaN
+257,18138759,NaN,moderate rain,NaN
+259,18138776,NaN,snow,NaN
+262,18138801,NaN,heavy intensity rain,NaN
+263,18138984,NaN,overcast clouds,NaN
+264,18138809,NaN,moderate rain,NaN
 266,18452189,NaN,NaN,NaN
-267,18138822,NaN,scattered clouds,
-268,18138960,NaN,overcast clouds,
-269,18138996,NaN,overcast clouds,
+267,18138822,NaN,scattered clouds,NaN
+268,18138960,NaN,overcast clouds,NaN
+269,18138996,NaN,overcast clouds,NaN
 270,18465555,NaN,NaN,NaN
-271,18140174,NaN,broken clouds,
-272,18138837,NaN,moderate rain,
+271,18140174,NaN,broken clouds,NaN
+272,18138837,NaN,moderate rain,NaN
 278,18356634,NaN,NaN,NaN
-279,18138623,NaN,scattered clouds,
-282,18386422,NaN,sky is clear,
-284,18138671,NaN,moderate rain,
-285,18138675,NaN,light rain,
-287,18429258,NaN,broken clouds,
-288,18138743,NaN,sky is clear,
-289,18138753,NaN,light rain,
-290,18138767,NaN,scattered clouds,
-291,18138773,NaN,scattered clouds,
-292,18140377,NaN,broken clouds,
-295,18444324,NaN,overcast clouds,
-297,18138803,NaN,light rain,
-298,18138813,NaN,moderate rain,
+279,18138623,NaN,scattered clouds,NaN
+282,18386422,NaN,sky is clear,NaN
+284,18138671,NaN,moderate rain,NaN
+285,18138675,NaN,light rain,NaN
+287,18429258,NaN,broken clouds,NaN
+288,18138743,NaN,sky is clear,NaN
+289,18138753,NaN,light rain,NaN
+290,18138767,NaN,scattered clouds,NaN
+291,18138773,NaN,scattered clouds,NaN
+292,18140377,NaN,broken clouds,NaN
+295,18444324,NaN,overcast clouds,NaN
+297,18138803,NaN,light rain,NaN
+298,18138813,NaN,moderate rain,NaN
 299,18452184,NaN,NaN,NaN
-300,18138974,NaN,light snow,
+300,18138974,NaN,light snow,NaN
 304,18465553,NaN,NaN,NaN
-305,18140181,NaN,light rain,
-308,18138853,NaN,scattered clouds,
-309,18138609,NaN,light rain,
-310,18138614,NaN,moderate rain,
-311,18356623,NaN,overcast clouds,
-312,18138628,NaN,scattered clouds,
-317,18138679,NaN,light rain,
-319,18138747,NaN,light rain,
-323,18140375,NaN,light rain,
-324,18138786,NaN,rain and snow,
-327,18138973,NaN,overcast clouds,
+305,18140181,NaN,light rain,NaN
+308,18138853,NaN,scattered clouds,NaN
+309,18138609,NaN,light rain,NaN
+310,18138614,NaN,moderate rain,NaN
+311,18356623,NaN,overcast clouds,NaN
+312,18138628,NaN,scattered clouds,NaN
+317,18138679,NaN,light rain,NaN
+319,18138747,NaN,light rain,NaN
+323,18140375,NaN,light rain,NaN
+324,18138786,NaN,rain and snow,NaN
+327,18138973,NaN,overcast clouds,NaN
 329,18452191,NaN,NaN,NaN
-332,18140178,NaN,overcast clouds,
-333,18138838,NaN,light rain,
-334,18138850,NaN,snow,
-337,18138619,NaN,moderate rain,
-338,18356637,NaN,sky is clear,
-343,18138657,NaN,light rain,
-344,18138664,NaN,moderate rain,
-346,18138686,NaN,overcast clouds,
-349,18138768,NaN,overcast clouds,
-352,18138788,NaN,rain and snow,
-354,18138964,NaN,overcast clouds,
+332,18140178,NaN,overcast clouds,NaN
+333,18138838,NaN,light rain,NaN
+334,18138850,NaN,snow,NaN
+337,18138619,NaN,moderate rain,NaN
+338,18356637,NaN,sky is clear,NaN
+343,18138657,NaN,light rain,NaN
+344,18138664,NaN,moderate rain,NaN
+346,18138686,NaN,overcast clouds,NaN
+349,18138768,NaN,overcast clouds,NaN
+352,18138788,NaN,rain and snow,NaN
+354,18138964,NaN,overcast clouds,NaN
 357,18452196,NaN,NaN,NaN
-358,18138977,NaN,light snow,
-359,18138828,NaN,overcast clouds,
-363,18138839,NaN,light snow,
-365,18138860,NaN,snow,
-366,18138606,NaN,sky is clear,
-368,18356625,NaN,overcast clouds,
-370,18138637,NaN,light rain,
-371,18138643,NaN,light rain,
-372,18386418,NaN,broken clouds,
-375,18138676,NaN,sky is clear,
-378,18138757,NaN,moderate rain,
-379,18138766,NaN,few clouds,
-385,18138966,NaN,light rain,
+358,18138977,NaN,light snow,NaN
+359,18138828,NaN,overcast clouds,NaN
+363,18138839,NaN,light snow,NaN
+365,18138860,NaN,snow,NaN
+366,18138606,NaN,sky is clear,NaN
+368,18356625,NaN,overcast clouds,NaN
+370,18138637,NaN,light rain,NaN
+371,18138643,NaN,light rain,NaN
+372,18386418,NaN,broken clouds,NaN
+375,18138676,NaN,sky is clear,NaN
+378,18138757,NaN,moderate rain,NaN
+379,18138766,NaN,few clouds,NaN
+385,18138966,NaN,light rain,NaN
 387,18452180,NaN,NaN,NaN
-389,18138993,NaN,light rain,
+389,18138993,NaN,light rain,NaN
 393,18138849,NaN,NaN,NaN
-394,18138857,NaN,light rain,
-395,18138611,NaN,broken clouds,
-399,18138647,NaN,scattered clouds,
-400,18386430,NaN,overcast clouds,
-401,18138655,NaN,light rain,
-403,18138678,NaN,overcast clouds,
-405,18429259,NaN,scattered clouds,
-410,18138780,NaN,snow,
-411,18140368,NaN,light rain,
+394,18138857,NaN,light rain,NaN
+395,18138611,NaN,broken clouds,NaN
+399,18138647,NaN,scattered clouds,NaN
+400,18386430,NaN,overcast clouds,NaN
+401,18138655,NaN,light rain,NaN
+403,18138678,NaN,overcast clouds,NaN
+405,18429259,NaN,scattered clouds,NaN
+410,18138780,NaN,snow,NaN
+411,18140368,NaN,light rain,NaN
 419,18452185,NaN,NaN,NaN
-420,18138826,NaN,broken clouds,
-421,18138997,NaN,snow,
+420,18138826,NaN,broken clouds,NaN
+421,18138997,NaN,snow,NaN
 422,18465560,NaN,NaN,NaN
-425,18138848,NaN,rain and snow,
+425,18138848,NaN,rain and snow,NaN
 427,18491648,NaN,NaN,NaN
-431,18138641,NaN,light rain,
-437,18138692,NaN,light rain,
-439,18138742,NaN,heavy intensity rain,
-444,18138790,NaN,overcast clouds,
-445,18138795,NaN,overcast clouds,
-447,18444322,NaN,light snow,
-448,18138987,NaN,few clouds,
+431,18138641,NaN,light rain,NaN
+437,18138692,NaN,light rain,NaN
+439,18138742,NaN,heavy intensity rain,NaN
+444,18138790,NaN,overcast clouds,NaN
+445,18138795,NaN,overcast clouds,NaN
+447,18444322,NaN,light snow,NaN
+448,18138987,NaN,few clouds,NaN
 455,18465554,NaN,NaN,NaN
 462,18356644,NaN,NaN,NaN
-466,18386429,NaN,overcast clouds,
-468,18138665,NaN,overcast clouds,
-470,18138691,NaN,light rain,
-471,18429256,NaN,light rain,
-473,18138760,NaN,overcast clouds,
-481,18138810,NaN,light snow,
+466,18386429,NaN,overcast clouds,NaN
+468,18138665,NaN,overcast clouds,NaN
+470,18138691,NaN,light rain,NaN
+471,18429256,NaN,light rain,NaN
+473,18138760,NaN,overcast clouds,NaN
+481,18138810,NaN,light snow,NaN
 482,18452169,NaN,NaN,NaN
 486,18465551,NaN,NaN,NaN
-487,18140179,NaN,overcast clouds,
-494,18138635,NaN,scattered clouds,
-495,18138650,NaN,sky is clear,
-496,18386424,NaN,overcast clouds,
-503,18138755,NaN,broken clouds,
-512,18138979,NaN,moderate rain,
+487,18140179,NaN,overcast clouds,NaN
+494,18138635,NaN,scattered clouds,NaN
+495,18138650,NaN,sky is clear,NaN
+496,18386424,NaN,overcast clouds,NaN
+503,18138755,NaN,broken clouds,NaN
+512,18138979,NaN,moderate rain,NaN
 515,18458440,NaN,NaN,NaN
 516,18452170,NaN,NaN,NaN
 517,18458441,NaN,NaN,NaN
-520,18138991,NaN,light snow,
+520,18138991,NaN,light snow,NaN
 521,18465552,NaN,NaN,NaN
 526,18356633,NaN,NaN,NaN
-532,18138670,NaN,moderate rain,
-562,18429261,NaN,heavy intensity rain,
+532,18138670,NaN,moderate rain,NaN
+562,18429261,NaN,heavy intensity rain,NaN
 575,18452182,NaN,NaN,NaN
-583,18138775,NaN,light rain,
+583,18138775,NaN,light rain,NaN
 585,18491651,NaN,NaN,NaN
-592,18386427,NaN,overcast clouds,
+592,18386427,NaN,overcast clouds,NaN
 606,18452174,NaN,NaN,NaN
