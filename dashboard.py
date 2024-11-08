@@ -38,10 +38,11 @@ fig.update_layout(
 
 
 print("Figure created")
+
+#APP
 app = Dash(__name__)
 app.layout = html.Div([
-    dcc.Graph(figure=fig)
 ])
 
-    if __name__ == '__main__':
-        app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
