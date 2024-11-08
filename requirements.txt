@@ -1,5 +1,7 @@
-requests 
+requests #api calls
 numpy 
 pandas 
 pygame 
 datetime
+plotly #dashboard
+dash #dashboard
