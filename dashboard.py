@@ -94,7 +94,11 @@ for file in os.listdir(path):
     y = y + [i for i in event_file['Unnamed: 0']]
     league_names.append(file.split('.')[0])
     print(event_file)
-cut_interval = [1500, 6500]
+  
+
+#SCALE BREAK GRAPH
+cut_interval = [1500, 6500] #where the y-axis splits
+#inspo from StachOverflow: https://stackoverflow.com/questions/65766960/plotly-python-how-to-make-a-gapped-y-axis/65766964#65766964
 
 data=[
     go.Bar(name='VAR', x=league_names, y=[966, 837, 1184,686], marker_color='blue', showlegend=False),
@@ -109,6 +113,7 @@ fig_var_barplot = make_subplots(
     vertical_spacing=0.05,
     shared_xaxes=True,
 )
+# Add traces to the first subplot (upper part) 
 for trace in data:
     fig_var_barplot.add_trace(trace, row=1, col=1)
 
@@ -116,7 +121,7 @@ for trace in data:
 fig_var_barplot.update_yaxes(range=[cut_interval[1], max(max(trace.y for trace in data)) * 1.1], row=1, col=1)
 fig_var_barplot.update_xaxes(visible=False, row=1, col=1)
 
-# Add data to the second subplot (lower part) with low range
+# Add data to the second subplot (lower part)
 for trace in data:
     fig_var_barplot.add_trace(trace, row=2, col=1)
 
@@ -124,92 +129,44 @@ for trace in data:
 fig_var_barplot.update_yaxes(range=[0, cut_interval[0]], row=2, col=1)
 fig_var_barplot.update_layout(clickmode='event+select')
 
-# data
-df = pd.DataFrame({'years': [1995, 1996, 1997, 1998, 1999, 2000,
-                             2001, 2002, 2003, 2004, 2005, 2006,
-                             2007, 2008, 2009, 2010, 2011, 2012],
-                  'China': [219, 146, 112, 127, 124, 180, 236,
-                            207, 236, 263,350, 430, 474, 1526,
-                            488, 537, 500, 439],
-                  'Rest of world': [16, 13, 10, 11, 28, 37,
-                                        43, 55, 56, 88, 105, 156, 270,
-                                        299, 340, 403, 549, 1499]})
-df.set_index('years', inplace = True)
 
-# colors and cut-offs
-colors = px.colors.qualitative.Plotly
-cut_interval = [600, 1400]
-
-# subplot setup
-fig2 = make_subplots(rows=2, cols=1, vertical_spacing = 0.04)
-fig2.update_layout(title = "USA plastic scrap exports (...with some made-up values)")
-
-# Traces for [2, 1]
-# marker_color=colors[i] ensures that categories follow the same color cycle
-for i, col in enumerate(df.columns):
-    fig2.add_trace(go.Bar(x=df.index,
-                    y=df[col],
-                    name=col,
-                    marker_color=colors[i],
-                    legendgroup = col,
-                    ), row=2, col=1)
-
-# Traces for [1, 1]
-# Notice that showlegend = False.
-# Since legendgroup = col the interactivity is
-# taken care of in the previous for-loop.
-for i, col in enumerate(df.columns):
-    fig2.add_trace(go.Bar(x=df.index,
-                    y=df[col],
-                    name=col,
-                    marker_color=colors[i],
-                    legendgroup = col,
-                    showlegend = False,
-                    ), row=1, col=1)
-
-# Some aesthetical adjustments to layout
-fig2.update_yaxes(range=[cut_interval[1], max(df.max()*1.1)], row=1, col=1)
-fig2.update_xaxes(visible=False, row=1, col=1)
-fig2.update_yaxes(range=[0, cut_interval[0]], row=2, col=1)
-fig2.update_layout(clickmode='event+select')
-
-#APP
+#________________________________________________DASH APP__________________________________________________________
 app = Dash(__name__)
 app.layout = html.Div([
-    dcc.Graph(figure=fig, id='league_events', clickData=None), 
-    html.H2('All leagues',id='league_title'),
-    dcc.Store(id='last_click_store', data=None),
+    dcc.Graph(figure=fig, id='league_events', clickData=None), #Sum of var events for each league
+    html.H2('All leagues',id='league_title'), #title that changes based on click
+    dcc.Store(id='last_click_store', data=None), #saving last click for callback
     html.H1("Timeline of VAR Introduction"),
-    dcc.Graph(figure=fig_timeline, id = 'fig_timeline', clickData=None),
+    dcc.Graph(figure=fig_timeline, id = 'fig_timeline', clickData=None), #timeline
     html.H2('Var usage in different leagues (with full scale break)'),
-    dcc.Graph(figure=fig2)
+    dcc.Graph(figure=fig_var_barplot) #scale break for event types; yellow card outlier
 ])
-
+#________________________________________________CALLBACKS__________________________________________________________
+#callback for barchart over sum og var usage 
 @callback(
-    Output('league_title', 'children'),
-    Output('last_click_store', 'data'),
-    Input('league_events', 'clickData'),
-    State('last_click_store', 'data'))
+    Output('league_title', 'children'), #updating title with id league_title
+    Output('last_click_store', 'data'), #updating last click
+    Input('league_events', 'clickData'), #clicked bar as input
+    State('last_click_store', 'data')) #the saved value from last click
 def display_relayout_data(clickData, last_click):
-      print(f"ClickData: {clickData}")
-      print(f"Last Click: {last_click}")
-      if (clickData == None):
+      if (clickData == None): #if none are clicked returns none
         return ' All leagues', None
-      elif (clickData['points'][0]['x'] == last_click):
-        return ' All leagues', None
-      else: 
-         return 'Clicked' + ' ' + clickData['points'][0]['x'], clickData['points'][0]['x']
+      elif (clickData['points'][0]['x'] == last_click): #checks if the same bar is clicked twise (problem! Plotply doesnt log multiple clicks on the same bar)
+        return ' All leagues', None 
+      else: #returned the propert x (league name) from the stored click data
+         return 'Clicked' + ' ' + clickData['points'][0]['x'], clickData['points'][0]['x'] 
 
+#Test callback; has issues 
+#Adding function to Timeline for when the barchart over sum of var usage is clicked
 @callback(
     Output('fig_timeline', 'clickData'),
-    Input('league_events', 'clickData'))
+    Input('league_events', 'clickData')) 
 def update_timeline(clickData):
-      if (clickData == None):
+      if (clickData == None): #if none are clicked, makes no change
         return None
       else:
-        index = clickData['points'][0]['curveNumber']
-        print(leagues[index])
-      
+        index = clickData['points'][0]['curveNumber'] #takes the index of the point to be highlighted which should match the bar of the VAR graph
+      #missing highlight function; Plotly doesnt allow to add click data; the fig must be loaded again.
 
 if __name__ == '__main__':
     app.run(debug=True, port=8030)
