@@ -1,5 +1,5 @@
-typeId,count
-10,686
-19,6902
-20,104
-21,132
+,count,id,name
+0,686,10,VAR
+1,6902,19,Yellowcard
+2,104,20,Redcard
+3,132,21,Yellow/Red card
