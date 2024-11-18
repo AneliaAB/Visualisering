@@ -5,7 +5,7 @@ import plotly.express as px
 from plotly.subplots import make_subplots
 import os
 
-#RADAR CHART DATA
+#_________________________________________LOAD DATA________________________________________________________________
 league8 = pd.read_csv('data/analyse/countPerLeague/league8.csv') 
 league82 = pd.read_csv('data/analyse/countPerLeague/league82.csv')
 league384 = pd.read_csv('data/analyse/countPerLeague/league384.csv')
@@ -35,13 +35,10 @@ leagues = ["serie A", "bundesliga", "la Liga", "premier League", "champions Leag
 years = [2017, 2017, 2018, 2019, 2019]
 y_positions = [0.40, 0.5, 0.5, 0.5, 0.4]  # Adjusted y positions for alternating labels
 
-
-print("Figure created")
-
 #import full VAR file for barchart and timeline (missing)
 all_leagues = pd.read_csv('VAR_all.csv')
 
-# timeline
+#TIMELINE
 fig_timeline=go.Figure(
             data = [
                 go.Scatter(
@@ -80,7 +77,7 @@ fig = px.histogram(all_leagues,
 
 fig.update_layout(clickmode='event+select')
 
-#var
+#VAR graph load data
 path = 'data/analyse/countPerLeague'
 size=[]
 y=[]
